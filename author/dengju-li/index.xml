@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dengju Li | PlatCOVID</title>
+    <link>/author/dengju-li/</link>
+      <atom:link href="/author/dengju-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dengju Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Dengju Li</title>
+      <link>/author/dengju-li/</link>
+    </image>
+    
+    <item>
+      <title>Difference of coagulation features between severe pneumonia induced by SARS-CoV2 and non-SARS-CoV2.</title>
+      <link>/publication/32246317/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32246317/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anticoagulant treatment is associated with decreased mortality in severe coronavirus disease 2019 patients with coagulopathy.</title>
+      <link>/publication/32220112/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32220112/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

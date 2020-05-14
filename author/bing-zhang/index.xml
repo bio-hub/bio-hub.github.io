@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bing Zhang | PlatCOVID</title>
+    <link>/author/bing-zhang/</link>
+      <atom:link href="/author/bing-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bing Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Bing Zhang</title>
+      <link>/author/bing-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Progress and prospect on imaging diagnosis of COVID-19.</title>
+      <link>/publication/32292880/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32292880/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Strategy of pharmaceutical care services for clinical Chinese pharmacists in coronavirus disease 2019 (COVID-19)].</title>
+      <link>/publication/32281334/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32281334/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Study on medication regularity of traditional Chinese medicine in treatment of COVID-19 based on data mining].</title>
+      <link>/publication/32281332/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32281332/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of M&lt;sup&gt;pro&lt;/sup&gt; from COVID-19 virus and discovery of its inhibitors.</title>
+      <link>/publication/32272481/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32272481/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

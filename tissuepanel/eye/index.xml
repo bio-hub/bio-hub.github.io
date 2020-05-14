@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>none | PlatCOVID</title>
+    <link>/tissuepanel/eye/</link>
+      <atom:link href="/tissuepanel/eye/index.xml" rel="self" type="application/rss+xml" />
+    <description>none</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>none</title>
+      <link>/tissuepanel/eye/</link>
+    </image>
+    
+    <item>
+      <title>eye</title>
+      <link>/tissuepanel/eye/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/tissuepanel/eye/info/</guid>
+      <description> 
+
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;tissue-sentence-context&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tissue Sentence Context&lt;/h3&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;eye&lt;/em&gt; tissue in 14 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Senteces
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32124000
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Second, for environmental control, to reduce droplet transmission of COVID-19, installation of protective shields on slit lamps, frequent disinfection of equipment, and provision of eye protection to staff were implemented.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32127517
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The person-to-person transmission routes of 2019-nCoV included direct transmission, such as cough, sneeze, droplet inhalation transmission, and contact transmission, such as the contact with oral, nasal, and eye mucous membranes. 2019-nCoV can also be transmitted through the saliva, and the fetal-oral routes may also be a potential person-to-person transmission route.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32170800
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This is a consensus of Chinese experts on protective measures and advice on hand-cleaning- and medical-glove-related hand protection, mask- and goggles-related face protection, UV-related protection, eye protection, nasal and oral mucosa protection, outer ear, and hair protection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32222713
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+He was placed in droplet-eye precautions while awaiting COVID-19 test results.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32223068
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, in late February 2020, 2 patients presented simultaneously to our eye casualty with sudden onset of unilateral painful red eye associated with a decline in visual acuity, their intraocular pressure (IOP) were over 40 mmHg and slit-lamp examination findings were suggestive of acute primary angle closure (APAC).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32224550
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The threat of Coronavirus Disease 2019 (COVID-19) to health systems in sub-Saharan Africa (SSA) can be compared metaphorically to a lake in Africa infested with a bask of crocodiles and the saying: “the eye of the crocodile.” In the lake, only the eyes of the crocodile appear on the surface while the rest of the body is submerged in water. […] In this Viewpoint, the eyes and the body of the crocodile represent the public health preparedness and health systems, respectively, in SSA.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32264666
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Therefore, we aimed to have a contributor role for explaining this conundrum and present a bird’s eye view regarding this equivocal issue in this review.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32270477
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The following personal protective equipment should be used: sterile fluid-repellant surgical gloves, an underlying pair of gloves, eye protection, FFP3 mask, surgical cap, and gown.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32270581
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For any care or intervention in the upper aerodigestive tract region, irrespective of the setting and a confirmed diagnosis (eg, rhinoscopy or flexible laryngoscopy in the outpatient setting and tracheostomy or rigid endoscopy under anesthesia), it is strongly recommended that all health care personnel wear personal protective equipment such as N95, gown, cap, eye protection, and gloves.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32273245
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As information concerning the COVID-19 disease continues to evolve, patients look to their eye care practitioners for accurate eye health guidance. […] During the pandemic there will potentially be significant changes in access to local eyecare. […] Patients should also avoid touching their face, including their eyes, nose and mouth, with unwashed hands and avoid CL wear altogether if unwell (particularly with any cold or flu-like symptoms).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32275082
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The conjunctival mucosa is directly exposed to infectious droplets expelled by patients during close contact and fomites when the eye is touched by contaminated hands.&lt;sup&gt;2, 3&lt;/sup&gt; More over, the mucosa of the conjunctiva and upper respiratory tract is connected by nasolacrimal duct, and share the same entry receptor of SARS-CoV-2, angiotensin-converting enzyme 2 (ACE2), on host cell membranes.&lt;sup&gt;2, 3&lt;/sup&gt; Hence, it is reasonable to postulate that the conjunctiva may be easily involved in SARS-CoV-2 infection, and may even act as a route of transmission during SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32275742
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Complete postmortem examinations were performed according to standard procedures in a negative-pressure autopsy suite/isolation room using personal protective equipment, including N95 masks, eye protection, and gowns.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32284146
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient’s primary symptom was a red eye with watery discharge, though she did have mild respiratory symptoms, without fever. […] A conjunctival swab of the affected eye was positive for the SAR-CoV-2 virus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32286916
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Necessary otologic procedures on positive, suspected, or unknown COVID-19 status patients should be performed using enhanced personal protective equipment, including an N95 respirator and eye protection or powered air-purifying respirator (PAPR, preferred), disposable cap, disposable gown, and gloves. […] Powered instrumentation should be avoided unless absolutely necessary, and if performed, PAPR or sealed eye protection is recommended.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

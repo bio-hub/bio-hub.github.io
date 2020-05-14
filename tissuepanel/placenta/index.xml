@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>none | PlatCOVID</title>
+    <link>/tissuepanel/placenta/</link>
+      <atom:link href="/tissuepanel/placenta/index.xml" rel="self" type="application/rss+xml" />
+    <description>none</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>none</title>
+      <link>/tissuepanel/placenta/</link>
+    </image>
+    
+    <item>
+      <title>placenta</title>
+      <link>/tissuepanel/placenta/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/tissuepanel/placenta/info/</guid>
+      <description> 
+
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;tissue-sentence-context&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tissue Sentence Context&lt;/h3&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;placenta&lt;/em&gt; tissue in 1 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Senteces
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32114744
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; To investigate the clinical characteristics and placental pathology of 2019-nCoV infection in pregnancy, and to evaluate intrauterine vertical transmission potential of 2019-nCoV infection. &lt;b&gt;Methods:&lt;/b&gt; The placentas delivered from pregnant women with confirmed 2019-nCoV infection which were received in the Department of Pathology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology collected by February 4th, 2020 and retrospectively studied. […] Their clinical material including placental tissue and lung CT, and laboratory results were collected, meanwhile, nucleic acid detection of 2019-nCoV of the placentas were performed by RT-PCR. &lt;b&gt;Results:&lt;/b&gt; Three placentas delivered from pregnant women with confirmed 2019-nCoV infection, who were all in their third trimester with emergency caesarean section. […] There were various degrees of fibrin deposition inside and around the villi with local syncytial nodule increases in all three placentas. […] One case of placenta showed the concomitant morphology of chorionic hemangioma and another one with massive placental infarction. […] All samples from three placentas were negative for the nucleic acid of 2019-nCoV. &lt;b&gt;Conclusions:&lt;/b&gt; The clinical characteristics of pregnant women with 2019-nCoV infection in late pregnancy are similar to those of non-pregnant patients, and no severe adverse pregnancy outcome is found in the 3 cases of our observation. […] Pathological study suggests that there are no morphological changes related to infection in the three placentas.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

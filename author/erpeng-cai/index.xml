@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erpeng Cai | PlatCOVID</title>
+    <link>/author/erpeng-cai/</link>
+      <atom:link href="/author/erpeng-cai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Erpeng Cai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Erpeng Cai</title>
+      <link>/author/erpeng-cai/</link>
+    </image>
+    
+    <item>
+      <title>Timely Diagnosis and Treatment Shortens the Time to Resolution of Coronavirus Disease (COVID-19) Pneumonia and Lowers the Highest and Last CT Scores From Sequential Chest CT.</title>
+      <link>/publication/32223665/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32223665/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/urea/</link>
+      <atom:link href="/drugpanel/urea/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/urea/</link>
+    </image>
+    
+    <item>
+      <title>UREA</title>
+      <link>/drugpanel/urea/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/urea/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db03904&#39; target=&#39;_blank&#39;&gt;db03904&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=urea&#34; target=&#34;_blank&#34;&gt;urea&lt;/a&gt; &lt;br&gt;
+Synonymous :carbamide | carbonyldiamide | harnstoff | karbamid | urea | urée
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;urea&lt;/em&gt; gene in 11 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32229732
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Twelve (10.8%) patients showed mild increase of blood urea nitrogen or creatinine (&amp;lt;26 μmol/L within 48 h), and 8 (7.2%) patients showed trace or 1+ albuminuria in 111 COVID-19-confirmed patients without chronic kidney disease (CKD).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32237148
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There were 38.5% of control patients had higher procalcitonin (PCT) levels than 0.5ng/ml, which was significantly higher than that percentage of COVID-19 patients (X&lt;sup&gt;2&lt;/sup&gt; =22.636, P &amp;lt;0.05), and COVID-19 patients were also more likely to have decreased or normal urea and creatinine levels than control patients (X&lt;sup&gt;2&lt;/sup&gt; =24.930, 8.480, P &amp;lt;0.05). […] Younger age, exposure to Wuhan, fever, cough, and slight changes in routine blood work-up parameters, urea and creatinine were important features discriminating COVID-19 from control patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32247631
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The prevalence of elevated serum creatinine, elevated blood urea nitrogen and estimated glomerular filtration under 60 ml/min/1.73m&lt;sup&gt;2&lt;/sup&gt; were 14.4, 13.1 and 13.1%, respectively. […] Cox proportional hazard regression confirmed that elevated baseline serum creatinine (hazard ratio: 2.10, 95% confidence interval: 1.36-3.26), elevated baseline blood urea nitrogen (3.97, 2.57-6.14), AKI stage 1 (1.90, 0.76-4.76), stage 2 (3.51, 1.49-8.26), stage 3 (4.38, 2.31-8.31), proteinuria 1+ (1.80, 0.81-4.00), 2+∼3+ (4.84, 2.00-11.70), and hematuria 1+ (2.99, 1.39-6.42), 2+∼3+ (5.56,2.58- 12.01) were independent risk factors for in-hospital death after adjusting for age, sex, disease severity, comorbidity and leukocyte count.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32249089
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most common symptoms on admission to hospital were fever (five patients, 100%), cough (five patients, 100%), myalgia or fatigue (three patients, 60%), and sputum production (three patients, 60%); serum creatinine or urea nitrogen levels were slightly higher than those before symptom onset.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32259132
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with positive RT-PCR had significantly higher neutrophil (NEU) count (p = 0.0001), and C-reactive protein (CRP) (p = 0.04), lactate dehydrogenase (LDH) (p = 0.0001), aspartate aminotransferase (AST) (p = 0.001), alanine aminotransferase (ALT) (p = 0.0001), and Urea (p = 0.001) levels in serum. […] ALT (AUC = 0.879), CRP (AUC = 0.870), NEU (AUC = 0.858), LDH (AUC = 0.835), and Urea (AUC = 0.835) had very good accuracy in predicting cases with positive RT-PCR for COVID-19, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32275643
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The parameters including homocysteine, urea, creatinine and serum cystatin C were significantly higher in imaging progression patients (all p &amp;lt; 0.05), while eGFR decreased (p &amp;lt; 0.001).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32277023
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The interference factors causing false-positive reactivity in the two methods were analyzed, and the urea dissociation test was employed to dissociate the SARS-CoV-2 IgM-positive serum using the best dissociation concentration.&lt;b&gt;Results:&lt;/b&gt; Two methods detected positive SARS-CoV-2 IgM in 22 middle-high level RF-IgM-positive sera and 14 sera from COVID-19 patients; the other 50 sera were negative. […] When urea dissociation concentration was 6 mol/L, SARS-CoV-2 IgM were positive in 1 middle-high level RF-IgM-positive sera and in 14 COVID-19 patient sera detected using GICA. […] When urea dissociation concentration was 4 mol/L and the avidity index (AI) lower than 0.371 was set to negative, SARS-CoV-2 IgM were positive in 3 middle-high level RF-IgM-positive sera and in 14 COVID-19 patient sera detected using ELISA.&lt;b&gt;Conclusion:&lt;/b&gt; Middle-high level of RF-IgM could lead to false-positive reactivity of SARS-CoV-2 IgM detected using GICA and ELISA, and urea dissociation tests would be helpful in reducing false-positive results of SARS-CoV-2 IgM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

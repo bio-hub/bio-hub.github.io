@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincent Kwok-Man Poon | PlatCOVID</title>
+    <link>/author/vincent-kwok-man-poon/</link>
+      <atom:link href="/author/vincent-kwok-man-poon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vincent Kwok-Man Poon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Vincent Kwok-Man Poon</title>
+      <link>/author/vincent-kwok-man-poon/</link>
+    </image>
+    
+    <item>
+      <title>Simulation of the clinical and pathological manifestations of Coronavirus Disease 2019 (COVID-19) in golden Syrian hamster model: implications for disease pathogenesis and transmissibility.</title>
+      <link>/publication/32215622/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32215622/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster.</title>
+      <link>/publication/31986261/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/31986261/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

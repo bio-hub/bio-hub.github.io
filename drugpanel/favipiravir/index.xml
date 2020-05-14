@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/favipiravir/</link>
+      <atom:link href="/drugpanel/favipiravir/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/favipiravir/</link>
+    </image>
+    
+    <item>
+      <title>FAVIPIRAVIR</title>
+      <link>/drugpanel/favipiravir/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/favipiravir/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db12466&#39; target=&#39;_blank&#39;&gt;db12466&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=favipiravir&#34; target=&#34;_blank&#34;&gt;favipiravir&lt;/a&gt; &lt;br&gt;
+Synonymous :fapilavir | favilavir | favipiravir
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;favipiravir&lt;/em&gt; gene in 9 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32147628
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several drugs such as chloroquine, arbidol, remdesivir, and favipiravir are currently undergoing clinical studies to test their efficacy and safety in the treatment of coronavirus disease 2019 (COVID-19) in China; some promising results have been achieved thus far.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32243270
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This review summarizes the current evidence of potential therapeutic agents, such as lopinavir/ritonavir, remdesivir, favipiravir, chloroquine, hydroxychloroquine, interferon, ribavirin, tocilizumab and sarilumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32246834
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Favipiravir, a purine nucleic acid analog and potent RdRp inhibitor approved for use in influenza, is also considered in several clinical trials. […] Herein, we summarized the pharmacokinetic characteristics of favipiravir and possible drug-drug interactions from the view of drug metabolism. […] We hope this will be helpful for the design of clinical trials for favipiravir in COVID-2019, as data regarding in vitro virus inhibition and efficacy in preclinical animal studies are still not available.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32251767
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ribavirin or favipiravir that are currently evaluated under clinical trials showed no inhibition at 100 μM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32256547
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We identified 24 clinical trials, involving more than 20 medicines, such as human immunoglobulin, interferons, chloroquine, hydroxychloroquine, arbidol, remdesivir, favipiravir, lopinavir, ritonavir, oseltamivir, methylprednisolone, bevacizumab, and traditional Chinese medicines (TCM). […] Se identificaron 24 ensayos clínicos relacionados con más de 20 medicamentos, como inmunoglobulina humana, interferones, cloroquina, hidroxicloroquina, arbidol, remdesivir, favipiravir, lopinavir, ritonavir, oseltamivir, metilprednisolona, bevacizumab y medicina tradicional china. […] Foram identificados 24 ensaios clínicos envolvendo mais de 20 medicamentos, tais como imunoglobulina humana, interferons, cloroquina, hidroxicloroquina, arbidol, remdesivir, favipiravir, lopinavir, ritonavir, oseltamivir, metilprednisolona, bevacizumabe e medicamentos chineses tradicionais.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32277367
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Antiviral drugs like lopinavir/ritonavir, favipiravir and remdesivir are also being explored.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32284326
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this regard, the triphosphate forms of 2’-C-methylated compounds, including sofosbuvir, approved for the management of hepatitis C virus infection, and the broad-acting antivirals favipiravir and ribavirin, exhibited significant deficits.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32290293
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The initial clinical studies revealed the promising therapeutic potential of several of such drugs, including &lt;i&gt;favipiravir&lt;/i&gt;, a broad-spectrum antiviral drug that interferes with the viral replication, and &lt;i&gt;hydroxychloroquine&lt;/i&gt;, the repurposed antimalarial drug that interferes with the virus endosomal entry pathway.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32293834
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most frequently used agents both in Turkey and all over the world including chloroquine, hydroxychloroquine, lopinavir/ritonavir, favipiravir and remdesivir will be reviewed here .
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

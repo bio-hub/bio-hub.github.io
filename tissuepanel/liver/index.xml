@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>none | PlatCOVID</title>
+    <link>/tissuepanel/liver/</link>
+      <atom:link href="/tissuepanel/liver/index.xml" rel="self" type="application/rss+xml" />
+    <description>none</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>none</title>
+      <link>/tissuepanel/liver/</link>
+    </image>
+    
+    <item>
+      <title>liver</title>
+      <link>/tissuepanel/liver/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/tissuepanel/liver/info/</guid>
+      <description> 
+
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;tissue-sentence-context&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tissue Sentence Context&lt;/h3&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;liver&lt;/em&gt; tissue in 53 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Senteces
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32062957
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Routine blood test revealed WBC &amp;lt;4.0×10(9)/L in 8 petients (26.67%) , (4-10) ×10(9)/L in 22 petients (73.33%) , and WBC&amp;gt;4.0×10(9)/L in 4 petients (13.33%) during the disease.Lymphocyte count &amp;lt;1.0×10(9)/L occurred in 12 petients (40%),abnormal liver function in 7 petients (23.33%) ,myocardial damage in 5 petients(16.67%), elevated D-dimer (&amp;gt;0.5mg/l) in 5 patients (16.67%). […] Compared with normal patients, the average exposure times, cumulative exposure time, BMI, Fever time, white blood cell count, liver enzyme, LDH, myoenzyme and D-dimer were significantly increased in severe patients, while the lymphocyte count and albumin levels in peripheral blood were significantly decreased.Chest CT mainly showed patchy shadows and interstitial changes.According to imaging examination, 11 patients (36.67%) showed Unilateral pneumonia and 19 patients (63.33%) showed bilateral pneumonia,4 patients (13.33%) showed bilateral multiple mottling and ground-glass opacity.Compared with the patients infected in the protected period, the proportion of severe infection and bilateral pneumonia were both increased in the patients infected in unprotected period. &lt;b&gt;Conclusion:&lt;/b&gt; Medical staffs are at higher risk of infection.Infection rates are associated with contact time, the amount of suction virus. […] Severe patients had BMI increased, heating time prolonged , white blood cell count, lymphocyte count, D-dimer and albumin level significantly changed and were prone to be complicated with liver damage and myocardial damage.Strict protection measures is important to prevent infection for medical workers. &lt;b&gt;目的：&lt;/b&gt; 探讨医务人员新型冠状病毒肺炎（简称新冠肺炎）的临床特征。
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32075364
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Some patients accompany with liver function damage in addition to the main typical respiratory symptom. […] Here we analyzed the clinical features, susceptible population, potential causes and therapeutic strategies of NCP related liver injury.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32077659
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; To explore and analyze the possible mechanism of liver injury in patients with coronavirus disease 2019 (novel coronavirus pneumonia, NCP). &lt;b&gt;Methods:&lt;/b&gt; The correlation between ALT, AST and other liver enzyme changes condition and NCP patients’ disease status reported in the literature was comprehensively analyzed. […] ACE2 expression in liver tissue for novel coronavirus was analyzed based on single cell sequencing (GSE115469) data. […] RNA-Seq method was used to analyze Ace2 expression and transcription factors related to its expression in liver tissues at various time-points after hepatectomy in mouse model of acute liver injury with partial hepatectomy. &lt;i&gt;t&lt;/i&gt;-test or Spearman rank correlation analysis was used for statistical analysis. &lt;b&gt;Results:&lt;/b&gt; ALT and AST were abnormally elevated in some patients with novel coronavirus infection, and the rate and extent of ALT and AST elevation in severe NCP patients were higher than those in non-severe patients. […] Liver tissue results of single cell sequencing and immunohistochemistry showed that ACE2 was only expressed in bile duct epithelial cells of normal liver tissues, and very low in hepatocytes. […] In a mouse model of acute liver injury with partial hepatectomy, Ace2 expression was down-regulated on the first day, but it was elevated up to twice of the normal level on the third day, and returned to normal level on seventh day when the liver recovered and hepatocyte proliferation stopped. […] Whether this phenomenon suggests that the bile duct epithelial cells with positive expression of Ace2 participate in the process of liver regeneration after partial hepatectomy deserves further study. […] In RNA-Seq data, 77 transcription factors were positively correlated with the expression of ACE2 (r &amp;gt; 0.2, FDR &amp;lt; 0.05), which were mainly enriched in the development, differentiation, morphogenesis and cell proliferation of glandular epithelial cells. &lt;b&gt;Conclusion:&lt;/b&gt; We assumed that in addition to the over activated inflammatory response in patients with NCP, the up-regulation of ACE2 expression in liver tissue caused by compensatory proliferation of hepatocytes derived from bile duct epithelial cells may also be the possible mechanism of liver tissue injury caused by 2019 novel coronavirus infection. &lt;b&gt;目的：&lt;/b&gt; 探索和分析新型冠状病毒感染肺炎（NCP）患者发生肝损伤的可能机制。
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32077660
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; To analyze the clinical characteristics of cases of novel coronavirus pneumonia and a preliminary study to explore the relationship between different clinical classification and liver damage. &lt;b&gt;Methods:&lt;/b&gt; Consecutively confirmed novel coronavirus infection cases admitted to seven designated hospitals during January 23, 2020 to February 8, 2020 were included. […] ALT, AST, ALB and TBil of the severe or critical subgroups were 60.25 (40.88 ~ 68.90) U/L, 37.00 (20.88 ~ 64.45) U/L, 35.75 (28.68 ~ 42.00) g/L, and 20.50 (11.28 ~ 25.00) mmol/L, respectively. &lt;b&gt;Conclusion:&lt;/b&gt; The results of this multicenter retrospective study suggests that novel coronavirus pneumonia combined with liver damage is more likely to be caused by adverse drug reactions and systemic inflammation in severe patients receiving medical treatment. […] Therefore, liver function monitoring and evaluation should be strengthened during the treatment of such patients. &lt;b&gt;目的：&lt;/b&gt; 分析新型冠状病毒肺炎病例的临床特征，初步探讨不同临床分型与肝功能损伤的关系。
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32096367
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We also isolated alive viral strains from feces, indicating potential infectiousness of feces.Dynamic cytokine detection was necessary to timely identifyingcytokine storms and application of artificial liver blood purification system. […] The artificial liver blood purification system could rapidly remove inflammatory mediators and block cytokine storm.Moreover, it also favoredthe balance of fluid, electrolyte and acid-base and thus improved treatment efficacy in critical illness.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32105632
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Most patients had organ function damage, including 35 (67%) with ARDS, 15 (29%) with acute kidney injury, 12 (23%) with cardiac injury, 15 (29%) with liver dysfunction, and one (2%) with pneumothorax. 37 (71%) patients required mechanical ventilation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32109279
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Only 3 patients (3.75%) showed liver dysfunction. […] The proportion of patients having liver dysfunction and abnormal CT imaging was relatively lower than that of Wuhan.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32118389
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Elevation of C-reactive protein (10%, 3/30), erythrocyte sedimentation rate(19%,4/21), procalcitonin(4%,1/28), liver enzyme(22%, 6/27) and muscle enzyme (15%, 4/27) occurred in different proportions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32120458
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The observation indicators included total blood count, C-reactive protein (CRP), arterial blood gas analysis, myocardial injury markers, coagulation function, liver and kidney function, electrolyte, procalcitonin (PCT), B-type natriuretic peptide (BNP), blood lipid, pulmonary CT and pathogen detection. &lt;b&gt;Results:&lt;/b&gt; Compared with the general group, the lymphocyte count (0.74×10(9) (0.34×10(9), 0.94×10(9))/L vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32125362
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Four of the 5 patients treated with lopinavir-ritonavir developed nausea, vomiting, and/or diarrhea, and 3 developed abnormal liver function test results.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32153170
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; To understand the clinical characteristics, change of liver function, influencing factors and prognosis in hospitalized patients with coronavirus disease-19 (COVID-19) combined with liver injury. &lt;b&gt;Methods:&lt;/b&gt; The general conditions, biochemical indicators of liver, blood clotting mechanism, routine blood test, UGT1A1 * 28 gene polymorphism and other data of 40 cases with COVID-19 admitted to the isolation ward of Tangdu Hospital were retrospectively analyzed. […] The clinical characteristics, influencing factors and prognosis of liver injury in patients with liver injury group and those with normal liver function group were compared. […] Multiple logistic regression analysis was used to analyze the main influencing factors of liver injury. &lt;b&gt;Results:&lt;/b&gt; Of the 40 cases, 25 were male (62.5%) and 15 were female (37.5%), aged 22 to 83 (53.87 ± 15.84) years. […] Liver injury was occurred in 22 cases (55%) during the course of the disease. […] Liver function injury was more likely to occur in patients who used many types of drugs and large amounts of hormones (&lt;i&gt;P&lt;/i&gt; = 0.002, &lt;i&gt;P&lt;/i&gt; = 0.031), and there was no correlation with the TA6TA7 mutation in the UGT1A1 * 28 gene locus. […] Multiple regression analysis showed that the occurrence of liver injury was only related to critical illness. […] The liver function of all patients had recovered within one week after conventional liver protection treatment. &lt;b&gt;Conclusion:&lt;/b&gt; COVID-19 combined with liver function injury may be due to the slight elevation of transaminase, mostly around the second week of the disease course. […] Severe patients have a higher proportion of liver injury, and critical type is an independent risk factor for liver injury. &lt;b&gt;目的：&lt;/b&gt; 了解新型冠状病毒肺炎（COVID-19）住院患者合并肝损伤的临床特点、肝功能变化、影响因素及预后。
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32154135
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among these 9 pregnant women with confirmed 2019-nCoV infection, onset of clinical symptoms occurred before delivery in 4 cases, on the day of delivery in 2 cases, and after delivery in 3 cases. […] Clinically, the first symptom in the neonates was shortness of breath (n=6), but other initial symptoms such as fever (n=2), thrombocytopenia accompanied by abnormal liver function (n=2), rapid heart rate (n=1), vomiting (n=1), and pneumothorax (n=1) were observed. […] Perinatal 2019-nCoV infection may have adverse effects on newborns, causing problems such as fetal distress, premature labor, respiratory distress, thrombocytopenia accompanied by abnormal liver function, and even death.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32161968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Liver function damage is more frequent in NCOVID-19 than NON-NCOVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32170806
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, liver injury has also been reported to occur during the course of the disease in severe cases. […] Similarly, previous studies have shown that liver damage was common in the patients infected by the other two highly pathogenic coronavirus - severe acute respiratory syndrome coronavirus (SARS-CoV) and the Middle East respiratory syndrome coronavirus (MERS-CoV), and associated with the severity of diseases. […] In this review, the characteristics and mechanism of liver injury caused by SARS-CoV, MERS-CoV as well as SARS-CoV-2 infection were summarized, which may provide help for further studies on the liver injury of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32172546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; To investigate the pathological characteristics and the clinical significance of novel coronavirus (2019-nCoV)-infected pneumonia (termed by WHO as corona virus disease 2019, COVID-19). &lt;b&gt;Methods:&lt;/b&gt; Minimally invasive autopsies from lung, heart, kidney, spleen, bone marrow, liver, pancreas, stomach, intestine, thyroid and skin were performed on three patients died of novel coronavirus pneumonia in Chongqing, China. […] While the 2019-nCoV is mainly distributed in lung, the infection also involves in the damages of heart, vessels, liver, kidney and other organs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32188728
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We compared the pathogenesis of the DUBmut virus to the wild-type virus and found that the DUBmut-infected mice had a statistically significant reduction (p&amp;lt;0.05) in viral titer in livers and spleens at day 5 post-infection, albeit both wild-type and DUBmut virus infections resulted in similar liver pathology.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32193831
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Laboratory findings revealed normal or increased whole blood counts (7/8), increased C-reactive protein, procalcitonin and lactate dehydrogenase (6/8), and abnormal liver function (4/8).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32196707
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The laboratory results showed that compared to the normal values, the patients’ lymphocytes were reduced (four [80%] patients), and liver functions alanine aminotransferase and aspartate aminotransferase (two [40%] patients and two [40%] patients) and C-reactive protein (four [80%] patients) were increased when admitted to hospital. […] The main complications for the patients were acute respiratory distress syndrome (one [20%] patients), acute liver injury (three [60%] patients), and diarrhea (two [40%] patients).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32199615
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although ACE2 is reported to be expressed in lung, liver, stomach, ileum, kidney and colon, its expressing levels are rather low, especially in the lung. […] Consistent with other recent reports, we confirmed that ACE2 was mainly expressed in lung AT2, liver cholangiocyte, colon colonocytes, esophagus keratinocytes, ileum ECs, rectum ECs, stomach epithelial cells, and kidney proximal tubules.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32213556
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among enrolled 651 patients, 74 (11.4%) presented with at least one GI symptom (nausea, vomiting or diarrhoea), average age of 46.14 years, 4-day incubation period and 10.8% had pre-existing liver disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32219882
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To help understand the advantages and limitations of differential treatments, we provide a timely review and discuss the complications and corresponding major treatments, especially controversial ones such as antiviral therapy (remdesivir, ribavirin, and chloroquine), glucocorticoid therapy, extracorporeal support including an artificial liver system, and extracorporeal membrane oxygenation based on available evidence.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32220017
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It may rapidly progress to acute respiratory distress syndrome (ARDS) and result in multiorgan dysfunction or death in some cases.&lt;sup&gt;(1,2)&lt;/sup&gt; Here, we report the case of a patient with hepatocellular carcinoma (HCC) who underwent liver transplantation and experienced COVID-19 infection during the perioperative period.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32222119
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All pregnant women did not have an antepartum fever but developed a low-grade fever (37.5℃-38.5℃) within 24 hours after delivery. […] All patients had normal liver and renal function, two patients had elevated plasma levels of the myocardial enzyme. […] All labors smoothly processed, the Apgar scores were 10 points 1 and 5 minutes after delivery, no complications were observed in the newborn. […] It is probable that pregnant women diagnosed with COVID-19 have no fever before delivery.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32233055
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Herein we provide the views of a liver transplant surgeon and transplant hepatologist in New York.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32239591
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Limited data are available for liver function in COVID-19 patients. […] We aimed to investigate the risk factors related to liver injury in the COVID-19 patients. […] The clinical characteristics of patients with liver injury and without liver injury were compared. […] Males were more likely to have liver injury when infected with COVID-19 (P &amp;lt; .05); compared with patients without liver injury, patients with liver injury had increased levels of white blood cell counts, neutrophils, CRP and CT score (P &amp;lt; .05) and had a longer length of stay (P &amp;lt; .05). […] Logistic regression analyses suggested that the extent of pulmonary lesions on CT was a predictor of liver function damage (P &amp;lt; .05). […] Liver injury is common in non-ICU hospitalized COVID-19 patients. […] Intense monitoring and evaluation of liver function in patients with severe pulmonary imaging lesions should be considered.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32239796
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of our study was to investigate the changes of liver function and its clinical significance in COVID-19 patients. […] Liver function and related indexes were analyzed to evaluate its relationship with disease progression in COVID-19 patients. […] Part of the COVID-19 patients presented with varying degrees of abnormality in liver function indexes. […] Most of the liver function indexes in COVID-19 patients were correlated with CRP and NLR, the markers of inflammation. […] Although abnormalities of liver function indexes are common in COVID-19 patients, the impairment of liver function is not a prominent feature of COVID-19, and also may not have serious clinical consequences.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32240670
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Common complications included bacterial infection (42.8%), liver enzyme abnormalities (28.7%) and acute respiratory distress syndrome (21.0%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32243269
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Besides typical respiratory symptoms and signs of COVID-19, digestive symptoms and liver injury have been frequently reported during the course of the disease. […] In this review, we summarized the recent studies reporting of gastrointestinal and liver manifestations during the course of COVID-19. […] Attention should also be paid to monitor liver function during the course of COVID-19, especially in patients with higher disease severity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32243673
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Herein we presented the clinical course and outcome of a 50-year-old male post liver transplantation who contracted COVID-19, with subsequent infection of his wife.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32247213
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Search terms were, COVID-19, treatment of coronavirus, COVID 19 and following terms; chloroquine, hydroxychloroquine, ibuprofen, ACE-inhibitors or angiotensin receptor blockers, cardiovascular disease, diarrhoea, liver, testis and gastrointestinal disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32251805
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Multiple organ dysfunction can be observed, the most common organ damage was lung, followed by heart, kidney and liver.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32253172
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+While patients typically present with fever and a respiratory illness, mounting evidence indicates that patients might also report extra-pulmonary manifestations, including those affecting the liver and gastrointestinal tract.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32267833
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The meta-analysis revealed no correlation between increased risk of COVID-19 and liver disease, malignancy, or renal disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32270388
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Liver Transplant Society of India (LTSI) has come up with guidelines for transplant centres across the country to deal with liver transplantation during this evolving pandemic of COVID-19 infection. […] The guidelines are applicable to both deceased donor as well as living donor liver transplants.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32270660
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; To summarize the clinical characteristics and liver biochemical parameters of 324 cases admitted with novel coronavirus pneumonia in Shanghai area. &lt;b&gt;Methods:&lt;/b&gt; Clinical data and baseline liver biochemical parameters of 324 cases with novel coronavirus pneumonia admitted to the Shanghai Public Health Clinical Center from January 20, 2020 to February 24, 2020 were retrospectively analyzed. […] The differences in clinical data and baseline liver biochemical parameters of the two groups were described and compared. […] The enumeration data were expressed by frequency and rate, and chi-square test was used. &lt;b&gt;Results:&lt;/b&gt; Of the 324 cases with novel coronavirus pneumonia, 26 were severe cases (8%), with median onset of 5 days, 20 cases were HBsAg positive (6.2%), and 70 cases (21.6%) with fatty liver, diagnosed with X-ray computed tomography. […] 1.04, &lt;i&gt;P&lt;/i&gt; &amp;lt; 0.01). &lt;b&gt;Conclusion:&lt;/b&gt; The baseline liver biochemical parameters of 324 cases with novel coronavirus pneumonia in Shanghai area was comparatively lower and the liverinjury degree was mild, and the bile duct cell damage was rare. &lt;b&gt;目的：&lt;/b&gt; 总结上海地区324例新型冠状病毒肺炎患者入院初肝脏生物化学指标的临床特点。
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32274341
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Increasing evidence has witnessed the frequent incident liver injury in COVID-19 patients, and it is often manifested as transient elevation of serum aminotransferases; however, the patients seldom have liver failure and obvious intrahepatic cholestasis, unless pre-existing advanced liver disease was present. […] The underlying mechanisms of liver injury in cases of COVID-19 might include psychological stress, systemic inflammation response, drug toxicity, and progression of pre-existing liver diseases. […] However, there is insufficient evidence for SARS-CoV-2 infected hepatocytes or virus-related liver injury in COVID-19 at present. […] The clinical, pathological and laboratory characteristics as well as underlying pathophysiology and etiology of liver injury in COVID-19 remain largely unclear. […] In this review, we highlight these important issues based on the recent developments in the field, for optimizing the management and treatment of liver injury in Chinese patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32274342
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cases of liver damage or dysfunction (mainly characterized by moderately elevated serum aspartate aminotransferase levels) have been reported among patients with COVID-19. […] However, it is currently uncertain whether the COVID-19-related liver damage/dysfunction is due mainly to the viral infection per se or other coexisting conditions, such as the use of potentially hepatotoxic drugs and the coexistence of systemic inflammatory response, respiratory distress syndrome-induced hypoxia, and multiple organ dysfunction. […] Based on the current evidence from case reports and case series, this review article focuses on the demographic and clinical characteristics, potential mechanisms, and treatment options for COVID-19-related liver dysfunction. […] This review also describes the geographical and demographic distribution of COVID-19-related liver dysfunction, as well as possible underlying mechanisms linking COVID-19 to liver dysfunction, in order to facilitate future drug development, prevention, and control measures for COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32275784
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Presently, only about one half of acute care hospitalizations for cirrhosis-related complications result in inpatient specialty care and the current hepatology workforce cannot meet the demand of patients with liver disease nationwide, particularly in less densely populated areas and in community-based practices not affiliated with academic centers. […] Telemedicine, defined as the delivery of health care services at a distance using electronic means for diagnosis and treatment, holds tremendous promise to increase access to broadly specialty care. […] The outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and Coronavirus Disease 2019 (COVID-19) has, in the short-term, accelerated the growth of telemedicine delivery as a public health and social distancing measure.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32277387
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Annually, around 850 liver transplantation is performed in Beijing, China. […] Liver transplant recipients, because of long-term oral immunosuppressant effects, may be more susceptible to 2019-nCoV infection and have a worse prognosis than the general population. […] It is urgent to set up guidelines for the prevention, diagnosis, and treatment of COVID-19 in liver transplant recipients. […] In this article, we reviewed the clinical aspects of 2019-nCoV infection, characteristics of liver transplant recipients, immunosuppressant usage, and potential drug interactions to provide recommendations to clinical staff managing liver transplant recipients during the COVID-19 epidemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32277591
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Liver injury is common in patients with COVID-19, but little is known about its clinical presentation and severity in the context of liver transplantation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32278065
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE2 is expressed furthermore in the upper esophagus, liver, and colon.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32279064
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Children with inflammatory bowel disease and post liver transplant patients do not have an increased risk of disease, and should remain on medications they are already on. […] Children with chronic liver disease should continue their medications as usual.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32282972
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Following the December 2019 SARS-CoV-2 outbreak in China, France is now fifth in number of deaths worldwide while at the same time hosting one of the biggest European liver transplantation programs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32282982
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Complete suspension of live donor kidney transplantation was reported by 71.8% and live donor liver by 67.7%. […] While complete suspension of deceased donor transplantation was less frequent, some restrictions to deceased donor kidney transplantation were reported by 84.0% and deceased donor liver by 73.3%; more stringent restrictions were associated with higher regional incidence of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32282986
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The first patient received liver transplantation due to hepatitis B virus-related hepatocellular carcinoma and was confirmed to have COVID-19 nine days later.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32283325
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Some patients with SARS-CoV-2 infection have abnormal liver function. […] We aimed to clarify the features of COVID-19-related liver damage to provide references for clinical treatment. […] Patients were analyzed for clinical features, laboratory parameters (including liver function tests), medications, and length of hospital stay. […] Abnormal liver function was defined as increased levels of alanine and aspartate aminotransferase, gamma glutamyltransferase, alkaline phosphatase, and total bilirubin. […] Fifty-five patients (37.2%) had abnormal liver function at hospital admission; 14.5% of these patients had high fever (14.5%), compared with 4.3% of patients with normal liver function (P=.027). […] Patients with abnormal liver function were more likely to be male, and had higher levels of procalcitonin and C-reactive protein. […] There was no statistical difference between groups in medications taken before hospitalization; a significantly higher proportion of patients with abnormal liver function (57.8%) had received lopinavir/ritonavir after admission compared to patients with normal liver function (31.3%). […] Patients with abnormal liver function had longer mean hospital stays (15.09±4.79 days) than patients with normal liver function (12.76±4.14 days) (P=.021). […] More than one third of patients admitted to the hospital with SARS-CoV-2 infection have abnormal liver function, and this is associated with longer hospital stay. […] A significantly higher proportion of patients with abnormal liver function had received lopinavir/ritonavir after admission; these drugs should be given with caution.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32286245
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Biomarkers of inflammation, cardiac and muscle injury, liver and kidney function and coagulation measures were also significantly elevated in patients with both severe and fatal COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32287140
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with digestive symptoms had higher mean liver enzyme levels, lower monocyte count, longer prothrombin time, and received more antimicrobial treatment than those without digestive symptoms. […] Moreover, these patients have a longer time from onset to admission, evidence of longer coagulation, and higher liver enzyme levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32289115
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It remains unclear at this point to what extent chronic liver diseases should be considered as risk factors, due to a shortage of appropriate studies. […] However, patients with advanced liver disease and those after liver transplantation represent vulnerable patient cohorts with an increased risk of infection and/or a severe course of COVID-19. […] In addition, the current pandemic requires unusual allocation of healthcare resources which may negatively impact the care of patients with chronic liver disease that continue to require medical attention.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32291399
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To gain knowledge about the pathology that may contribute to disease progression and fatality, we performed postmortem needle core biopsies of lung, liver, and heart in four patients who died of COVID-19 pneumonia. […] The liver exhibits mild lobular infiltration by small lymphocytes, and centrilobular sinusoidal dilation. […] Changes in the liver and heart are likely secondary or related to the underlying diseases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32293716
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+About 37.2% of patients with elevated D-dimer, 25.9% of patients with leukopenia, along with abnormal levels of liver function (29%) and renal function (25.5%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32293741
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There were 91 death cases who developed different complications including acute respiratory distress syndrome (ARDS) (73/91), myocardial injury (31/91), liver injury (15/91), renal insufficiency (14/91), multiple organ dysfunction syndrome (MODS) (14/91) and pneumothorax (1/91). […] The main complications of deceased patients with COVID-19 were ARDS, myocardial injury, liver injury, renal insufficiency and MODS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32294285
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The authors found that abnormalities of liver function tests are common in COVID-19 patients, but the clinically significant liver dysfunction in COVID-19 was not a prominent feature of this illness and also may not have serious clinical consequences.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

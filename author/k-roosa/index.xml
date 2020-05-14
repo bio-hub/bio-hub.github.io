@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K Roosa | PlatCOVID</title>
+    <link>/author/k-roosa/</link>
+      <atom:link href="/author/k-roosa/index.xml" rel="self" type="application/rss+xml" />
+    <description>K Roosa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>K Roosa</title>
+      <link>/author/k-roosa/</link>
+    </image>
+    
+    <item>
+      <title>Real-time forecasts of the COVID-19 epidemic in China from February 5th to February 24th, 2020.</title>
+      <link>/publication/32110742/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32110742/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

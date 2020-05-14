@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/ribavirin/</link>
+      <atom:link href="/drugpanel/ribavirin/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/ribavirin/</link>
+    </image>
+    
+    <item>
+      <title>RIBAVIRIN</title>
+      <link>/drugpanel/ribavirin/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/ribavirin/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00811&#39; target=&#39;_blank&#39;&gt;db00811&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ribavirin&#34; target=&#34;_blank&#34;&gt;ribavirin&lt;/a&gt; &lt;br&gt;
+Synonymous :1-beta-d-ribofuranosyl-1,2,4-triazole-3-carboxamide | 1-beta-d-ribofuranosyl-1h-1,2,4-triazole-3-carboxamide | rbv | ribavirin | ribavirina | ribavirine | ribavirinum | tribavirin
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ribavirin&lt;/em&gt; gene in 15 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32023685
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Antiviral drugs commonly used in clinical practice, including neuraminidase inhibitors (oseltamivir, paramivir, zanamivir, etc.), ganciclovir, acyclovir and ribavirin, are invalid for 2019-nCoV and not recommended.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32057209
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Combination of Ribavirin and Interferon-α is recommended by the 5(th) edition National Health Commission’s Regimen (Revised Edition) because of the effect on MERS (Middle East Respiratory Syndrome), and the effectiveness of Lopinavir/Ritonavir and Remdisivir needs to be confirmed by randomized controlled trial (RCT), given the situation of no specific antivirus drug on NCP is unavailable.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32119961
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additionally, the newly emerged Wuhan HCoV RdRp model is targeted by anti-polymerase drugs, including the approved drugs Sofosbuvir and Ribavirin. […] The results suggest the effectiveness of Sofosbuvir, IDX-184, Ribavirin, and Remidisvir as potent drugs against the newly emerged HCoV disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32164424
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Similar to outbreaks of other newly identified virus, there is no proven regimen from conventional medicine and most reports managed the patients with lopinavir/ritonavir, ribavirin, beta-interferon, glucocorticoid and supportive treatment with remdesivir undergoing clinical trial.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32179150
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chloroquine, remdesivir, lopinavir, ribavirin and ritonavir have shown efficacy to inhibit coronavirus in vitro.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32218301
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These molecules proved to be the most effective antiviral agents, able to reach the potency profile of the licensed drug ribavirin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32219882
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To help understand the advantages and limitations of differential treatments, we provide a timely review and discuss the complications and corresponding major treatments, especially controversial ones such as antiviral therapy (remdesivir, ribavirin, and chloroquine), glucocorticoid therapy, extracorporeal support including an artificial liver system, and extracorporeal membrane oxygenation based on available evidence.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32222463
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results suggest the effectiveness of Ribavirin, Remdesivir, Sofosbuvir, Galidesivir, and Tenofovir as potent drugs against SARS-CoV-2 since they tightly bind to its RdRp.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32227274
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, COVID-19 mRNA clearance time was positively correlated with the length of hospital stay in patients treated with either IFN-α + lopinavir/ritonavir or IFN-α + lopinavir/ritonavir + ribavirin. […] Therapeutic regimens of IFN-α + lopinavir/ritonavir and IFN-α + lopinavir/ritonavir + ribavirin might be beneficial for treatment of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32227493
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The access to direct antiviral drugs, such as ribavirin, that have an existing inventory and reliable supply chain may be a priority consideration for therapies developed for the 2019-nCoV infection outbreaks and any strain variants that may emerge. […] On the basis of the direct antiviral activity of ribavirin against 2019-nCoV in vitro and evidence for potency enhancement strategies developed during the prior SARS and MERS outbreaks, ribavirin may significantly impact our ability to end the lingering outbreaks in China and slow outbreaks in other countries. […] The apparent COVID-19 pandemic provides an opportunity to follow dosage guidelines for treatment with ribavirin, test new therapeutic concepts, and conduct controlled testing to apply the scientific rigor required to address the controversy around this mainstay of antiviral therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32243270
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This review summarizes the current evidence of potential therapeutic agents, such as lopinavir/ritonavir, remdesivir, favipiravir, chloroquine, hydroxychloroquine, interferon, ribavirin, tocilizumab and sarilumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32246834
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition to the recommended antiviral drugs such as interferon-ɑ, lopinavir/ritonavir, ribavirin, and chloroquine phosphate, some clinical trials focusing on virus RNA dependent RNA polymerase (RdRp) inhibitors have been registered and initiated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32251634
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The top 20 drugs in the virtual screening studies comprised a broad-spectrum antiviral (ribavirin), anti-hepatitis B virus (telbivudine), two vitamins (vitamin B12 and nicotinamide) and other miscellaneous systemically acting drugs. […] Of special interest, ribavirin had been used in treating cases of SARS CoV. […] Ribavirin, telbivudine, vitamin B12 and nicotinamide can be combined and used for COVID treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32251767
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ribavirin or favipiravir that are currently evaluated under clinical trials showed no inhibition at 100 μM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32284326
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this regard, the triphosphate forms of 2’-C-methylated compounds, including sofosbuvir, approved for the management of hepatitis C virus infection, and the broad-acting antivirals favipiravir and ribavirin, exhibited significant deficits.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

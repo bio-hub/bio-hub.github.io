@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kit-Hang Leung | PlatCOVID</title>
+    <link>/author/kit-hang-leung/</link>
+      <atom:link href="/author/kit-hang-leung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kit-Hang Leung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Kit-Hang Leung</title>
+      <link>/author/kit-hang-leung/</link>
+    </image>
+    
+    <item>
+      <title>Gastrointestinal Manifestations of SARS-CoV-2 Infection and Virus Load in Fecal Samples from the Hong Kong Cohort and Systematic Review and Meta-analysis.</title>
+      <link>/publication/32251668/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32251668/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved molecular diagnosis of COVID-19 by the novel, highly sensitive and specific COVID-19-RdRp/Hel real-time reverse transcription-polymerase chain reaction assay validated &lt;i&gt;in vitro&lt;/i&gt; and with clinical specimens.</title>
+      <link>/publication/32132196/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32132196/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Christopher Lung | PlatCOVID</title>
+    <link>/author/david-christopher-lung/</link>
+      <atom:link href="/author/david-christopher-lung/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Christopher Lung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>David Christopher Lung</title>
+      <link>/author/david-christopher-lung/</link>
+    </image>
+    
+    <item>
+      <title>Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study.</title>
+      <link>/publication/32213337/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32213337/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent detection of 2019 novel coronavirus in saliva.</title>
+      <link>/publication/32047895/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32047895/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

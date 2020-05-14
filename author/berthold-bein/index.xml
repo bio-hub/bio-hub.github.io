@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Berthold Bein | PlatCOVID</title>
+    <link>/author/berthold-bein/</link>
+      <atom:link href="/author/berthold-bein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Berthold Bein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Berthold Bein</title>
+      <link>/author/berthold-bein/</link>
+    </image>
+    
+    <item>
+      <title>[SARS CoV-2/COVID-19: Evidence-Based Recommendation on Diagnosis and Therapy].</title>
+      <link>/publication/32274773/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32274773/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoling Xu | PlatCOVID</title>
+    <link>/author/xiaoling-xu/</link>
+      <atom:link href="/author/xiaoling-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoling Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Xiaoling Xu</title>
+      <link>/author/xiaoling-xu/</link>
+    </image>
+    
+    <item>
+      <title>Why tocilizumab could be an effective treatment for severe COVID-19?</title>
+      <link>/publication/32290839/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32290839/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>none | PlatCOVID</title>
+    <link>/tissuepanel/macrophages/</link>
+      <atom:link href="/tissuepanel/macrophages/index.xml" rel="self" type="application/rss+xml" />
+    <description>none</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>none</title>
+      <link>/tissuepanel/macrophages/</link>
+    </image>
+    
+    <item>
+      <title>macrophages</title>
+      <link>/tissuepanel/macrophages/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/tissuepanel/macrophages/info/</guid>
+      <description> 
+
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;cell-sentence-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Cell Sentence Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;macrophages&lt;/em&gt; tissue in 9 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Senteces
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32171193
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Another inhibitory cytokine is IL-38, the newest cytokine of the IL-1 family members, produced by several immune cells including B cells and macrophages.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32172546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The infiltrated immune cells in alveoli were majorly macrophages and monocytes. […] Immunohistochemical staining showed that part of the alveolar epithelia and macrophages were positive for 2019-nCoV antigen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32188728
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We engineered a DUB mutation (Asp1772 to Ala) into a murine coronavirus and evaluated the replication and pathogenesis of the DUB mutant virus (DUBmut) in cultured macrophages and in mice. […] We found that the DUBmut virus replicates similarly as the wild-type virus in cultured cells, but the DUBmut virus activates an IFN response at earlier times compared to the wild-type virus infection in macrophages, consistent with DUB activity negatively regulating the IFN response. […] We engineered a recombinant murine coronavirus to express the DUB mutant and showed that the DUB mutant virus activated an earlier type I interferon response in macrophages and exhibited reduced replication in mice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32188729
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We used transcriptomics approaches to compare the scope and kinetics of the host response to the wild-type, DUBmut, and EndoUmut viruses in infected macrophages. […] This study highlights the role of viral interferon antagonists in shaping the kinetics and magnitude of the host response during virus infection and demonstrates that inactivating a dominant viral antagonist, the coronavirus endoribonuclease, dramatically alters the host response in macrophages.&lt;b&gt;Importance&lt;/b&gt;Macrophages are an important cell type during coronavirus infections because they “notice” the infection and respond by inducing type I interferons, which limits virus replication. […] This study reveals that EndoU activity substantially contributes to the ability of coronaviruses to evade the host innate response and to replicate in macrophages.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32199615
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We found that macrophages frequently communicate with the CoVs targets through chemokine and phagocytosis signaling, highlighting the importance of tissue macrophages in immune defense and immune pathogenesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32229155
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The pro-inflammatory metabolites of AA and EPA such as prostaglandins, leukotrienes and thromboxanes induce inflammation whereas lipoxins, resolvins, protectins and maresins derived from AA, EPA and DHA not only suppress inflammation but also enhance would healing and augment phagocytosis of macrophages and other immunocytes and decrease microbial load.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32270184
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 and SARS-CoV were similar in cell tropism, with both targeting types I and II pneumocytes, and alveolar macrophages.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32289516
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The pathological examination of Patient 1, who was infected the SARS-CoV-2 before the surgery, revealed that apart from the tumor, there was a wide range of interstitial inflammation with plasma cells and macrophages infiltration. […] High density of macrophages and foam cells in the alveolar cavities but no obvious proliferation of pneumocyte was found.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32293910
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This leads to imbalance of the innate/acquired immune response, delayed viral clearance, and hyper stimulated macrophages and neutrophils.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

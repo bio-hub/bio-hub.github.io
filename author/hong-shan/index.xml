@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hong Shan | PlatCOVID</title>
+    <link>/author/hong-shan/</link>
+      <atom:link href="/author/hong-shan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hong Shan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Hong Shan</title>
+      <link>/author/hong-shan/</link>
+    </image>
+    
+    <item>
+      <title>Clinical Characteristics of Coronavirus Disease 2019 in China.</title>
+      <link>/publication/32109013/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32109013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gastrointestinal symptoms of 95 cases with SARS-CoV-2 infection.</title>
+      <link>/publication/32241899/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32241899/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chest CT Findings in Coronavirus Disease-19 (COVID-19): Relationship to Duration of Infection.</title>
+      <link>/publication/32077789/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32077789/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

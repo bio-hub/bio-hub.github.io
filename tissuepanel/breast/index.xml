@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>none | PlatCOVID</title>
+    <link>/tissuepanel/breast/</link>
+      <atom:link href="/tissuepanel/breast/index.xml" rel="self" type="application/rss+xml" />
+    <description>none</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>none</title>
+      <link>/tissuepanel/breast/</link>
+    </image>
+    
+    <item>
+      <title>breast</title>
+      <link>/tissuepanel/breast/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/tissuepanel/breast/info/</guid>
+      <description> 
+
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;tissue-sentence-context&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tissue Sentence Context&lt;/h3&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;breast&lt;/em&gt; tissue in 7 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Senteces
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32096395
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Breast dieases are clinical common diseases. […] In the central epidemic area of COVID-19, Hubei province, especially Wuhan, the clinical specialists of breast diseases should consider all of the following factors comprehensively: the prevention of COVID-19, the diagnosis and treatment of breast diseases and the accessibility of medical resources. […] Besides, we should select the appropriate therapy and optimize treatment process so as to prevent the propagation and cross infection of COVID-19 as well as manage the breast diseases without delay. […] Therefore, we carried out some management proposals of the patients with breast diseases in the central epidemic area during the epidemic of COVID-19 on the basis of conventional treatment guidelines and clinical experiences.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32100979
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In order to prevent cluster outbreaks, the government strengthened the management and control of personnel mobility, which had a great impact on the examination and treatment of breast cancer patients. […] This paper discusses how to realize scientific health management of breast cancer patients outside the hospital based on the existing epidemic situation, characteristics of breast cancer patients and public health safety factors. […] The breast cancer patients should synthetically consider the epidemic prevention situation of inhabitance, the disease stage and previous therapeutic schedule to decide the next therapeutic schedule.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32243068
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Besides the possible consequences of COVID-19 infection on a pregnant woman and the fetus, a major concern is related to the potential effect on neonatal outcome, the appropriate management of the mother-newborn dyad and finally the compatibility of maternal COVID-19 infection with breastfeeding. […] The Italian Society on Neonatology (SIN) after reviewing the limited scientific knowledge on the compatibility of breastfeeding in the COVID-19 mother and the available statements from Health Care Organizations, has issued the following indications that have been endorsed by the Union of European Neonatal &amp;amp; Perinatal Societies (UENPS). […] If a mother previously identified as COVID-19 positive or under investigation for COVID-19 is asymptomatic or paucisymptomatic at delivery, rooming-in is feasible and direct breastfeeding is advisable, under strict measures of infection control. […] On the contrary, when a mother with COVID-19 is too sick to care for the newborn, the neonate will be managed separately and fed fresh expressed breast milk, with no need to pasteurize it, as human milk is not believed to be a vehicle of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32277836
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The wife (patient 1) was partially immunocompromised as a consequence of a recently started chemotherapy with fulvestrant and abemaciclid for recurring breast cancer, her husband (patient 2) had been healthy except for a history of controlled arterial hypertension.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32285380
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 RT-PCR in breast milk and amniotic fluid was negative too.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292842
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Breast radiotherapy accounts for a significant proportion of patient volume in contemporary radiation oncology practice. […] Here, we present evidence-based guidelines for omitting or abbreviating breast cancer radiotherapy, where appropriate, in an effort to mitigate risk to patients and optimize resource utilization. […] Multidisciplinary breast cancer experts at a high-volume comprehensive cancer center convened contingency planning meetings over the early days of the COVID-19 pandemic to review the relevant literature and establish recommendations for the application of hypofractionated and abbreviated breast radiation regimens. […] Substantial evidence exists to support omitting radiation among certain favorable risk subgroups of breast cancer patients and for abbreviating or accelerating regimens among others. […] For those who require either whole-breast or post-mastectomy radiation, with or without coverage of the regional lymph nodes, a growing body of literature supports various hypofractionated approaches that appear safe and effective. […] In the setting of a public health emergency with the potential to strain critical healthcare resources and place patients at infection risk, the parsimonious application of breast radiotherapy may alleviate a significant clinical burden without compromising long term oncologic outcomes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32294229
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Encouragement of breast feeding appears possible and safe when viral precautions are observed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

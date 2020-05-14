@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun Liu | PlatCOVID</title>
+    <link>/author/jun-liu/</link>
+      <atom:link href="/author/jun-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jun Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Jun Liu</title>
+      <link>/author/jun-liu/</link>
+    </image>
+    
+    <item>
+      <title>CT Scans of Patients with 2019 Novel Coronavirus (COVID-19) Pneumonia.</title>
+      <link>/publication/32292517/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32292517/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiological, clinical and virological characteristics of 74 cases of coronavirus-infected disease 2019 (COVID-19) with gastrointestinal symptoms.</title>
+      <link>/publication/32213556/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32213556/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early antiviral treatment contributes to alleviate the severity and improve the prognosis of patients with novel coronavirus disease (COVID-19).</title>
+      <link>/publication/32220033/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32220033/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation Between Chest CT Findings and Clinical Conditions of Coronavirus Disease (COVID-19) Pneumonia: A Multicenter Study.</title>
+      <link>/publication/32125873/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32125873/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chest CT for Typical 2019-nCoV Pneumonia: Relationship to Negative RT-PCR Testing.</title>
+      <link>/publication/32049601/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32049601/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

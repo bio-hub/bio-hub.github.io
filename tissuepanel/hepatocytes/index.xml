@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>none | PlatCOVID</title>
+    <link>/tissuepanel/hepatocytes/</link>
+      <atom:link href="/tissuepanel/hepatocytes/index.xml" rel="self" type="application/rss+xml" />
+    <description>none</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>none</title>
+      <link>/tissuepanel/hepatocytes/</link>
+    </image>
+    
+    <item>
+      <title>hepatocytes</title>
+      <link>/tissuepanel/hepatocytes/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/tissuepanel/hepatocytes/info/</guid>
+      <description> 
+
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;cell-sentence-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Cell Sentence Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hepatocytes&lt;/em&gt; tissue in 2 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Senteces
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32077659
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Liver tissue results of single cell sequencing and immunohistochemistry showed that ACE2 was only expressed in bile duct epithelial cells of normal liver tissues, and very low in hepatocytes. […] In RNA-Seq data, 77 transcription factors were positively correlated with the expression of ACE2 (r &amp;gt; 0.2, FDR &amp;lt; 0.05), which were mainly enriched in the development, differentiation, morphogenesis and cell proliferation of glandular epithelial cells. &lt;b&gt;Conclusion:&lt;/b&gt; We assumed that in addition to the over activated inflammatory response in patients with NCP, the up-regulation of ACE2 expression in liver tissue caused by compensatory proliferation of hepatocytes derived from bile duct epithelial cells may also be the possible mechanism of liver tissue injury caused by 2019 novel coronavirus infection. &lt;b&gt;目的：&lt;/b&gt; 探索和分析新型冠状病毒感染肺炎（NCP）患者发生肝损伤的可能机制。
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32274341
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, there is insufficient evidence for SARS-CoV-2 infected hepatocytes or virus-related liver injury in COVID-19 at present.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

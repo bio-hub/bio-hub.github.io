@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/procalcitonin/</link>
+      <atom:link href="/drugpanel/procalcitonin/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/procalcitonin/</link>
+    </image>
+    
+    <item>
+      <title>PROCALCITONIN</title>
+      <link>/drugpanel/procalcitonin/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/procalcitonin/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db14812&#39; target=&#39;_blank&#39;&gt;db14812&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=procalcitonin&#34; target=&#34;_blank&#34;&gt;procalcitonin&lt;/a&gt; &lt;br&gt;
+Synonymous : &lt;em&gt;None&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;procalcitonin&lt;/em&gt; gene in 20 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32026671
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;ol start=&#34;2&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;The blood test of the patients showed normal or decreased white blood cell count (23/29), decreased lymphocyte count (20/29), increased hypersensitive C reactive protein (hs-CRP) (27/29), and normal procalcitonin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32061066
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The median of CRP was 16.3 mg/L, including 5 patients with slightly elevated (5/9) , 4 patients with normal values (4/9) . the results of procalcitonin test were negative in5 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32062875
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Elevated procalcitonin was found in 1 case and D-Dimer in 3 cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32077115
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Significantly higher levels of D-dimer, C-reactive protein, and procalcitonin were associated with severe patients compared to nonsevere patients (all P &amp;lt; .001).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32091414
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Correlation analysis showed that the pulmonary inflammation index value was significantly correlated with the values of lymphocyte count, monocyte count, C-reactive protein, procalcitonin, days from illness onset, and body temperature (P &amp;lt; 0.05).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32096367
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Antimicrobial prophylaxis should be prescribed rationally and was not recommended except for patients with long course of disease, repeated fever and elevated procalcitonin (PCT), meanwhile secondary fungal infection should be concerned.Some patients with COVID-19 showed intestinal microbialdysbiosis with decreasedprobiotics such as &lt;i&gt;Lactobacillus&lt;/i&gt; and &lt;i&gt;Bifidobacterium&lt;/i&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32118389
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Elevation of C-reactive protein (10%, 3/30), erythrocyte sedimentation rate(19%,4/21), procalcitonin(4%,1/28), liver enzyme(22%, 6/27) and muscle enzyme (15%, 4/27) occurred in different proportions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32120458
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The observation indicators included total blood count, C-reactive protein (CRP), arterial blood gas analysis, myocardial injury markers, coagulation function, liver and kidney function, electrolyte, procalcitonin (PCT), B-type natriuretic peptide (BNP), blood lipid, pulmonary CT and pathogen detection. &lt;b&gt;Results:&lt;/b&gt; Compared with the general group, the lymphocyte count (0.74×10(9) (0.34×10(9), 0.94×10(9))/L vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32134205
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For laboratory findings, procalcitonin elevation (16/20, 80%) should be pay attention to, which is not common in adults. […] Procalcitonin elevation and consolidation with surrounding halo signs were common in pediatric patients which were different from adults.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32193831
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Laboratory findings revealed normal or increased whole blood counts (7/8), increased C-reactive protein, procalcitonin and lactate dehydrogenase (6/8), and abnormal liver function (4/8).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32211816
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A total of 82 patients (19.7%) had cardiac injury, and compared with patients without cardiac injury, these patients were older (median [range] age, 74 [34-95] vs 60 [21-90] years; P &amp;lt; .001); had more comorbidities (eg, hypertension in 49 of 82 [59.8%] vs 78 of 334 [23.4%]; P &amp;lt; .001); had higher leukocyte counts (median [interquartile range (IQR)], 9400 [6900-13 800] vs 5500 [4200-7400] cells/μL) and levels of C-reactive protein (median [IQR], 10.2 [6.4-17.0] vs 3.7 [1.0-7.3] mg/dL), procalcitonin (median [IQR], 0.27 [0.10-1.22] vs 0.06 [0.03-0.10] ng/mL), creatinine kinase-myocardial band (median [IQR], 3.2 [1.8-6.2] vs 0.9 [0.6-1.3] ng/mL), myohemoglobin (median [IQR], 128 [68-305] vs 39 [27-65] μg/L), high-sensitivity troponin I (median [IQR], 0.19 [0.08-1.12] vs &amp;lt;0.006 [&amp;lt;0.006-0.009] μg/L), N-terminal pro-B-type natriuretic peptide (median [IQR], 1689 [698-3327] vs 139 [51-335] pg/mL), aspartate aminotransferase (median [IQR], 40 [27-60] vs 29 [21-40] U/L), and creatinine (median [IQR], 1.15 [0.72-1.92] vs 0.64 [0.54-0.78] mg/dL); and had a higher proportion of multiple mottling and ground-glass opacity in radiographic findings (53 of 82 patients [64.6%] vs 15 of 334 patients [4.5%]).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32220650
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Typical abnormal laboratory findings were elevated creatine kinase MB (11 [31%]), decreased lymphocytes (11 [31%]), leucopenia (seven [19%]), and elevated procalcitonin (six [17%]). […] Besides radiographic presentations, variables that were associated significantly with severity of COVID-19 were decreased lymphocytes, elevated body temperature, and high levels of procalcitonin, D-dimer, and creatine kinase MB.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32232433
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+By univariate analysis, patients with ocular symptoms were more likely to have higher white blood cell and neutrophil counts and higher levels of procalcitonin, C-reactive protein, and lactate dehydrogenase than patients without ocular symptoms.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32237148
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There were 38.5% of control patients had higher procalcitonin (PCT) levels than 0.5ng/ml, which was significantly higher than that percentage of COVID-19 patients (X&lt;sup&gt;2&lt;/sup&gt; =22.636, P &amp;lt;0.05), and COVID-19 patients were also more likely to have decreased or normal urea and creatinine levels than control patients (X&lt;sup&gt;2&lt;/sup&gt; =24.930, 8.480, P &amp;lt;0.05).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32268454
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+On post injury day (PID) 1, 3, 6, and 9, vein blood of patients were collected for determination of white blood cell (WBC) count, neutrophil, lymphocyte absolute value. and level of procalcitonin (PCT).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32278670
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Procalcitonin plasma above 0.5 µg/L was associated with 16% vs. 19% (p = 0.78) risk of death after 7 days.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32279081
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Through a multivariate analysis of the causes of death in older patients, we found that males, comorbidities, time from disease onset to hospitalization, abnormal kidney function, and elevated procalcitonin levels were all significantly associated with death.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32282949
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Biomarkers, such high serum procalcitonin and ferritin have also emerged as poor prognostic factors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32283325
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with abnormal liver function were more likely to be male, and had higher levels of procalcitonin and C-reactive protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32293716
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other findings included leukocytosis (12.6%) and elevated procalcitonin (17.5%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

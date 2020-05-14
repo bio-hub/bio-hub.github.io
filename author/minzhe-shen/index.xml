@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minzhe Shen | PlatCOVID</title>
+    <link>/author/minzhe-shen/</link>
+      <atom:link href="/author/minzhe-shen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Minzhe Shen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Minzhe Shen</title>
+      <link>/author/minzhe-shen/</link>
+    </image>
+    
+    <item>
+      <title>Recent advances and perspectives of nucleic acid detection for coronavirus.</title>
+      <link>/publication/32292623/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32292623/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

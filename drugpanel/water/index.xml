@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/water/</link>
+      <atom:link href="/drugpanel/water/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/water/</link>
+    </image>
+    
+    <item>
+      <title>WATER</title>
+      <link>/drugpanel/water/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/water/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db09145&#39; target=&#39;_blank&#39;&gt;db09145&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=water&#34; target=&#34;_blank&#34;&gt;water&lt;/a&gt; &lt;br&gt;
+Synonymous :agua | dihydrogen oxide | purified water | sterile water | water purified
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;water&lt;/em&gt; gene in 1 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32096367
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The “Four-Anti and Two-Balance”strategy included antivirus, anti-shock, anti-hyoxemia, anti-secondary infection, and maintaining of water, electrolyte and acid base balance and microecological balance.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32196032
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Droplet microfluidic systems have the capability to overcome such limitations by conducting complex multi-step assays with high reliability, resolution, and throughput in a pico-liter volume water-in-oil emulsion droplet format.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32211765
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No therapies are available, and the only way to contain the virus spread is to regularly and thoroughly clean oneself hands with an alcohol-based hand rub or wash them with soap and water, to maintain at least 1 metre (3 feet) distance from anyone who is coughing or sneezing, to avoid touching eyes, nose and mouth, and to stay home if one feels unwell.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32224550
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The threat of Coronavirus Disease 2019 (COVID-19) to health systems in sub-Saharan Africa (SSA) can be compared metaphorically to a lake in Africa infested with a bask of crocodiles and the saying: “the eye of the crocodile.” In the lake, only the eyes of the crocodile appear on the surface while the rest of the body is submerged in water.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32230995
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To efficiently solve this problem, we propose a hybrid algorithm based on the water wave optimization (WWO) metaheuristic and neighborhood search.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32232986
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results showed that instant hand wiping using a wet towel soaked in water containing 1.00% soap powder, 0.05% active chlorine, or 0.25% active chlorine from sodium hypochlorite removed 98.36%, 96.62%, and 99.98% of the virus from hands, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32273245
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Optimal CL care behaviours should be the same as those under normal circumstances, which include appropriate hand washing (thoroughly with soap and water) and drying (with paper towels) before both CL application and removal. […] Daily CL cleaning and correct case care for reusable CL should be followed according to appropriate guidelines, and CL exposure to water must be avoided.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32279686
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, they are exacerbated by an increasing number of vulnerable populations suffering from chronic deficiencies in food, water, and energy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32293717
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PPE made of more breathable material may lead to a similar number of spots on the trunk (MD 1.60, 95% CI -0.15 to 3.35) compared to more water-repellent material but may have greater user satisfaction (MD -0.46, 95% CI -0.84 to -0.08, scale of 1 to 5).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32293875
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ritonavir showed somewhat higher atomic contacts, binding efficiency and key binding residues than that of lopinavir in correspondence with slightly less water accessibility at the 3CL&lt;sup&gt;pro&lt;/sup&gt; active site.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

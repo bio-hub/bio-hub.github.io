@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/darunavir/</link>
+      <atom:link href="/drugpanel/darunavir/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/darunavir/</link>
+    </image>
+    
+    <item>
+      <title>DARUNAVIR</title>
+      <link>/drugpanel/darunavir/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/darunavir/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01264&#39; target=&#39;_blank&#39;&gt;db01264&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=darunavir&#34; target=&#34;_blank&#34;&gt;darunavir&lt;/a&gt; &lt;br&gt;
+Synonymous :(3r,3as,6ar)-hexahydrofuro[2,3-b]furan-3-yl n-((1s,2r)-1-benzyl-2-hydroxy-3-(n1-isobutylsulfanilamido)propyl)carbamate | (3r,3as,6ar)-tetrahydro-2h-furo[2,3-b]furan-3-yl (2s,3r)-4-(4-amino-n-isobutylphenylsulfonamido)-3-hydroxy-1-phenylbutan-2-ylcarbamate | (3r,3as,6ar)-tetrahydro-2h-furo[2,3-b]furan-3-yl (2s,3r)-4-(4-amino-n-neopentylphenylsulfonamido)-3-hydroxy-1-phenylbutan-2-ylcarbamate | [(s)-3-[(4-amino-benzenesulfonyl)-isobutyl-amino]-2-hydroxy-1-((r)-phenylmethyl)-propyl]-carbamic acid (3r,3as,6ar)-(hexahydro-furo[2,3-b]furan-3-yl) ester | {(1s,2r)-3-[(4-amino-benzenesulfonyl)-isobutyl-amino]-1-benzyl-2-hydroxy-propyl}-carbamic acid (3r,3as,6ar)-(hexahydro-furo[2,3-b]furan-3-yl) ester | darunavir | darunavirum | n-((1s,2r)-3-(((4-aminophenyl)sulfonyl)(2-methylpropyl)amino)-2-hydroxy-1-benzylpropyl)((1s,2r,5r)-4,6-dioxabicyclo(3.3.0)oct-2-yloxy)carboxamide
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;darunavir&lt;/em&gt; gene in 1 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32238094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As a result three FDA approved drugs (Remdesivir, Saquinavir and Darunavir) and two natural compounds (. flavone and coumarine derivatives) were identified as promising hits.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32277836
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Both patients were treated with darunavir/cobicistat and hydroxychloroquine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32279418
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hydroxychloroquine and lopinavir/ritonavir were started, and the antiviral drug was replaced with darunavir/cobicistat after two days for diarrhea.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32280433
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Interestingly, lopinavir, ritonavir, and darunavir are all designed to target viral proteinases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292805
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the absence of authorised pharmacological treatments, many antiretrovirals, including darunavir/cobicistat fixed combination, were used off-label in the hospital wards as life-treating medicines for COVID-19 patients. […] The data in this article indicate that darunavir/cobicistat suspensions compounded by pharmacists using as active ingredient a commercially available tablet can be stable at least for one week.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

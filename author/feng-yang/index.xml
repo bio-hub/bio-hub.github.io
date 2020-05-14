@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feng Yang | PlatCOVID</title>
+    <link>/author/feng-yang/</link>
+      <atom:link href="/author/feng-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feng Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Feng Yang</title>
+      <link>/author/feng-yang/</link>
+    </image>
+    
+    <item>
+      <title>Epidemiological Characteristics on the Clustering Nature of COVID-19 in Qingdao City, 2020: A Descriptive Analysis.</title>
+      <link>/publication/32228732/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32228732/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

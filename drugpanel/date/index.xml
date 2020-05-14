@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/date/</link>
+      <atom:link href="/drugpanel/date/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/date/</link>
+    </image>
+    
+    <item>
+      <title>DATE</title>
+      <link>/drugpanel/date/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/date/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db10632&#39; target=&#39;_blank&#39;&gt;db10632&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
+Synonymous : &lt;em&gt;None&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 96 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31986261
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No data on person-to-person or nosocomial transmission have been published to date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31997390
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To investigate the genetic diversity, time origin, and evolutionary history of the 2019-nCoV outbreak in China and Thailand, a total of 12 genome sequences of the virus with known sampling date (24 December 2019 and 13 January 2020) and geographic location (primarily Wuhan city, Hubei Province, China, but also Bangkok, Thailand) were analyzed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32023775
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We reviewed the currently available literature to provide up-to-date guidance on control measures to be implemented by public health authorities.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32031570
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Retrospective, single-center case series of the 138 consecutive hospitalized patients with confirmed NCIP at Zhongnan Hospital of Wuhan University in Wuhan, China, from January 1 to January 28, 2020; final date of follow-up was February 3, 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32037389
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The remaining patient with severe pneumonia had shown signs of improvement by the cutoff date for data collection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32056249
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on the advice of the International Health Regulations Emergency Committee and the fact that to date 24 other countries also reported cases, the WHO Director-General declared that the outbreak of 2019-nCoV constitutes a Public Health Emergency of International Concern on 30 January 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32079150
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Using publicly available event-date data from the ongoing epidemic, the present study investigated the incubation period and other time intervals that govern the epidemiological dynamics of COVID-19 infections.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32083985
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, CT findings have been recommended as major evidence for clinical diagnosis of COVID-19 in Hubei, China.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32087334
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, there are no clinically approved vaccines or antiviral drugs available for these human coronavirus infections.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32105680
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Clinicians should continue to follow the Centers for Disease Control and Prevention website to stay up to date with the latest information (&lt;a href=&#34;https://www.cdc.gov/coronavirus/2019-nCoV/hcp/index.html&#34; class=&#34;uri&#34;&gt;https://www.cdc.gov/coronavirus/2019-nCoV/hcp/index.html&lt;/a&gt;).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32125362
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Descriptive case series of the first 18 patients diagnosed with polymerase chain reaction (PCR)-confirmed SARS-CoV-2 infection at 4 hospitals in Singapore from January 23 to February 3, 2020; final follow-up date was February 25, 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32141588
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, the outbreak has spread to most provinces in China and 25 other countries within a relatively short period.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32143502
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although the fatality rate of SARS-CoV-2 is currently lower than SARS-CoV, the virus seems to be highly contagious based on the number of infected cases to date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32145719
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, the controlling of outbreak of corona virus disease 2019 (COVID-19) has entered into a critical period in China.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32155789
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Specific up-to-date and accurate health information (e.g., treatment, local outbreak situation) and particular precautionary measures (e.g., hand hygiene, wearing a mask) were associated with a lower psychological impact of the outbreak and lower levels of stress, anxiety, and depression (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.05). &lt;i&gt;Conclusions:&lt;/i&gt; During the initial phase of the COVID-19 outbreak in China, more than half of the respondents rated the psychological impact as moderate-to-severe, and about one-third reported moderate-to-severe anxiety.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32166607
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There have been around 96,000 reported cases of coronavirus disease 2019 (COVID-2019) and 3300 reported deaths to date (05/03/2020).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32167524
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The final date of follow-up was February 13, 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32171059
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The four datasets we fitted to were: daily number of new internationally exported cases (or lack thereof), by date of onset, as of Jan 26, 2020; daily number of new cases in Wuhan with no market exposure, by date of onset, between Dec 1, 2019, and Jan 1, 2020; daily number of new cases in China, by date of onset, between Dec 29, 2019, and Jan 23, 2020; and proportion of infected passengers on evacuation flights between Jan 29, 2020, and Feb 4, 2020. […] We used an additional two datasets for comparison with model outputs: daily number of new exported cases from Wuhan (or lack thereof) in countries with high connectivity to Wuhan (ie, top 20 most at-risk countries), by date of confirmation, as of Feb 10, 2020; and data on new confirmed cases reported in Wuhan between Jan 16, 2020, and Feb 11, 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32171869
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Final date of follow-up was February 25, 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32171872
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The primary endpoint was a negative conversion rate of coronavirus from the date of COVID-19 diagnosis(day7, day14), and assessed whether the pneumonia was progressing or improving by chest CT (day7).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32173241
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, effective treatment is lacking; however, clinical trials investigating the efficacy of several agents, including remdesivir and chloroquine, are underway in China.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32175421
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several studies have been done to estimate the basic reproduction number in the early phase of this outbreak, yet there are no reliable estimates of case fatality rate (CFR) for COVID-19 to date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32176772
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients were confirmed to be infected with SARS-CoV-2 and the final date of follow-up was February 4, 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32178768
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Contacts were people with exposure to a patient with COVID-19 on or after the patient’s symptom onset date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32179124
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No systematic reviews on COVID-19 have been published to date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32180292
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From reports of 32 women to date affected by COVID-19 in pregnancy, delivering 30 babies (one set of twins, three ongoing pregnancies), seven (22%) were asymptomatic and two (6%) were admitted to the intensive care unit (ICU), one of whom remained on extracorporeal membrane oxygenation. […] No maternal deaths have been reported to date. […] Compared with SARS and MERS, COVID-19 appears less lethal, acknowledging the limited number of cases reported to date and that one woman remains in a critical condition.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32183901
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, no specific antiviral treatment has proven effective; hence, infected people primarily rely on symptomatic treatment and supportive care.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32186952
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, to date, no licensed antiviral treatment or vaccine exists for MERS and SARS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32196406
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+While these common sense points will always be helpful, it is important that you keep up to date with the advice being given by the &lt;b&gt;Centers for Disease Control and Prevention (CDC)&lt;/b&gt; and &lt;b&gt;NHS England&lt;/b&gt; and how it might affect you personally. […] These suggestions have been produced using the most up-to-date advice available to us from our Scientific and Medical Advisors and are not intended to replace or supersede advice you may have been given from your health care professional.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32196426
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Expected final online publication date for the &lt;i&gt;Annual Review of Virology&lt;/i&gt;, Volume 7 is September 29, 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32205090
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Evidencing eTCB effectiveness is Taiwan’s success to date in containing and controlling the community-hospital-community transmission cycle.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32210236
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All data are geo-coded and, where available, include symptoms, key dates (date of onset, admission, and confirmation), and travel history.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32211816
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This cohort study was conducted from January 20, 2020, to February 10, 2020, in a single center at Renmin Hospital of Wuhan University, Wuhan, China; the final date of follow-up was February 15, 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32212779
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, there is no scientific guideline regarding management of cancer patients in a background of coronavirus outbreak.&amp;lt;br /&amp;gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32213786
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As the situation with COVID-19 rapidly unfolds, it is critical that obstetricians keep up to date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32216717
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The severity of CXR findings peaked at 10-12 days from the date of symptom onset.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32217113
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, the outcomes of 55 pregnant women infected with COVID-19 and 46 neonates have been reported in the literature, with no definite evidence of vertical transmission.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32219428
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The study was conducted at the infectious disease department, Shenzhen Third People’s Hospital in Shenzhen, China, from January 20, 2020, to March 25, 2020; final date of follow-up was March 25, 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32220284
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The final date of follow-up was Feb 12, 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32224151
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, the clinical characteristics of COVID-19-infected cancer patients are largely unknown.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32225133
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Assuming an arithmetical growth in the second variation of the data, we present a cubic adjustment model in which we estimate over 100 000 cases at 120 days consistent with the data recorded to date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32232520
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since our hospital received the first patient with COVID-19 in Singapore, our centre has managed 16 COVID-19 cases to date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32232652
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+By the end of follow-up date (Mar. 3, 2020), there were 16 non-severe cases (64%) and 9 severe cases (36%), 5 cases were dead (20%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32233034
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, multiple position statements and guidelines have been issued by various professional organizations to recommend practices in endoscopic procedures.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32234451
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although related to the Severe Acute Respiratory Syndrome (SARS) and the Middle East Respiratory Syndrome (MERS), COVID-19 shows some peculiar pathogenetic, epidemiological and clinical features which have not been completely understood to date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32234466
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Coronavirus disease 2019 (COVID-19) originated in the city of Wuhan, Hubei Province, Central China, and has spread quickly to 72 countries to date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32234728
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Every month, DTB scans sources of information on treatments, disease management and other healthcare topics for key items to bring to our readers’ attention and help them keep up to date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32235085
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It spread rapidly and to date has killed 3,242 persons with more than 81,000 cases of infection in China and causing over 126,000 global cases and 5,414 deaths in 166 other countries around the world, especially Italy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32240128
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among 23 (30%) residents with positive test results, 10 (43%) had symptoms on the date of testing, and 13 (57%) were asymptomatic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32241244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, computed tomography (CT) findings have been recommended as major evidence for the clinical diagnosis of COVID-19 in Hubei, China.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32241328
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Following this date, attention quickly increased and has remained high over time.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32245904
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, no effective treatment has been identified and management for critically ill patients relies on management in intensive care units.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32247050
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on recently published literatures, official documents and selected up-to-date preprint studies, we reviewed the virology and origin, epidemiology, clinical manifestations, pathology and treatment of 2019-nCoV infection, in comparison with severe acute respiratory syndrome coronavirus (SARS-CoV) and middle east respiratory syndrome coronavirus (MERS-CoV) infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32247326
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We used the date of the fourth revision of the case definition (Jan 27) to divide the epidemic into two time periods (Dec 24 to Jan 27, and Jan 28 to Feb 17) as the date of symptom onset.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32250385
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Date of final follow-up was March 25, 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32250958
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this paper is to describe the utilization of a dedicated mobile health (mHealth) platform to disseminate up-to-date and validated information about SARS-CoV-2 to all medical staff of the Children’s Hospital at the University Hospitals of Geneva.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32251794
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, no specific treatment has been proven to be effective for SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32251848
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This article delineates some of those challenges and the responses to them which are known, to date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32252141
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The purpose of this review is to summarize known-to-date information about SARS-CoV-2, transmission of SARS-CoV-2, and clinical features.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32254064
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, there are no proven options for prophylaxis for those who have been exposed to SARS-CoV-2, nor therapy for those who develop COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32255382
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Demographic, clinical, laboratory, and treatment data were collected and analyzed, and final date of follow-up was February 24, 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32258351
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is imperative for public health practitioners and the One Health community to stay up to date on the most promising potential therapeutic options that are under investigation. […] Thus, the purpose of this review is to synthesize the knowledge to date about remdesivir as a therapeutic option for coronaviruses, with a special focus on information relevant to the One Health community.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32259155
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this paper is to review all the up to date evidence, including experiences from China and Italy, to guide the safe management of such patients when undergoing gynaecological procedures.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32259279
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Unpublished reports, unspecified date and location of the study or suspicion of duplicate reporting, cases with suspected COVID-19 that were not confirmed by a laboratory test, and unreported maternal or perinatal outcomes were excluded.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32264957
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, we have found it is one of the greatest challenges to human beings in fighting against COVID-19 in the history, because SARS-CoV-2 is different from SARS-CoV and MERS-CoV in terms of biological features and transmissibility, and also found the containment strategies including the non-pharmaceutical public health measures implemented in China are effective and successful.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32265182
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, there are no medical treatments for COVID-19 with proven effectiveness.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32267098
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this review article, we summarized the published literatures to date concerning four different aspects: (a) gastrointestinal manifestations of COVID-19 infection; (b) microbiologic and virological investigations; (c) the role of fecal-oral transmission; and (d) prevention/control infection in the digestive endoscopy room.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32269177
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, only three centers have performed a catheterization on a confirmed COVID-19 positive patient.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32270371
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, there is no specific therapy for COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32270521
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This research statistically analyzed the effect of sex, region, infection reasons, birth year, and released or diseased date on the reported numbers of recovered and deceased cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32271458
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The proposed classifier used different seven variables, namely, country, infection reason, sex, group, confirmation date, birth year, and region.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32271722
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the four clusters for which the date of exposure could be determined, presymptomatic transmission occurred 1-3 days before symptom onset in the presymptomatic source patient.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281052
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, no standard treatment for this disease has been discovered to date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281213
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although pre-clinical results are promising, till date, there is dearth of evidence to support the efficacy of CQ or HCQ in preventing COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281330
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Documents were screened following the inclusion criteria, and data were extracted in regard to registration date, study objective, type of design, sponsor, patient, sample size, intervention, and evaluation index.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32282022
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No therapies have been shown effective to date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32283052
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, considerable knowledge gaps remain regarding the chest CT imaging features of COVID-19. […] We performed a systematic review and meta-analysis of results from published studies to date to provide a summary of evidence on detection of COVID-19 by chest CT and the expected CT imaging manifestations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32283108
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, the most promising broad-spectrum class of viral RdRp inhibitors are nucleoside analogues (NAs), with over 25 approved for the treatment of several medically important viral diseases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32283185
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To ensure availability of donor cells on the scheduled date of infusion, many sites now collect cryopreserve grafts before the start of pretransplant conditioning.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32285338
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Few studies have been performed on viral transmission during surgery, but to date there is no study that demonstrates or can suggest the ability for a virus to be transmitted during surgical treatment whether open or laparoscopic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32286607
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, SARS-CoV-2 is known to enter the host cells via the angiotensin-converting enzyme 2 protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32288415
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, we propose the BAT model, which is composed of three parts: simulation of the return rush (Back), analytic hierarchy process (AHP) method, and technique for order preference by similarity to an ideal solution (TOPSIS) method, to figure out the best return date for university students.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32288418
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We also evaluate the effectiveness of the quarantine measures and schedule the date to reopen Hubei Province.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32289472
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, COVID-19 has affected over 944,181 people worldwide, resulting in over 47,312 reported deaths. […] As new findings emerge, there is an urgent need for up-to-date management guidelines.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32291505
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date there is no specific treatment available-the main goal of supportive therapy is to ascertain adequate oxygenation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32291526
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several hypotheses have been proposed to date regarding the net effect of ACEI/ARB on COVID-19 infections.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292517
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No patient has died in our hospital to date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292529
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As the epicentre of the initial outbreak, China has been updating the National COVID-19 Diagnostic and Treatment Guideline with up-to-date information about the disease. […] Medical professionals should diagnose and treat patients according to up-to-date guidelines.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292686
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, there is no specific therapy for COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292697
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Coronavirus disease 2019 (COVID-19) reminds us of the SARS outbreak in 2003, and up to date, corticosteroid is commonly administrated to severe patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292826
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+While there is no intervention for the prevention or treatment of COVID-19 with proven clinical efficacy to date, tools to distil the current research landscape by intervention, level of evidence and those studies likely powered to address future research questions is essential.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292911
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Its accuracy has been 1.29% for the last day added and predicted by the 57 previous WHO situation reports (the date 18 March 2020).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32293020
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on the evidence to date, there are several treatment options to consider for the relief of fever (acetaminophen, NSAID, oral glucocorticoids), cough (morphine), breathlessness (morphine, oxygen, fan), anxiety (benzodiazepines) and pain (NSAID, morphine).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32293875
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since the emergence of a novel coronavirus disease (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was firstly reported from Wuhan, China, to date, neither a specific vaccine nor antiviral drug against SARS-CoV-2 is available.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32294617
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Individuals should get the most up to date information from the CDC website.].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32294718
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, no case series have been published in Brazil.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/chloroquine/</link>
+      <atom:link href="/drugpanel/chloroquine/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/chloroquine/</link>
+    </image>
+    
+    <item>
+      <title>CHLOROQUINE</title>
+      <link>/drugpanel/chloroquine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/chloroquine/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00608&#39; target=&#39;_blank&#39;&gt;db00608&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=chloroquine&#34; target=&#34;_blank&#34;&gt;chloroquine&lt;/a&gt; &lt;br&gt;
+Synonymous :chloraquine | chlorochin | chloroquina | chloroquine | chloroquinium | chloroquinum | cloroquina | n4-(7-chloro-4-quinolinyl)-n1,n1-diethyl-1,4-pentanediamine
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;chloroquine&lt;/em&gt; gene in 37 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32074550
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chloroquine phosphate, an old drug for treatment of malaria, is shown to have apparent efficacy and acceptable safety against COVID-19 associated pneumonia in multicenter clinical trials conducted in China.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32075365
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Previous studies have shown that chloroquine phosphate (chloroquine) had a wide range of antiviral effects, including anti-coronavirus. […] Here we found that treating the patients diagnosed as novel coronavirus pneumonia with chloroquine might improve the success rate of treatment, shorten hospital stay and improve patient outcome. […] In order to guide and regulate the use of chloroquine in patients with novel coronavirus pneumonia, the multicenter collaboration group of Department of Science and Technology of Guangdong Province and Health Commission of Guangdong Province for chloroquine in the treatment of novel coronavirus pneumonia developed this expert consensus after extensive discussion. […] It recommended chloroquine phosphate tablet, 500mg twice per day for 10 days for patients diagnosed as mild, moderate and severe cases of novel coronavirus pneumonia and without contraindications to chloroquine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32092748
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This issue has rapidly reviewed and published articles describing COVID-19, including the drug treatment options for SARS-CoV-2, its clinical characteristics, and therapies involving a combination of Chinese and Western medicine, the efficacy of chloroquine phosphate in the treatment of COVID-19 associated pneumonia according to clinical studies, and reflections on the system of reserve medical supplies for public health emergencies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32147496
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent publications have brought attention to the possible benefit of chloroquine, a broadly used antimalarial drug, in the treatment of patients infected by the novel emerged coronavirus (SARS-CoV-2). […] The scientific community should consider this information in light of previous experiments with chloroquine in the field of antiviral research.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32147628
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several drugs such as chloroquine, arbidol, remdesivir, and favipiravir are currently undergoing clinical studies to test their efficacy and safety in the treatment of coronavirus disease 2019 (COVID-19) in China; some promising results have been achieved thus far.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32150618
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chloroquine has been sporadically used in treating SARS-CoV-2 infection. […] Hydroxychloroquine shares the same mechanism of action as chloroquine, but its more tolerable safety profile makes it the preferred drug to treat malaria and autoimmune conditions. […] The pharmacological activity of chloroquine and hydroxychloroquine was tested using SARS-CoV-2 infected Vero cells. […] Hydroxychloroquine (EC50=0.72 μM) was found to be more potent than chloroquine (EC50=5.47 μM) in vitro. […] Based on PBPK models results, a loading dose of 400 mg twice daily of hydroxychloroquine sulfate given orally, followed by a maintenance dose of 200 mg given twice daily for 4 days is recommended for SARS-CoV-2 infection, as it reached three times the potency of chloroquine phosphate when given 500 mg twice daily 5 days in advance. […] Hydroxychloroquine was found to be more potent than chloroquine to inhibit SARS-CoV-2 in vitro.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32171740
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the absence of a known efficient therapy and because of the situation of a public-health emergency, it made sense to investigate the possible effect of chloroquine/hydroxychloroquine against SARS-CoV-2 since this molecule was previously described as a potent inhibitor of most coronaviruses, including SARS-CoV-1. […] Preliminary trials of chloroquine repurposing in the treatment of COVID-19 in China have been encouraging, leading to several new trials. […] Here we discuss the possible mechanisms of chloroquine interference with the SARS-CoV-2 replication cycle.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32173110
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this systematic review was to summarize the evidence regarding chloroquine for the treatment of COVID-19. […] PubMed, EMBASE, and three trial Registries were searched for studies on the use of chloroquine in patients with COVID-19. […] Chloroquine seems to be effective in limiting the replication of SARS-CoV-2 (virus causing COVID-19) in vitro. […] There is rationale, pre-clinical evidence of effectiveness and evidence of safety from long-time clinical use for other indications to justify clinical research on chloroquine in patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32173241
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, effective treatment is lacking; however, clinical trials investigating the efficacy of several agents, including remdesivir and chloroquine, are underway in China.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32179150
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chloroquine, remdesivir, lopinavir, ribavirin and ritonavir have shown efficacy to inhibit coronavirus in vitro.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32196083
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chloroquine (CQ) exhibits a promising inhibitory effect.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32205204
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chloroquine and hydroxychloroquine have been found to be efficient on SARS-CoV-2, and reported to be efficient in Chinese COV-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32217113
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We discuss the latest options in antiviral therapy and vaccine development, including the novel use of chloroquine in the management of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32219357
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+She was treated with dobutamine, antiviral drugs (lopinavir/ritonavir), steroids, chloroquine, and medical treatment for heart failure, with progressive clinical and instrumental stabilization.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32219882
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To help understand the advantages and limitations of differential treatments, we provide a timely review and discuss the complications and corresponding major treatments, especially controversial ones such as antiviral therapy (remdesivir, ribavirin, and chloroquine), glucocorticoid therapy, extracorporeal support including an artificial liver system, and extracorporeal membrane oxygenation based on available evidence.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32229706
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Also, Chloroquine-related compounds inhibit the induction of the well-known senescence marker, Beta-galactosidase.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32234468
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Treatments, including antiviral agents, chloroquine and hydroxychloroquine, corticosteroids, antibodies, convalescent plasma transfusion and vaccines, are discussed in this article.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32241801
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Two antimalarial agents, chloroquine (CQ) and hydroxychloroquine (HCQ), have been trusted treatments for a range of rheumatic diseases over the past seventy years [1].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32243270
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This review summarizes the current evidence of potential therapeutic agents, such as lopinavir/ritonavir, remdesivir, favipiravir, chloroquine, hydroxychloroquine, interferon, ribavirin, tocilizumab and sarilumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32246834
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition to the recommended antiviral drugs such as interferon-ɑ, lopinavir/ritonavir, ribavirin, and chloroquine phosphate, some clinical trials focusing on virus RNA dependent RNA polymerase (RdRp) inhibitors have been registered and initiated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32247050
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Potential treatments included remdesivir, chloroquine, tocilizumab, convalescent plasma and vaccine immunization (when possible).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32247211
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In view of recent studies and discussion on chloroquine and hydroxychloroquine (HCQ), we aimed to review existing literature and relevant websites regarding these drugs and COVID-19, adverse effects related to drugs, and related guidelines. […] We systematically searched the PubMed database up till March 21, 2020 and retrieved all the articles published on chloroquine and HCQ and COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32247213
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Search terms were, COVID-19, treatment of coronavirus, COVID 19 and following terms; chloroquine, hydroxychloroquine, ibuprofen, ACE-inhibitors or angiotensin receptor blockers, cardiovascular disease, diarrhoea, liver, testis and gastrointestinal disease. […] We discuss evidence regarding role of chloroquine and hydroxychloroquine in treatment and prophylaxis, use of inhibitors of the renin angiotensin system, safety of ibuprofen, unusual clinical features like gastrointestinal symptoms and interpretation of tests for cardiac enzymes and biomarkers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32251731
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Using a combination of structural and molecular modelling approaches, this study showed that chloroquine (CLQ), one of the drugs currently under investigation for SARS-CoV-2 treatment, binds sialic acids and gangliosides with high affinity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32256547
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We identified 24 clinical trials, involving more than 20 medicines, such as human immunoglobulin, interferons, chloroquine, hydroxychloroquine, arbidol, remdesivir, favipiravir, lopinavir, ritonavir, oseltamivir, methylprednisolone, bevacizumab, and traditional Chinese medicines (TCM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32265182
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In light of this, there has been growing interest in the use of existing medications, such as chloroquine (CQ) and hydroxychloroquine (HCQ), as potential treatments of this disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32274787
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cases of chloroquine-related toxicity have been reported elsewhere, but have not been observed in our hospital so far.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32277367
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Preliminary evidence suggests potential benefit with chloroquine or hydroxychloroquine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32278764
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Caution should be taken to potential hypoglycemic events with the use of chloroquine in these subjects.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281213
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Different drugs for prophylaxis against COVID-19 including chloroquine (CQ) or hydroxychloroquine (HCQ) have been tried.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281268
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In light of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2 or COVID-19) pandemic and the possible widespread use of chloroquine (a member of the drug class 4-aminoquinoline primarily used to prevent and treat malaria and amebiasis) and its derivatives (e.g. hydroxychloroquine, a metabolite of chloroquine),&lt;sup&gt;1&lt;/sup&gt; a safety issue is addressed, concerning the selection of patients suitable to receive it.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281481
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Due to factors such as history of prescription for other infectious diseases, availability, and relatively low cost, the use of chloroquine (CQ) and hydroxychloroquine (HCQ) has been tested &lt;i&gt;in vivo&lt;/i&gt; and &lt;i&gt;in vitro&lt;/i&gt; for the ability to inhibit the causative virus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281583
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chloroquine and hydroxychloroquine have garnered considerable attention for their potential to treat coronavirus disease 2019 (COVID-19). […] Increasing evidence obtained from completed clinical studies indicates the prospects for chloroquine/hydroxychloroquine to treat COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281695
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We identified many cheap, available, and safe medicines, such as diphenidol, quinine, chloroquine, artemisinin, chlorpheniramine, yohimbine, and dextromethorphan, which may target the most common symptoms caused by 2019-nCoV.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32282502
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No established treatment is currently available; however, several therapies, including remdesivir, hydroxychloroquine and chloroquine, and interleukin (IL)-6 inhibitors, are being used off-label and evaluated in ongoing clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32285930
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The data sources included were 1) longitudinal clinical, pharmacokinetic, and virologic data from patients with severe acute respiratory syndrome-2 (SARS-CoV-2) infection who received HCQ with or without azithromycin (n=116), 2) in vitro viral replication data and SARS-CoV-2 viral load inhibition by HCQ, 3) a population pharmacokinetic model of HCQ and 4) a model relating chloroquine pharmacokinetics to QTc prolongation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32293834
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most frequently used agents both in Turkey and all over the world including chloroquine, hydroxychloroquine, lopinavir/ritonavir, favipiravir and remdesivir will be reviewed here .
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

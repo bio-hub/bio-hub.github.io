@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qiang Fang | PlatCOVID</title>
+    <link>/author/qiang-fang/</link>
+      <atom:link href="/author/qiang-fang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qiang Fang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Qiang Fang</title>
+      <link>/author/qiang-fang/</link>
+    </image>
+    
+    <item>
+      <title>[Clinical experience of high-flow nasal cannula oxygen therapy in severe corona virus disease 2019 (COVID-19) patients].</title>
+      <link>/publication/32268019/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32268019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[CT imaging features of patients with different clinical types of coronavirus disease 2019 (COVID-19)].</title>
+      <link>/publication/32207591/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32207591/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Management of corona virus disease-19 (COVID-19): the Zhejiang experience].</title>
+      <link>/publication/32096367/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32096367/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

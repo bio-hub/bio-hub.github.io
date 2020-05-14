@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/oxygen/</link>
+      <atom:link href="/drugpanel/oxygen/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/oxygen/</link>
+    </image>
+    
+    <item>
+      <title>OXYGEN</title>
+      <link>/drugpanel/oxygen/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/oxygen/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db09140&#39; target=&#39;_blank&#39;&gt;db09140&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
+Synonymous :dioxygen | molecular oxygen | oxigeno gaseoso | oxygen usp | pure oxygen
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 47 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32031570
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Of the 36 cases in the ICU, 4 (11.1%) received high-flow oxygen therapy, 15 (41.7%) received noninvasive ventilation, and 17 (47.2%) received invasive ventilation (4 were switched to extracorporeal membrane oxygenation).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32053470
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with severe respiratory distress and/ or oxygen requirement at any time during the disease course were excluded.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32096367
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Conservative oxygen therapy was preferred and noninvasive ventilation was not recommended.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32105680
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Principles of management of coronavirus disease 2019 in pregnancy include early isolation, aggressive infection control procedures, oxygen therapy, avoidance of fluid overload, consideration of empiric antibiotics (secondary to bacterial infection risk), laboratory testing for the virus and coinfection, fetal and uterine contraction monitoring, early mechanical ventilation for progressive respiratory failure, individualized delivery planning, and a team-based approach with multispecialty consultations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32112884
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Fever, cough and expectoration were the most common symptoms, 14 patients had decreased oxygen saturation, 33 had leukopenia, 53 had lymphopenia, and 82 had elevated C-reactive protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32125362
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Clinical course was summarized, including requirement for supplemental oxygen and intensive care and use of empirical treatment with lopinavir-ritonavir. […] Six individuals (33%) required supplemental oxygen; of these, 2 required intensive care. […] Five individuals requiring supplemental oxygen were treated with lopinavir-ritonavir. […] For 3 of the 5 patients, fever resolved and supplemental oxygen requirement was reduced within 3 days, whereas 2 deteriorated with progressive respiratory failure. […] Some patients required supplemental oxygen and had variable clinical outcomes following treatment with an antiretroviral agent.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32171866
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Lopinavir and Ritonavir Tablets, Chinese medicine, oxygen therapy, and mechanical ventilation were statistically different in the elderly group and the young and middle-aged group, and the P values were all &amp;lt;0.05.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32173725
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Refractory COVID-19 patients were more likely to receive oxygen, mechanical ventilation, expectorant, and adjunctive treatment including corticosteroid, antiviral drugs and immune enhancer (P&amp;lt;0.05). […] After adjustment, those with refractory COVID-19 were also more likely to have a male sex and manifestations of anorexia and fever on admission, and receive oxygen, expectorant and adjunctive agents (P&amp;lt;0.05) when considering the factors of disease severity on admission, mechanical ventilation, and ICU transfer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32186172
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Close monitoring of oxygenation, reducing patients’ oxygen consumption, active psychological intervention, and rapidly dealing with severe hypoxemia events are the key factors for the successful treatment of NIV.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32187464
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We conducted a randomized, controlled, open-label trial involving hospitalized adult patients with confirmed SARS-CoV-2 infection, which causes the respiratory illness Covid-19, and an oxygen saturation (Sao&lt;sub&gt;2&lt;/sub&gt;) of 94% or less while they were breathing ambient air or a ratio of the partial pressure of oxygen (Pao&lt;sub&gt;2&lt;/sub&gt;) to the fraction of inspired oxygen (Fio&lt;sub&gt;2&lt;/sub&gt;) of less than 300 mm Hg.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32195704
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+So far, actions have been taken including but not limited to nationwide actions and online education regarding special procedures of airway management, oxygen therapy, ventilation support, hemodynamic management, sedation, and analgesia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32195705
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Timely, but not premature, intubation is crucial to counter a progressively enlarging oxygen debt despite high-flow oxygen therapy and bilevel positive airway pressure ventilation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32196707
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients were given antiviral therapy (including oseltamivir), oxygen inhalation, and antibiotics.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32202343
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Suggested treatment included providing oxygen, inhalations, nutritional support and maintaining fluids and electrolyte balances.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32204751
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Approaching to treat severe respiratory disease in infants and children, the risks related to the development of atelectasis starting invasive or non-invasive ventilation support and the risk of oxygen toxicity must be taken into serious consideration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32209890
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The blood oxygen saturation was significantly lower in the death group (85 [77, 91]% vs. […] Compared to the recovered group, more patients in the death group exhibited characteristics of advanced age, pre-existing comorbidities, dyspnea, oxygen saturation decrease, increased WBC count, decreased lymphocytes, and elevated CRP levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32216961
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Data were gathered regarding the presence of chest computed tomography (CT) abnormalities; the distribution, morphology, density, location, and stage of abnormal shadows on chest CT; and observing the correlation between the severity of chest infection and lymphocyte ratio and blood oxygen saturation (SPO&lt;sub&gt;2&lt;/sub&gt;) in patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32220650
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All children received interferon alfa by aerosolisation twice a day, 14 (39%) received lopinavir-ritonavir syrup twice a day, and six (17%) needed oxygen inhalation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32221973
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In particular, we describe key elements of clinical management, including: safe oxygen therapy; airway management; personal protective equipment; and non-technical aspects of caring for patients diagnosed with coronavirus disease 2019.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32226287
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Four patients required oxygen therapy but none of them needed machinal ventilation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32226695
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Both COVID-19 and HAPE exhibit a decreased ratio of arterial oxygen partial pressure to fractional inspired oxygen with concomitant hypoxia and tachypnea.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32228825
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One of the COVID-19 treatments involves inhaling a mixture of gaseous hydrogen and oxygen, obtaining better results than with oxygen alone. […] In addition, germicidal UV radiation “breaks down” the oxygen O2 which then aggregate into O3 (ozone) molecules creating the ozone layer, capable of inhibiting viral replication and improving lung respiration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32232685
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Most of the critically ill patients received high-flow nasal cannula (HFNC) oxygen therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32234250
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Forty-nine patients with COVID-19 requiring supplementary oxygen before surgery had spinal anaesthesia (ropivacaine 0.75%), chiefly for Caesarean section (45/49 [91%]).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32239757
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+During our preparedness for the COVID-19 pandemic we identified that our GE Healthcare anaesthetic machines (GE Healthcare, Amersham Place, Little Chalfont, UK) had a ventilator which was gas-driven, using oxygen. […] This resulted in a large amount of wasted oxygen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32242348
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Six patients (21.4%) required supplemental oxygen therapy, but no one needed mechanical ventilation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32246843
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One of the key decisions faced by healthcare systems is in selecting the appropriate devices for oxygen administration. […] The use of high-flow nasal oxygen (HFNO) in COVID-19 is the subject of much debate, relating to the benefits and harms that may result for patients and healthcare workers alike.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32248146
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Healthcare workers are at high risk of contracting the infection particularly when applying respiratory devices such as oxygen cannulas or noninvasive ventilation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32248675
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Only one of the survivors (14%) still required oxygen at 28 days.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32259129
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, the drug could decrease neutrophil-generated reactive oxygen species during inflammation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32259899
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However some individuals develop a more fulminant syndrome including viral pneumonia, respiratory failure requiring oxygen, acute respiratory distress syndrome requiring mechanical ventilation, and in substantial fractions leading to death attributable to COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32267987
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In worldwide, the incubation period of COVID-19 was 3 to 7 days and approximately 80% of infections are mild or asymptomatic, 15% are severe, requiring oxygen, and 5% are critical infections, requiring ventilation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32268019
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We applied HFNC for oxygen therapy in severe and critical COVID-19 patients and summarized the following experiences. […] Thirdly, to avoid hypoxia or hypoxemia, the treatment goal of HFNC should be maintained the oxygen saturation (SpO&lt;sub&gt;2&lt;/sub&gt;) above 95% for patients without chronic pulmonary disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32271454
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Gene Ontology functional enrichment analysis demonstrated that the biological processes altered within the body after taking MXSGD were closely related to the regulation of such processes as the acute inflammatory response, chemokine production, vascular permeability, response to oxygen radicals, oxidative stress-induced apoptosis, T cell differentiation involved in the immune response, immunoglobulin secretion, and extracellular matrix disassembly.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32275753
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Levels of their lung lesions, oxygen saturation and heart rates were compared before and after treatment by CT scanning images and patient monitor. […] Improvements of oxygen saturation were observed in 6 clinically severe patients. […] In the 2 patients with critical conditions, the oxygen levels have significantly increased from 79-82% to 91% just about 1 hour after the first inhalation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32275812
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients were those with confirmed SARS-CoV-2 infection who had an oxygen saturation of 94% or less while they were breathing ambient air or who were receiving oxygen support. […] During a median follow-up of 18 days, 36 patients (68%) had an improvement in oxygen-support class, including 17 of 30 patients (57%) receiving mechanical ventilation who were extubated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32279418
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Initial symptoms were fatigue, dry cough and coryza; she never had fever nor oxygen supplementation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32286679
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A significant number of patients with pneumonia require passive oxygen therapy. […] Non-invasive ventilation and high-flow nasal oxygen therapy can be applied in mild and moderate non-hypercapnia cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32289472
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Management is predominantly focused on the provision of supportive care, with oxygen therapy representing the major treatment intervention.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32290644
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One patient required supplemental oxygen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292626
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The COS-COVID includes one outcome for the mild type (time to 2019-nCoV reverse transcription-polymerase chain reaction (RT-PCR) negativity), four outcomes for the ordinary type (length of hospital stay, composite events, score of clinical symptoms, and time to 2019-nCoV RT-PCR negativity), five outcomes for the severe type (composite events, length of hospital stay, arterial oxygen partial pressure (PaO&lt;sub&gt;2&lt;/sub&gt;)/fraction of inspired oxygen (FiO&lt;sub&gt;2&lt;/sub&gt;), duration of mechanical ventilation, and time to 2019-nCoV RT-PCR negativity), one outcome for critical type (all-cause mortality), and one outcome for rehabilitation period (pulmonary function).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292634
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This consensus included nursing assessment, nursing priorities, nursing goals, and thirteen key points of nursing procedures such as nursing of oxygen therapy and respiratory nursing.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292847
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Fulminant myocarditis due to direct viral infection can certainly occur, but patients with increased oxygen demands due to tachycardia and fever, and reduced oxygen delivery due to hypotension and hypoxemia can cause myocardial injury indirectly.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292866
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This latter stage is characterized by the development of progressive lung involvement with increasing oxygen requirements and occasionally signs of the haemophagocitic syndrome.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292903
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Of the other 29 (67.4%) patients who presented with symptomatic COVID-19 infection, three women ultimately required antenatal admission for viral symptoms, and an additional patient represented six days postpartum after a successful labor induction with worsening respiratory status that required oxygen supplementation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32293020
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on the evidence to date, there are several treatment options to consider for the relief of fever (acetaminophen, NSAID, oral glucocorticoids), cough (morphine), breathlessness (morphine, oxygen, fan), anxiety (benzodiazepines) and pain (NSAID, morphine).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32294289
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The definition of severe COVID-19 was the presence of at least one of following: respiratory rate ≥30 breaths /min; arterial oxygen saturation ≤93% at rest; PaO2/FiO2 ≤300 mmHg.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

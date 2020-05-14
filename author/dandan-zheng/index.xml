@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dandan Zheng | PlatCOVID</title>
+    <link>/author/dandan-zheng/</link>
+      <atom:link href="/author/dandan-zheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dandan Zheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Dandan Zheng</title>
+      <link>/author/dandan-zheng/</link>
+    </image>
+    
+    <item>
+      <title>Pregnancy and Perinatal Outcomes of Women With Coronavirus Disease (COVID-19) Pneumonia: A Preliminary Analysis.</title>
+      <link>/publication/32186894/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32186894/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Course of Lung Changes On Chest CT During Recovery From 2019 Novel Coronavirus (COVID-19) Pneumonia.</title>
+      <link>/publication/32053470/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32053470/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

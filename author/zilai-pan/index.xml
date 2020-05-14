@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zilai Pan | PlatCOVID</title>
+    <link>/author/zilai-pan/</link>
+      <atom:link href="/author/zilai-pan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zilai Pan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Zilai Pan</title>
+      <link>/author/zilai-pan/</link>
+    </image>
+    
+    <item>
+      <title>Clinical Features and Chest CT Manifestations of Coronavirus Disease 2019 (COVID-19) in a Single-Center Study in Shanghai, China.</title>
+      <link>/publication/32174128/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32174128/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

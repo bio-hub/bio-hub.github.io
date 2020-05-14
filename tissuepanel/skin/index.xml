@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>none | PlatCOVID</title>
+    <link>/tissuepanel/skin/</link>
+      <atom:link href="/tissuepanel/skin/index.xml" rel="self" type="application/rss+xml" />
+    <description>none</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>none</title>
+      <link>/tissuepanel/skin/</link>
+    </image>
+    
+    <item>
+      <title>skin</title>
+      <link>/tissuepanel/skin/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/tissuepanel/skin/info/</guid>
+      <description> 
+
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;tissue-sentence-context&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tissue Sentence Context&lt;/h3&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;skin&lt;/em&gt; tissue in 13 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Senteces
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32170800
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Health professions preventing and controlling Coronavirus Disease 2019 are prone to skin and mucous membrane injury, which may cause acute and chronic dermatitis, secondary infection and aggravation of underlying skin diseases. […] Insufficient and excessive protection will have adverse effects on the skin and mucous membrane barrier.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32172546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; To investigate the pathological characteristics and the clinical significance of novel coronavirus (2019-nCoV)-infected pneumonia (termed by WHO as corona virus disease 2019, COVID-19). &lt;b&gt;Methods:&lt;/b&gt; Minimally invasive autopsies from lung, heart, kidney, spleen, bone marrow, liver, pancreas, stomach, intestine, thyroid and skin were performed on three patients died of novel coronavirus pneumonia in Chongqing, China.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32201983
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this paper we share our experiences in dealing with skin diseases in this special period and hope to provide some references for international colleagues in the epidemic situation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32219888
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since then numerous additional cases have been reported and the dissemination of the infection does not only pose a major health challenge for the entire population, medical care facilities and the economy, but also for the medical training of future doctors and outpatient care of patients with skin disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32220276
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients had acro-ischemia presentations including finger/toe cyanosis, skin bulla and dry gangrene.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32223004
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Dermatoscope is a convenient diagnostic tool used by dermatologists in the diagnosis of skin, hair and nail disorders.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32255197
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+During the outbreak of coronavirus disease 2019 (COVID-19), healthcare workers (HCWs) caring for COVID-19 patient have to wear personal protective equipment (PPE) and are therefore susceptible to PPE-related adverse skin reactions. […] However, little is known about the prevalence and characteristics of these adverse skin reactions and their associated risk factors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32255510
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In patients with suspected or confirmed COVID-19 disease, all immunomodulators used for skin diseases should be immediately withheld, with the possible exception of systemic corticosteroid therapy, which needs to be weaned.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32268381
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+· Parents should be engaged in shared decision-making with options for rooming in, skin-to-skin contact, and breastfeeding..
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32294259
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A skin rash has been reported in 2 out of 1.099 patients presenting with Coronavirus disease 2019 in China [1], as in 14 of 48 patients with the same disease in Italia, but unfortunately without further description of its semiology [2]. […] We wish to report here the case of a woman who presented, coincidently with Covid-19, a skin rash that had an original picture.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32294264
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We have read with great interest Dr Recalcati’s review about skin manifestations in COVID-19 as it is the first report on this subject&lt;sup&gt;1&lt;/sup&gt; .
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32294265
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Psoriasis is a major chronic inflammatory skin disease, affecting about 3% of the population in Italy, whose management require experienced specialists in order to guarantee high-quality standards of care.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32294273
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+About skin manifestation, few cases of rashes on patients with laboratory-confirmed Covid-19 were described in two Chineses cohorts.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

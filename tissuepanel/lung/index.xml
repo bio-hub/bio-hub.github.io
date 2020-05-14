@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>none | PlatCOVID</title>
+    <link>/tissuepanel/lung/</link>
+      <atom:link href="/tissuepanel/lung/index.xml" rel="self" type="application/rss+xml" />
+    <description>none</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>none</title>
+      <link>/tissuepanel/lung/</link>
+    </image>
+    
+    <item>
+      <title>lung</title>
+      <link>/tissuepanel/lung/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/tissuepanel/lung/info/</guid>
+      <description> 
+
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;tissue-sentence-context&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tissue Sentence Context&lt;/h3&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lung&lt;/em&gt; tissue in 169 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Senteces
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31981224
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Gaining a deeper understanding of the interaction between Coronaviruses and the innate immune systems of the hosts may shed light on the development and persistence of inflammation in the lungs and hopefully can reduce the risk of lung inflammation caused by CoVs. […] In this review, we provide an update on CoV infections and relevant diseases, particularly the host defense against CoV-induced inflammation of lung tissue, as well as the role of the innate immune system in the pathogenesis and clinical treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31986261
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+They and one asymptomatic child (aged 10 years) had radiological ground-glass lung opacities. […] Older patients (aged &amp;gt;60 years) had more systemic symptoms, extensive radiological ground-glass lung changes, lymphopenia, thrombocytopenia, and increased C-reactive protein and lactate dehydrogenase levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32017661
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Typical CT findings included bilateral pulmonary parenchymal ground-glass and consolidative pulmonary opacities, sometimes with a rounded morphology and a peripheral lung distribution. […] Notably, lung cavitation, discrete pulmonary nodules, pleural effusions, and lymphadenopathy were absent. […] Follow-up imaging in a subset of patients during the study time window often demonstrated mild or moderate progression of disease, as manifested by increasing extent and density of lung opacities.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32020836
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The two patients shared common clinical features including fever, cough, and multiple ground-glass opacities in the bilateral lung field with patchy infiltration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32027573
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Forty-four of 51 (86%) patients had bilateral lung involvement, while 41 of 51 (80%) involved the posterior part of the lungs and 44 of 51 (86%) were peripheral. […] There were more consolidated lung lesions in patients 5 days or more from disease onset to CT scan versus 4 days or fewer (431 of 712 lesions vs 129 of 612 lesions; &lt;i&gt;P&lt;/i&gt; &amp;lt; .001). […] Patients older than 50 years had more consolidated lung lesions than did those aged 50 years or younger (212 of 470 vs 198 of 854; &lt;i&gt;P&lt;/i&gt; &amp;lt; .001). […] Follow-up CT in 13 patients showed improvement in seven (54%) patients and progression in four (31%) patients.ConclusionPatients with fever and/or cough and with conspicuous ground-glass opacity lesions in the peripheral and posterior lungs on CT images, combined with normal or decreased white blood cells and a history of epidemic exposure, are highly suspected of having 2019 Novel Coronavirus (2019-nCoV) pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32044814
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lung involvement was present in all cases, with most chest computed tomography scans showing lesions in multiple lung lobes, some of which were dense; ground-glass opacity co-existed with consolidation shadows or cord-like shadows.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32048163
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The viral load of 2019-nCoV detected from patient respiratory tracts was positively linked to lung disease severity. […] ALB, LYM, LYM (%), LDH, NEU (%), and CRP were highly correlated to the acute lung injury. […] Age, viral load, lung injury score, and blood biochemistry indexes, albumin (ALB), CRP, LDH, LYM (%), LYM, and NEU (%), may be predictors of disease severity. […] Moreover, the Angiotensin II level in the plasma sample from 2019-nCoV infected patients was markedly elevated and linearly associated to viral load and lung injury.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32053470
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Background Chest CT is used to assess the severity of lung involvement in COVID-19 pneumonia. […] The total CT score was the sum of lung involvement (5 lobes, score 1-5 for each lobe, range, 0 none, 25 maximum) was determined. […] Maximum lung involved peaked at approximately 10 days (with the calculated total CT score of 6) from the onset of initial symptoms (R2=0.25), p&amp;lt;0.001). […] Based on quartiles of patients from day 0 to day 26 involvement, 4 stages of lung CT were defined: Stage 1 (0-4 days): ground glass opacities (GGO) in 18/24 (75%) patients with the total CT score of 2±2; (2)Stage-2 (5-8d days): increased crazy-paving pattern 9/17 patients (53%) with a increase in total CT score (6±4, p=0.002); (3) Stage-3 (9-13days): consolidation 19/21 (91%) patients with the peak of total CT score (7±4); (4) Stage-4 (≥14 days): gradual resolution of consolidation 15/20 (75%) patients with a decreased total CT score (6±4) without crazy-paving pattern. […] Conclusion In patients recovering from COVID-19 pneumonia (without severe respiratory distress during the disease course), lung abnormalities on chest CT showed greatest severity approximately 10 days after initial onset of symptoms.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32054787
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Prophylactic remdesivir treatment initiated 24 h prior to inoculation completely prevented MERS-CoV-induced clinical disease, strongly inhibited MERS-CoV replication in respiratory tissues, and prevented the formation of lung lesions. […] Therapeutic remdesivir treatment initiated 12 h postinoculation also provided a clear clinical benefit, with a reduction in clinical signs, reduced virus replication in the lungs, and decreased presence and severity of lung lesions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32061066
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Three patients were examined by chest X-ray examination, one of which was normal, one case showed infiltrates of right upper lung, and another showed in right lower lung. […] And 7 cases (7/9) showed multiple ground glass exudation, including 5 cases (5/7) involved bilateral lungs, 2 cases (2/7) involved unilateral lung, 3 cases (3/7) with patchy consolidation, and 2 cases (2/9) showed no abnormality. &lt;b&gt;Conclusions:&lt;/b&gt; The patents with 2019 novel coronavirus pneumonia in this study generally have an epidemiological history.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32062875
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The CT images of these patients showed bilateral multiple patchy or nodular ground-glass opacities and/or infiltrating shadows in middle and outer zone of the lung or under the pleura.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32064855
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Specific IgM antibody screening for patients whose pharyngeal swab nucleic acid test is negative but with ground glass-like lung lesions is very important for early detection and early isolation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32072255
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+• Novel coronavirus (COVID-19)-infected pneumonia usually manifests as bilateral ground-glass opacities in the lung periphery on chest CT scans. […] • Role of radiologists includes not only early detection of lung abnormality, but also suggestion of disease severity, potential progression to acute respiratory distress syndrome, and possible bacterial co-infection in hospitalized patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32077440
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For patients with lung occupying lesions, the whole process of diagnosis and treatment can not be carried out as usual due to the epidemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32077441
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+With the spread of COVID-19, the routine clinical diagnosis and treatment for lung cancer patients has been disturbed. […] Due to the systemic immunosuppressive of lung cancer patients caused by the malignancy and anticancer treatments, lung cancer patients are more susceptible to infection than healthy individuals. […] Lung cancer patients should be the priority group for COVID-19 prevention. […] The protection provisions and control measures aiming to protect lung cancer patients from COVID-19 have been increasingly concerned. […] During the COVID-19 outbreak period, it should be carefully differentiated for fever and respiratory symptoms for lung cancer patients receiving anti-tumor treatment, in order to evaluate the risk of COVID-19. […] Moreover, it is necessary to carry out meticulous and individualized clinical management for lung cancer patients to effectively protect the patients from COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32077789
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+With a longer time after the onset of symptoms, CT findings were more frequent, including consolidation, bilateral and peripheral disease, greater total lung involvement, linear opacities, “crazy-paving” pattern and the “reverse halo” sign. […] Bilateral lung involvement was observed in 10/36 early patients (28%), 25/33 intermediate patients (76%), and 22/25 late patients (88%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32081636
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Bilateral lung involvement with ground-glass opacity was the most common finding from computed tomography images of the chest.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32088847
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients had peripheral ground-glass opacities and/or lung consolidations in more than two pulmonary lobes. […] Lung lesions were characterized by a high &lt;sup&gt;18&lt;/sup&gt;F-FDG uptake and there was evidence of lymph node involvement.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32091414
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Most of the lesions were multiple, with an average of 12 ± 6 lung segments involved. […] The most common involved lung segments were the dorsal segment of the right lower lobe (69/80, 86%), the posterior basal segment of the right lower lobe (68/80, 85%), the lateral basal segment of the right lower lobe (64/80, 80%), the dorsal segment of the left lower lobe (61/80, 76%), and the posterior basal segment of the left lower lobe (65/80, 81%). […] The common chest CT findings of COVID-19 are multiple ground glass opacity, consolidation, and interlobular septal thickening in both lungs, which are mostly distributed under the pleura.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32096366
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The shape, number and distribution of lung shadows, as well as the characteristics of the lesions on the CT images were reviewed. […] The obvious shadows infiltrating the lungs were shown on CT images in 50 cases, for other 2 cases there was no abnormal changes in the lungs during the first CT examination.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32098422
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This virus causes acute lung symptoms, leading to a condition that has been named as “coronavirus disease 2019” (COVID-19).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32100485
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The peripheral and posterior lung fields were involved in 78% and 67% of the lesions, respectively. […] COVID-19 pneumonia in Korea primarily manifested as pure to mixed ground-glass opacities with a patchy to confluent or nodular shape in the bilateral peripheral posterior lungs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32104915
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, some coronaviruses have been demonstrated able to spread via a synapse-connected route to the medullary cardiorespiratory center from the mechanoreceptors and chemoreceptors in the lung and lower respiratory airways.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32105637
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The mean number of involved lung segments was 10·5 (SD 6·4) overall, 2·8 (3·3) in group 1, 11·1 (5·4) in group 2, 13·0 (5·7) in group 3, and 12·1 (5·9) in group 4.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32107577
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We analyzed the clinical characteristics of the patients, as well as the distribution characteristics, pattern, morphology, and accompanying manifestations of lung lesions. […] More than half of the patients presented bilateral, multifocal lung lesions, with peripheral distribution, and 53 (59%) patients had more than two lobes involved.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32112884
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+On chest computed tomography (CT), lung segments 6 and 10 were mostly involved. […] Lesions were more localized in the peripheral lung with a patchy form. […] The imaging pattern of multifocal peripheral ground glass or mixed opacity with predominance in the lower lung is highly suspicious of COVID-19 in the first week of disease onset.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32112966
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several recent case reports have described common early chest imaging findings of lung pathology caused by 2019 novel Coronavirus (SARS-COV2) which appear to be similar to those seen previously in SARS-CoV and MERS-CoV infected patients. […] Moderate to severe progression of the lung infiltrates, with increasing percentage of high-density infiltrates sustained by a bilateral and multi-segmental extension of lung opacities, were seen. […] It could be an early alert radiological sign to predict initial lung deterioration. […] Finally, the pulmonary vessels enlargement in areas where new lung infiltrates develop in the follow-up CT scan, could describe an early predictor radiological sign of lung impairment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32114094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Two patients who recently underwent lung lobectomies for adenocarcinoma were retrospectively found to have had COVID-19 at the time of the operation. […] Pathologic examinations revealed that apart from the tumors, the lungs of both patients exhibited edema, proteinaceous exudate, focal reactive hyperplasia of pneumocytes with patchy inflammatory cellular infiltration, and multinucleated giant cells. […] Because both patients did not exhibit symptoms of pneumonia at the time of operation, these changes likely represent an early phase of the lung pathology of COVID-19 pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32114744
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Their clinical material including placental tissue and lung CT, and laboratory results were collected, meanwhile, nucleic acid detection of 2019-nCoV of the placentas were performed by RT-PCR. &lt;b&gt;Results:&lt;/b&gt; Three placentas delivered from pregnant women with confirmed 2019-nCoV infection, who were all in their third trimester with emergency caesarean section.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32118394
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The diagnosis and treatment of lung cancer patients have been challenged greatly because of extraordinary public health measures since the lung cancer patients are a high-risk population during the COVID-19 outbreak period. […] Strict protection for lung cancer patients is needed to avoid infection. […] Lung cancer patients are difficult to differentiate from patients with COVID-19 in terms of clinical symptoms, which will bring great trouble to the clinical work and physical and mental health of lung cancer patients. […] This review will demonstrate how to applicate appropriate and individual management for lung cancer patients to protect them from COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32124995
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+And we found that patients with a positive stool test did not experience gastrointestinal symptoms and had nothing to do with the severity of the lung infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32125130
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In order to achieve the overall victory of the 2019 novel coronavirus disease epidemic in this ‘war’, especially to prevent the disease recurrence from rebounding during the resumption of labor, the government has not loosened any control of personnel mobility, which has obviously affected the normal examination and treatment of lung cancer patients under the influence of this epidemic. […] Among the infected cancer patients, lung cancer is the most common type. […] It is necessary to provide more appropriate individualized treatment recommendations for patients with lung cancer based on the epidemic situation of the patient’s location and in combination with the patient’s own condition. […] Through active prevention of infection, timely conversion of treatment strategies, online and offline joint control, and positive psychological counseling, we significantly hope to help patients with lung cancer to survive this difficult period.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32125131
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The imaging data were reviewed and analyzed in detail. &lt;b&gt;Results:&lt;/b&gt; (1) Distribution: the lesion detected in the lung unilaterally in 14 cases (10.7%) and bilaterally in 116 cases (89.3%). […] According to the distribution in the lobes of the lung, all cases could be classified into subpleural distribution (102 cases, 78.4%), centrilobular distribution (99 cases, 76.1%) and diffused distribution (8 cases, 6.1%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32125132
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Given the systemic immunosuppressive state caused by malignancy and anticancer treatments, patients with advanced lung cancer may be at a higher risk of COVID-19 infection. […] During epidemic of COVID-19, a guideline for the optimal management of patients with advanced lung cancer urgently needs to be proposed to distinguish the symptoms of COVID-19 and the side effects of antitumor drugs. […] This network questionnaire survey was conducted on the lung cancer group of the Chinese Thoracic Society, Chinese Medical Association; the lung cancer group of the Chinese Society of Clinical Oncology Youth Committee; and the Chinese Respiratory Oncology Collaboration. 321 valid questionnaires were received. […] Based on the guidelines on lung cancer and the results of the questionnaires, a consensus was reached. […] 对于目前新冠肺炎疫情期间，晚期非小细胞肺癌（non-small cell lung cancer，NSCLC）患者管理、抗肿瘤药物使用的策略、具体注意事项、药物不良反应与新冠肺炎疑诊患者的鉴别诊断要点等方面给予了建议和推荐。
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32125642
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Currently there is no effective antiviral therapy for SARS-CoV-2 infection, which frequently leads to fatal inflammatory responses and acute lung injury. […] In the absence of a proven clinical FcR blocker, the use of intravenous immunoglobulin to block FcR activation may be a viable option for the urgent treatment of pulmonary inflammation to prevent severe lung injury.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32125873
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lesions present on CT images were more likely to have a peripheral distribution (88 [87.1%]) and bilateral involvement (83 [82.2%]) and be lower lung predominant (55 [54.5%]) and multifocal (55 [54.5%]). […] Lesions are more likely to have peripheral distribution and bilateral involvement and be lower lung predominant and multifocal.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32129583
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In heart failure group, the ratio of the expansion of small pulmonary veins was also higher (3/7 vs. 0, &lt;i&gt;P&lt;/i&gt;=0.013), and the lung lesions can be significantly improved after effective anti-heart failure treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32129670
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study explains the findings from lung computed tomography images of some patients with COVID-19 treated in this medical institution and discusses the difference between COVID-19 and other lung diseases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32129843
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is still unclear how fast the virus evolved and how the virus interacts with other microorganisms in the lung.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32134681
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compared with early-phase disease (≤ 7 days after the onset of symptoms), advanced-phase disease (8-14 days after the onset of symptoms) was characterized by significantly increased frequencies of GGO plus a reticular pattern, vacuolar sign, fibrotic streaks, a subpleural line, a subpleural transparent line, air bronchogram, bronchus distortion, and pleural effusion; however, GGO significantly decreased in advanced-phase disease. &lt;b&gt;CONCLUSION.&lt;/b&gt; CT examination of patients with COVID-19 pneumonia showed a mixed and diverse pattern with both lung parenchyma and the interstitium involved. […] Lesions presented with a characteristic multifocal distribution in the middle and lower lung regions and in the posterior lung area.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32150618
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Using the PBPK models, hydroxychloroquine concentrations in lung fluid were simulated under 5 different dosing regimens to explore the most effective regimen whilst considering the drug’s safety profile.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32157849
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Take epidemiological history, fever, and the blood lymphocytes decline as clinical indicators, used CT to evaluate the possibility of COVID-19 and range of lung involvement.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32162081
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compared to reports in adults, we found similar but more modest lung abnormalities at CT in our small paediatric cohort.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32168162
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The imaging findings of the 2019-nCoV infection in our young diabetic patient featured ground-glass opacities and consolidations in both lungs. […] The lung lesions may involute rapidly during the course.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32170560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Moreover, lung cells that have ACE2 expression may be the main target cells during 2019-nCoV infection. […] Through scRNA-seq data analyses, we identified the organs at risk, such as lung, heart, esophagus, kidney, bladder, and ileum, and located specific cell types (i.e., type II alveolar cells (AT2), myocardial cells, proximal tubule cells of the kidney, ileum and esophagus epithelial cells, and bladder urothelial cells), which are vulnerable to 2019-nCoV infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32170806
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lung lesions have been considered as the major damage caused by SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32171193
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Coronavirus-19 (COVI-19) involves humans as well as animals and may cause serious damage to the respiratory tract, including the lung: coronavirus disease (COVID-19). […] The binding of COVI-19 to the Toll Like Receptor (TLR) causes the release of pro-IL-1β which is cleaved by caspase-1, followed by inflammasome activation and production of active mature IL-1β which is a mediator of lung inflammation, fever and fibrosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32172546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; To investigate the pathological characteristics and the clinical significance of novel coronavirus (2019-nCoV)-infected pneumonia (termed by WHO as corona virus disease 2019, COVID-19). &lt;b&gt;Methods:&lt;/b&gt; Minimally invasive autopsies from lung, heart, kidney, spleen, bone marrow, liver, pancreas, stomach, intestine, thyroid and skin were performed on three patients died of novel coronavirus pneumonia in Chongqing, China. […] Focal hemorrhage in lung tissue, organization of exudates in some alveolar cavities, and pulmonary interstitial fibrosiswere observed. […] Furthermore, degeneration and necrosis of parenchymal cells, formation of hyaline thrombus in small vessels, and pathological changes of chronic diseases were observed in other organs and tissues, while no evidence of coronavirus infection was observed in these organs. &lt;b&gt;Conclusion:&lt;/b&gt; s The lungs from novel coronavirus pneumonia patients manifest significant pathological lesions, including the alveolar exudative inflammation and interstitial inflammation, alveolar epithelium proliferation and hyaline membrane formation. […] While the 2019-nCoV is mainly distributed in lung, the infection also involves in the damages of heart, vessels, liver, kidney and other organs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32172669
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The clinical features include fever, coughing, shortness of breath, and inflammatory lung infiltration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32174095
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although there are no reports on the mechanism of COVID-19 inducing pulmonary fibrosis, based on the existing theoretical basis, we focus on the possible mechanism of COVID-19 sustained lung damaging, the key role of abnormal immune mechanism in the initiation and promotion of pulmonary fibrosis, and the corresponding therapeutic measures.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32174128
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The median number of affected lung lobes and segments was higher in patients with positive RT-PCR results than in those with negative RT-PCR results (five vs 3.5 affected lobes and 15 vs nine affected segments; &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.05). […] Although the air bronchogram reticular pattern was more frequently seen in patients with positive results, centrilobular nodules were less frequently seen in patients with positive results. &lt;b&gt;CONCLUSION.&lt;/b&gt; At the point during the COVID-19 outbreak when this study was performed, imaging patterns of multifocal, peripheral, pure GGO, mixed GGO, or consolidation with slight predominance in the lower lung and findings of more extensive GGO than consolidation on chest CT scans obtained during the first week of illness were considered findings highly suspicious of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32189015
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Unlike other acute infectious diseases progressing to sepsis, the severe courses of COVID19 seemingly show prolonged progression from onset of first symptoms to life-threatening deterioration of (primarily) lung function.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32189175
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Multiple patchy ground-glass opacities (GGOs) were seen in bilateral lung, mostly in subpleural areas. […] Our case of COVID-19 pneumonia showed multiple subpleural GGOs in bilateral lung, rapid progression, and it also accompanied nodular GGOs on chest CT.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32189428
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We predict that these individuals are ‘primed’ to be at higher risk because nicotine can directly impact the putative receptor for the virus (ACE2) and lead to deleterious signaling in lung epithelial cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32191587
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A total of 366 CT scans were acquired and reviewed by 2 groups of radiologists for the patterns and distribution of lung abnormalities, total CT scores and number of zones involved. […] Conclusion The extent of lung abnormalities on CT peaked during illness days 6-11.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32191588
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Conclusions A deep learning model can accurately detect COVID-19 and differentiate it from community acquired pneumonia and other lung diseases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32191764
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CT findings of NCIP were featured by predominant ground glass opacities mixed with consolidations, mainly peripheral or combined peripheral and central distributions, bilateral and lower lung zones being mostly involved.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32191830
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Severe forms of the infection, being an indication for treatment in the intensive care unit, comprise acute lung inflammation, ARDS, sepsis and septic shock.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32193037
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Six patients (8%) were diagnosed as mild type pneumonia; these patients had no obvious abnormal CT findings or manifested mild changes of lung infection. […] All 43 patients (59 %) with common type presented unique or multiple ground-glass opacities (GGO) in the periphery of the lungs, with or without interlobular septal thickening. […] An extensive “white lung”, with atelectasis and pleural effusion were found in critical type patients (3, 4%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32195705
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lung-protective ventilation, prone position ventilation, and adequate sedation and analgesia are essential components of ventilation management.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32196627
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report the case of a young man with documented nCoV-19 infection evaluated with lung ultrasound and discuss potential applications of lung ultrasound in this setting. […] Lung ultrasound allowed the identification of nCoV-19 infection at bed-side. […] Moreover, lung ultrasound can have several other advantages, such as reduced health worker exposition to infected patients, repeatability during follow-up, low-costs and easier application in low-resource settings.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32196933
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For this family of viruses the host innate immune response appears the main driver of lung tissue damage during infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32197085
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Therefore, we reinvestigated published data from pangolin lung samples from which SARS-CoV-like CoVs were detected by Liu et al.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32198291
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on the structure, we developed the lead compound into a potent inhibitor of the SARS-CoV-2 M&lt;sup&gt;pro&lt;/sup&gt; The pharmacokinetic characterization of the optimized inhibitor reveals a pronounced lung tropism and suitability for administration by the inhalative route.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32198915
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The lung injury and repair caused by COVID-19 has many similarities with the onset and progression of interstitial lung disease (ILD) .
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32199615
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although ACE2 is reported to be expressed in lung, liver, stomach, ileum, kidney and colon, its expressing levels are rather low, especially in the lung. […] Consistent with other recent reports, we confirmed that ACE2 was mainly expressed in lung AT2, liver cholangiocyte, colon colonocytes, esophagus keratinocytes, ileum ECs, rectum ECs, stomach epithelial cells, and kidney proximal tubules.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32199619
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The lesions in each lung segment of the patient’s chest CT images were characterised. […] The lesions were located mainly in the subpleural area of the lungs (92.4%). […] Of the 80 cases, 76 patients (95%) had bilateral lung disease, four (5%) patients had unilateral lung disease, and eight (10%) patients had cord shadow. […] The chest CT of NCP patients is characterised by the onset of bilateral ground-glass lesions located in the subpleural area of the lung, and progressive lesions that result in consolidation with no migratory lesions. […] As patients can have inflammatory changes in the lungs alongside a negative early nucleic acid test, chest CT, in combination with epidemiological and laboratory tests, is a useful examination to evaluate the disease and curative effect.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32202256
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hospitalized adult patients with laboratory-confirmed SARS-CoV-2 infection with any one of the following criteria will be eligible to receive lopinavir/ritonavir for 14 days after obtaining written informed consent: (i) respiratory distress with respiratory rate ≥22/min or SpO2 of &amp;lt;94 per cent; (ii) lung parenchymal infiltrates on chest X-ray; (iii) hypotension defined as systolic blood pressure &amp;lt;90 mmHg or need for vasopressor/inotropic medication; (iv) new-onset organ dysfunction; and (v) high-risk groups - age &amp;gt;60 yr, diabetes mellitus, renal failure, chronic lung disease and immunocompromised persons.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32204751
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Preventive treatment has an important role to control and avoid the spread of severe respiratory disease, but often is difficult to obtain and sometimes cannot be effective to reduce the risk of deterioration of the underlining lung pathology. […] For an appropriate and effective approach to treat severe pediatric respiratory diseases, two main different strategies can be proposed according to the stage and severity of the patient conditions: patient in the initial phase and with non-severe lung pathology and patient with severe initial respiratory impairment and/or with delay in arrival to observation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32204987
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High resolution computed tomography (CT) allows objective evaluation of the lung lesions, thus enabling us to better understand the pathogenesis of the disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32207208
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Under specific circumstances, such as during the current COVID-19 outbreak, pregnant women can be a target for respiratory infection, and lung examination may be required as part of their clinical evaluation, ideally avoiding exposure to radiation. […] We propose a practical approach for obstetricians/gynecologists to perform lung ultrasound, showing potential applications, semiology and practical aspects, which should be of particular importance in emergency situations, such as the current pandemic infection of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32207255
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report a case where serial follow-up chest computed tomography revealed progression of pulmonary lesions into confluent bilateral consolidation with lower lung predominance, thereby confirming COVID-19 pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32211920
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Unlike other acute infectious diseases progressing to sepsis, the severe courses of COVID19 seemingly show prolonged progression from onset of first symptoms to life-threatening deterioration of (primarily) lung function.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32215613
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cardiovascular disease and pharmacologic RAS inhibition both increase ACE2 levels, which may increase the virulence of SARS-CoV-2 within the lung and heart.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32215622
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Maximal clinical signs of rapid breathing, weight loss, histopathological changes from the initial exudative phase of diffuse alveolar damage with extensive apoptosis to the later proliferative phase of tissue repair, airway and intestinal involvement with virus nucleocapsid protein expression, high lung viral load, and spleen and lymphoid atrophy associated with marked cytokine activation were observed within the first week of virus challenge. […] The lung virus titre was between 105-107 TCID50/g. […] Immunoprophylaxis with early convalescent serum achieved significant decrease in lung viral load but not in lung pathology.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32215691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CT visual quantitative evaluation was based on summing up the acute lung inflammatory lesions involving each lobe, which was scored as 0 (0%), 1 (1-25%), 2 (26-50%), 3 (51-75%), or 4 (76-100%), respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32216717
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A severity index was determined for each lung. […] The lung scores were summed to produce the final severity score.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32216961
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chest CT revealed abnormal lung shadows in 110 patients. […] Regarding lesion distribution, multi-lobe lesions in both lungs were present in most patients (80 cases; 72.7%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32217117
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This leads to a cytokine storm and subsequent progression to acute lung injury (ALI)/acute respiratory distress syndrome (ARDS) and often death.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32220574
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Both patients had no identified comorbidities and developed mild illness with temporal fever, persistent cough, and lung interstitial infiltrates.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32221983
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE2 is widely distributed in the heart, kidneys, lungs, and testes. […] Acute respiratory distress syndrome (ARDS) is a clinical high-mortality disease, and ACE2 has a protective effect on this type of acute lung injury.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32222121
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The inflammation indicators and fever of this patient were effectively controlled and the lung lesions remained stable after active anti-viral treatment, then the radical colorectomy was performed after the viral negative conversion for twice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32222986
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, we observed that the lesion regions in SARS-Cov-2 infected lungs with severe-/critical-type of medical staff were more likely to exhibit lesions in the right upper lobe (31.7% vs 0%; P = .028) and right lung (61% vs 18.2%; P = .012).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32223665
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CT scores were determined according to CT findings and lung involvement.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32224151
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lung cancer was the most frequent cancer type (7, 25.0%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32226695
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with HAPE also exhibit patchy infiltrates throughout the pulmonary fields, often in an asymmetric pattern and CT findings reveal increased lung markings and ground glass-like changes as well.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32227357
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Clinical trials should also be undertaken to use statins, which are lipid-lowering drugs but have anti-inflammatory and immunomodulatory properties to prevent acute lung injury in COVID-19 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32227492
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Growing evidence is showing the usefulness of lung ultrasound in patients with the 2019 new coronavirus disease (COVID-19). […] In this study, we share our experience and propose a standardized approach to optimize the use of lung ultrasound in patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32227511
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 57-year-old man was diagnosed with acute aortic dissection (AAD), but had marked infiltration shadows in his right lung. […] Intraoperative findings showed that large subadventitial hematomas had spread from the ascending aorta to the right pulmonary artery, which may have caused the infiltration of the lung.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32228252
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recognition that ACE2 is the coreceptor for the coronavirus has prompted new therapeutic approaches to block the enzyme or reduce its expression to prevent the cellular entry and SARS-CoV-2 infection in tissues that express ACE2 including lung, heart, kidney, brain, and gut.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32228825
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition, germicidal UV radiation “breaks down” the oxygen O2 which then aggregate into O3 (ozone) molecules creating the ozone layer, capable of inhibiting viral replication and improving lung respiration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32235187
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Characteristic CT findings included the lobes of bilateral lung extensively involved, ground-glass opacity and ground-glass opacity with consolidation in the peripheral area, sometimes accompanied by interlobular septal thickening, and subpleural line and pleural thickening. […] Compared with the younger group, the proportion of extensive involvement of lung lobes was higher in the elderly group (71.4% vs. […] Elderly and younger patients with corona virus disease have some common CT features, but older patients are more likely to have extensive lung lobe involvement, and subpleural line and pleural thickening.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32235945
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This severe presentation corresponds to the usage of a virus receptor that is expressed predominantly in the lung&lt;sup&gt;2,4&lt;/sup&gt;. […] Infectious virus was readily isolated from throat- and lung-derived samples, but not from stool samples, in spite of high virus RNA concentration. […] Sequence-distinct virus populations were consistently detected in throat and lung samples from the same patient, proving independent replication.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32236856
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+U-HR-CT has a larger matrix size of 1024 × 1024 thinner slice thickness of 0.25 mm and can demonstrate terminal bronchioles in the normal lungs; as a result, Reid’s secondary lobules and their abnormalities can be identified. […] The distribution and hallmarks (ground-glass opacity, consolidation with or without architectural distortion, linear opacity, crazy paving) of the lung opacities on U-HRCT were visually evaluated on a 1 K monitor by two experienced reviewers. […] The CT lung volume was measured, and the ratio of the measured lung volume to the predicted total lung capacity (predTLC) based on sex, age and height was calculated. […] In these lesions, the secondary lobules were smaller than those in the un-affected lungs. […] CT lung volume decreased in two cases comparing predTLC. […] U-HRCT can evaluate not only the distribution and hallmarks of COVID-19 pneumonia but also visualize local lung volume loss.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32238223
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This case report underlines the appearance of a “walking pneumonia” in a novel coronavirus disease (COVID-19) patient, with evidence of progressive lung involvement on chest imaging studies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32238232
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Like the SARS-CoV disease, COVID-19 is a systematic disease and targets the lungs, vasculatures, and the immune system. […] The basic pathogenesis involves two interlinked processes: a severe lung inflammation and immune deficiency, both of which are related to an inappropriate immune response and over-production of cytokines.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32238438
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+While the majority of infected cases appear mild, in some cases individuals present serious cardiorespiratory complications with possible long-term lung damage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32238757
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Coronavirus disease 2019 (COVID-19), which causes serious respiratory illness such as pneumonia and lung failure, was first reported in Wuhan, the capital of Hubei, China.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32239472
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SNR and CNR were significantly different in several thoracic structures between HD-DECT and LDCT, with exception of lung parenchyma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32239532
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lung ultrasound (LU) has rapidly become a tool for assessment of patients stricken by the novel coronavirus 2019 (COVID-19). […] Over the past two and a half months (January, February, and first half of March 2020) we have used this modality for identification of lung involvement along with pulmonary severity in patients with suspected or documented COVID-19 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32240123
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most commonly reported conditions were diabetes mellitus, chronic lung disease, and cardiovascular disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32240913
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We aimed to compare chest HRCT lung signs identified in scans of differently aged patients with COVID-19 infections. […] Patients aged 45-59 years and aged ≥60 years had more bilateral lung, lung lobe, and lung field involvement, and greater lesion numbers than patients &amp;lt;18 years.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32242947
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+COVID-19 is a new clinical infectious disease that mainly causes bilateral pneumonia and lung function deteriorates rapidly.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32243697
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After the diagnosis of COVID-19, immunosuppressive agents were discontinued and methylprednisolone with prophylactic antibiotics were initiated, however, the lung injury progressed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32243911
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is therefore necessary to explore biomarkers to determine the extent of lung lesions and disease severity. […] We aimed to assess the usefulness of CRP levels in the early stage of COVID-19 and to correlate them with lung lesions and severe presentation. […] On admission CRP levels were collected, and the diameter of the largest lung lesion was measured in the most severe lung lesion by lung CT scan. […] CRP levels and the diameter of the largest lung lesion in the moderate group were higher than those in the mild group (Mann-Whitney test=-2.647, -2.171, P˂0.05), those in the severe group were higher than those in the moderate group (Mann-Whitney test=0.693, -2.177, P˂0.05), and those in the critical group were higher than those in the severe group (Mann-Whitney test=-0.068, -1.549, P˂0.05). […] CRP levels were positively correlated with the diameter of lung lesion and severe presentation (correlation coefficient=0.873, 0.734, P˂0.001). […] In the early stage of COVID-19 CRP levels were positively correlated with lung lesions and could reflect disease severity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32244059
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ever since the first case was reported at the end of 2019, the SARS-COV-2 virus and associated lung disease COVID-19 has spread throughout the world and has become a pandemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32245904
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with lung cancer are at risk of pulmonary complications from COVID-19. […] We hereby propose a tool to support oncologists and physicians in treatment decision for patients with lung cancer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32246819
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Two of the 6 patients (33.3%) had bilateral lung involvements and 4 (66.7%) had single-lung involvement.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32246845
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we investigate ACE2 and TMPRSS2 expression levels and their distribution across cell types in lung tissue (twelve donors, 39,778 cells) and in cells derived from subsegmental bronchial branches (four donors, 17,521 cells) by single nuclei and single cell RNA sequencing, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32247317
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Early Lessons on the Importance of Lung Imaging in Novel Coronavirus Disease (COVID-19).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32248675
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Most of these patients recover and survive to ICU discharge with supportive care using lung protective ventilation strategies, avoiding excess fluids, screening and treating bacterial co-infection, and timely intubation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32248966
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+COVID-19 results in mild symptoms in the majority of infected patients, but can cause severe lung injury, cardiac injury, and death.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32249471
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report a case of positive lung ultrasound findings consistent with COVID-19 in a woman with an initial negative RT-PCR result. […] The lung ultrasound-imaging findings were present between the negative and subsequent positive RT-PCR tests and correlated with CT findings. […] The point-of-care lung-ultrasound examination was easy to perform and, as such, could play an important role in the triage of women with suspected COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32250244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To the contrary, compelling evidence exists that the ACE-1/angiotensin(Ang)II/ATR-1 pathway is involved in SARS-CoV-2-induced ARDS, while the ACE-2/Ang(1-7)/ATR2/MasR pathway counteracts the harmful actions of AngII in the lung. […] A reduced ACE-1/ACE-2 ratio is, in fact, a feature of ARDS that can be rescued by human recombinant ACE-2 and Ang(1-7) administration, thus preventing SARS-CoV-2-induced damage to the lung.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32251003
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lung transplantation (LT) as the sole therapy for end-stage pulmonary fibrosis related to acute respiratory distress syndrome has been considered as the ultimate rescue therapy for these patients. […] The pathological results of the explanted lungs were concordant with the critical clinical manifestation, and provided insight towards better understanding of the disease. […] Lung transplantation can be performed in end-stage patients with respiratory failure due to COVID-19-related pulmonary fibrosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32251805
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Multiple organ dysfunction can be observed, the most common organ damage was lung, followed by heart, kidney and liver.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32252784
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Most of the lesions identified in chest CT images were multiple lesions of bilateral lungs, lesions were more localized in the peripheral lung, 109 (83%) patients had more than two lobes involved, 20 (15%) patients presented with patchy ground glass opacities, patchy ground glass opacities and consolidation of lesions co-existing in 61 (47%) cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32253318
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Radiological examinations showed varying degrees of absorption of lung lesions within 7 d.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32253400
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chronic obstructive pulmonary disease (COPD) is a chronic, progressive lung disease with few successful treatments, and is strongly associated with cigarette smoking (CS). […] Since the novel coronavirus has spread worldwide seriously, there is growing concern that patients who have chronic respiratory conditions like COPD can easily be infected and are more prone to having severe illness and even mortality because of lung dysfunction. […] Loquat leaves have long been used as an important material for both pharmaceutical and functional applications in the treatment of lung disease in Asia, especially in China and Japan. […] The present study uses a CS-induced mouse model to estimate the morphological changes in lung tissue. […] The results demonstrated that TF suppressed the histological changes in the lungs of CS-challenged mice, as evidenced by reduced generation of pro-inflammatory cytokines including interleukin 6 (IL-6), IL-1β, tumor necrosis factor α (TNF-α), nitric oxide (NO), and inducible nitric oxide synthase (iNOS) and diminished the protein expression of transient receptor potential vanilloid 1 (TRPV1). […] Interestingly, TF could inhibit CS-induced oxidative stress in the lungs of COPD mice. […] Taken together, our findings showed that the protective effect and putative mechanism of the action of TF resulted in the inhibition of inflammation and oxidative stress through the regulation of TRPV1 and the related signal pathway in lung tissues.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32255437
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Peripheral distribution (45%) of lung lesions was predominant. […] Most of the lesions were multilobar (68%), with an average of three lung segments involved. […] Children with COVID-19 had relatively milder symptoms and less severe lung inflammation than adults.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32257554
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Therefore, MSC therapy inhibiting the overactivation of the immune system and promoting endogenous repair by improving the lung microenvironment after the SARS-CoV-2 infection found in this study is striking.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32264791
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE2 is widely expressed, including, in the lungs, cardiovascular system, gut, kidneys, central nervous system, and adipose tissue. […] The ACE2 system is a critical protective pathway against heart failure with reduced and preserved ejection fraction including, myocardial infarction and hypertension, and against lung disease and diabetes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32265310
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Limited pre-clinical data suggest that systemic MSC administration can significantly reduce respiratory virus (Influenza strains H5N1 and H9N2)-induced lung injury, however, there are no available data in models of coronavirus respiratory infection.There are a rapidly increasing number of clinical investigations of cell-based therapy approaches for COVID-19. […] To provide a rationale strategy to maximise potential therapeutic use, it is critically important to understand the relevant pre-clinical studies and postulated mechanisms of MSC actions in respiratory virus-induced lung injuries.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32265331
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A single intranasal administration of 10&lt;sup&gt;4&lt;/sup&gt; PFU PIV5-MERS-S provided complete protection against a lethal challenge with mouse-adapted MERS-CoV (MERS&lt;sub&gt;MA&lt;/sub&gt;6.1.2) and improved virus clearance in the lung. […] Intriguingly, an influx of eosinophils was observed only in the lungs of mice immunized with inactivated MERS-CoV, suggestive of a hypersensitivity-type response.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32267139
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Brain metastasis is a major cause for cancer death in patients with lung cancer. […] Sirtuin 1 (SIRT1) and hsa-miR-217 has been identified to mediate the development of non-small cell lung cancer (NSCLC). […] This axis might be a potential target for the treatment of brain metastasis of lung cancer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32267998
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There is evidence in both animals and humans that fibrinolytic therapy in Acute Lung Injury and ARDS improves survival, which also points to fibrin deposition in the pulmonary microvasculature as a contributory cause of ARDS and would be expected to be seen in patients with ARDS and concomitant diagnoses of DIC on their laboratory values such as what is observed in more than 70% of those who die of COVID-19 (8-10).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32268018
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The main medication characteristics are clearing heat, entilating lung, removing toxicity and removing turbidity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32268454
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chest CT of two patients showed bilateral lung texture was thickening, and chest CT of other patients was normal.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32268515
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the present study we investigated in silico the basic mechanism of &lt;i&gt;ACE2&lt;/i&gt; in the lung and provided evidences for new potentially effective drugs for Covid-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32270184
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We comprehensively investigated the replication, cell tropism, and immune activation profile of SARS-CoV-2 infection in human lung tissues with SARS-CoV included as a comparison. […] SARS-CoV-2 infected and replicated in human lung tissues more efficiently than that of SARS-CoV. […] Within the 48-hour interval, SARS-CoV-2 generated 3.20 folds more infectious virus particles than that of SARS-CoV from the infected lung tissues (P&amp;lt;0.024). […] Importantly, despite the more efficient virus replication, SARS-CoV-2 did not significantly induce types I, II, or III interferons in the infected human lung tissues. […] Our study provided the first quantitative data on the comparative replication capacity and immune activation profile of SARS-CoV-2 and SARS-CoV infection in human lung tissues.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32270479
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Fifteen (65.2%) patients were asymptomatic with patchy ground-glass opacity in a single lung lobe.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32271459
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compared with the non-severe group, the severe group showed statistical significance in older age, hypertension, bilateral lung plaque shadow, decrease in lymphocyte count, increase in C-reactive protein (CRP), aspartate aminotransferase (AST), lactate dehydrogenase, and creatine kinase. […] Age, combined hypertension, oxygenation index, double lung patch, decreased lymphocyte count, and elevated levels of C-reactive protein, aspartate aminotransferase, lactate dehydrogenase, and creatine kinase can be used as predictors of the disease severity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32271942
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Experiments were conducted on two test lungs with different compliances (0.02 and 0.04 l.cmH&lt;sub&gt;2&lt;/sub&gt; O&lt;sup&gt;-1&lt;/sup&gt; ). […] The ventilator was used in both pressure and volume control modes and was set to ventilate the low compliance lungs at end-tidal volumes of 500 ± 20 ml. […] A flow restrictor apparatus consisting of a Hoffman clamp and tracheal tube was connected in series to the inspiratory limb of the high compliance test lungs and the resistance modified to achieve end-tidal volumes of 500 ± 20 ml. […] The restriction apparatus successfully modified the inspiratory pressure, minute ventilation, and volume delivered to the high compliance test lungs in both pressure control (27.3-17.8 cm H&lt;sub&gt;2&lt;/sub&gt; O, 15.2-8.0 l.min&lt;sup&gt;-1&lt;/sup&gt; and 980-499 ml, respectively), and volume control (21.0-16.7 cm H&lt;sub&gt;2&lt;/sub&gt; O, 10.7-7.9 l.min&lt;sup&gt;-1&lt;/sup&gt; and 659-498 ml, respectively) ventilation modes. […] However, these experiments demonstrate the capacity to simultaneously ventilate two test lungs of different compliances, and using only standard hospital equipment, modify the delivered pressure, flow, and volume in each test lung.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32272262
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chest CT showed abnormal attenuation in bilateral multiple lung lobes, distributed in the lower and/or periphery of the lungs (94.98%), with multiple shapes. […] While chest HRCT provided the distribution, shape, attenuation and extent of lung lesions, as well as some typical CT signs of COVID-19 pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32272630
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, asymptomatic lung involvement has not been reported. […] We hereby present the case of a 44-year-old health-care worker, who was found to be infected with the SARS-CoV-2 virus after a CT-scan performed for an unrelated condition revealed a lesion in the lung field compatible with COVID-19 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32274773
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+COVID-19, a new viral disease affecting primarily the respiratory system and the lung, has caused a pandemic with serious challenges to health systems around the world. […] Therapy is based on established recommendations issued for patients with acute lung injury (ARDS). […] Lung protective ventilation, prone position, restrictive fluid management and an adequate management of organ failures are the mainstays of therapy. […] In case of fulminant lung failure, veno-venous extracorporeal membrane oxygenation may be used as a rescue in experienced centres.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32275257
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The SARS-CoV-2 causes changes in blood cells and factors and makes lung abnormalities in patients, which can be detected by serological, molecular, and radiological techniques by detecting these changes and injuries.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32275347
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Endomyocardial biopsy demonstrated low-grade myocardial inflammation and viral particles in the myocardium suggesting either a viraemic phase or, alternatively, infected macrophage migration from the lung.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32275452
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+More patients had multiple lung lobe involvement and pleural effusion in the critical group as compared to moderate group. […] Involvement of multiple lung lobes and pleural effusion were associated with the severity of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32275742
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+He tested positive for SARS-CoV-2 on postmortem nasopharyngeal and lung parenchymal swabs. […] Postmortem nasopharyngeal swab was positive for SARS-CoV-2; lung parenchymal swabs were negative.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32275753
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lungs from patients with coronavirus disease 2019 (COVID-19) have shown typical signs of acute respiratory distress syndrome (ARDS), formation of hyaline membrane mainly composed of fibrin, and ‘ground-glass’ opacity. […] We aimed to investigate whether plasminogen can improve lung lesions and hypoxemia of COVID-19. […] Levels of their lung lesions, oxygen saturation and heart rates were compared before and after treatment by CT scanning images and patient monitor. […] After plasminogen inhalation, conditions of lung lesions in 5 clinically moderate patients have quickly improved, shown as the decreased range and density of ‘ground glass’ opacity. […] Whereas it is reported that plasminogen is dramatically increased in adults with ARDS, this study suggests that additional plasminogen may be effective and efficient in treating lung lesions and hypoxemia during COVID-19 infections.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32275766
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ultrasound imaging of the lung and associated tissues may play an important role in the management of patients with COVID-19 associated lung injury. […] Compared to other monitoring modalities, such as auscultation or radiographic imaging, we argue lung ultrasound has high diagnostic accuracy, is ergonomically favourable and has fewer infection control implications. […] By informing the initiation, escalation, titration and weaning of respiratory support, lung ultrasound can be integrated into COVID-19 care pathways for patients with respiratory failure. […] Given the unprecedented pressure on healthcare services currently, supporting and educating clinicians is a key enabler of the wider implementation of lung ultrasound. […] This narrative review provides a summary of evidence and clinical guidance for the use and interpretation of lung ultrasound for patients with moderate, severe and critical COVID-19 associated lung injury. […] Mechanisms by which the potential lung ultrasound workforce can be deployed are explored, including a pragmatic approach to training, governance, imaging, interpretation of images and implementation of lung ultrasound into routine clinical practice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32277351
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, in a subgroup of patients, the secondary immune response may be exaggerated, leading to inflammatory-induced lung injury and other complications including pneumonitis, acute respiratory distress syndrome, respiratory failure, shock, organ failure, and potentially death.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32277387
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recently, the new coronavirus pneumonia (COVID-19) caused by 2019 novel coronavirus (2019-nCoV) has affected nearly 200 countries worldwide. 2019-nCov can cause severe lung disease, multiple-organ damage, and significant mortalities.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32278065
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE2 and TMPRSS2 are not only expressed in lung, but also in the small intestinal epithelia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32278670
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most common comorbidities identified were obesity (n = 48%), arterial hypertension (n = 44%) and chronic lung disease (n = 37%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281052
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After the intravenous transplantation of MSCs, a significant population of cells accumulates in the lung, which they alongside immunomodulatory effect could protect alveolar epithelial cells, reclaim the pulmonary microenvironment, prevent pulmonary fibrosis, and cure lung dysfunction.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281268
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HCov-229E is one of the four flu-causing coronaviruses which share great sequence similitude, while many symptoms of patients infected with COVID-19 resemble those of patients infected with these known flu-causing coronaviruses.&lt;sup&gt;2&lt;/sup&gt; A previous study reported that human lung epithelial A549 cells treated with glucose 6-phosphate dehydrogenase (G6PD) interfering RNA (RNAi) to lower G6PD activity displayed augmented (12-fold) viral production in comparison to normal counterparts when infected with coronavirus HCov-229E.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281328
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Rhei Radix et Rhizoma screened by Mpro and Trichosanthis Fructus screened by PLP were contained in Maxing Shigan Decoction and Xuanbai Chengqi Decoction, and could be applied to the syndromes of epidemic virus blocking lung. […] Mori Folium, Lonicerae Japonicae Flos and Forsythiae Fructus obtained by ACE2 inhibitors screening were included in the Sangju Decoction and Yinqiaosan, which might be applicable to the syndromes of warm pathogen attacking lung and cough and dyspnea.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281329
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+With the exudation of inflammatory factors, cytokines increase abnormally in tissues and organs, interfering with the immune system, causing excessive immune response of the body, resulting in diffuse damage of lung cells, pulmonary fibrosis, and multiple organ damage, even death.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281331
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The pathogeny of COVID-19 in TCM is damp-toxin, with the core pathogenesis of damp-toxin retention in lung and Qi repression. […] The location of the disease is lung, always involving spleen and stomach, and may further affect heart and kidney in severe cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281332
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among them, the four properties were mainly concentrated in temperature, cold and level, the five tastes were mainly concentrated in bitter, hot and sweet, and the meridians were mainly concentrated in lung, stomach and spleen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281333
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The pungent medicines are mostly found in the early stage, the bitter drugs are the main flavor in the middle and severe stage, and the sweet medicines are mostly used in the recovery stage; ③the meridian of the drug is more concentrated at the lung, stomach, and heart, and most of drugs are into the lung meridian, accounting for 24.55%; these medicines are mostly into the lungs and stomach in the initial and middle stages, and into the heart and kidney in severe stages; ④oral drugs are mostly non-toxic, among which only 6 kinds are toxic, namely Armeniacae Semen Amarum, Dryopteridis Crassirhizomatis Rhizoma, Paridis Rhizoma, Pinelliae Rhizoma, Aconiti Lateralis Radix Praeparaia; ⑤most of the drugs have five types of functions: treating exterior syndromes, resolving dampness, clearing heat, replenishing deficiency, resolving phlegm, cough, and asthma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32283052
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most anatomic distributions were bilateral lung infection (78.2%) and peripheral distribution (76.95%). […] The most common CT features in patients affected by COVID-19 included ground glass opacities and consolidation involving the bilateral lungs in a peripheral distribution.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32285974
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we investigate ACE2 and TMPRSS2 expression levels and their distribution across cell types in lung tissue (twelve donors, 39,778 cells) and in cells derived from subsegmental bronchial branches (four donors, 17,521 cells) by single nuclei and single cell RNA sequencing, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32286679
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A lung-saving ventilation strategy must be implemented in acute respiratory distress syndrome and mechanically ventilated patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32289051
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lung US findings were consistent with diffuse B lines (100%) and subpleural consolidations (27.3%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32289516
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here we report seven cases who were confirmed infected with SARS-CoV-2 in the perioperative period of lung resection. […] Retrospective analysis suggested that one patient had been infected with the SARS-CoV-2 prior to the surgery, the other 6 patients contracted the infection after the lung resection. […] Fever, lymphopenia and ground-glass opacities on computerized tomography (CT) are the most common clinical manifestations of COVID-19 in patients after lung resection surgery. […] Three out seven patients died from COVID-19 pneumonia, suggesting that lung resection surgery might be a risk factor for death in patients with COVID-19 in the perioperative period.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32291399
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To gain knowledge about the pathology that may contribute to disease progression and fatality, we performed postmortem needle core biopsies of lung, liver, and heart in four patients who died of COVID-19 pneumonia. […] Histologically, the main findings are in the lungs, including injury to the alveolar epithelial cells, hyaline membrane formation, and hyperplasia of type II pneumocytes, all components of diffuse alveolar damage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32291968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lung cancer has the highest morbidity and mortality in China and the world. […] Most patients with lung cancer are smokers with poor underlying lung conditions and low immunity, thus it is vital to protect them from epidemic diseases during cancer treatment. […] It is necessary to provide individualized medical treatment and management of treatment-related adverse events for patients with lung cancer based on patients’ conditions and regional epidemic patterns.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292213
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The clinical course of the disease known as coronavirus disease 2019 (COVID-19) ranges from mild respiratory symptoms to severe lung failure.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292624
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The degree of lesions was visually scored by the radiologist, as follows, for each of the 5 lung lobes: 0, no lesion present; 1, &amp;lt;1/3 involvement; 2, &amp;gt;1/3 and &amp;lt; 2/3 involvement; and 3, &amp;gt;2/3 involvement. […] The parameters obtained using the computer tool included lung volume (mL), lesion volume (mL), lesion percentage (%), and mean lesion density (HU) of the whole lung, right lung, left lung, and each lobe. […] A Chi-square test was used to test the consistency of radiologist- and computer-derived lesion percentage in the right/left lung, upper/lower lobe, and each of the 5 lobes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292627
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Acute respiratory distress syndrome (ARDS), lung failure, and fulminant pneumonia are major lung diseases in H7N9 patients. […] Because H7N9 and the corona virus disease 2019 (COVID-19) share similar complications (such as ARDS and lung failure) and corresponding multi-organ dysfunction, MSC-based therapy could be a possible alternative for treating COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292866
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This latter stage is characterized by the development of progressive lung involvement with increasing oxygen requirements and occasionally signs of the haemophagocitic syndrome.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292901
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Failure of SARS and MERS vaccines in animal trials involved pathogenesis consistent with an immunological priming that could involve autoimmunity in lung tissues due to previous exposure to the SARS and MERS spike protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32293003
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We provide a critical review on the relationship of hypertension, RAS, and risk of lung injury. […] We also review in detail the molecular mechanisms linking the RAS to lung damage and the potential clinical impact of treatment with RAS blockers in patients with COVID-19 and a high cardiovascular and renal risk. […] This is related to the role of angiotensin-converting enzyme 2 (ACE2) for SARS-CoV-2 entry into cells, and expression of ACE2 in the lung, cardiovascular system, kidney, and other tissues.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32293710
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+COVID-19 infection and its severity can be explained by the concentration of glycosylated SARS- CoV-2 viral particles in the lung epithelium, the concentration of glycosylated angiotensin converting enzyme receptor 2 (ACE2) in the lung epithelium, and the degree and control of the pulmonary immune response to the SARS-CoV-2 spike protein at approximately day 8-10 after symptom onset, which may be related to both.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32293716
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Only 25.8% of patients had lesions involving single lung and 75.7% of patients had lesions involving bilateral lungs. […] Bilateral lungs involvement was common.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32294796
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study was conducted to explore the clinical value of noninvasive assessment of bedside ultrasound in the diagnosis of lung lesions of Coronavirus Disease-19. […] All cases were examined by lung ultrasound and CT. […] Lung lesions were reviewed by blinded observers, with imaging scores being used to analyze the ultrasound findings of lung lesions in patients with Coronavirus Disease-19 and with chest CT being used as the reference standard. […] The clinical value of ultrasound in the noninvasive assessment of lung lesions was evaluated. […] Lung ultrasound signs in patients with Coronavirus Disease-19 were mainly manifested as interstitial pulmonary edema (90.0 %, 27/30) and pulmonary consolidations (20.0 %, 6/30). […] The lung lesions were mainly distributed in the subpleural and peripheral pulmonary zones. […] There was moderate agreement (Kappa = 0.529) between the noninvasive assessment of bedside ultrasound for lung lesions in patients with Coronavirus Disease-19 and CT. […] The ultrasound scores to evaluate mild, moderate and severe lung lesions exhibited sensitivity of 68.8 % (11/16), 77.8 % (7/9), 100.0 % (2/2), specificity of 85.7 % (12/14), 76.2 % (16/21), 92.9 % (26/28), and diagnostic accuracy of 76.7 % (23/30), 76.7 % (23/30), 93.3 % (28/30), respectively. […] The follow-up dynamic ultrasound examination showed that the condition of all patients worsened gradually, with the ultrasound scores of lung lesions increasing to varying degrees. […] Bedside ultrasound has important clinical significance for noninvasive assessment and dynamic observation of lung lesions in patients with Coronavirus Disease-19, which is worth further consideration. […] ZIEL: Diese Studie wurde durchgeführt, um den klinischen Wert der nicht-invasiven Beurteilung von Ultraschall direkt am Krankenbett bei der Diagnose von Lungenläsionen bei COVID-19-Erkrankung zu untersuchen. […] Alle Fälle wurden mittels Lungenultraschall und CT untersucht. […] Die Lungenläsionen wurden von verblindeten Beobachtern überprüft, wobei die sonografischen Befunde der Lungenläsionen bei COVID-19-Patienten mittels Bildgebungs-Scores analysiert wurden und Thorax-CT als Referenzstandard diente. […] Der klinische Nutzen der Sonografie bei der nicht-invasiven Beurteilung von Lungenläsionen wurde bewertet. […] Bei COVID-19-Patienten manifestierten sich die Lungenultraschallzeichen in erster Linie als interstitielles Lungenödem (90,0 %, 27/30) und Lungenkonsolidierungen (20,0 %, 6/30). […] Die Läsionen der Lunge waren überwiegend in den subpleuralen und peripheren Lungenzonen verteilt. […] Die Übereinstimmung zwischen der nicht-invasiven Beurteilung des Ultraschalls am Krankenbett und der CT für Lungenläsionen bei COVID-19-Patienten war moderat (Kappa = 0,529). […] Die Beurteilung mittels Ultraschall von leichten, moderaten und schweren Lungenläsionen ergab eine Sensitivität von 68,8 % (11/16), 77,8 % (7/9), 100,0 % (2/2), eine Spezifität von 85,7 % (12/14), 76,2 % (16/21), 92,9 % (26/28) und eine diagnostische Genauigkeit von 76,7 % (23/30), 76,7 % (23/30) bzw. […] Die anschließende dynamische Ultraschalluntersuchung zeigte, dass sich der Zustand aller Patienten allmählich verschlechterte, wobei die Ultraschall-Scores der Lungenläsionen in unterschiedlichem Maße anstiegen. […] Ultraschall direkt am Krankenbett hat eine wichtige klinische Bedeutung für die nicht-invasive Beurteilung und die dynamische Beobachtung von Lungenläsionen bei COVID-19-Patienten und sollte weiter in Betracht gezogen werden.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

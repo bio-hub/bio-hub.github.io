@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/alanine/</link>
+      <atom:link href="/drugpanel/alanine/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/alanine/</link>
+    </image>
+    
+    <item>
+      <title>ALANINE</title>
+      <link>/drugpanel/alanine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/alanine/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00160&#39; target=&#39;_blank&#39;&gt;db00160&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=alanine&#34; target=&#34;_blank&#34;&gt;alanine&lt;/a&gt; &lt;br&gt;
+Synonymous :(2s)-2-aminopropanoic acid | (s)-2-aminopropanoic acid | (s)-alanine | alanina | alanine | alaninum | l-2-aminopropionic acid | l-alanin | l-alanine | l-alpha-alanine | l-α-alanine
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;alanine&lt;/em&gt; gene in 14 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32026671
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Alanine aminotransferase (ALT), aspartate aminotransferase (AST), total bilirubin (Tbil), serum creatinine (Scr) and other items showed no significant changes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32077660
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results of laboratory examination showed that the alanine aminotransferase (ALT), aspartate aminotransferase (AST), albumin (ALB), and total bilirubin (TBil) for entire cohort were 26.98 (16.88 ~ 46.09) U/L and 24.75 (18.71 ~ 31.79) U/L, 39.00 (36.20 ~ 44.20) g/L and 16.40 (11.34- ~ 21.15) mmol/L, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32153170
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) level was initially increased (4.4 to 3.5 times of the normal value) along with decrease of albumin in the second week, and the difference was statistically significant (&lt;i&gt;P&lt;/i&gt; &amp;lt; 0.001).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32196707
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The laboratory results showed that compared to the normal values, the patients’ lymphocytes were reduced (four [80%] patients), and liver functions alanine aminotransferase and aspartate aminotransferase (two [40%] patients and two [40%] patients) and C-reactive protein (four [80%] patients) were increased when admitted to hospital.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32209890
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Alanine transaminase (ALT) (22.00 [15.00, 34.00] U/L vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32216803
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Higher temperature, blood leukocyte count, neutrophil count, neutrophil percentage, C-reactive protein level, D-dimer level, alanine aminotransferase activity, aspartate aminotransferase activity, α - hydroxybutyrate dehydrogenase activity, lactate dehydrogenase activity and creatine kinase activity were related to severe 2019 novel coronavirus pneumonia and composite endpoint, and so were lower lymphocyte count, lymphocyte percentage and total protein level.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32217556
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Concentrations of alanine aminotransferase, aspartate aminotransferase, creatinine, creatine kinase, lactate dehydrogenase, cardiac troponin I, N-terminal pro-brain natriuretic peptide, and D-dimer were markedly higher in deceased patients than in recovered patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32217835
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compared with moderate cases, severe cases more frequently had dyspnea, lymphopenia, and hypoalbuminemia, with higher levels of alanine aminotransferase, lactate dehydrogenase, C-reactive protein, ferritin, and D-dimer as well as markedly higher levels of IL-2R, IL-6, IL-10, and TNF-α.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32239591
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31.6%, 35.4% and 5.1% COVID-19 patients had elevated levels of alanine transaminase (ALT), aspartate aminotransferase (AST) and bilirubin respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32249918
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compared to the controls, COVID-19 pneumonia patients had lower counts of white blood cells (WBC), neutrophils, C-reactive protein (CRP), and alanine aminotransferase (ALT) on admission.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32259132
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with positive RT-PCR had significantly higher neutrophil (NEU) count (p = 0.0001), and C-reactive protein (CRP) (p = 0.04), lactate dehydrogenase (LDH) (p = 0.0001), aspartate aminotransferase (AST) (p = 0.001), alanine aminotransferase (ALT) (p = 0.0001), and Urea (p = 0.001) levels in serum.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32270660
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase (ALP), γ-glutamyl transferase (GGT), total bilirubin (TBil), albumin(ALB) and international normalized ratio (INR) of 324 cases at baseline were 27.86 ± 20.02 U/L, 29.33 ± 21.02 U/L, 59.93 ± 18.96 U / L, 39.00 ± 54.44 U/L, 9.46 ± 4.58 μmol / L, 40.64 ± 4.13 g / L and 1.02 ± 0.10.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32271456
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Blood biochemical indexes exhibited that the proportion of patients with abnormal alanine aminotransferase and aspartate aminotransferase in the test group were lower than the control group.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32283325
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Abnormal liver function was defined as increased levels of alanine and aspartate aminotransferase, gamma glutamyltransferase, alkaline phosphatase, and total bilirubin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

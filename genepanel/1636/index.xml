@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>none | PlatCOVID</title>
+    <link>/genepanel/1636/</link>
+      <atom:link href="/genepanel/1636/index.xml" rel="self" type="application/rss+xml" />
+    <description>none</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>none</title>
+      <link>/genepanel/1636/</link>
+    </image>
+    
+    <item>
+      <title>ACE</title>
+      <link>/genepanel/1636/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/1636/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;angiotensin I converting enzyme&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/1636&#34; target=&#34;_blank&#34;&gt;1636&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=1636&#34; target=&#34;_blank&#34;&gt; 17q23.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/614519&#39; target=&#39;_blank&#39;&gt;614519&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/612624&#39; target=&#39;_blank&#39;&gt;612624&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/267430&#39; target=&#39;_blank&#39;&gt;267430&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/106180&#39; target=&#39;_blank&#39;&gt;106180&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes an enzyme involved in catalyzing the conversion of angiotensin I into a physiologically active peptide angiotensin II. Angiotensin II is a potent vasopressor and aldosterone-stimulating peptide that controls blood pressure and fluid-electrolyte balance. This enzyme plays a key role in the renin-angiotensin system. Many studies have associated the presence or absence of a 287 bp Alu repeat element in this gene with the levels of circulating enzyme or cardiovascular pathophysiologies. Multiple alternatively spliced transcript variants encoding different isoforms have been identified, and two most abundant spliced variants encode the somatic form and the testicular form, respectively, that are equally active. [provided by RefSeq, May 2010] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ACE</title>
+      <link>/genepanel/1636/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/1636/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;angiotensin I converting enzyme&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; ACE expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+178.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+291.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+74.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skeletal muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+spleen
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+83.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+74.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+83.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159640
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adipose tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ACE</title>
+      <link>/genepanel/1636/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/1636/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;angiotensin I converting enzyme&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of ACE gene in 19 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32061198
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The novel coronavirus 2019 (COVID-19) infected patients by binding human ACE2, leading to severe pneumonia and highly mortality rate in patients. […] ACE2 plays an important role in the RAS, and the imbalance between ACE/Ang II/AT1R pathway and ACE2/Ang (1-7)/Mas receptor pathway in the RAS system will lead to multi-system inflammation. […] Increased ACE and Ang II are poor prognostic factors for severe pneumonia. […] The binding of COVID-19 and ACE2 resulted in the exhaustion of ACE2, and then ACE2/Ang (1-7)/Mas receptor pathway was inhibited. […] The balance of the RAS system was broken, and this would lead to the exacerbation of acute severe pneumonia. […] Therefore, we speculate that ACEI and AT1R inhibitors could be used in patients with COVID-19 pneumonia under the condition of controlling blood pressure, and might reduce the pulmonary inflammatory response and mortality. […] 新型冠状病毒通过与人体血管紧张素转化酶2（ACE2）结合感染产生重症肺炎，传染性强，病死率高，目前无确切有效的治疗方式。 […] ACE2是肾素-血管紧张素系统（RAS）的重要组成部分，RAS系统中ACE/Ang II/AT1R通路与ACE2/Ang (1-7)/Mas受体通路失衡将导致多系统炎症。 […] ACE和Ang II升高是重症肺炎的不良预后因素。 […] 新型冠状病毒与ACE2的结合导致ACE2耗竭，ACE2/Ang (1-7)/Mas受体通路受到抑制，RAS系统失衡，使新型冠状病毒肺炎患者病死率升高。 […] 因此，在控制血压的情况下，对新型冠状病毒肺炎患者应用ACEI及AT1R抑制剂，有可能减轻患者肺部炎症反应，降低患者病死率。.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32159318
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+与严重急性呼吸系统综合征冠状病毒（SARS-CoV）一样，2019新型冠状病毒（2019-nCoV）亦是以血管紧张素转化酶2（ACE2）为受体感染细胞。 […] ACE2作为肾素-血管紧张素系统（RAS）的重要成员，与ACE互为拮抗，二者的平衡与失衡在维护心血管系统生理功能、机体炎症反应、肺损伤等过程中均发挥着重要作用，而其在冠状病毒感染与致病机制中亦发挥着非常重要的作用。 […] 目前为止，在7种人畜共患的冠状病毒中有3种以ACE2为受体感染细胞，即SARS-CoV、人类冠状病毒NL63（HCoV-NL63）和2019-nCoV，了解这些病毒与ACE2的相互作用对于冠状病毒感染的预防和治疗意义重大。 […] 本文对相关文献进行了梳理，总结了ACE2及RAS系统在冠状病毒感染、致病过程中发挥的作用，对于2019-nCoV防治过程中存在的争议进行了归纳，针对ACE2和RAS系统中可能存在的2019-nCoV的治疗靶点进行了展望。.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32166940
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+血管紧张素转化酶2（ACE2）作为受体介导2019-nCoV进入细胞，是目前最有可能防治COVID-19的靶点之一。 […] ACE2是肾素-血管紧张素系统重要的组成部分，以此系统为靶点的ACE抑制剂和血管紧张素受体阻断剂等药物，是目前临床治疗高血压、心肌重构和心力衰竭等心血管疾病的最主要的药物之一。
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32208987
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Because the ACE2 (angiotensin-converting enzyme 2) protein is the receptor that facilitates coronavirus entry into cells, the notion has been popularized that treatment with renin-angiotensin system blockers might increase the risk of developing a severe and fatal severe acute respiratory syndrome coronavirus-2 infection. […] ACE2 in its full-length form is a membrane-bound enzyme, whereas its shorter (soluble) form circulates in blood at very low levels. […] As a mono-carboxypeptidase, ACE2 contributes to the degradation of several substrates including angiotensins I and II. […] ACE (angiotensin-converting enzyme) inhibitors do not inhibit ACE2 because ACE and ACE2 are different enzymes. […] Although angiotensin II type 1 receptor blockers have been shown to upregulate ACE2 in experimental animals, the evidence is not always consistent and differs among the diverse angiotensin II type 1 receptor blockers and differing organs. […] Moreover, there are no data to support the notion that ACE inhibitor or angiotensin II type 1 receptor blocker administration facilitates coronavirus entry by increasing ACE2 expression in either animals or humans. […] Indeed, animal data support elevated ACE2 expression as conferring potential protective pulmonary and cardiovascular effects.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32221983
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This article reviews the correlation between angiotensin-converting enzyme 2 (ACE2) and severe risk factors for coronavirus disease 2019 (COVID-19) and the possible mechanisms. […] ACE2 is a crucial component of the renin-angiotensin system (RAS). […] The classical RAS ACE-Ang II-AT1R regulatory axis and the ACE2-Ang 1-7-MasR counter-regulatory axis play an essential role in maintaining homeostasis in humans. […] ACE2 is widely distributed in the heart, kidneys, lungs, and testes. […] ACE2 antagonizes the activation of the classical RAS system and protects against organ damage, protecting against hypertension, diabetes, and cardiovascular disease. […] Similar to SARS-CoV, SARS-CoV-2 also uses the ACE2 receptor to invade human alveolar epithelial cells. […] Acute respiratory distress syndrome (ARDS) is a clinical high-mortality disease, and ACE2 has a protective effect on this type of acute lung injury. […] Because of these protective effects of ACE2 on chronic underlying diseases and ARDS, the development of spike protein-based vaccine and drugs enhancing ACE2 activity may become one of the most promising approaches for the treatment of COVID-19 in the future.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32228252
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The mechanism for SARS-CoV-2 infection is the requisite binding of the virus to the membrane-bound form of angiotensin-converting enzyme 2 (ACE2) and internalization of the complex by the host cell. […] Recognition that ACE2 is the coreceptor for the coronavirus has prompted new therapeutic approaches to block the enzyme or reduce its expression to prevent the cellular entry and SARS-CoV-2 infection in tissues that express ACE2 including lung, heart, kidney, brain, and gut. […] ACE2, however, is a key enzymatic component of the renin-angiotensin-aldosterone system (RAAS); ACE2 degrades ANG II, a peptide with multiple actions that promote CVD, and generates Ang-(1-7), which antagonizes the effects of ANG II. […] Moreover, experimental evidence suggests that RAAS blockade by ACE inhibitors, ANG II type 1 receptor antagonists, and mineralocorticoid antagonists, as well as statins, enhance ACE2 which, in part, contributes to the benefit of these regimens. […] The current perspective critically examines the evidence for ACE2 regulation by RAAS blockade and statins, the cardiovascular benefits of ACE2, and whether ACE2 blockade is a viable approach to attenuate COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32229706
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One is CD26 and the other is ACE-2 (angiotensin-converting enzyme 2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32232976
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE2 is a metalloproteinase and a homolog of carboxypeptidase ACE. […] It hydrolyzes a variety of angiotensin peptides and is the main active peptide of the renin-angiotensin system (RAS).&lt;sup&gt;[3]&lt;/sup&gt; ACE2, which is made of 805 amino acids, is a type I transmembrane glycoprotein with a single extracellular catalytic domain.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32242182
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There has been a lot of speculation that patients with coronavirus disease 2019 (COVID-19) who are receiving angiotensin-converting enzyme (ACE) inhibitors or angiotensin receptor blockers (ARBs) may be at increased risk for adverse outcomes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32247213
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Search terms were, COVID-19, treatment of coronavirus, COVID 19 and following terms; chloroquine, hydroxychloroquine, ibuprofen, ACE-inhibitors or angiotensin receptor blockers, cardiovascular disease, diarrhoea, liver, testis and gastrointestinal disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32250244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The discovery that SARS-CoV-2 (Severe Acute Respiratory Syndrome Coronavirus 2) binds to the angiotensin converting enzyme (ACE)-2, which is highly expressed in the lower airways, explained why SARS-CoV-2 causes acute respiratory distress syndrome (ARDS) and respiratory failure. […] After this, news spread that ACEis and ARBs would be harmful in SARS-CoV-2-infected subjects. […] To the contrary, compelling evidence exists that the ACE-1/angiotensin(Ang)II/ATR-1 pathway is involved in SARS-CoV-2-induced ARDS, while the ACE-2/Ang(1-7)/ATR2/MasR pathway counteracts the harmful actions of AngII in the lung. […] A reduced ACE-1/ACE-2 ratio is, in fact, a feature of ARDS that can be rescued by human recombinant ACE-2 and Ang(1-7) administration, thus preventing SARS-CoV-2-induced damage to the lung. […] Based on the current clinical evidence treatment with ACE-inhibitors I (ACEis) or angiotensin receptor blockers (ARBs) continues to provide cardiovascular and renal protection in patients diagnosed with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32251731
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The first step of the viral replication cycle [i.e. attachment to the surface of respiratory cells, mediated by the spike (S) viral protein] offers several potential therapeutic targets. […] The S protein uses the angiotension-converting enzyme-2 (ACE-2) receptor for entry, but also sialic acids linked to host cell surface gangliosides. […] This domain (111-158), which is fully conserved among clinical isolates worldwide, may improve attachment of the virus to lipid rafts and facilitate contact with the ACE-2 receptor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32255507
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additionally, many adults with hypertension, diabetes, and chronic kidney disease are placed on angiotensin-converting enzyme (ACE) inhibitors and angiotensin II receptor blockers (ARBs). […] Studies have shown that these medications upregulate the ACE-2 receptor, the very receptor which the SARS-CoV-2 virus uses to enter host cells, which puts older adults at a further increased risk of infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32266708
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cardiovascular diseases, in particular hypertension, as well as the cardiovascular treatment with Renin-Angiotensin System inhibitors such as Angiotensin Converting Enzyme (ACE) inhibitors and Angiotensin Receptor Blockers (ARBs), are claimed once again as mechanisms of Severe Acute Respiratory Syndrome (SARS) during the COVID-19 outbreak due to Cov-2 epidemics. […] In vitro studies are available to support the eventual role of ACE inhibitors and ARBs in both the promotion and antagonism of the disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32268343
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The possible reason about non-susceptibility of children to coronavirus may lie in different angiotensin-converting enzyme (ACE) activity and immunity of children.The first possible reason is about ACE activity. […] A research revealed that children had higher ACE activities.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32269893
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Emphasis is placed on evidence-based medicine to evaluate the frequency of presentation of various symptoms to create a stratification system of the most important epidemiological risk factors for COVID-19. […] Lastly, the current scientific data and status of governing bodies such as the Center of Disease Control (CDC) and the WHO on the usage of controversial therapies such as angiotensin-converting enzyme (ACE) inhibitors, nonsteroidal anti-inflammatory drugs (NSAIDs) (Ibuprofen), and corticosteroids usage in COVID-19 are discussed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32274964
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme-2 (ACE-2) is one of the most important receptors on the cell membrane of the host cells (HCs) which its interaction with spike protein (SP) with a furin-cleavage site results in the SARS-CoV-2 invasion. […] Hence, in this review, we presented an overview on the interaction of ACE-2 and furin with SP. […] Furthermore, we discussed that the small molecular inhibitors can limit the interaction of ACE-2 and furin with SP and can be used as potential therapeutic platforms to combat the spreading CoV epidemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32277367
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin converting enzyme 2 (ACE2) appears important for viral entry into pneumocytes; dysbalance in ACE2 as caused by ACE inhibitors or ibuprofen may predispose to severe disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32279064
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Similar to the respiratory mucosa, angiotensin converting enzyme-2 (ACE-2) receptor and transmembrane serine protease 2 TMPRSS2) co-express in the gastrointestinal tract, which facilitates viral entry into the tissue.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ACE</title>
+      <link>/genepanel/1636/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/1636/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;angiotensin I converting enzyme&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ACE</title>
+      <link>/genepanel/1636/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/1636/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;angiotensin I converting enzyme&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

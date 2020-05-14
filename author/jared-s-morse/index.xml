@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jared S Morse | PlatCOVID</title>
+    <link>/author/jared-s-morse/</link>
+      <atom:link href="/author/jared-s-morse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jared S Morse</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Jared S Morse</title>
+      <link>/author/jared-s-morse/</link>
+    </image>
+    
+    <item>
+      <title>Learning from the Past: Possible Urgent Prevention and Treatment Options for Severe Acute Respiratory Infections Caused by 2019-nCoV.</title>
+      <link>/publication/32022370/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32022370/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

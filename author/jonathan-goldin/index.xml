@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan Goldin | PlatCOVID</title>
+    <link>/author/jonathan-goldin/</link>
+      <atom:link href="/author/jonathan-goldin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonathan Goldin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Jonathan Goldin</title>
+      <link>/author/jonathan-goldin/</link>
+    </image>
+    
+    <item>
+      <title>The Role of Chest Imaging in Patient Management during the COVID-19 Pandemic: A Multinational Consensus Statement from the Fleischner Society.</title>
+      <link>/publication/32275978/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32275978/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Role of Chest Imaging in Patient Management during the COVID-19 Pandemic: A Multinational Consensus Statement from the Fleischner Society.</title>
+      <link>/publication/32255413/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32255413/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

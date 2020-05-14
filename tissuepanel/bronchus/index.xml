@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>none | PlatCOVID</title>
+    <link>/tissuepanel/bronchus/</link>
+      <atom:link href="/tissuepanel/bronchus/index.xml" rel="self" type="application/rss+xml" />
+    <description>none</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>none</title>
+      <link>/tissuepanel/bronchus/</link>
+    </image>
+    
+    <item>
+      <title>bronchus</title>
+      <link>/tissuepanel/bronchus/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/tissuepanel/bronchus/info/</guid>
+      <description> 
+
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;tissue-sentence-context&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tissue Sentence Context&lt;/h3&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;bronchus&lt;/em&gt; tissue in 2 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Senteces
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32134681
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+With regard to bronchial changes seen on CT, 45 patients (72.6%) had air bronchogram, and 11 (17.7%) had bronchus distortion. […] Compared with early-phase disease (≤ 7 days after the onset of symptoms), advanced-phase disease (8-14 days after the onset of symptoms) was characterized by significantly increased frequencies of GGO plus a reticular pattern, vacuolar sign, fibrotic streaks, a subpleural line, a subpleural transparent line, air bronchogram, bronchus distortion, and pleural effusion; however, GGO significantly decreased in advanced-phase disease. &lt;b&gt;CONCLUSION.&lt;/b&gt; CT examination of patients with COVID-19 pneumonia showed a mixed and diverse pattern with both lung parenchyma and the interstitium involved.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32272262
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+GGO and vascular enhancement sign were most frequent seen, followed by interlobular septal thickening and air bronchus sign as well as consolidation, fibrosis and air trapping.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

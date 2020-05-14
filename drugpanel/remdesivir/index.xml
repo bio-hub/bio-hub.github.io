@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/remdesivir/</link>
+      <atom:link href="/drugpanel/remdesivir/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/remdesivir/</link>
+    </image>
+    
+    <item>
+      <title>REMDESIVIR</title>
+      <link>/drugpanel/remdesivir/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/remdesivir/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db14761&#39; target=&#39;_blank&#39;&gt;db14761&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=remdesivir&#34; target=&#34;_blank&#34;&gt;remdesivir&lt;/a&gt; &lt;br&gt;
+Synonymous :remdesivir | remdésivir | remdesivirum
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;remdesivir&lt;/em&gt; gene in 38 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31996494
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lopinavir /Ritonavir, Nucleoside analogues, Neuraminidase inhibitors, Remdesivir, peptide (EK1), abidol, RNA synthesis inhibitors (such as TDF, 3TC), anti-inflammatory drugs (such as hormones and other molecules), Chinese traditional medicine, such ShuFengJieDu Capsules and Lianhuaqingwen Capsule, could be the drug treatment options for 2019-nCoV.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32022370
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Herein, we suggest four potential drug candidates (an ACE2-based peptide, remdesivir, 3CLpro-1 and a novel vinylsulfone protease inhibitor) that could be used to treat patients suffering with the 2019-nCoV.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32023685
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Drugs are possibly effective for 2019-nCoV include: remdesivir, lopinavir / ritonavir, lopinavir / ritonavir combined with interferon-β, convalescent plasma, and monoclonal antibodies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32054787
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Remdesivir (GS-5734) effectively inhibited MERS coronavirus (MERS-CoV) replication in vitro, and showed efficacy against Severe Acute Respiratory Syndrome (SARS)-CoV in a mouse model. […] Here, we tested the efficacy of prophylactic and therapeutic remdesivir treatment in a nonhuman primate model of MERS-CoV infection, the rhesus macaque. […] Prophylactic remdesivir treatment initiated 24 h prior to inoculation completely prevented MERS-CoV-induced clinical disease, strongly inhibited MERS-CoV replication in respiratory tissues, and prevented the formation of lung lesions. […] Therapeutic remdesivir treatment initiated 12 h postinoculation also provided a clear clinical benefit, with a reduction in clinical signs, reduced virus replication in the lungs, and decreased presence and severity of lung lesions. […] The data presented here support testing of the efficacy of remdesivir treatment in the context of a MERS clinical trial.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32081636
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The one case of SARS-CoV-2 pneumonia in the USA is responding well to remdesivir, which is now undergoing a clinical trial in China.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32094225
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Remdesivir (RDV) is an investigational compound with a broad spectrum of antiviral activities against RNA viruses, including severe acute respiratory syndrome-CoV and Middle East respiratory syndrome (MERS-CoV).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32138488
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Management is primarily supportive, with newer antivirals (lopinavir ritonavir and Remdesivir) under investigation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32147628
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several drugs such as chloroquine, arbidol, remdesivir, and favipiravir are currently undergoing clinical studies to test their efficacy and safety in the treatment of coronavirus disease 2019 (COVID-19) in China; some promising results have been achieved thus far.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32152082
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most promising compound is remdesivir (GS-5734), a nucleotide analog prodrug currently in clinical trials for treating Ebola virus infections. […] Remdesivir inhibited the replication of SARS-CoV and MERS-CoV in tissue cultures, and it displayed efficacy in non-human animal models. […] Remarkably, the therapeutic efficacy of remdesivir appeared to be superior to that of LPV/RTV-INFb against MERS-CoV in a transgenic humanized mice model.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32164424
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Similar to outbreaks of other newly identified virus, there is no proven regimen from conventional medicine and most reports managed the patients with lopinavir/ritonavir, ribavirin, beta-interferon, glucocorticoid and supportive treatment with remdesivir undergoing clinical trial.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32173241
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, effective treatment is lacking; however, clinical trials investigating the efficacy of several agents, including remdesivir and chloroquine, are underway in China.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32179150
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chloroquine, remdesivir, lopinavir, ribavirin and ritonavir have shown efficacy to inhibit coronavirus in vitro.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32214286
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These include vaccines, medications Remdesivir and hydroxychloroquine and potentially combination therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32219882
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To help understand the advantages and limitations of differential treatments, we provide a timely review and discuss the complications and corresponding major treatments, especially controversial ones such as antiviral therapy (remdesivir, ribavirin, and chloroquine), glucocorticoid therapy, extracorporeal support including an artificial liver system, and extracorporeal membrane oxygenation based on available evidence.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32222463
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results suggest the effectiveness of Ribavirin, Remdesivir, Sofosbuvir, Galidesivir, and Tenofovir as potent drugs against SARS-CoV-2 since they tightly bind to its RdRp.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32238094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As a result three FDA approved drugs (Remdesivir, Saquinavir and Darunavir) and two natural compounds (. flavone and coumarine derivatives) were identified as promising hits.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32239125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among them, remdesivir, an analogue of adenosine, is what seems to have a more promising future. […] Although all studies have been carried out with SARS-CoV and MERS-CoV, it seems that by virological and functional analogy, remdesivir is one of the few antiviral drugs with proven efficacy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32243270
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This review summarizes the current evidence of potential therapeutic agents, such as lopinavir/ritonavir, remdesivir, favipiravir, chloroquine, hydroxychloroquine, interferon, ribavirin, tocilizumab and sarilumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32247050
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Potential treatments included remdesivir, chloroquine, tocilizumab, convalescent plasma and vaccine immunization (when possible).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32247927
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The first medication experience of the recovered patients in the US has led remdesivir to be the “specific drug”. […] China has also taken immediate action to put remdesivir into clinical trials with the purpose of applying it into clinical therapeutics for Corona Virus Disease 2019 (COVID-19). […] Further, we analyzed the pharmacological actions and previous trials of remdesivir to identify the feasibility of conducting experiments on COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32251767
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report the antiviral effect of remdesivir, lopinavir, homorringtonine, and emetine against SARS-CoV-2 virus in Vero E6 cells with the estimated 50% effective concentration at 23.15 μM, 26.63 μM, 2.55 μM and 0.46 μM, respectively. […] Synergy between remdesivir and emetine was observed, and remdesivir at 6.25 μM in combination with emetine at 0.195 μM may achieve 64.9% inhibition in viral yield.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32253226
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Herein, we show that the ribonucleoside analog β-D-N&lt;sup&gt;4&lt;/sup&gt;-hydroxycytidine (NHC, EIDD-1931) has broad spectrum antiviral activity against SARS-CoV-2, MERS-CoV, SARS-CoV, and related zoonotic group 2b or 2c Bat-CoVs, as well as increased potency against a coronavirus bearing resistance mutations to the nucleoside analog inhibitor remdesivir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32256547
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We identified 24 clinical trials, involving more than 20 medicines, such as human immunoglobulin, interferons, chloroquine, hydroxychloroquine, arbidol, remdesivir, favipiravir, lopinavir, ritonavir, oseltamivir, methylprednisolone, bevacizumab, and traditional Chinese medicines (TCM). […] Se identificaron 24 ensayos clínicos relacionados con más de 20 medicamentos, como inmunoglobulina humana, interferones, cloroquina, hidroxicloroquina, arbidol, remdesivir, favipiravir, lopinavir, ritonavir, oseltamivir, metilprednisolona, bevacizumab y medicina tradicional china. […] Foram identificados 24 ensaios clínicos envolvendo mais de 20 medicamentos, tais como imunoglobulina humana, interferons, cloroquina, hidroxicloroquina, arbidol, remdesivir, favipiravir, lopinavir, ritonavir, oseltamivir, metilprednisolona, bevacizumabe e medicamentos chineses tradicionais.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32258351
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Remdesivir (GS-5734™) is a broad-spectrum antiviral drug that is now being tested as a potential treatment for COVID-19 in international, multi-site clinical trials. […] Currently available evidence about the antiviral effects of remdesivir against coronaviruses is primarily based on &lt;i&gt;in vitro&lt;/i&gt; and &lt;i&gt;in vivo&lt;/i&gt; studies (including some on a chemically related compound, GS-441524™), which have demonstrated largely favorable findings. […] Thus, the purpose of this review is to synthesize the knowledge to date about remdesivir as a therapeutic option for coronaviruses, with a special focus on information relevant to the One Health community.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32275812
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Remdesivir, a nucleotide analogue prodrug that inhibits viral RNA polymerases, has shown in vitro activity against SARS-CoV-2. […] We provided remdesivir on a compassionate-use basis to patients hospitalized with Covid-19, the illness caused by infection with SARS-CoV-2. […] Patients received a 10-day course of remdesivir, consisting of 200 mg administered intravenously on day 1, followed by 100 mg daily for the remaining 9 days of treatment. […] This report is based on data from patients who received remdesivir during the period from January 25, 2020, through March 7, 2020, and have clinical data for at least 1 subsequent day. […] Of the 61 patients who received at least one dose of remdesivir, data from 8 could not be analyzed (including 7 patients with no post-treatment data and 1 with a dosing error). […] In this cohort of patients hospitalized for severe Covid-19 who were treated with compassionate-use remdesivir, clinical improvement was observed in 36 of 53 patients (68%). […] Measurement of efficacy will require ongoing randomized, placebo-controlled trials of remdesivir therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32277040
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The RNA-dependent RNA polymerase (RdRp, also named nsp12) is the central component of coronaviral replication/transcription machinery and appears to be a primary target for the antiviral drug, remdesivir. […] A comparative analysis model shows how remdesivir binds to this polymerase.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32277065
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The nucleotide analogue remdesivir is an investigational drug for the treatment of human coronavirus infection. […] Remdesivir is a phosphoramidate prodrug and is known to target viral RNA-dependent RNA polymerases. […] In this issue, Gordon &lt;i&gt;et al.&lt;/i&gt; identify that remdesivir acts as a delayed RNA chain terminator for MERS-CoV polymerase complexes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32277367
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Antiviral drugs like lopinavir/ritonavir, favipiravir and remdesivir are also being explored.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32280433
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The result showed that atazanavir, an antiretroviral medication used to treat and prevent the human immunodeficiency virus (HIV), is the best chemical compound, showing an inhibitory potency with &lt;i&gt;K&lt;sub&gt;d&lt;/sub&gt;&lt;/i&gt; of 94.94 nM against the SARS-CoV-2 3C-like proteinase, followed by remdesivir (113.13 nM), efavirenz (199.17 nM), ritonavir (204.05 nM), and dolutegravir (336.91 nM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281114
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A case of late initiation of remdesivir antiviral therapy in the successful treatment of a patient with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in a mixed medical ICU of a community teaching hospital is presented. […] A request for compassionate use remdesivir was submitted on the same hospital day as the positive COVID-19 PCR result. […] Supportive measures, in addition to a 5-day course of hydroxychloroquine, were maintained until remdesivir could be supplied on day 9 of hospitalization, 13 days after symptom onset. […] Sixty hours after initiating remdesivir, the patient was successfully extubated and was able to transition to room air within 24 hours of extubation. […] Late initiation of remdesivir may be effective in treating SARS-CoV-2, unlike antivirals utilized for different disease states, such as oseltamivir, which are most effective when started as soon as possible following symptom onset.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32282022
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most promising therapy is remdesivir. […] Remdesivir has potent in vitro activity against SARS-CoV-2, but it is not US Food and Drug Administration approved and currently is being tested in ongoing randomized trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32282502
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No established treatment is currently available; however, several therapies, including remdesivir, hydroxychloroquine and chloroquine, and interleukin (IL)-6 inhibitors, are being used off-label and evaluated in ongoing clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32282982
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hydroxychloroquine (HCQ) was used by 78.1% of respondents; azithromycin by 46.9%; tocilizumab by 31.3%, and remdesivir by 25.0%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32283108
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We then map a promising NA candidate, GS-441524 (the active metabolite of Remdesivir) to the nucleoside active site of both proteins, identifying the residues important for nucleotide recognition, discrimination, and excision. […] Additionally, we propose structural and function implications of two previously identified RdRp resistance mutations in relation to resistance against Remdesivir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32284326
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Replication of SARS-CoV-2 depends on the viral RNA-dependent RNA polymerase (RdRp), which is the likely target of the investigational nucleotide analogue remdesivir (RDV).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292909
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For this emergency, the FDA has approved Remdesivir and Hydroxychloroquine for treatment of COVID-19 as Emergency Use Authorization.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32293834
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most frequently used agents both in Turkey and all over the world including chloroquine, hydroxychloroquine, lopinavir/ritonavir, favipiravir and remdesivir will be reviewed here .
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32294562
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several antiviral medications: Zanamivir, Indinavir, Saquinavir, and Remdesivir show potential as and 3CL&lt;sup&gt;PRO&lt;/sup&gt; main proteinase inhibitors and as a treatment of COVID-19. […] Zanamivir, Indinavir, Saquinavir, and Remdesivir are among the exciting hits on the 3CL&lt;sup&gt;PRO&lt;/sup&gt; main proteinase.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

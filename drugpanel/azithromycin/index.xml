@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/azithromycin/</link>
+      <atom:link href="/drugpanel/azithromycin/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/azithromycin/</link>
+    </image>
+    
+    <item>
+      <title>AZITHROMYCIN</title>
+      <link>/drugpanel/azithromycin/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/azithromycin/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00207&#39; target=&#39;_blank&#39;&gt;db00207&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
+Synonymous :azithromycin | azithromycine | azithromycinum | azitromicina
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 8 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32031570
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Most patients received antiviral therapy (oseltamivir, 124 [89.9%]), and many received antibacterial therapy (moxifloxacin, 89 [64.4%]; ceftriaxone, 34 [24.6%]; azithromycin, 25 [18.1%]) and glucocorticoid therapy (62 [44.9%]).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32205204
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Depending on their clinical presentation, azithromycin was added to the treatment. […] Azithromycin added to hydroxychloroquine was significantly more efficient for virus elimination. […] Despite its small sample size our survey shows that hydroxychloroquine treatment is significantly associated with viral load reduction/disappearance in COVID-19 patients and its effect is reinforced by azithromycin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32229706
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Similarly, two proposed therapeutics for the treatment of COVID-19 infection are Azithromycin and Quercetin, both drugs with significant senolytic activity. […] As Azithromycin and Doxycycline are both commonly used antibiotics that inhibit viral replication and IL-6 production, we may want to consider this general class of antibiotics that functionally inhibits cellular protein synthesis as a side-effect, for the treatment and prevention of COVID-19 disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32249257
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Very recently, hydroxychloroquine in combination with azithromycin treatment was reported to be effective for COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32276453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Two of these senotherapeutics, azithromycin and ruxolitinib, are currently undergoing testing for their efficacy in treating COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32282982
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hydroxychloroquine (HCQ) was used by 78.1% of respondents; azithromycin by 46.9%; tocilizumab by 31.3%, and remdesivir by 25.0%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32285930
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The data sources included were 1) longitudinal clinical, pharmacokinetic, and virologic data from patients with severe acute respiratory syndrome-2 (SARS-CoV-2) infection who received HCQ with or without azithromycin (n=116), 2) in vitro viral replication data and SARS-CoV-2 viral load inhibition by HCQ, 3) a population pharmacokinetic model of HCQ and 4) a model relating chloroquine pharmacokinetics to QTc prolongation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32289548
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We conducted an uncontrolled non-comparative observational study in a cohort of 80 relatively mildly infected inpatients treated with a combination of hydroxychloroquine and azithromycin over a period of at least three days, with three main measurements: clinical outcome, contagiousness as assessed by PCR and culture, and length of stay in infectious disease unit (IDU).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

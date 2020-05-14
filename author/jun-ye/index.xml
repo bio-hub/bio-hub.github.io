@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun Ye | PlatCOVID</title>
+    <link>/author/jun-ye/</link>
+      <atom:link href="/author/jun-ye/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jun Ye</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Jun Ye</title>
+      <link>/author/jun-ye/</link>
+    </image>
+    
+    <item>
+      <title>A comparative study on the clinical features of COVID-19 pneumonia to other pneumonias.</title>
+      <link>/publication/32161968/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32161968/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

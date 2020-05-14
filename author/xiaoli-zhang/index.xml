@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoli Zhang | PlatCOVID</title>
+    <link>/author/xiaoli-zhang/</link>
+      <atom:link href="/author/xiaoli-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoli Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Xiaoli Zhang</title>
+      <link>/author/xiaoli-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of Epidemiological and Clinical features in older patients with Corona Virus Disease 2019 (COVID-19) out of Wuhan.</title>
+      <link>/publication/32211844/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32211844/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiological, clinical characteristics of cases of SARS-CoV-2 infection with abnormal imaging findings.</title>
+      <link>/publication/32205284/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32205284/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

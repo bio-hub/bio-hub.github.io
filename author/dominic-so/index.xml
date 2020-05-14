@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dominic So | PlatCOVID</title>
+    <link>/author/dominic-so/</link>
+      <atom:link href="/author/dominic-so/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dominic So</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Dominic So</title>
+      <link>/author/dominic-so/</link>
+    </image>
+    
+    <item>
+      <title>Critically ill patients with COVID-19 in Hong Kong: a multicentre retrospective observational cohort study</title>
+      <link>/publication/32248675/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32248675/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Ross | PlatCOVID</title>
+    <link>/author/r-ross/</link>
+      <atom:link href="/author/r-ross/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Ross</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>R Ross</title>
+      <link>/author/r-ross/</link>
+    </image>
+    
+    <item>
+      <title>How to reduce the likelihood of coronavirus-19 (CoV-19 or SARS-CoV-2) infection and lung inflammation mediated by IL-1.</title>
+      <link>/publication/32228825/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32228825/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

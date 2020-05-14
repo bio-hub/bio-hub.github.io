@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacky M C Chan | PlatCOVID</title>
+    <link>/author/jacky-m-c-chan/</link>
+      <atom:link href="/author/jacky-m-c-chan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jacky M C Chan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Jacky M C Chan</title>
+      <link>/author/jacky-m-c-chan/</link>
+    </image>
+    
+    <item>
+      <title>Consistent detection of 2019 novel coronavirus in saliva.</title>
+      <link>/publication/32047895/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32047895/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

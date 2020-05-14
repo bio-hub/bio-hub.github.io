@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yan Li | PlatCOVID</title>
+    <link>/author/yan-li/</link>
+      <atom:link href="/author/yan-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yan Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Yan Li</title>
+      <link>/author/yan-li/</link>
+    </image>
+    
+    <item>
+      <title>Diagnosis and Management of First Case of COVID-19 in Canada: Lessons applied from SARS.</title>
+      <link>/publication/32147731/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32147731/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Biological Product Development Strategies for Prevention and Treatment of Coronavirus Disease 2019].</title>
+      <link>/publication/32220178/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32220178/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coronavirus Disease 19 Infection Does Not Result in Acute Kidney Injury: An Analysis of 116 Hospitalized Patients from Wuhan, China.</title>
+      <link>/publication/32229732/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32229732/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coronavirus Disease 2019 (COVID-19): Role of Chest CT in Diagnosis and Management.</title>
+      <link>/publication/32130038/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32130038/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

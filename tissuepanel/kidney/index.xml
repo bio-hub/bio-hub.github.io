@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>none | PlatCOVID</title>
+    <link>/tissuepanel/kidney/</link>
+      <atom:link href="/tissuepanel/kidney/index.xml" rel="self" type="application/rss+xml" />
+    <description>none</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>none</title>
+      <link>/tissuepanel/kidney/</link>
+    </image>
+    
+    <item>
+      <title>kidney</title>
+      <link>/tissuepanel/kidney/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/tissuepanel/kidney/info/</guid>
+      <description> 
+
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;tissue-sentence-context&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tissue Sentence Context&lt;/h3&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;kidney&lt;/em&gt; tissue in 38 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Senteces
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32077660
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Four cases (12.5%) were combined with one underlying disease (bronchial asthma, coronary heart disease, malignant tumor, chronic kidney disease), and one case (3.13%) was simultaneously combined with high blood pressure and malignant tumor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32081428
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, since ACE2 is predominantly expressed in intestines, testis, and kidney, fecal-oral and other routes of transmission are also possible.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32105632
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Most patients had organ function damage, including 35 (67%) with ARDS, 15 (29%) with acute kidney injury, 12 (23%) with cardiac injury, 15 (29%) with liver dysfunction, and one (2%) with pneumothorax. 37 (71%) patients required mechanical ventilation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32120458
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The observation indicators included total blood count, C-reactive protein (CRP), arterial blood gas analysis, myocardial injury markers, coagulation function, liver and kidney function, electrolyte, procalcitonin (PCT), B-type natriuretic peptide (BNP), blood lipid, pulmonary CT and pathogen detection. &lt;b&gt;Results:&lt;/b&gt; Compared with the general group, the lymphocyte count (0.74×10(9) (0.34×10(9), 0.94×10(9))/L vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32159234
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The first pool was from a Carassius auratus (crusian carp) cell line and the second was from Ctenopharyngodon idella (grass carp) head kidney tissue.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32170560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, some patients also exhibit non-respiratory symptoms, such as kidney failure, implying that 2019-nCoV could also invade other organs. […] Through scRNA-seq data analyses, we identified the organs at risk, such as lung, heart, esophagus, kidney, bladder, and ileum, and located specific cell types (i.e., type II alveolar cells (AT2), myocardial cells, proximal tubule cells of the kidney, ileum and esophagus epithelial cells, and bladder urothelial cells), which are vulnerable to 2019-nCoV infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32172546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; To investigate the pathological characteristics and the clinical significance of novel coronavirus (2019-nCoV)-infected pneumonia (termed by WHO as corona virus disease 2019, COVID-19). &lt;b&gt;Methods:&lt;/b&gt; Minimally invasive autopsies from lung, heart, kidney, spleen, bone marrow, liver, pancreas, stomach, intestine, thyroid and skin were performed on three patients died of novel coronavirus pneumonia in Chongqing, China. […] While the 2019-nCoV is mainly distributed in lung, the infection also involves in the damages of heart, vessels, liver, kidney and other organs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32181990
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This is a 52-year-old man who received kidney transplantation 12 years ago.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32199615
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although ACE2 is reported to be expressed in lung, liver, stomach, ileum, kidney and colon, its expressing levels are rather low, especially in the lung. […] Consistent with other recent reports, we confirmed that ACE2 was mainly expressed in lung AT2, liver cholangiocyte, colon colonocytes, esophagus keratinocytes, ileum ECs, rectum ECs, stomach epithelial cells, and kidney proximal tubules.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32203970
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we review the most recent findings on the effects of SARS-CoV-2 infection on kidney diseases, including acute kidney injury, and examine the potential effects of ARBs on the outcomes of patients with COVID-19. […] Lastly, we discuss the clinical management of COVID-19 patients with existing chronic renal disorders, particularly those in dialysis and with kidney transplants.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32209890
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.8%, χ = 93.222, P &amp;lt; 0.001), acute kidney injury (18.3% vs. 0, χ = 23.257, P &amp;lt; 0.001), shock (11.9% vs. 0, χ = 14.618, P &amp;lt; 0.001), and disseminated intravascular coagulation (DIC) (6.4% vs. 0, χ = 7.655, P = 0.006). […] More patients in the death groups had complications such as ARDS, acute cardiac injury, acute kidney injury, shock, and DIC.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32211816
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Complications were more common in patients with cardiac injury than those without cardiac injury and included acute respiratory distress syndrome (48 of 82 [58.5%] vs 49 of 334 [14.7%]; P &amp;lt; .001), acute kidney injury (7 of 82 [8.5%] vs 1 of 334 [0.3%]; P &amp;lt; .001), electrolyte disturbances (13 of 82 [15.9%] vs 17 of 334 [5.1%]; P = .003), hypoproteinemia (11 of 82 [13.4%] vs 16 of 334 [4.8%]; P = .01), and coagulation disorders (6 of 82 [7.3%] vs 6 of 334 [1.8%]; P = .02).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32216698
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with hypertension, diabetes, coronary heart disease, cerebrovascular illness, chronic obstructive pulmonary disease, and kidney dysfunction have worse clinical outcomes when infected with SARS-CoV-2, for unknown reasons.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32217556
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Common complications observed more frequently in deceased patients included acute respiratory distress syndrome (113; 100%), type I respiratory failure (18/35; 51%), sepsis (113; 100%), acute cardiac injury (72/94; 77%), heart failure (41/83; 49%), alkalosis (14/35; 40%), hyperkalaemia (42; 37%), acute kidney injury (28; 25%), and hypoxic encephalopathy (23; 20%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32222703
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this article, we report on a 75-year-old man infected with 2019 novel coronavirus who has end-stage kidney disease (ESKD).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32222713
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The risk factors for severe presentations are concentrated in patients with chronic kidney disease, particularly patients with end-stage renal disease (ESRD) who are dialysis dependent.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32224986
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the sequel of this epidemic or contagious disease, the patient experiences fever, chest paint, chills, a rapid heartbeat, breathing difficulties, pneumonia, and kidney failure.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32228252
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recognition that ACE2 is the coreceptor for the coronavirus has prompted new therapeutic approaches to block the enzyme or reduce its expression to prevent the cellular entry and SARS-CoV-2 infection in tissues that express ACE2 including lung, heart, kidney, brain, and gut.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32229732
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Whether the patients with coronavirus disease 19 (COVID-19) infected by severe acute respiratory syndrome (SARS)-CoV-2 would commonly develop acute kidney injury (AKI) is an important issue worthy of clinical attention. […] Twelve (10.8%) patients showed mild increase of blood urea nitrogen or creatinine (&amp;lt;26 μmol/L within 48 h), and 8 (7.2%) patients showed trace or 1+ albuminuria in 111 COVID-19-confirmed patients without chronic kidney disease (CKD).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32232218
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+According to the findings of the present study, hypertension, cardiovascular diseases, diabetes mellitus, smoking, chronic obstructive pulmonary disease (COPD), malignancy, and chronic kidney disease were among the most prevalent underlying diseases among hospitalized COVID-19 patients, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32243672
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A kidney transplanted patient infected with SARS CoV2 infection showed a mild disease despite immune suppression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32243690
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Herein we report three cases of a familial cluster with one family member being a kidney transplant recipient.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32247631
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since information on kidney disease in patients with COVID-19 is limited, we determined the prevalence of acute kidney injury (AKI) in patients with COVID-19. […] Further, we evaluated the association between markers of abnormal kidney function and death in patients with COVID-19. […] Kaplan-Meier analysis demonstrated that patients with kidney disease had a significantly higher risk for in-hospital death. […] Thus, our findings show the prevalence of kidney disease on admission and the development of AKI during hospitalization in patients with COVID-19 is high and is associated with in-hospital mortality. […] Hence, clinicians should increase their awareness of kidney disease in patients with severe COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32249089
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The number of cases has increased rapidly, but no data concerning kidney transplant (KTx) recipients infected with COVID-19 are available.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32250968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The current COVID-19 pandemic has affected everyone, but presents profound consequences for patients with kidney disease, health care providers, and biomedical researchers. […] In this Viewpoint, I will discuss a number of kidney-specific aspects of COVID-19 infection, noting therapeutic and basic research opportunities.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32251805
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Multiple organ dysfunction can be observed, the most common organ damage was lung, followed by heart, kidney and liver.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32255507
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Studies have shown that this virus causes worse outcomes and a higher mortality rate in older adults and those with comorbidities such as hypertension, cardiovascular disease, diabetes, chronic respiratory disease, and chronic kidney disease. […] Additionally, many adults with hypertension, diabetes, and chronic kidney disease are placed on angiotensin-converting enzyme (ACE) inhibitors and angiotensin II receptor blockers (ARBs).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32278616
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Knowledge about this growing infection is also increasing although many uncertainties remain, especially in the kidney transplant population. […] This manuscript presents a proposal for action with general and specific recommendations to protect and prevent infection in this vulnerable population such as kidney transplant recipients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32279081
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Through a multivariate analysis of the causes of death in older patients, we found that males, comorbidities, time from disease onset to hospitalization, abnormal kidney function, and elevated procalcitonin levels were all significantly associated with death.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32279418
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We present the case of a 36-year-old kidney transplanted woman affected by Senior-Loken syndrome diagnosed with COVID-19 pneumonia after a contact with her positive mother.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281331
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The location of the disease is lung, always involving spleen and stomach, and may further affect heart and kidney in severe cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281333
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The pungent medicines are mostly found in the early stage, the bitter drugs are the main flavor in the middle and severe stage, and the sweet medicines are mostly used in the recovery stage; ③the meridian of the drug is more concentrated at the lung, stomach, and heart, and most of drugs are into the lung meridian, accounting for 24.55%; these medicines are mostly into the lungs and stomach in the initial and middle stages, and into the heart and kidney in severe stages; ④oral drugs are mostly non-toxic, among which only 6 kinds are toxic, namely Armeniacae Semen Amarum, Dryopteridis Crassirhizomatis Rhizoma, Paridis Rhizoma, Pinelliae Rhizoma, Aconiti Lateralis Radix Praeparaia; ⑤most of the drugs have five types of functions: treating exterior syndromes, resolving dampness, clearing heat, replenishing deficiency, resolving phlegm, cough, and asthma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281754
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We are in the midst of a health emergency that is totally new for us all and that requires a concerted effort, especially when it comes to safeguarding patients on hemodialysis, and kidney transplant recipients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32282982
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Complete suspension of live donor kidney transplantation was reported by 71.8% and live donor liver by 67.7%. […] While complete suspension of deceased donor transplantation was less frequent, some restrictions to deceased donor kidney transplantation were reported by 84.0% and deceased donor liver by 73.3%; more stringent restrictions were associated with higher regional incidence of COVID-19. […] Respondents reported a total of 148 COVID-19 recipients from &amp;lt;1y to &amp;gt;10y post-transplant: 69.6% were kidney recipients, and 25.0% were critically ill.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32282991
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Limited data are available regarding immunosuppression management in kidney transplant recipients (KTRs) with SARS-CoV-2 pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32286245
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Biomarkers of inflammation, cardiac and muscle injury, liver and kidney function and coagulation measures were also significantly elevated in patients with both severe and fatal COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292866
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The management of the disease in patients with kidney disease is even more challenging, especially in those who are immunosuppressed or with severe comorbidities. […] Here we present the therapeutic approach employed in Brescia (Italy) for managing kidney transplant and hemodialysis patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32293003
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This is related to the role of angiotensin-converting enzyme 2 (ACE2) for SARS-CoV-2 entry into cells, and expression of ACE2 in the lung, cardiovascular system, kidney, and other tissues.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

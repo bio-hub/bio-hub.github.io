@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/papain/</link>
+      <atom:link href="/drugpanel/papain/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/papain/</link>
+    </image>
+    
+    <item>
+      <title>PAPAIN</title>
+      <link>/drugpanel/papain/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/papain/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11193&#39; target=&#39;_blank&#39;&gt;db11193&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=papain&#34; target=&#34;_blank&#34;&gt;papain&lt;/a&gt; &lt;br&gt;
+Synonymous :papaína
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;papain&lt;/em&gt; gene in 1 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32120929
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Different modes of time-of-addition/removal assay indicated that tryptanthrin prevented the early and late stages of HCoV-NL63 replication, particularly by blocking viral RNA genome synthesis and papain-like protease 2 activity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32167166
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The AS-SCoV2 located in the acidic-domain of papain-like protein of SARS-CoV-2 and bat-SL-CoV-RatG13 guided us to suggest that the novel 2019 coronavirus probably emerged by genetic drift from bat-SL-CoV-RaTG13. […] The implication of this amino acid signature in papain-like protein structure arrangement and function is something worth to be explored.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32181901
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among the nonstructural proteins, the leader protein (nsp1), the papain-like protease (nsp3), the nsp4, the 3C-like protease (nsp5), the nsp7, the nsp8, the nsp9, the nsp10, the RNA-directed RNA polymerase (nsp12), the helicase (nsp13), the guanine-N7 methyltransferase (nsp14), the uridylate-specific endoribonuclease (nsp15), the 2’-O-methyltransferase (nsp16), and the ORF7a protein could be built on the basis of homology templates.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32188728
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Coronaviruses express a multifunctional papain-like protease, termed PLP2. […] The coronavirus papain-like protease 2 (PLP2) domain possesses protease activity, which cleaves the viral replicase polyprotein, and also DUB activity (de-conjugating ubiquitin/ubiquitin-like molecules from modified substrates) using identical catalytic residues.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32216114
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Coronaviral proteases, including main proteases and papain-like proteases (PLP), are attractive antiviral targets because of their essential roles in polyprotein processing and thus viral maturation. […] Here, we describe the biochemical and structural identification of recombinant SADS papain-like protease 2 (PLP2) domain of nsp3.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281328
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The crystal structures of 3 CL protease(Mpro) and papain-like protease(PLP) were obtained from PDB database and homologous modeling respectively, and were used to conduct virtual screening of TCMD 2009 database by CDOCKER program.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292689
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Structure and screening results of important targets such as 3-chymotrypsin-like protease (3CLpro), Spike, RNA-dependent RNA polymerase (RdRp), and papain like protease (PLpro) were discussed in detail.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

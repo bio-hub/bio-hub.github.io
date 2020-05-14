@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/benzimidazole/</link>
+      <atom:link href="/drugpanel/benzimidazole/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/benzimidazole/</link>
+    </image>
+    
+    <item>
+      <title>BENZIMIDAZOLE</title>
+      <link>/drugpanel/benzimidazole/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/benzimidazole/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db02962&#39; target=&#39;_blank&#39;&gt;db02962&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=benzimidazole&#34; target=&#34;_blank&#34;&gt;benzimidazole&lt;/a&gt; &lt;br&gt;
+Synonymous : &lt;em&gt;None&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;benzimidazole&lt;/em&gt; gene in 1 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32218301
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Previously we developed a large variety of benzimidazole derivatives able to inhibit these viruses. […] Compounds &lt;b&gt;6&lt;/b&gt;, &lt;b&gt;8&lt;/b&gt;, &lt;b&gt;16&lt;/b&gt; and &lt;b&gt;17&lt;/b&gt;, bearing the 5-(thio)semicarbazone and 5-hydrazone functionalities in combination with the 2-benzyl ring on the benzimidazole core structure, acted as dual inhibitors of influenza A virus and human coronavirus. […] For respiratory syncytial virus (RSV), activity is limited to the 5-thiosemicarbazone (&lt;b&gt;25&lt;/b&gt;) and 5-hydrazone (&lt;b&gt;22&lt;/b&gt;) compounds carrying the 2-[(benzotriazol-1/2-yl)methyl]benzimidazole scaffold. […] The herein-investigated benzimidazole-based derivatives may represent valuable hit compounds, deserving subsequent structural improvements towards more efficient antiviral agents for the treatment of pathologies caused by these human respiratory viruses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

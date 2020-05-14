@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yee-Sin Leo | PlatCOVID</title>
+    <link>/author/yee-sin-leo/</link>
+      <atom:link href="/author/yee-sin-leo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yee-Sin Leo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Yee-Sin Leo</title>
+      <link>/author/yee-sin-leo/</link>
+    </image>
+    
+    <item>
+      <title>Investigation of three clusters of COVID-19 in Singapore: implications for surveillance and response measures.</title>
+      <link>/publication/32192580/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32192580/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiological and Clinical Predictors of COVID-19.</title>
+      <link>/publication/32211755/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32211755/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiologic Features and Clinical Course of Patients Infected With SARS-CoV-2 in Singapore.</title>
+      <link>/publication/32125362/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32125362/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

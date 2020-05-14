@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/gold/</link>
+      <atom:link href="/drugpanel/gold/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/gold/</link>
+    </image>
+    
+    <item>
+      <title>GOLD</title>
+      <link>/drugpanel/gold/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/gold/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db14154&#39; target=&#39;_blank&#39;&gt;db14154&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=gold&#34; target=&#34;_blank&#34;&gt;gold&lt;/a&gt; &lt;br&gt;
+Synonymous :aurum metallicum | colloidal gold | gold flake | gold leaf | gold powder | gold, colloidal | gold, elemental
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;gold&lt;/em&gt; gene in 6 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32172228
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As the current gold standard for the etiological diagnosis of SARS-CoV-2 infection is (real time) reverse transcription polymerase chain reaction (rRT-PCR) on respiratory tract specimens, the diagnostic accuracy of this technique shall be considered a foremost prerequisite.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32174053
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The nucleic acid test or genetic sequencing serves as the gold standard method for confirmation of infection, yet several recent studies have reported false-negative results of real-time reverse-transcriptase polymerase chain reaction (rRT-PCR).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32196430
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Newer laboratory methods are fast, highly sensitive and specific, and are gradually replacing the conventional gold standards.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32277023
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; To investigate the interference factors that lead to false-positive novel coronavirus (SARS-CoV-2) IgM detected using gold immunochromatography assay (GICA) and enzyme-linked immunosorbent assay (ELISA) and the corresponding solutions.&lt;b&gt;Methods:&lt;/b&gt; GICA and ELISA were used to detect SARS-CoV-2 IgM in 86 serum samples, including 5 influenza A virus (Flu A) IgM-positive sera, 5 influenza B virus (Flu B) IgM-positive sera, 5 &lt;i&gt;Mycoplasma pneumoniae&lt;/i&gt; IgM-positive sera, 5 &lt;i&gt;Legionella pneumophila&lt;/i&gt; IgM-positive sera, 6 sera of HIV infection patients, 36 rheumatoid factor IgM (RF-IgM)-positive sera, 5 sera from hypertensive patients, 5 sera from diabetes mellitus patients, and 14 sera from novel coronavirus infection disease (COVID-19) patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281785
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The two-dimensional gold nanoislands (AuNIs) functionalized with complementary DNA receptors can perform a sensitive detection of the selected sequences from severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) through nucleic acid hybridization.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32283141
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we presented the colloidal gold-based immunochromatographic (ICG) strip targeting viral IgM or IgG antibody and compared it with real-time RT-PCR.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292623
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Polymerase chain reaction (PCR) is regarded as a gold standard test for the molecular diagnosis of viral and bacterial infections with high sensitivity and specificity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

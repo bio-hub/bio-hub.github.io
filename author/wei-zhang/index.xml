@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Zhang | PlatCOVID</title>
+    <link>/author/wei-zhang/</link>
+      <atom:link href="/author/wei-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Wei Zhang</title>
+      <link>/author/wei-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Effectiveness of convalescent plasma therapy in severe COVID-19 patients.</title>
+      <link>/publication/32253318/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32253318/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Epidemiology, Treatment, and Epidemic Prevention and Control of the Coronavirus Disease 2019: a Review].</title>
+      <link>/publication/32220177/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32220177/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical characteristics and intrauterine vertical transmission potential of COVID-19 infection in nine pregnant women: a retrospective review of medical records.</title>
+      <link>/publication/32151335/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32151335/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical characteristics and therapeutic procedure for four cases with 2019 novel coronavirus pneumonia receiving combined Chinese and Western medicine treatment.</title>
+      <link>/publication/32037389/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32037389/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular and serological investigation of 2019-nCoV infected patients: implication of multiple shedding routes.</title>
+      <link>/publication/32065057/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32065057/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/methylprednisolone/</link>
+      <atom:link href="/drugpanel/methylprednisolone/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/methylprednisolone/</link>
+    </image>
+    
+    <item>
+      <title>METHYLPREDNISOLONE</title>
+      <link>/drugpanel/methylprednisolone/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/methylprednisolone/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00959&#39; target=&#39;_blank&#39;&gt;db00959&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=methylprednisolone&#34; target=&#34;_blank&#34;&gt;methylprednisolone&lt;/a&gt; &lt;br&gt;
+Synonymous :(6α,11β)-11,17,21-trihydroxy-6-methylpregna-1,4-diene-3,20-dione | 1-dehydro-6α-methylhydrocortisone | 6α-methyl-11β,17α,21-triol-1,4-pregnadiene-3,20-dione | delta(1)-6alpha-methylhydrocortisone | methylprednisolon | methylprednisolone | methylprednisolonum | metilprednisolona
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;methylprednisolone&lt;/em&gt; gene in 11 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32149773
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Each eligible subject will be assigned to an intervention group (methylprednisolone via intravenous injection at a dose of 1-2mg/kg/day for 3 days) or a control group (no glucocorticoid use) randomly, at a 1:1 ratio.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32167524
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among patients with ARDS, treatment with methylprednisolone decreased the risk of death (HR, 0.38; 95% CI, 0.20-0.72). […] Moreover, treatment with methylprednisolone may be beneficial for patients who develop ARDS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32181990
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Following a treatment regimen consisting of reduced immunosuppressant use and low dose methylprednisolone-based therapy, the COVID-19 pneumonia in this long-term immunosuppressive patient was successfully recovered.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32211844
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Finally, Higher rates of ICU admission (9.56% vs 1.38%, P&amp;lt;0.001) and methylprednisolone application (28.68% vs 9.36%, P&amp;lt;0.001) were also identified in older patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32219428
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All 5 patients (age range, 36-65 years; 2 women) were receiving mechanical ventilation at the time of treatment and all had received antiviral agents and methylprednisolone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32229257
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In severe COVID-19 patients, early and short-term use of low-dose methylprednisolone was beneficial and did not delay SARS-CoV-2 RNA clearance and influence IgG antibody production.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32243690
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on the severity of clinical symptoms, chest computer tomography findings and SARS-Cov-2 RNA test results, we admitted the husband to the respiratory intensive care unit (RICU) and used a treatment consisting of immunosuppressant reduction/cessation and low dose methylprednisolone-based therapy, and his wife to the respiratory isolation ward.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32243697
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After the diagnosis of COVID-19, immunosuppressive agents were discontinued and methylprednisolone with prophylactic antibiotics were initiated, however, the lung injury progressed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32253759
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The TCZ was used in combination with methylprednisolone in eight patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32256547
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We identified 24 clinical trials, involving more than 20 medicines, such as human immunoglobulin, interferons, chloroquine, hydroxychloroquine, arbidol, remdesivir, favipiravir, lopinavir, ritonavir, oseltamivir, methylprednisolone, bevacizumab, and traditional Chinese medicines (TCM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32282986
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Following a treatment regimen consisting of discontinued immunosuppressant use and low-dose methylprednisolone-based therapy, the patient developed acute rejection but eventually recovered.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

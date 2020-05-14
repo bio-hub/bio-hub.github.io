@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Z H Tong | PlatCOVID</title>
+    <link>/author/z-h-tong/</link>
+      <atom:link href="/author/z-h-tong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Z H Tong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Z H Tong</title>
+      <link>/author/z-h-tong/</link>
+    </image>
+    
+    <item>
+      <title>[The keypoints in treatment of the critical coronavirus disease 2019 patient].</title>
+      <link>/publication/32111113/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32111113/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[The keypoints in treatment of the critical novel coronavirus pneumonia patient].</title>
+      <link>/publication/32087621/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32087621/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Pharmacotherapeutics for the New Coronavirus Pneumonia].</title>
+      <link>/publication/32057209/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32057209/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

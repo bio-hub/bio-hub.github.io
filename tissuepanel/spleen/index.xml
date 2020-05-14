@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>none | PlatCOVID</title>
+    <link>/tissuepanel/spleen/</link>
+      <atom:link href="/tissuepanel/spleen/index.xml" rel="self" type="application/rss+xml" />
+    <description>none</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>none</title>
+      <link>/tissuepanel/spleen/</link>
+    </image>
+    
+    <item>
+      <title>spleen</title>
+      <link>/tissuepanel/spleen/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/tissuepanel/spleen/info/</guid>
+      <description> 
+
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;tissue-sentence-context&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tissue Sentence Context&lt;/h3&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;spleen&lt;/em&gt; tissue in 5 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Senteces
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32172546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; To investigate the pathological characteristics and the clinical significance of novel coronavirus (2019-nCoV)-infected pneumonia (termed by WHO as corona virus disease 2019, COVID-19). &lt;b&gt;Methods:&lt;/b&gt; Minimally invasive autopsies from lung, heart, kidney, spleen, bone marrow, liver, pancreas, stomach, intestine, thyroid and skin were performed on three patients died of novel coronavirus pneumonia in Chongqing, China. […] Decreased numbers of lymphocyte, cell degeneration and necrosis were observed in spleen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32215622
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Maximal clinical signs of rapid breathing, weight loss, histopathological changes from the initial exudative phase of diffuse alveolar damage with extensive apoptosis to the later proliferative phase of tissue repair, airway and intestinal involvement with virus nucleocapsid protein expression, high lung viral load, and spleen and lymphoid atrophy associated with marked cytokine activation were observed within the first week of virus challenge.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281331
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The location of the disease is lung, always involving spleen and stomach, and may further affect heart and kidney in severe cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281332
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among them, the four properties were mainly concentrated in temperature, cold and level, the five tastes were mainly concentrated in bitter, hot and sweet, and the meridians were mainly concentrated in lung, stomach and spleen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32292697
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In China, a considerable number of convalescent SARS patients with steroid-associated ONFH had undergone conservative treatment by Traditional Chinese Medicine (TCM), and this study aims to evaluate the long-term results of a spleen-invigorating Huo-Gu Formula (HGF) therapy in these patients. and methods: A total of 33 convalescent SARS patients (nine males and 24 females) with bilateral steroid-associated ONFH (66 hips) were enrolled in this study.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

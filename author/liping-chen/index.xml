@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liping Chen | PlatCOVID</title>
+    <link>/author/liping-chen/</link>
+      <atom:link href="/author/liping-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liping Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Liping Chen</title>
+      <link>/author/liping-chen/</link>
+    </image>
+    
+    <item>
+      <title>Clinical Features of COVID-19-Related Liver Damage.</title>
+      <link>/publication/32283325/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32283325/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical characteristics of non-critically ill patients with novel coronavirus infection (COVID-19) in a Fangcang Hospital.</title>
+      <link>/publication/32251842/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32251842/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

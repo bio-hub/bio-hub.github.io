@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liping Deng | PlatCOVID</title>
+    <link>/author/liping-deng/</link>
+      <atom:link href="/author/liping-deng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liping Deng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Liping Deng</title>
+      <link>/author/liping-deng/</link>
+    </image>
+    
+    <item>
+      <title>Clinical characteristics and outcomes of older patients with coronavirus disease 2019 (COVID-19) in Wuhan, China (2019): a single-centered, retrospective study.</title>
+      <link>/publication/32279081/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32279081/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characteristics of peripheral lymphocyte subset alteration in COVID-19 pneumonia.</title>
+      <link>/publication/32227123/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32227123/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical characteristics of refractory COVID-19 pneumonia in Wuhan, China.</title>
+      <link>/publication/32173725/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32173725/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

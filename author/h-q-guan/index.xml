@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H Q Guan | PlatCOVID</title>
+    <link>/author/h-q-guan/</link>
+      <atom:link href="/author/h-q-guan/index.xml" rel="self" type="application/rss+xml" />
+    <description>H Q Guan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>H Q Guan</title>
+      <link>/author/h-q-guan/</link>
+    </image>
+    
+    <item>
+      <title>Clinical characteristics of COVID-19-infected cancer patients: A retrospective case study in three hospitals within Wuhan, China.</title>
+      <link>/publication/32224151/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32224151/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Clinical characteristics and outcomes of 112 cardiovascular disease patients infected by 2019-nCoV].</title>
+      <link>/publication/32120458/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32120458/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

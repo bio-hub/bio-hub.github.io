@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>none | PlatCOVID</title>
+    <link>/genepanel/7124/</link>
+      <atom:link href="/genepanel/7124/index.xml" rel="self" type="application/rss+xml" />
+    <description>none</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>none</title>
+      <link>/genepanel/7124/</link>
+    </image>
+    
+    <item>
+      <title>TNF</title>
+      <link>/genepanel/7124/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/7124/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;tumor necrosis factor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/7124&#34; target=&#34;_blank&#34;&gt;7124&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=7124&#34; target=&#34;_blank&#34;&gt; 6p21.33&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/611162&#39; target=&#39;_blank&#39;&gt;611162&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/600807&#39; target=&#39;_blank&#39;&gt;600807&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/191160&#39; target=&#39;_blank&#39;&gt;191160&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/157300&#39; target=&#39;_blank&#39;&gt;157300&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a multifunctional proinflammatory cytokine that belongs to the tumor necrosis factor (TNF) superfamily. This cytokine is mainly secreted by macrophages. It can bind to, and thus functions through its receptors TNFRSF1A/TNFR1 and TNFRSF1B/TNFBR. This cytokine is involved in the regulation of a wide spectrum of biological processes including cell proliferation, differentiation, apoptosis, lipid metabolism, and coagulation. This cytokine has been implicated in a variety of diseases, including autoimmune diseases, insulin resistance, and cancer. Knockout studies in mice also suggested the neuroprotective function of this cytokine. [provided by RefSeq, Jul 2008] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TNF</title>
+      <link>/genepanel/7124/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/7124/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;tumor necrosis factor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; TNF expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000232810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bone marrow
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000232810
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TNF</title>
+      <link>/genepanel/7124/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/7124/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;tumor necrosis factor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of TNF gene in 12 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32026671
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, there were no statistically significant differences in serum levels of tumor necrosis factor-alpha (TNF-α), IL-1, IL-8, IL-10, hs-CRP, lymphocyte count and LDH among the three groups (P&amp;gt;0.05). &lt;b&gt;Conclusion:&lt;/b&gt; The clinical characteristics of 2019-nCoV pneumonia are similar to those of common viral pneumonia. […] 而3组研究对象血清中的肿瘤坏死因子-α（TNF-α）、IL-1β、IL-8、IL-10、hs-CRP、淋巴细胞计数、LDH表达水平差异均无统计学意义（&lt;i&gt;P&lt;/i&gt;&amp;gt;0.05）。
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32171193
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This cytokine inhibits class II histocompatibility complex (MHC) molecules and inflammation in inflammatory diseases by suppressing MyD88 and subsequently IL-1β, IL-6, TNF and CCL2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32205232
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+LH significantly inhibited SARS-CoV-2 replication in Vero E6 cells and markedly reduced pro-inflammatory cytokines (TNF-α, IL-6, CCL-2/MCP-1 and CXCL-10/IP-10) production at the mRNA levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32217834
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Increased cytokine levels (IL-6, IL-10, and TNF-α), lymphopenia (in CD4+ and CD8+ T cells), and decreased IFN-γ expression in CD4+ T cells are associated with severe COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32217835
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compared with moderate cases, severe cases more frequently had dyspnea, lymphopenia, and hypoalbuminemia, with higher levels of alanine aminotransferase, lactate dehydrogenase, C-reactive protein, ferritin, and D-dimer as well as markedly higher levels of IL-2R, IL-6, IL-10, and TNF-α.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32228827
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All differentially expressed genes were introduced into the SREING online analysis website for protein interaction network analysis, and core genes such as signal transducer and activator of transcription 3, IL-10, IL17, TNF, interferon regulatory factor 9, 2’-5’-oligoadenylate synthetase 1, mitogen-activated protein kinase 3, radical s-adenosyl methionine domain containing 2, c-x-c motif chemokine ligand 10, caspase 3 and other genes were screened. […] The drugs predicted by EpiMed’s apparent precision treatment prediction platform for disease-drug association analysis are mainly TNF-α inhibitors, resveratrol, ritonavir, paeony, retinoic acid, forsythia, and houttuynia cordata. &lt;b&gt;Conclusions:&lt;/b&gt; The abnormal activation of multiple inflammatory pathways may be the cause of heart failure in patients after coronavirus infection. […] 冠状病毒与心衰差异表达基因富集分析，取交集处理共有GO条目20条，主要富集在病毒反应、病毒防御反应、Ⅰ型干扰素反应、γ干扰素调节、先天免疫反应调节、病毒生命周期负调控、病毒基因组复制调控等；共有5条KEGG通路，主要与肿瘤坏死因子（TNF）信号通路、白细胞介素（IL）-17信号通路、细胞因子与受体相互作用、Toll样受体信号通路、人类巨细胞病毒感染有关。 […] 蛋白互作网络分析筛选出信号传导及转录激活蛋白3、IL-10、IL-17、TNF、干扰素调节因子9、2’,5’-寡腺苷酸合成酶1、丝裂原活化蛋白激酶3、S-腺苷甲硫氨酸基区域蛋白2、CXC趋化因子配体10、半胱氨酸天冬氨酸蛋白酶3共10个核心基因。 […] EpiMed平台预测可能对冠状病毒所致心衰有效的药物为TNF-α抑制剂、白藜醇、利托那韦、白芍、维甲酸、连翘、鱼腥草等。
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32253400
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results demonstrated that TF suppressed the histological changes in the lungs of CS-challenged mice, as evidenced by reduced generation of pro-inflammatory cytokines including interleukin 6 (IL-6), IL-1β, tumor necrosis factor α (TNF-α), nitric oxide (NO), and inducible nitric oxide synthase (iNOS) and diminished the protein expression of transient receptor potential vanilloid 1 (TRPV1).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32257537
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Meanwhile, the level of TNF-α was significantly decreased, while IL-10 increased in MSC treatment group compared to the placebo control group.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32259129
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this context, both &lt;i&gt;in vitro&lt;/i&gt; and &lt;i&gt;in vivo&lt;/i&gt; studies have revealed that metronidazole could decrease the levels of several cytokines, which are known to increase during the COVID-19 infection, including interleukin (IL)8, IL6, IL1B, tumor necrosis factor (TNF)α, IL12, IL1α, and interferon (IFN)γ, as well as the levels of C-reactive protein (CRP) and neutrophil count.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32267560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The main mechanism of ARDS is uncontrolled systemic inflammatory response and cytokine storm following release of proinflammatory cytokines (such as interferons (IFN), interleukines (IL), tumor necrosis factor (TNF)-α) and chemokines.&lt;sup&gt;2-3&lt;/sup&gt; So, some Chinese researchers proposed or used anti-inflammatory agents in the treatment regimen of patients with COVID-19.&lt;sup&gt;3-4&lt;/sup&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32281329
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Arachidonic acid(AA) metabolic pathway is principally used to synthesize inflammatory cytokines, such as monocyte chemotactic protein 1(MCP-1), tumor necrosis factor(TNF), IL, IFN, etc., which is closely related to the occurrence, development and regression of inflammation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32294485
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Elder age, underlying hypertension, high cytokine levels (IL-2R, IL-6, IL-10, and TNF-a), and high LDH level were significantly associated with severe COVID-19 on admission.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TNF</title>
+      <link>/genepanel/7124/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/7124/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;tumor necrosis factor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TNF</title>
+      <link>/genepanel/7124/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/7124/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;tumor necrosis factor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

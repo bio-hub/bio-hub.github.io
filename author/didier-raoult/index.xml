@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Didier Raoult | PlatCOVID</title>
+    <link>/author/didier-raoult/</link>
+      <atom:link href="/author/didier-raoult/index.xml" rel="self" type="application/rss+xml" />
+    <description>Didier Raoult</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Didier Raoult</title>
+      <link>/author/didier-raoult/</link>
+    </image>
+    
+    <item>
+      <title>Clinical and microbiological effect of a combination of hydroxychloroquine and azithromycin in 80 COVID-19 patients with at least a six-day follow up: A pilot observational study.</title>
+      <link>/publication/32289548/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32289548/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coronavirus infections: Epidemiological, clinical and immunological features and hypotheses.</title>
+      <link>/publication/32292881/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32292881/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid viral diagnosis and ambulatory management of suspected COVID-19 cases presenting at the infectious diseases referral hospital in Marseille, France, - January 31st to March 1st, 2020: A respiratory virus snapshot.</title>
+      <link>/publication/32205269/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32205269/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New insights on the antiviral effects of chloroquine against coronavirus: what to expect for COVID-19?</title>
+      <link>/publication/32171740/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32171740/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teicoplanin: an alternative drug for the treatment of COVID-19?</title>
+      <link>/publication/32179150/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32179150/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial.</title>
+      <link>/publication/32205204/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32205204/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

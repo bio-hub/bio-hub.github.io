@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>none | PlatCOVID</title>
+    <link>/genepanel/55806/</link>
+      <atom:link href="/genepanel/55806/index.xml" rel="self" type="application/rss+xml" />
+    <description>none</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>none</title>
+      <link>/genepanel/55806/</link>
+    </image>
+    
+    <item>
+      <title>HR</title>
+      <link>/genepanel/55806/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/55806/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;HR lysine demethylase and nuclear receptor corepressor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/55806&#34; target=&#34;_blank&#34;&gt;55806&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=55806&#34; target=&#34;_blank&#34;&gt; 8p21.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/602302&#39; target=&#39;_blank&#39;&gt;602302&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/209500&#39; target=&#39;_blank&#39;&gt;209500&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/203655&#39; target=&#39;_blank&#39;&gt;203655&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/146550&#39; target=&#39;_blank&#39;&gt;146550&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a protein that is involved in hair growth. This protein functions as a transcriptional corepressor of multiple nuclear receptors, including thyroid hormone receptor, the retinoic acid receptor-related orphan receptors and the vitamin D receptors, and it interacts with histone deacetylases. The translation of this protein is modulated by a regulatory open reading frame (ORF) that exists upstream of the primary ORF. Mutations in this upstream ORF cause Marie Unna hereditary hypotrichosis (MUHH), an autosomal dominant form of genetic hair loss. Mutations in this gene also cause autosomal recessive congenital alopecia and atrichia with papular lesions, other diseases resulting in hair loss. Two transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Oct 2014] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HR</title>
+      <link>/genepanel/55806/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/55806/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;HR lysine demethylase and nuclear receptor corepressor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; HR expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adipose tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+58.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000168453
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HR</title>
+      <link>/genepanel/55806/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/55806/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;HR lysine demethylase and nuclear receptor corepressor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of HR gene in 9 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32167524
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In bivariate Cox regression analysis, risk factors associated with the development of ARDS and progression from ARDS to death included older age (hazard ratio [HR], 3.26; 95% CI 2.08-5.11; and HR, 6.17; 95% CI, 3.26-11.67, respectively), neutrophilia (HR, 1.14; 95% CI, 1.09-1.19; and HR, 1.08; 95% CI, 1.01-1.17, respectively), and organ and coagulation dysfunction (eg, higher lactate dehydrogenase [HR, 1.61; 95% CI, 1.44-1.79; and HR, 1.30; 95% CI, 1.11-1.52, respectively] and D-dimer [HR, 1.03; 95% CI, 1.01-1.04; and HR, 1.02; 95% CI, 1.01-1.04, respectively]). […] High fever (≥39 °C) was associated with higher likelihood of ARDS development (HR, 1.77; 95% CI, 1.11-2.84) and lower likelihood of death (HR, 0.41; 95% CI, 0.21-0.82). […] Among patients with ARDS, treatment with methylprednisolone decreased the risk of death (HR, 0.38; 95% CI, 0.20-0.72).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32217650
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After adjusting for age and smoking status, COPD [hazards ratio (HR) 2.681, 95% confidence interval (95%CI) 1.424-5.048], diabetes (HR 1.59, 95%CI 1.03-2.45), hypertension (HR 1.58, 95%CI 1.07-2.32) and malignancy (HR 3.50, 95%CI 1.60-7.64) were risk factors of reaching to the composite endpoints. […] The HR was 1.79 (95%CI 1.16-2.77) among patients with at least one comorbidity and 2.59 (95%CI 1.61-4.17) among patients with two or more comorbidities.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32224151
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this retrospective cohort study, we included cancer patients with laboratory confirmed COVID-19 from three designated hospitals in Wuhan, China. […] If the last anti-tumour treatment was within 14 days, it significantly increased the risk of developing severe events (HR=4.079, 95%CI 1.086-15.322, P=0.037). […] Furthermore, patchy consolidation on CT on admission was associated with a higher risk for developing severe events (HR=5.438, 95%CI 1.498-19.748, P=0.010).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32236856
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To review the chest computed tomography (CT) findings on the ultra-high-resolution CT (U-HRCT) in patients with the Novel coronavirus disease 2019 (COVID-19). […] In February 2020, six consecutive patients with COVID-19 pneumonia (median age, 69 years) underwent U-HR CT imaging. […] U-HR-CT has a larger matrix size of 1024 × 1024 thinner slice thickness of 0.25 mm and can demonstrate terminal bronchioles in the normal lungs; as a result, Reid’s secondary lobules and their abnormalities can be identified. […] The distribution and hallmarks (ground-glass opacity, consolidation with or without architectural distortion, linear opacity, crazy paving) of the lung opacities on U-HRCT were visually evaluated on a 1 K monitor by two experienced reviewers. […] All cases showed crazy paving pattern in U-HRCT. […] U-HRCT can evaluate not only the distribution and hallmarks of COVID-19 pneumonia but also visualize local lung volume loss.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32240670
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Symptoms of dyspnea (HR 2.35, P = 0.001), comorbidities including cardiovascular disease (HR 1.86, P = 0.031) and chronic obstructive pulmonary disease (HR 2.24, P = 0.023), and acute respiratory distress syndrome (HR 29.33, P &amp;lt; 0.001) were strong predictors of death. […] And a high level of lymphocytes was predictive of better outcome (HR 0.10, P &amp;lt; 0.001). […] Dyspnea, lymphocytopenia, comorbidities including cardiovascular disease and chronic obstructive pulmonary disease, and acute respiratory distress syndrome were predictive of poor outcome.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32266987
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cox proportional hazards regression analysis indicated no association between corticosteroid treatment and virus clearance time (hazard ratio [HR], 1.26; 95% CI, 0.58-2.74), hospital length of stay (HR, 0.77; 95% CI, 0.33-1.78), or duration of symptoms (HR, 0.86; 95% CI, 0.40-1.83). […] Univariate analysis indicated that virus clearance was slower in two patients with chronic hepatitis B infections (mean difference, 10.6 days; 95% CI, 6.2-15.1 days).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32269086
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients in Hubei [severe event rate 23.0% &lt;i&gt;versus&lt;/i&gt; 11.1%, death rate 7.3% &lt;i&gt;versus&lt;/i&gt; 0.3%, hazards ratio (HR) for critical illness 1.59, 95%CI 1.05-2.41] have a poorer prognosis compared with patients outside of Hubei after adjusting for age and comorbidity. […] However, among patients outside of Hubei, the duration from symptom onset to hospitalisation (mean: 4.4 &lt;i&gt;versus&lt;/i&gt; 4.7 days) and prognosis (HR 0.84, 95%CI 0.40-1.80) were similar between patients with or without Wuhan-related exposure. […] In the overall population, the waiting time, but neither treated in Hubei nor Wuhan-related exposure, remained an independent prognostic factor (HR 1.05, 1.01-1.08).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32283185
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Secondary endpoints included acute and chronic graft-versus-host disease GVHD, non-relapse mortality (NRM), relapse/progression and disease-free survival (DFS). […] In matched pair regression analysis, graft cryopreservation was not associated with a significantly higher risk of mortality (Hazard Ratio for cryopreserved versus fresh [HR] =1.05, 95% confidence interval, 0.86-1.29, p=0.60). […] Similarly, rates neutrophil recovery (HR=0.91, 0.80-1.02, p=0.12), platelet recovery (HR=0.88, 0.78-1.00, p=0.05), grade 3-4 acute GVHD (HR=0.78, 0.50-1.22, p=0.27), NRM (HR=1.16, 0.86-1.55, p=0.32) and relapse/progression (HR=1.21, 0.97-1.50, p=0.09) were similar with cryopreserved versus fresh grafts. […] There were somewhat lower rates chronic GVHD (HR=0.78, 0.61-0.99, p=0.04) and DFS (HR for treatment failure=1.19, 95%CI=1.01-1.29, p=0.04) with graft cryopreservation that were of marginal statistical significance after adjusting for multiple comparisons.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32283877
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Myocardial injury was an important prognostic factor of COVID-19 (&lt;i&gt;HR&lt;/i&gt;=5.382, 95%&lt;i&gt;CI&lt;/i&gt; 2.404-12.05, &lt;i&gt;P&lt;/i&gt;&amp;lt;0.001). […] 多因素Cox回归分析显示，心肌损伤是COVID-19患者临床预后的重要预测因子（&lt;i&gt;HR&lt;/i&gt;=5.382,95%&lt;i&gt;CI&lt;/i&gt; 2.404~12.05, &lt;i&gt;P&lt;/i&gt;&amp;lt;0.001）。
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HR</title>
+      <link>/genepanel/55806/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/55806/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;HR lysine demethylase and nuclear receptor corepressor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HR</title>
+      <link>/genepanel/55806/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/55806/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;HR lysine demethylase and nuclear receptor corepressor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

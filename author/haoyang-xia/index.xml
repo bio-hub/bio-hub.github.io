@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haoyang Xia | PlatCOVID</title>
+    <link>/author/haoyang-xia/</link>
+      <atom:link href="/author/haoyang-xia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haoyang Xia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Haoyang Xia</title>
+      <link>/author/haoyang-xia/</link>
+    </image>
+    
+    <item>
+      <title>Clinical characteristics and immunosuppressants management of coronavirus disease 2019 in solid organ transplant recipients.</title>
+      <link>/publication/32282986/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32282986/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

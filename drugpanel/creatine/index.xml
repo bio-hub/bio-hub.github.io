@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/creatine/</link>
+      <atom:link href="/drugpanel/creatine/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/creatine/</link>
+    </image>
+    
+    <item>
+      <title>CREATINE</title>
+      <link>/drugpanel/creatine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/creatine/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00148&#39; target=&#39;_blank&#39;&gt;db00148&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=creatine&#34; target=&#34;_blank&#34;&gt;creatine&lt;/a&gt; &lt;br&gt;
+Synonymous :((amino(imino)methyl)(methyl)amino)acetic acid | (alpha-methylguanido)acetic acid | (n-methylcarbamimidamido)acetic acid | (α-methylguanido)acetic acid | alpha-methylguanidino acetic acid | creatin | creatine | kreatin | methylglycocyamine | n-(aminoiminomethyl)-n-methylglycine | n-amidinosarcosine | n-carbamimidoyl-n-methylglycine | n-methyl-n-guanylglycine
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;creatine&lt;/em&gt; gene in 8 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32205284
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Higher rate of fever, cough, expectoration, and headache, lower lymphocytes, albumin, serum sodium levels and higher total bilirubin, creatine kinase, lactate dehydrogenase and C-reactive protein levels and lower oxygenation index were observed in pneumonia patients (all P &amp;lt; 0.05).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32216803
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Higher temperature, blood leukocyte count, neutrophil count, neutrophil percentage, C-reactive protein level, D-dimer level, alanine aminotransferase activity, aspartate aminotransferase activity, α - hydroxybutyrate dehydrogenase activity, lactate dehydrogenase activity and creatine kinase activity were related to severe 2019 novel coronavirus pneumonia and composite endpoint, and so were lower lymphocyte count, lymphocyte percentage and total protein level.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32217556
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Concentrations of alanine aminotransferase, aspartate aminotransferase, creatinine, creatine kinase, lactate dehydrogenase, cardiac troponin I, N-terminal pro-brain natriuretic peptide, and D-dimer were markedly higher in deceased patients than in recovered patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32220650
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Typical abnormal laboratory findings were elevated creatine kinase MB (11 [31%]), decreased lymphocytes (11 [31%]), leucopenia (seven [19%]), and elevated procalcitonin (six [17%]). […] Besides radiographic presentations, variables that were associated significantly with severity of COVID-19 were decreased lymphocytes, elevated body temperature, and high levels of procalcitonin, D-dimer, and creatine kinase MB.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32227274
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+COVID-19 mRNA clearance ratio was identified significantly correlated with the decline of serum creatine kinase (CK) and lactate dehydrogenase (LDH) levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32232979
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, we detected and analyzed the main laboratory indicators related to heart injury, creatine kinase isoenzyme-MB (CK-MB), myohemoglobin (MYO), cardiac troponin I (ultra-TnI), and N-terminal pro-brain natriuretic peptide (NT-proBNP), in 273 patients with COVID-19 and investigated the correlation between heart injury and severity of the disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32249943
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A higher number of children had elevated creatine kinase isoenzyme (57.1% vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+32271459
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compared with the non-severe group, the severe group showed statistical significance in older age, hypertension, bilateral lung plaque shadow, decrease in lymphocyte count, increase in C-reactive protein (CRP), aspartate aminotransferase (AST), lactate dehydrogenase, and creatine kinase. […] Age, combined hypertension, oxygenation index, double lung patch, decreased lymphocyte count, and elevated levels of C-reactive protein, aspartate aminotransferase, lactate dehydrogenase, and creatine kinase can be used as predictors of the disease severity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

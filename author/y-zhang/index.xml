@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y Zhang | PlatCOVID</title>
+    <link>/author/y-zhang/</link>
+      <atom:link href="/author/y-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Y Zhang</title>
+      <link>/author/y-zhang/</link>
+    </image>
+    
+    <item>
+      <title>[Epidemiological characteristics of COVID-19 in Shaanxi province].</title>
+      <link>/publication/32244260/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32244260/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Clinical and coagulation characteristics of 7 patients with critical COVID-2019 pneumonia and acro-ischemia].</title>
+      <link>/publication/32220276/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32220276/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Analysis on cluster cases of COVID-19 in Tianjin].</title>
+      <link>/publication/32213269/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32213269/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Epidemiological analysis on 1 052 cases of COVID-19 in epidemic clusters].</title>
+      <link>/publication/32213270/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32213270/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Thoughts and practice on the treatment of severe and critical new coronavirus pneumonia].</title>
+      <link>/publication/32186172/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32186172/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Epidemiological characteristics of confirmed COVID-19 cases in Tianjin].</title>
+      <link>/publication/32164400/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32164400/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Investigation and analysis on characteristics of a cluster of COVID-19 associated with exposure in a department store in Tianjin].</title>
+      <link>/publication/32133830/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32133830/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

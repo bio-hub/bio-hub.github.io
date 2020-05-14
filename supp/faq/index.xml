@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Platform COVID-19 | PlatCOVID</title>
+    <link>/supp/faq/</link>
+      <atom:link href="/supp/faq/index.xml" rel="self" type="application/rss+xml" />
+    <description>Platform COVID-19</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Platform COVID-19</title>
+      <link>/supp/faq/</link>
+    </image>
+    
+    <item>
+      <title>PlatCOVID: Platform COVID-19</title>
+      <link>/supp/faq/what/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/supp/faq/what/</guid>
+      <description>&lt;h2 id=&#34;what-is-platcovid&#34;&gt;What is PlatCOVID?&lt;/h2&gt;
+&lt;p&gt;It is free web platform that allows to analyze and curate robust scientific data, enabling the identification of useful information concerning the 2019 new coronavirus (SARS-CoV-2) pandemic.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-the-purpose-of-platcovid&#34;&gt;What is the purpose of PlatCOVID?&lt;/h2&gt;
+&lt;p&gt;The platform aims to provide scientific consensus about COVID-19 issues by analyzing, discussing and classifying published scientific data, making possible to assist and guide health care policies.&lt;/p&gt;
+&lt;h2 id=&#34;who-can-use-the-platform&#34;&gt;Who can use the platform?&lt;/h2&gt;
+&lt;p&gt;Scientists, professors, specialists in the field and health professionals.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-a-syntax-analysis&#34;&gt;What is a syntax analysis?&lt;/h2&gt;
+&lt;p&gt;The compiler design process is divided into two phases: Lexical Analysis and Syntax Analysis. The Lexical Analysis or Tokenization is the process of breaking up a sequence of characters into pieces called tokens. The Syntax Analysis or Parsing comes after the Lexical Analysis and analyses the syntactical structure of the given input (source code or a program). It does so by building a data structure, that may be called a Parse tree or Syntax tree.&lt;/p&gt;
+&lt;h2 id=&#34;what-are-the-panels-on-genedrugtissue-for&#34;&gt;What are the panels on gene/drug/tissue for?&lt;/h2&gt;
+&lt;p&gt;The panels are meant to facilitate the screening of publications focusing on the genes, tissues and drugs involved with COVID-19.&lt;/p&gt;
+&lt;h2 id=&#34;methods-used&#34;&gt;Methods Used&lt;/h2&gt;
+&lt;p&gt;The complete detaling will be availible as soons is possible (uppon publication). In summary, we are able to perfom word and sentece atomization and tokenization automatically in order to develop syntax analysis. Also this approach is able to identify genes, tissues and drugs cited in COVID-19 literature.&lt;/p&gt;
+&lt;h2 id=&#34;apps-and-packages&#34;&gt;Apps and Packages&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;RStudio Software&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;rentrez&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;pubmed.mineR&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;easyPubmed&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;tokenizers&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;tmap&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;VennDiagram&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;rmarkdown&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ggplot2&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;plotly&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DiagrammeR&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;gridExtra&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;kable and extrakable&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;stringr&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WriteXLS&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;RCurl&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;dplyr&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;countrycode&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;how-to-cite-platcovid&#34;&gt;How to cite PlatCOVID?&lt;/h2&gt;
+&lt;p&gt;Vai depender da publicação&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Help PlatCOVID</title>
+      <link>/supp/faq/how_to_help/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/supp/faq/how_to_help/</guid>
+      <description>&lt;h2 id=&#34;how-can-i-contribute-to-platcovid&#34;&gt;How can I contribute to PlatCOVID?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;By help curating data&lt;/li&gt;
+&lt;li&gt;Platform Development&lt;/li&gt;
+&lt;li&gt;Donate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;human-curation&#34;&gt;Human Curation&lt;/h2&gt;
+&lt;p&gt;Explaing how to help&lt;/p&gt;
+&lt;h2 id=&#34;platform-development&#34;&gt;Platform development&lt;/h2&gt;
+&lt;p&gt;Explaing how to develop&lt;/p&gt;
+&lt;h2 id=&#34;donate-to-platcovid&#34;&gt;Donate to PlatCOVID&lt;/h2&gt;
+&lt;p&gt;Explaing how to donate&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to use PlatCOVID</title>
+      <link>/supp/faq/how_to_use/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/supp/faq/how_to_use/</guid>
+      <description>&lt;h2 id=&#34;syntax-analysis&#34;&gt;Syntax Analysis&lt;/h2&gt;
+&lt;h2 id=&#34;covid-19-panels&#34;&gt;COVID-19 Panels&lt;/h2&gt;
+&lt;h2 id=&#34;platcovid-discussion&#34;&gt;PlatCOVID discussion&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

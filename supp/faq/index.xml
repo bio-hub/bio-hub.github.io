@@ -18,17 +18,28 @@
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/supp/faq/what/</guid>
       <description>&lt;h2 id=&#34;what-is-platcovid&#34;&gt;What is PlatCOVID?&lt;/h2&gt;
-&lt;p&gt;It is free web platform that allows to analyze and curate robust scientific data, enabling the identification of useful information concerning the 2019 new coronavirus (SARS-CoV-2) pandemic.&lt;/p&gt;
+&lt;p align=&#34;justify&#34;&gt;
+It is free web platform that allows to analyze and curate robust scientific data, enabling the identification of useful information concerning the 2019 new coronavirus (SARS-CoV-2) pandemic.
+&lt;p&gt;
 &lt;h2 id=&#34;what-is-the-purpose-of-platcovid&#34;&gt;What is the purpose of PlatCOVID?&lt;/h2&gt;
-&lt;p&gt;The platform aims to provide scientific consensus about COVID-19 issues by analyzing, discussing and classifying published scientific data, making possible to assist and guide health care policies.&lt;/p&gt;
+&lt;p align=&#34;justify&#34;&gt;
+The platform aims to provide scientific consensus about COVID-19 issues by analyzing, discussing and classifying published scientific data, making possible to assist and guide health care policies.
 &lt;h2 id=&#34;who-can-use-the-platform&#34;&gt;Who can use the platform?&lt;/h2&gt;
-&lt;p&gt;Scientists, professors, specialists in the field and health professionals.&lt;/p&gt;
+&lt;p align=&#34;justify&#34;&gt;
+Scientists, professors, specialists in the field and health professionals.
+&lt;p&gt;
 &lt;h2 id=&#34;what-is-a-syntax-analysis&#34;&gt;What is a syntax analysis?&lt;/h2&gt;
-&lt;p&gt;The compiler design process is divided into two phases: Lexical Analysis and Syntax Analysis. The Lexical Analysis or Tokenization is the process of breaking up a sequence of characters into pieces called tokens. The Syntax Analysis or Parsing comes after the Lexical Analysis and analyses the syntactical structure of the given input (source code or a program). It does so by building a data structure, that may be called a Parse tree or Syntax tree.&lt;/p&gt;
+&lt;p align=&#34;justify&#34;&gt;
+The compiler design process is divided into two phases: Lexical Analysis and Syntax Analysis. The Lexical Analysis or Tokenization is the process of breaking up a sequence of characters into pieces called tokens. The Syntax Analysis or Parsing comes after the Lexical Analysis and analyses the syntactical structure of the given input (source code or a program). It does so by building a data structure, that may be called a Parse tree or Syntax tree.
+&lt;p&gt;
 &lt;h2 id=&#34;what-are-the-panels-on-genedrugtissue-for&#34;&gt;What are the panels on gene/drug/tissue for?&lt;/h2&gt;
-&lt;p&gt;The panels are meant to facilitate the screening of publications focusing on the genes, tissues and drugs involved with COVID-19.&lt;/p&gt;
+&lt;p align=&#34;justify&#34;&gt;
+The panels are meant to facilitate the screening of publications focusing on the genes, tissues and drugs involved with COVID-19.
+&lt;p&gt;
 &lt;h2 id=&#34;methods-used&#34;&gt;Methods Used&lt;/h2&gt;
-&lt;p&gt;The complete detaling will be availible as soons is possible (uppon publication). In summary, we are able to perfom word and sentece atomization and tokenization automatically in order to develop syntax analysis. Also this approach is able to identify genes, tissues and drugs cited in COVID-19 literature.&lt;/p&gt;
+&lt;p align=&#34;justify&#34;&gt;
+The complete detaling will be availible on &lt;a href=&#34;/supp/methodology/#methods&#34;&gt;Methods Section&lt;/a&gt;. In summary, we are able to perfom word and sentece atomization and tokenization automatically in order to develop syntax analysis. Also this approach is able to identify genes, tissues and drugs cited in COVID-19 literature.
+&lt;p&gt;
 &lt;h2 id=&#34;apps-and-packages&#34;&gt;Apps and Packages&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -87,7 +98,7 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;how-to-cite-platcovid&#34;&gt;How to cite PlatCOVID?&lt;/h2&gt;
-&lt;p&gt;Vai depender da publicação&lt;/p&gt;
+&lt;p&gt;PlatCOVID: A platform to analysis, discuss, cluster, classify scientific literature about COVID-19.&lt;/p&gt;
 </description>
     </item>
     
@@ -103,11 +114,11 @@
 &lt;li&gt;Donate&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;human-curation&#34;&gt;Human Curation&lt;/h2&gt;
-&lt;p&gt;Explaing how to help&lt;/p&gt;
+&lt;p&gt;Please contact as &lt;a href=&#34;mailto:lpm.ccm@ufpe.br&#34;&gt;lpm.ccm@ufpe.br&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;platform-development&#34;&gt;Platform development&lt;/h2&gt;
-&lt;p&gt;Explaing how to develop&lt;/p&gt;
+&lt;p&gt;Please contact as &lt;a href=&#34;mailto:lpm.ccm@ufpe.br&#34;&gt;lpm.ccm@ufpe.br&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;donate-to-platcovid&#34;&gt;Donate to PlatCOVID&lt;/h2&gt;
-&lt;p&gt;Explaing how to donate&lt;/p&gt;
+&lt;p&gt;Please contact as &lt;a href=&#34;mailto:lpm.ccm@ufpe.br&#34;&gt;lpm.ccm@ufpe.br&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -116,9 +127,13 @@
       <link>/supp/faq/how_to_use/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/supp/faq/how_to_use/</guid>
-      <description>&lt;h2 id=&#34;syntax-analysis&#34;&gt;Syntax Analysis&lt;/h2&gt;
-&lt;h2 id=&#34;covid-19-panels&#34;&gt;COVID-19 Panels&lt;/h2&gt;
-&lt;h2 id=&#34;platcovid-discussion&#34;&gt;PlatCOVID discussion&lt;/h2&gt;
+      <description>&lt;p align=&#34;justify&#34;&gt;
+PlatCOVID offers easy and fast access to the user on the upper menu, which is divided into Syntax Analysis, Gene Panel, Drug Panel and Tissue Panel. They cointain scientific curated information that may guide the user on the subjects of interest. Furthermore, it is allowed to the user to view curated publications for five categories (diagnosis, treatment, epidemiology, transmission and clinical, sign &amp; symptoms) and make comments about the data and images. The platform also presents all the updates on the 2019 new coronavirus (SARS-CoV-2) pandemic.
+&lt;/p&gt;
+&lt;h2 id=&#34;syntax-analysis&#34;&gt;Syntax Analysis&lt;/h2&gt;
+&lt;p align=&#34;justify&#34;&gt;
+In syntax content, PlatCOVID performed 4 descriptive analysis in the abstracts: (1) Word atomization all abstracts; (2) Categorization based on word atomization; (3) Word atomization of each category; and (4) Sentece atomization and Human Literature Curation.
+&lt;/p&gt;
 </description>
     </item>
     

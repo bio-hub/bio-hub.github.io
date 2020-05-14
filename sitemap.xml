@@ -1348,11 +1348,6 @@
   </url>
   
   <url>
-    <loc>/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/supp/faq/what/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -2208,11 +2203,6 @@
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/supp/faq/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
@@ -2984,11 +2974,6 @@
   
   <url>
     <loc>/supp/terms/term/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -3814,16 +3799,6 @@
   <url>
     <loc>/genepanel/9242/geo/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28027,16 +28002,6 @@
   </url>
   
   <url>
-    <loc>/author/</loc>
-    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/2019-ncov/</loc>
-    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/32088679/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
@@ -28068,11 +28033,6 @@
   
   <url>
     <loc>/author/alyson-anne-kelvin/</loc>
-    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -28278,11 +28238,6 @@
   
   <url>
     <loc>/author/l-x-yuan/</loc>
-    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/32022370/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -32342,11 +32297,6 @@
   </url>
   
   <url>
-    <loc>/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/drugpanel/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -32367,16 +32317,6 @@
   </url>
   
   <url>
-    <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
@@ -32392,28 +32332,7 @@
   </url>
   
   <url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>/author/</loc>
   </url>
   
   <url>
@@ -32426,14 +32345,6 @@
   
   <url>
     <loc>/author/sergio-crovella/</loc>
-  </url>
-  
-  <url>
-    <loc>/category/sub_to_category/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/31987001/</loc>
   </url>
   
   <url>

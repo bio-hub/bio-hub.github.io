@@ -2203,11 +2203,6 @@
   </url>
   
   <url>
-    <loc>/supp/faq/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/genepanel/10993/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
@@ -2694,6 +2689,11 @@
   
   <url>
     <loc>/tissuepanel/vagina/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/supp/faq/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   

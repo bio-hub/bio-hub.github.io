@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>none | PlatCOVID</title>
+    <title>PlatCOVID</title>
     <link>/genepanel/290/</link>
       <atom:link href="/genepanel/290/index.xml" rel="self" type="application/rss+xml" />
-    <description>none</description>
+    <description>PlatCOVID</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
-      <title>none</title>
+      <title>PlatCOVID</title>
       <link>/genepanel/290/</link>
     </image>
     

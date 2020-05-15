@@ -3837,6 +3837,11 @@
   </url>
   
   <url>
+    <loc>/tag/signs/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/category/signs/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -3847,12 +3852,12 @@
   </url>
   
   <url>
-    <loc>/tag/sub_to_keywords/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/tag/transmission/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -4532,6 +4537,11 @@
   </url>
   
   <url>
+    <loc>/tag/diagnosis/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/category/diagnosis/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
@@ -4618,6 +4628,11 @@
   
   <url>
     <loc>/publication/32228732/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/epidemiology/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -6283,6 +6298,11 @@
   
   <url>
     <loc>/author/tongyu-zhu/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/treatment/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
   

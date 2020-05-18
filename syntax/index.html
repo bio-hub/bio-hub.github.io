@@ -628,7 +628,7 @@ PlatCOVID performed 4 descriptive syntax analysis in these abstracts:<br>
 </a>
 </p>
 <p align="justify" style="font-size:16px">
-Using the <em>atomization</em> process, 22706 words/terms were found. 2061 <a href="../supp/terms/global_category_words/">commom words</a> were execluded, remaining <strong><em>20645</em></strong> words. The table bellow shows the top 10 terms.
+Using the <em>atomization</em> process, 22706 words/terms were found. 2061 <a href="../supp/terms/term/#common-terms-excluded-1">commom words</a> were execluded, remaining <strong><em>20645</em></strong> words. The table bellow shows the top 10 terms. All words are availible at <a href="/supp/terms/global_category_words/#global-words-syntax-analysis"> supplemantary informations.</a>
 </p>
 <hr />
 <p style="font-size:12px" align="center">
@@ -756,7 +756,7 @@ Based on <em>global words tokenization/atomization</em> from abstracts, we categ
 <strong>Fluxogram 1.</strong> Workflow of categorization. Click on the square to follow the information.
 </p>
 <p align="justify" style="font-size:16px">
-9 articles fit all categories. The articles acess on PMIDs: <a href='https://pubmed.ncbi.nlm.nih.gov/32278065' target='_blank'>32278065</a>, <a href='https://pubmed.ncbi.nlm.nih.gov/32112886' target='_blank'>32112886</a>, <a href='https://pubmed.ncbi.nlm.nih.gov/32271601' target='_blank'>32271601</a>, <a href='https://pubmed.ncbi.nlm.nih.gov/32228809' target='_blank'>32228809</a>, <a href='https://pubmed.ncbi.nlm.nih.gov/32220177' target='_blank'>32220177</a>, <a href='https://pubmed.ncbi.nlm.nih.gov/32185921' target='_blank'>32185921</a>, <a href='https://pubmed.ncbi.nlm.nih.gov/32183901' target='_blank'>32183901</a>, <a href='https://pubmed.ncbi.nlm.nih.gov/32145185' target='_blank'>32145185</a>, <a href='https://pubmed.ncbi.nlm.nih.gov/32086938' target='_blank'>32086938</a>.
+9 articles fit all categories. The articles acess on PMIDs: <a href='/publication/32278065' target='_blank'>32278065</a>, <a href='/publication/32112886' target='_blank'>32112886</a>, <a href='/publication/32271601' target='_blank'>32271601</a>, <a href='/publication/32228809' target='_blank'>32228809</a>, <a href='/publication/32220177' target='_blank'>32220177</a>, <a href='/publication/32185921' target='_blank'>32185921</a>, <a href='/publication/32183901' target='_blank'>32183901</a>, <a href='/publication/32145185' target='_blank'>32145185</a>, <a href='/publication/32086938' target='_blank'>32086938</a>.
 </p>
 <img src="/syntax/index_files/figure-html/unnamed-chunk-6-1.png" width="672" style="display: block; margin: auto;" />
 <p style="font-size:12px" align="center">
@@ -977,10 +977,11 @@ virus (591)
 </center>
 <br>
 <p align="justify" style="font-size:16px">
-<p>Finally, we peformed the <em>tokenization</em> sentece process from abstracts of each categories. <br>
+Finally, we peformed the <em>tokenization</em> sentece process from abstracts of each categories. <br>
 <em>Frist</em>, we colect the last 4 sentence of each abstract, assumed as the conclusion of the work, using <a href="../supp/methodology/#pubmed.mineR">pubmed.mineR</a>. Around 8992 conclusion sentences were achivied.<br>
 <em>Second</em>, we extract the sentece context of each category term, previously used, by <a href="../supp/methodology/#tokenizers">tokenizer</a>. 340, 629, 99, 432 and 914 senteces were retrivied, about diagnosis, treatment, epidemiology, transmission and clinical, sings and symptoms, respectivelly. Articles with no context sentence were excluded. <br>
-<em>Third</em>, we began the human curation process (Fluxogram 2):</p>
+<em>Third</em>, we began the human curation process (Fluxogram 2):
+</p>
 <div id="htmlwidget-3" style="width:672px;height:480px;" class="grViz html-widget"></div>
 <script type="application/json" data-for="htmlwidget-3">{"x":{"diagram":"digraph flowchart {\n\n             node [fontname = Helvetica, shape = \"box\", fillcolor = \"Gold\", style = \"filled\", color = \"Honeydew\"]        \n             g1 [href= \"../tables/abstract/diagnose\", target = \"_blank\", label = \"360\\n Diagnosis\"]\n             g1_sel [label = \"314\\n Selected\"]\n             g1_cur [href= \"../category/diagnosis/\",label = \"163\\n Curated\"]\n             \n             node [fontname = Helvetica, shape = \"box\", fillcolor = \"MediumOrchid\", style = \"filled\", color = \"Honeydew\"]        \n             g2 [href= \"../tables/abstract/treatment\", target = \"_blank\", label = \"683\\n Treatment\"]\n             g2_sel [label = \"577\\n Selected\"]\n             g2_cur [href= \"../category/treatament/\",label = \"265\\n Curated\"]\n             \n             node [fontname = Helvetica, shape = \"box\", fillcolor = \"PaleGreen\", style = \"filled\", color = \"Honeydew\"]        \n             g3 [href= \"../tables/abstract/epidemiology\", target = \"_blank\", label = \"284\\n Epidemiology\"]\n             g3_sel [label = \"87\\n Selected\"]\n             g3_cur [href= \"../category/epidemiology/\",label = \"56\\n Curated\"]\n             \n             node [fontname = Helvetica, shape = \"box\", fillcolor = \"RoyalBlue\", style = \"filled\", color = \"Honeydew\"]        \n             g4 [href= \"../tables/abstract/transmission\", target = \"_blank\", label = \"439\\n Transmission\"]\n             g4_sel [label = \"177\\n Selected\"]\n             g4_cur [href= \"../category/transmission/\",label = \"61\\n Curated\"]\n             \n             node [fontname = Helvetica, shape = \"box\", fillcolor = \"Orange\", style = \"filled\", color = \"Honeydew\"]        \n             g5 [href= \"../tables/abstract/signs\", target = \"_blank\", label = \"1346\\n Symptoms\"]\n             g5_sel [label = \"851\\n Selected\"]\n             g5_cur [href= \"../category/signs/\",label = \"293\\n Curated\"]\n             \n             \n             # edge definitions with the node IDs\n             g1 -> g1_sel g1_sel -> g1_cur\n             g2 -> g2_sel g2_sel -> g2_cur\n             g3 -> g3_sel g3_sel -> g3_cur\n             g4 -> g4_sel g4_sel -> g4_cur\n             g5 -> g5_sel g5_sel -> g5_cur\n             }\n             ","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
 <p style="font-size:12px" align="center">

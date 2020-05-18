@@ -23,7 +23,7 @@
 &lt;div id=&#34;global-words---syntax-analysis&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Global Words - Syntax Analysis&lt;/h2&gt;
 &lt;br&gt;
-&lt;a style=&#34;font-size:20px&#34; align=&#34;center&#34; href=&#34;#&#34;&gt;Download the .xlsx file of all words&lt;/a&gt;
+&lt;a style=&#34;font-size:20px&#34; align=&#34;center&#34; href=&#34;/files/word_atomization.xlsx&#34;&gt;Download the .xlsx file of all words&lt;/a&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
@@ -352,7 +352,7 @@ infected
 &lt;div id=&#34;categoric-words---syntax-analysis&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Categoric Words - Syntax Analysis&lt;/h2&gt;
 &lt;br&gt;
-&lt;a style=&#34;font-size:20px&#34; align=&#34;center&#34; href=&#34;#&#34;&gt;Download the .xlsx file of all words&lt;/a&gt;
+&lt;a style=&#34;font-size:20px&#34; align=&#34;center&#34; href=&#34;/files/word_atomization.xlsx&#34;&gt;Download the .xlsx file of all words&lt;/a&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
@@ -1857,7 +1857,7 @@ NA
 &lt;div id=&#34;common-terms-excluded&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Common Terms Excluded&lt;/h2&gt;
 &lt;p&gt;&lt;br&gt;
-&lt;a style=&#34;font-size:20px&#34; align=&#34;center&#34; href=&#34;#&#34;&gt;Download the .xlsx file of all common excluded words&lt;/a&gt;&lt;/p&gt;
+&amp;lt;a style=“font-size:20px” align=“center” href=“/files/excluded_word.xlsx”&amp;quot;&amp;gt;Download the .xlsx file of all common excluded words&lt;/a&gt;&lt;/p&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
 &lt;strong&gt;Box 2.&lt;/strong&gt; Top 30 to catergorized abstracts
 &lt;/p&gt;

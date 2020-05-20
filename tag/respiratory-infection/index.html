@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/respiratory-infection/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/respiratory-infection/">
   <meta property="og:title" content="Respiratory infection | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-16T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-02-06T00:00:00&#43;00:00">
   
 
   
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -501,30 +561,6 @@
   
 
   
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32201353/" >A review of the 2019 Novel Coronavirus (COVID-19) based on current evidence.</a></h2>
-      <div class="article-style">
-        
-          Journal: Int. J. Antimicrob. Agents | PMID: 32201353 | doi: 10.1016/j.ijantimicag.2020.105948 | Type: Journal Article. The pneumonia caused by novel coronavirus (SARS-CoV-2) in Wuhan, China in December 2019 is a highly contagious disease. (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32161968/" >A comparative study on the clinical features of COVID-19 pneumonia to other pneumonias.</a></h2>
-      <div class="article-style">
-        
-          Journal: Clin. Infect. Dis. | PMID: 32161968 | doi: 10.1093/cid/ciaa247 | Type: Editorial. A novel coronavirus (2019-nCoV) has raised world concern since it emerged in Wuhan Hubei China in December, 2019. The in (...)
-        
-      </div>
-    </div>
   
     
     
@@ -664,8 +700,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

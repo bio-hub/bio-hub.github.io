@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/viral-vaccines/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/viral-vaccines/">
   <meta property="og:title" content="Viral Vaccines | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-16T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-03-18T00:00:00&#43;00:00">
   
 
   
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -506,106 +566,10 @@
     
     
     <div>
-      <h2><a href="/publication/32290293/" >A Review of SARS-CoV-2 and the Ongoing Clinical Trials.</a></h2>
-      <div class="article-style">
-        
-          Journal: Int J Mol Sci | PMID: 32290293 | doi: 10.3390/ijms21072657 | Type: Journal Article | Comment. The sudden outbreak of 2019 novel coronavirus (2019-nCoV, later named SARS-CoV-2) in Wuhan, China, which rapidly grew in (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32292213/" >[Coronavirus: from common cold to severe pulmonary failure].</a></h2>
-      <div class="article-style">
-        
-          Journal: Monatsschr Kinderheilkd | PMID: 32292213 | doi: 10.1007/s00112-020-00910-2 | Type: Review | Journal Article. In December 2019 a new human coronavirus emerged in Wuhan, China, which is known as SARS-CoV‑2. The clinical course of t (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32145185/" >Middle East respiratory syndrome.</a></h2>
-      <div class="article-style">
-        
-          Journal: Lancet | PMID: 32145185 | doi: 10.1016/S0140-6736(19)33221-0 | Type: Journal Article. The Middle East respiratory syndrome coronavirus (MERS-CoV) is a lethal zoonotic pathogen that was first identified in h (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32238757/" >Current Status of Epidemiology, Diagnosis, Therapeutics, and Vaccines for Novel Coronavirus Disease 2019 (COVID-19).</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Microbiol. Biotechnol. | PMID: 32238757 | doi: 10.4014/jmb.2003.03011 | Type: Journal Article. Coronavirus disease 2019 (COVID-19), which causes serious respiratory illness such as pneumonia and lung failure, was fi (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32220178/" >[Biological Product Development Strategies for Prevention and Treatment of Coronavirus Disease 2019].</a></h2>
-      <div class="article-style">
-        
-          Journal: Sichuan Da Xue Xue Bao Yi Xue Ban | PMID: 32220178 | doi: 10.12182/20200360506 | Type: Review. Coronavirus disease 2019 (COVID-19) caused by the novel coronavirus, also known as severe acute respiratory syndrome cor (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32220177/" >[Epidemiology, Treatment, and Epidemic Prevention and Control of the Coronavirus Disease 2019: a Review].</a></h2>
-      <div class="article-style">
-        
-          Journal: Sichuan Da Xue Xue Bao Yi Xue Ban | PMID: 32220177 | doi: 10.12182/20200360505 | Type: Journal Article. This review summarizes the ongoing researches regarding etiology, epidemiology, transmission dynamics, treatment, and pr (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32214286/" >Expanded Umbilical Cord Mesenchymal Stem Cells (UC-MSCs) as a Therapeutic Strategy in Managing Critically Ill COVID-19 Patients: The Case for Compassionate Use.</a></h2>
-      <div class="article-style">
-        
-          Journal: Pain Physician | PMID: 32214286 | doi: NA | Type: Journal Article. COVID-19 has affected the United States leading to a national emergency with health care and economic impact, propelling (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
       <h2><a href="/publication/32017984/" >Measures for diagnosing and treating infections by a novel coronavirus responsible for a pneumonia outbreak originating in Wuhan, China.</a></h2>
       <div class="article-style">
         
           Journal: Microbes Infect. | PMID: 32017984 | doi: 10.1016/j.micinf.2020.01.003 | Type: Journal Article. On 10 January 2020, a new coronavirus causing a pneumonia outbreak in Wuhan City in central China was denoted as 2019-nC (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32052466/" >Potential interventions for novel coronavirus in China: A systematic review.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Med. Virol. | PMID: 32052466 | doi: 10.1002/jmv.25707 | Type: Letter. An outbreak of a novel coronavirus (COVID-19 or 2019-CoV) infection has posed significant threats to international healt (...)
         
       </div>
     </div>
@@ -736,8 +700,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

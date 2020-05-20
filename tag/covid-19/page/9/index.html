@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/covid-19/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/covid-19/">
   <meta property="og:title" content="COVID-19 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,6 +544,54 @@
     
     
     <div>
+      <h2><a href="/publication/32285293/" >Searching therapeutic strategy of new coronavirus pneumonia from angiotensin-converting enzyme 2: the target of COVID-19 and SARS-CoV.</a></h2>
+      <div class="article-style">
+        
+          Journal: Eur. J. Clin. Microbiol. Infect. Dis. | PMID: 32285293 | doi: 10.1007/s10096-020-03883-y | Type: Journal Article. Since December 2019, the infection of the new coronavirus (COVID-19) caused an outbreak of new coronavirus pneumonia in (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32202343/" >Systematic review of COVID-19 in children shows milder cases and a better prognosis than adults.</a></h2>
+      <div class="article-style">
+        
+          Journal: Acta Paediatr. | PMID: 32202343 | doi: 10.1111/apa.15270 | Type: Journal Article. The coronavirus disease 2019 (COVID-19) pandemic has affected hundreds of thousands of people. Data on symptoms and prog (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32286242/" >The value of urine biochemical parameters in the prediction of the severity of coronavirus disease 2019.</a></h2>
+      <div class="article-style">
+        
+          Journal: Clin. Chem. Lab. Med. | PMID: 32286242 | doi: 10.1515/cclm-2020-0220 | Type: Journal Article. Background Among patients with coronavirus disease 2019 (COVID-19), the cases of a significant proportion of patients ar (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32285222/" >Three unsuspected CT diagnoses of COVID-19.</a></h2>
+      <div class="article-style">
+        
+          Journal: Emerg Radiol | PMID: 32285222 | doi: 10.1007/s10140-020-01775-4 | Type: Editorial. Coronavirus disease 2019 (COVID-19) is caused by a novel strain of coronavirus named severe acute respiratory syndrome c (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32268923/" >Traditional Chinese herbal medicine for treating novel coronavirus (COVID-19) pneumonia: protocol for a systematic review and meta-analysis.</a></h2>
       <div class="article-style">
         
@@ -570,54 +656,6 @@
       <div class="article-style">
         
           Journal: Am. J. Transplant. | PMID: 32282986 | doi: 10.1111/ajt.15928 | Type: Letter. Over 1,000,000 cases of coronavirus disease 2019 (COVID-19) have been confirmed since the worldwide outbreak began. Not (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32239591/" >Clinical characteristics of non-ICU hospitalized patients with coronavirus disease 2019 and liver injury: A retrospective study.</a></h2>
-      <div class="article-style">
-        
-          Journal: Liver Int. | PMID: 32239591 | doi: 10.1111/liv.14449 | Type: Review. Coronavirus disease 2019 (COVID-19) has raised world concern for global epidemic since December, 2019. Limited data are (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32281231/" >Containing COVID-19 in the emergency room: the role of improved case detection and segregation of suspect cases.</a></h2>
-      <div class="article-style">
-        
-          Journal: Acad Emerg Med | PMID: 32281231 | doi: 10.1111/acem.13984 | Type: Letter. Patients with COVID-19 may present with respiratory syndromes indistinguishable from common viruses. This poses a challe (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32274342/" >COVID-19 and Liver Dysfunction: Current Insights and Emergent Therapeutic Strategies.</a></h2>
-      <div class="article-style">
-        
-          Journal: J Clin Transl Hepatol | PMID: 32274342 | doi: 10.14218/JCTH.2020.00018 | Type: Journal Article. The outbreak of coronavirus disease 2019 (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32276102/" >Crisis Symptom Management and Patient Communication Protocols Are Important Tools for All Clinicians Responding to COVID-19.</a></h2>
-      <div class="article-style">
-        
-          Journal: J Pain Symptom Manage | PMID: 32276102 | doi: 10.1016/j.jpainsymman.2020.03.028 | Type: Letter. Symptom management and skilled communication with patients and families are essential clinical services in the midst of (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

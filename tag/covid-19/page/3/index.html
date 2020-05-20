@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/covid-19/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/covid-19/">
   <meta property="og:title" content="COVID-19 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,6 +544,30 @@
     
     
     <div>
+      <h2><a href="/publication/32253799/" >Generalized pustular figurate erythema: A newly delineated severe cutaneous drug reaction linked with hydroxychloroquine.</a></h2>
+      <div class="article-style">
+        
+          Journal: Dermatol Ther | PMID: 32253799 | doi: 10.1111/dth.13380 | Type: Practice Guideline. A severe cutaneous drug reaction resembling acute generalized exanthematous pustulosis resulting from ingestion of hydro (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32224133/" >How to link patients with suspicious COVID-19 to health system from the community pharmacies? A route proposal.</a></h2>
+      <div class="article-style">
+        
+          Journal: Res Social Adm Pharm | PMID: 32224133 | doi: 10.1016/j.sapharm.2020.03.007 | Type: Journal Article. Colombia confirmed its first case of the COVID-19 on March 6th, 2020. On March 16th, 2020, 54 cases have been confirmed (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32237901/" >Immune-epidemiological parameters of the novel coronavirus - a perspective.</a></h2>
       <div class="article-style">
         
@@ -594,30 +656,6 @@
       <div class="article-style">
         
           Journal: High Blood Press Cardiovasc Prev | PMID: 32266708 | doi: 10.1007/s40292-020-00380-3 | Type: Letter. Cardiovascular diseases, in particular hypertension, as well as the cardiovascular treatment with Renin-Angiotensin Syst (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32244059/" >SARS-CoV-2, COVID-19 and inherited arrhythmia syndromes.</a></h2>
-      <div class="article-style">
-        
-          Journal: Heart Rhythm | PMID: 32244059 | doi: 10.1016/j.hrthm.2020.03.024 | Type: Letter. Ever since the first case was reported at the end of 2019, the SARS-COV-2 virus and associated lung disease COVID-19 has (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32293807/" >Systematic review of the efficacy and safety of antiretroviral drugs against SARS, MERS or COVID-19: initial assessment.</a></h2>
-      <div class="article-style">
-        
-          Journal: J Int AIDS Soc | PMID: 32293807 | doi: 10.1002/jia2.25489 | Type: Journal Article | Comment. Several antiretroviral drugs are being considered for the treatment of COVID-19, the disease caused by a newly identifie (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

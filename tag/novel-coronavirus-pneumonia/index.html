@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/novel-coronavirus-pneumonia/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/novel-coronavirus-pneumonia/">
   <meta property="og:title" content="Novel coronavirus pneumonia | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-15T00:00:00&#43;00:00">
@@ -602,10 +640,10 @@
     
     
     <div>
-      <h2><a href="/publication/32075365/" >[Expert consensus on chloroquine phosphate for the treatment of novel coronavirus pneumonia].</a></h2>
+      <h2><a href="/publication/32087621/" >[The keypoints in treatment of the critical novel coronavirus pneumonia patient].</a></h2>
       <div class="article-style">
         
-          Journal: Zhonghua Jie He He Hu Xi Za Zhi | PMID: 32075365 | doi: 10.3760/cma.j.issn.1001-0939.2020.0019 | Type: Journal Article. At the end of December 2019, a novel coronavirus (COVID-19) caused an outbreak in Wuhan, and has quickly spread to all p (...)
+          Journal: Zhonghua Jie He He Hu Xi Za Zhi | PMID: 32087621 | doi: 10.3760/cma.j.cn112147-20200222-00151 | Type: Journal Article. The novel coronavirus pneumonia (new coronavirus pneumonia) (NCP) has been prevalent in Wuhan and spread rapidly to all (...)
         
       </div>
     </div>
@@ -614,16 +652,25 @@
     
     
     <div>
-      <h2><a href="/publication/32064854/" >[The network investigation on knowledge, attitude and practice about Novel coronavirus pneumonia of the residents in Anhui Province].</a></h2>
+      <h2><a href="/publication/32075365/" >[Expert consensus on chloroquine phosphate for the treatment of novel coronavirus pneumonia].</a></h2>
       <div class="article-style">
         
-          Journal: Zhonghua Yu Fang Yi Xue Za Zhi | PMID: 32064854 | doi: 10.3760/cma.j.issn.0253-9624.2020.0004 | Type: Journal Article. Objective: To analyze the current situation of the knowledge, attitudes and practice about Novelcoronavirus pneum (...)
+          Journal: Zhonghua Jie He He Hu Xi Za Zhi | PMID: 32075365 | doi: 10.3760/cma.j.issn.1001-0939.2020.0019 | Type: Journal Article. At the end of December 2019, a novel coronavirus (COVID-19) caused an outbreak in Wuhan, and has quickly spread to all p (...)
         
       </div>
     </div>
   
 
   
+<nav>
+  <ul class="pagination justify-content-center">
+    
+    
+    <li class="page-item"><a class="page-link" href="/tag/novel-coronavirus-pneumonia/page/2/">&raquo;</a></li>
+    
+  </ul>
+</nav>
+
 
 </div>
 
@@ -748,8 +795,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

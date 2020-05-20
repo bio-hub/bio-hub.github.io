@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/prognosis/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/prognosis/">
   <meta property="og:title" content="Prognosis | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-14T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-03-13T00:00:00&#43;00:00">
   
 
   
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -506,10 +566,10 @@
     
     
     <div>
-      <h2><a href="/publication/32240670/" >Coronavirus disease 2019 in elderly patients: Characteristics and prognostic factors based on 4-week follow-up.</a></h2>
+      <h2><a href="/publication/31986264/" >Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.</a></h2>
       <div class="article-style">
         
-          Journal: J. Infect. | PMID: 32240670 | doi: 10.1016/j.jinf.2020.03.019 | Type: Journal Article. To investigate the characteristics and prognostic factors in the elderly patients with COVID-19. Consecutive cases over (...)
+          Journal: Lancet | PMID: 31986264 | doi: 10.1016/S0140-6736(20)30183-5 | Type: Journal Article. A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus ( (...)
         
       </div>
     </div>
@@ -518,121 +578,16 @@
     
     
     <div>
-      <h2><a href="/publication/32283325/" >Clinical Features of COVID-19-Related Liver Damage.</a></h2>
+      <h2><a href="/publication/32007143/" >Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.</a></h2>
       <div class="article-style">
         
-          Journal: Clin. Gastroenterol. Hepatol. | PMID: 32283325 | doi: 10.1016/j.cgh.2020.04.002 | Type: Review. Some patients with SARS-CoV-2 infection have abnormal liver function. We aimed to clarify the features of COVID-19-relat (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32268719/" >Intubation and mechanical ventilation of patients with COVID-19: what should we tell them?</a></h2>
-      <div class="article-style">
-        
-          Journal: Monaldi Arch Chest Dis | PMID: 32268719 | doi: 10.4081/monaldi.2020.1296 | Type: Journal Article. Severe COVID-19 illness is characterised by the development of Acute Respiratory Distress Syndrome (ARDS), for which the (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32265220/" >Prediction models for diagnosis and prognosis of covid-19 infection: systematic review and critical appraisal.</a></h2>
-      <div class="article-style">
-        
-          Journal: BMJ | PMID: 32265220 | doi: 10.1136/bmj.m1328 | Type: Journal Article. To review and critically appraise published and preprint reports of prediction models for diagnosing coronavirus disease (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32267110/" >[COVID-19 andcardiovascular diseases].</a></h2>
-      <div class="article-style">
-        
-          Journal: Rev Med Liege | PMID: 32267110 | doi: NA | Type: Journal Article. COVID-2019 disease mainly affects the respiratory tract and can progress in severe cases to pneumonia, acute respiratory (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32270592/" >Clinical characteristics of a case series of children with coronavirus disease 2019.</a></h2>
-      <div class="article-style">
-        
-          Journal: Pediatr. Pulmonol. | PMID: 32270592 | doi: 10.1002/ppul.24767 | Type: Journal Article. We reported the clinical characteristics of a case series of 10 patients with coronavirus disease 2019 (COVID-19) aged f (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32208917/" >The different clinical characteristics of corona virus disease cases between children and their families in China - the character of children with COVID-19.</a></h2>
-      <div class="article-style">
-        
-          Journal: Emerg Microbes Infect | PMID: 32208917 | doi: 10.1080/22221751.2020.1744483 | Type: Journal Article. This study aims to analyze the different clinical characteristics between children and their families infected with seve (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32242348/" >Clinical Course and Outcomes of Patients with Severe Acute Respiratory Syndrome Coronavirus 2 Infection: a Preliminary Report of the First 28 Patients from the Korean Cohort Study on COVID-19.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Korean Med. Sci. | PMID: 32242348 | doi: 10.3346/jkms.2020.35.e142 | Type: Journal Article. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)-infected pneumonia emerged in Wuhan, China in December 2019 (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32226295/" >COVID-19: what has been learned and to be learned about the novel coronavirus disease.</a></h2>
-      <div class="article-style">
-        
-          Journal: Int. J. Biol. Sci. | PMID: 32226295 | doi: 10.7150/ijbs.45134 | Type: Journal Article. The outbreak of Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome (SARS) coronavirus 2 (S (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32220033/" >Early antiviral treatment contributes to alleviate the severity and improve the prognosis of patients with novel coronavirus disease (COVID-19).</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Intern. Med. | PMID: 32220033 | doi: 10.1111/joim.13063 | Type: Journal Article. At present, the severity of patients infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been (...)
+          Journal: Lancet | PMID: 32007143 | doi: 10.1016/S0140-6736(20)30211-7 | Type: Journal Article. In December, 2019, a pneumonia associated with the 2019 novel coronavirus (2019-nCoV) emerged in Wuhan, China. We aimed (...)
         
       </div>
     </div>
   
 
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    
-    <li class="page-item"><a class="page-link" href="/tag/prognosis/page/2/">&raquo;</a></li>
-    
-  </ul>
-</nav>
-
 
 </div>
 
@@ -757,8 +712,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

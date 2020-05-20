@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/clinical-laboratory-techniques/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/clinical-laboratory-techniques/">
   <meta property="og:title" content="Clinical Laboratory Techniques | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-16T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-03-19T00:00:00&#43;00:00">
   
 
   
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -506,10 +566,10 @@
     
     
     <div>
-      <h2><a href="/publication/32284613/" >Characteristics of pediatric SARS-CoV-2 infection and potential evidence for persistent fecal viral shedding.</a></h2>
+      <h2><a href="/publication/31944312/" >Recent advances in the detection of respiratory virus infection in humans.</a></h2>
       <div class="article-style">
         
-          Journal: Nat. Med. | PMID: 32284613 | doi: 10.1038/s41591-020-0817-4 | Type: Journal Article. We report epidemiological and clinical investigations on ten pediatric SARS-CoV-2 infection cases confirmed by real-time (...)
+          Journal: J. Med. Virol. | PMID: 31944312 | doi: 10.1002/jmv.25674 | Type: Journal Article. Respiratory tract viral infection caused by viruses or bacteria is one of the most common diseases in human worldwide, w (...)
         
       </div>
     </div>
@@ -518,10 +578,10 @@
     
     
     <div>
-      <h2><a href="/publication/32291376/" >Clinical Progression of COVID-19 Patient with Extended Incubation Period, Delayed RT-PCR Time-to-positivity, and Potential Role of Chest CT-scan.</a></h2>
+      <h2><a href="/publication/32017984/" >Measures for diagnosing and treating infections by a novel coronavirus responsible for a pneumonia outbreak originating in Wuhan, China.</a></h2>
       <div class="article-style">
         
-          Journal: Acta Med Indones | PMID: 32291376 | doi: NA | Type: Letter | Journal Article. Coronavirus Disease 2019 (COVID-19), previously called 2019-nCoV, is a novel disease caused by SARS- CoV-2 which was fir (...)
+          Journal: Microbes Infect. | PMID: 32017984 | doi: 10.1016/j.micinf.2020.01.003 | Type: Journal Article. On 10 January 2020, a new coronavirus causing a pneumonia outbreak in Wuhan City in central China was denoted as 2019-nC (...)
         
       </div>
     </div>
@@ -530,109 +590,16 @@
     
     
     <div>
-      <h2><a href="/publication/32291374/" >The Importance of Chest CT Scan in COVID-19.</a></h2>
+      <h2><a href="/publication/31986261/" >A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster.</a></h2>
       <div class="article-style">
         
-          Journal: Acta Med Indones | PMID: 32291374 | doi: NA | Type: Letter | Journal Article. The coronavirus disease 2019 (COVID-19) is a highly transmissible acute respiratory disease that is caused by the Severe (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32271459/" >Clinical characteristics of 161 cases of corona virus disease 2019 (COVID-19) in Changsha.</a></h2>
-      <div class="article-style">
-        
-          Journal: Eur Rev Med Pharmacol Sci | PMID: 32271459 | doi: 10.26355/eurrev_202003_20711 | Type: Review. In December 2019, a new type of coronavirus-infected pneumonia broke out in Wuhan and spread rapidly to other parts of t (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32157862/" >CT Manifestations of Novel Coronavirus Pneumonia: A Case Report</a></h2>
-      <div class="article-style">
-        
-          Journal: Balkan Med J | PMID: 32157862 | doi: 10.4274/balkanmedj.galenos.2020.2020.2.15 | Type: Journal Article. Since December 2019, the outbreak of the novel coronavirus has impacted nearly &gt;90,000 people in more than 75 countri (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32281331/" >[Analysis on pattern of prescriptions and syndromes of traditional Chinese medicine for prevention and treatment of COVID-19].</a></h2>
-      <div class="article-style">
-        
-          Journal: Zhongguo Zhong Yao Za Zhi | PMID: 32281331 | doi: 10.19540/j.cnki.cjcmm.20200218.502 | Type: Journal Article. To investigate the regularity of prescription and clinical syndromes by analyzing the diagnosis and treatment protocols (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32271596/" >Co-infection of Coronavirus Disease 2019 and Influenza A: A Report from Iran.</a></h2>
-      <div class="article-style">
-        
-          Journal: Arch Iran Med | PMID: 32271596 | doi: 10.34172/aim.2020.04 | Type: Comment. In late December 2019, a viral pneumonia known as coronavirus disease 2019 (COVID-19) originated from China and spread v (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32271601/" >Epidemiology and Clinical Characteristics of COVID-19.</a></h2>
-      <div class="article-style">
-        
-          Journal: Arch Iran Med | PMID: 32271601 | doi: 10.34172/aim.2020.09 | Type: Letter. Since December 2019, there has been an outbreak of a novel coronavirus (COVID-19) infection in Wuhan, China. Meanwhile, (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32145185/" >Middle East respiratory syndrome.</a></h2>
-      <div class="article-style">
-        
-          Journal: Lancet | PMID: 32145185 | doi: 10.1016/S0140-6736(19)33221-0 | Type: Journal Article. The Middle East respiratory syndrome coronavirus (MERS-CoV) is a lethal zoonotic pathogen that was first identified in h (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32238757/" >Current Status of Epidemiology, Diagnosis, Therapeutics, and Vaccines for Novel Coronavirus Disease 2019 (COVID-19).</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Microbiol. Biotechnol. | PMID: 32238757 | doi: 10.4014/jmb.2003.03011 | Type: Journal Article. Coronavirus disease 2019 (COVID-19), which causes serious respiratory illness such as pneumonia and lung failure, was fi (...)
+          Journal: Lancet | PMID: 31986261 | doi: 10.1016/S0140-6736(20)30154-9 | Type: Letter. An ongoing outbreak of pneumonia associated with a novel coronavirus was reported in Wuhan city, Hubei province, China. (...)
         
       </div>
     </div>
   
 
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    
-    <li class="page-item"><a class="page-link" href="/tag/clinical-laboratory-techniques/page/2/">&raquo;</a></li>
-    
-  </ul>
-</nav>
-
 
 </div>
 
@@ -757,8 +724,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

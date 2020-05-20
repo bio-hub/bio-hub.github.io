@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/sub_to_keywords/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/sub_to_keywords/">
   <meta property="og:title" content="sub_to_keywords | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
+    
   
 
   
@@ -458,23 +496,6 @@
       
 
       
-      <li class="nav-item dropdown theme-dropdown">
-        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-palette" aria-hidden="true"></i>
-        </a>
-        <div class="dropdown-menu">
-          <a href="#" class="dropdown-item js-set-theme-light">
-            <span>Light</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-dark">
-            <span>Dark</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-auto">
-            <span>Automatic</span>
-          </a>
-        </div>
-      </li>
-      
 
       
 
@@ -523,133 +544,16 @@
     
     
     <div>
-      <h2><a href="/publication/32252141/" >Epidemiology, virology, and clinical features of severe acute respiratory syndrome -coronavirus-2 (SARS-CoV-2; Coronavirus Disease-19).</a></h2>
+      <h2><a href="/publication/32044814/" >sub_to_title</a></h2>
       <div class="article-style">
         
-          Journal: Clin Exp Pediatr | PMID: 32252141 | doi: 10.3345/cep.2020.00493 | Type: Journal Article. A cluster of severe pneumonia of unknown etiology in Wuhan City, Hubei province in China emerged in December 2019. A nov (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32281757/" >[Covid-19 in patients on dialysis: infection prevention and control strategies].</a></h2>
-      <div class="article-style">
-        
-          Journal: G Ital Nefrol | PMID: 32281757 | doi: NA | Type: Journal Article. Covid-19 is a disease caused by a new coronavirus presenting a variability of flu-like symptoms including fever, cough, (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32286213/" >[Fatal outcome of coronavirus disease 2019 in a previously healthy 50-year-old man].</a></h2>
-      <div class="article-style">
-        
-          Journal: Ugeskr. Laeg. | PMID: 32286213 | doi: NA | Type: Journal Article. In this case report, a 50-year-old man who had no medical history, presented with multiple cardiac arrests following a w (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32293020/" >[Palliation in patients with severe COVID-19].</a></h2>
-      <div class="article-style">
-        
-          Journal: Lakartidningen | PMID: 32293020 | doi: NA | Type: Letter | Journal Article. Coronavirus Disease 2019 (COVID-19) can cause severe respiratory failure and distressing symptoms including fever, cough (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32238024/" >A case of imported COVID-19 diagnosed by PCR-positive lower respiratory specimen but with PCR-negative throat swabs.</a></h2>
-      <div class="article-style">
-        
-          Journal: Infect Dis (Lond) | PMID: 32238024 | doi: 10.1080/23744235.2020.1744711 | Type: Letter. A 35-year-old woman presented with fever and mild diarrhoea without any respiratory symptoms 9 days after travelling to (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32168162/" >A Diabetic Patient With 2019-nCoV (COVID-19) Infection Who Recovered and Was Discharged From Hospital.</a></h2>
-      <div class="article-style">
-        
-          Journal: J Thorac Imaging | PMID: 32168162 | doi: 10.1097/RTI.0000000000000506 | Type: Journal Article. Novel coronavirus has become a global health hazard and its high infectivity is alarming. The imaging findings of the 20 (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32290293/" >A Review of SARS-CoV-2 and the Ongoing Clinical Trials.</a></h2>
-      <div class="article-style">
-        
-          Journal: Int J Mol Sci | PMID: 32290293 | doi: 10.3390/ijms21072657 | Type: Journal Article | Comment. The sudden outbreak of 2019 novel coronavirus (2019-nCoV, later named SARS-CoV-2) in Wuhan, China, which rapidly grew in (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32201353/" >A review of the 2019 Novel Coronavirus (COVID-19) based on current evidence.</a></h2>
-      <div class="article-style">
-        
-          Journal: Int. J. Antimicrob. Agents | PMID: 32201353 | doi: 10.1016/j.ijantimicag.2020.105948 | Type: Journal Article. The pneumonia caused by novel coronavirus (SARS-CoV-2) in Wuhan, China in December 2019 is a highly contagious disease. (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32171872/" >Arbidol combined with LPV/r versus LPV/r alone against Corona Virus Disease 2019: A retrospective cohort study.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Infect. | PMID: 32171872 | doi: 10.1016/j.jinf.2020.03.002 | Type: Journal Article. Corona Virus Disease 2019 (COVID-19) due to the 2019 novel coronavirus (SARS-CoV-2) emerged in Wuhan city and rapidly sp (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32281481/" >Challenges and cares to promote rational use of chloroquine and hydroxychloroquine in the management of coronavirus disease 2019 (COVID-19) pandemic: a timely review.</a></h2>
-      <div class="article-style">
-        
-          Journal: J Toxicol Environ Health B Crit Rev | PMID: 32281481 | doi: 10.1080/10937404.2020.1752340 | Type: Journal Article. As a result of the 2019 coronavirus disease pandemic (COVID-19), there has been an urgent worldwide demand for treatment (...)
+          sub_to_summary.abstract
         
       </div>
     </div>
   
 
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    
-    <li class="page-item"><a class="page-link" href="/tag/sub_to_keywords/page/2/">&raquo;</a></li>
-    
-  </ul>
-</nav>
-
 
 </div>
 
@@ -774,8 +678,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

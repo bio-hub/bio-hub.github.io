@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/viral/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/viral/">
   <meta property="og:title" content="Viral | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-16T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-04-01T00:00:00&#43;00:00">
   
 
   
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -506,10 +566,10 @@
     
     
     <div>
-      <h2><a href="/publication/32281757/" >[Covid-19 in patients on dialysis: infection prevention and control strategies].</a></h2>
+      <h2><a href="/publication/31995857/" >Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia.</a></h2>
       <div class="article-style">
         
-          Journal: G Ital Nefrol | PMID: 32281757 | doi: NA | Type: Journal Article. Covid-19 is a disease caused by a new coronavirus presenting a variability of flu-like symptoms including fever, cough, (...)
+          Journal: N. Engl. J. Med. | PMID: 31995857 | doi: 10.1056/NEJMoa2001316 | Type: Journal Article. The initial cases of novel coronavirus (2019-nCoV)-infected pneumonia (NCIP) occurred in Wuhan, Hubei Province, China, i (...)
         
       </div>
     </div>
@@ -518,10 +578,10 @@
     
     
     <div>
-      <h2><a href="/publication/32290293/" >A Review of SARS-CoV-2 and the Ongoing Clinical Trials.</a></h2>
+      <h2><a href="/publication/31994742/" >Updated understanding of the outbreak of 2019 novel coronavirus (2019-nCoV) in Wuhan, China.</a></h2>
       <div class="article-style">
         
-          Journal: Int J Mol Sci | PMID: 32290293 | doi: 10.3390/ijms21072657 | Type: Journal Article | Comment. The sudden outbreak of 2019 novel coronavirus (2019-nCoV, later named SARS-CoV-2) in Wuhan, China, which rapidly grew in (...)
+          Journal: J. Med. Virol. | PMID: 31994742 | doi: 10.1002/jmv.25689 | Type: Journal Article. To help health workers and the public recognize and deal with the 2019 novel coronavirus (2019-nCoV) quickly, effectivel (...)
         
       </div>
     </div>
@@ -530,10 +590,10 @@
     
     
     <div>
-      <h2><a href="/publication/32284613/" >Characteristics of pediatric SARS-CoV-2 infection and potential evidence for persistent fecal viral shedding.</a></h2>
+      <h2><a href="/publication/31996494/" >Drug treatment options for the 2019-new coronavirus (2019-nCoV).</a></h2>
       <div class="article-style">
         
-          Journal: Nat. Med. | PMID: 32284613 | doi: 10.1038/s41591-020-0817-4 | Type: Journal Article. We report epidemiological and clinical investigations on ten pediatric SARS-CoV-2 infection cases confirmed by real-time (...)
+          Journal: Biosci Trends | PMID: 31996494 | doi: 10.5582/bst.2020.01020 | Type: Journal Article. As of January 22, 2020, a total of 571 cases of the 2019-new coronavirus (2019-nCoV) have been reported in 25 provinces (...)
         
       </div>
     </div>
@@ -542,10 +602,10 @@
     
     
     <div>
-      <h2><a href="/publication/32290644/" >Clinical and epidemiologic profile of the initial COVID-19 patients at a tertiary care centre in India.</a></h2>
+      <h2><a href="/publication/32022370/" >Learning from the Past: Possible Urgent Prevention and Treatment Options for Severe Acute Respiratory Infections Caused by 2019-nCoV.</a></h2>
       <div class="article-style">
         
-          Journal: Monaldi Arch Chest Dis | PMID: 32290644 | doi: 10.4081/monaldi.2020.1294 | Type: Letter | Journal Article. COVID-19 has now become a pandemic. It has spread from Wuhan, China, in December 2019 to a large number of countries wit (...)
+          Journal: Chembiochem | PMID: 32022370 | doi: 10.1002/cbic.202000047 | Type: Editorial. With the current trajectory of the 2019-nCoV outbreak unknown, public health and medicinal measures will both be needed (...)
         
       </div>
     </div>
@@ -554,10 +614,10 @@
     
     
     <div>
-      <h2><a href="/publication/32291376/" >Clinical Progression of COVID-19 Patient with Extended Incubation Period, Delayed RT-PCR Time-to-positivity, and Potential Role of Chest CT-scan.</a></h2>
+      <h2><a href="/publication/32017984/" >Measures for diagnosing and treating infections by a novel coronavirus responsible for a pneumonia outbreak originating in Wuhan, China.</a></h2>
       <div class="article-style">
         
-          Journal: Acta Med Indones | PMID: 32291376 | doi: NA | Type: Letter | Journal Article. Coronavirus Disease 2019 (COVID-19), previously called 2019-nCoV, is a novel disease caused by SARS- CoV-2 which was fir (...)
+          Journal: Microbes Infect. | PMID: 32017984 | doi: 10.1016/j.micinf.2020.01.003 | Type: Journal Article. On 10 January 2020, a new coronavirus causing a pneumonia outbreak in Wuhan City in central China was denoted as 2019-nC (...)
         
       </div>
     </div>
@@ -566,10 +626,10 @@
     
     
     <div>
-      <h2><a href="/publication/32228252/" >COVID-19, ACE2, and the cardiovascular consequences.</a></h2>
+      <h2><a href="/publication/31986261/" >A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster.</a></h2>
       <div class="article-style">
         
-          Journal: Am. J. Physiol. Heart Circ. Physiol. | PMID: 32228252 | doi: 10.1152/ajpheart.00217.2020 | Type: Journal Article. The novel SARS coronavirus SARS-CoV-2 pandemic may be particularly deleterious to patients with underlying cardiovascula (...)
+          Journal: Lancet | PMID: 31986261 | doi: 10.1016/S0140-6736(20)30154-9 | Type: Letter. An ongoing outbreak of pneumonia associated with a novel coronavirus was reported in Wuhan city, Hubei province, China. (...)
         
       </div>
     </div>
@@ -578,10 +638,10 @@
     
     
     <div>
-      <h2><a href="/publication/32238612/" >Novel Coronavirus 2019 (2019-nCoV) Infection: Part I - Preparedness and Management in the Pediatric Intensive Care Unit in Resource-limited Settings.</a></h2>
+      <h2><a href="/publication/31986264/" >Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.</a></h2>
       <div class="article-style">
         
-          Journal: Indian Pediatr | PMID: 32238612 | doi: NA | Type: Journal Article. First reported in China, the 2019 novel coronavirus has been spreading across the globe. Till 26 March, 2020, 416,686 ca (...)
+          Journal: Lancet | PMID: 31986264 | doi: 10.1016/S0140-6736(20)30183-5 | Type: Journal Article. A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus ( (...)
         
       </div>
     </div>
@@ -590,49 +650,16 @@
     
     
     <div>
-      <h2><a href="/publication/32238613/" >Novel Coronavirus 2019 (2019-nCoV) Infection: Part II - Respiratory Support in the Pediatric Intensive Care Unit in Resource-limited Settings.</a></h2>
+      <h2><a href="/publication/32007143/" >Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.</a></h2>
       <div class="article-style">
         
-          Journal: Indian Pediatr | PMID: 32238613 | doi: NA | Type: Editorial. The 2019-novel coronavirus predominantly affects the respiratory system with manifestations ranging from upper respirato (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32222988/" >Review article: gastrointestinal features in COVID-19 and the possibility of faecal transmission.</a></h2>
-      <div class="article-style">
-        
-          Journal: Aliment. Pharmacol. Ther. | PMID: 32222988 | doi: 10.1111/apt.15731 | Type: Journal Article. There is little published evidence on the gastrointestinal features of COVID-19. To report on the gastrointestinal manif (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32291374/" >The Importance of Chest CT Scan in COVID-19.</a></h2>
-      <div class="article-style">
-        
-          Journal: Acta Med Indones | PMID: 32291374 | doi: NA | Type: Letter | Journal Article. The coronavirus disease 2019 (COVID-19) is a highly transmissible acute respiratory disease that is caused by the Severe (...)
+          Journal: Lancet | PMID: 32007143 | doi: 10.1016/S0140-6736(20)30211-7 | Type: Journal Article. In December, 2019, a pneumonia associated with the 2019 novel coronavirus (2019-nCoV) emerged in Wuhan, China. We aimed (...)
         
       </div>
     </div>
   
 
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    
-    <li class="page-item"><a class="page-link" href="/tag/viral/page/2/">&raquo;</a></li>
-    
-  </ul>
-</nav>
-
 
 </div>
 
@@ -757,8 +784,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

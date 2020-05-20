@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/syntax_summary/signs/info/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/syntax_summary/signs/terms/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/syntax_summary/diagnsosis/info/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/syntax_summary/epidemiology/info/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/syntax_summary/epidemiology/terms/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/drugpanel/acetazolamide/info/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -1344,6 +1369,21 @@
   
   <url>
     <loc>/supp/terms/global_category_words/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/syntax_summary/transmission/info/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/syntax_summary/transmission/terms/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/syntax_summary/treatment/info/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -2693,7 +2733,22 @@
   </url>
   
   <url>
+    <loc>/syntax_summary/signs/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/syntax_summary/diagnsosis/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tables/abstract/diagnose/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/syntax_summary/epidemiology/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -2703,8 +2758,23 @@
   </url>
   
   <url>
+    <loc>/syntax_summary/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tables/abstract/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/syntax_summary/transmission/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/syntax_summary/diagnsosis/terms/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -2988,7 +3058,17 @@
   </url>
   
   <url>
+    <loc>/syntax_summary/treatment/terms/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/supp/terms/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/syntax_summary/treatment/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -3872,11 +3952,6 @@
   </url>
   
   <url>
-    <loc>/tag/signs/</loc>
-    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/category/signs/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -3892,12 +3967,12 @@
   </url>
   
   <url>
-    <loc>/tag/transmission/</loc>
+    <loc>/category/transmission/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/transmission/</loc>
+    <loc>/tag/transmission-signs/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -4587,6 +4662,61 @@
   </url>
   
   <url>
+    <loc>/tag/diagnosis-epidemiology/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diagnosis-epidemiology-transmission/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diagnosis-epidemiology-transmission-signs/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diagnosis-signs/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diagnosis-transmission/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diagnosis-transmission-signs/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diagnosis-treatment/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diagnosis-treatment-epidemiology-signs/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diagnosis-treatment-signs/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diagnosis-treatment-transmission/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diagnosis-treatment-transmission-signs/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/didier-raoult/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
@@ -4673,6 +4803,21 @@
   
   <url>
     <loc>/category/epidemiology/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/epidemiology-signs/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/epidemiology-transmission/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/epidemiology-transmission-signs/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -6137,6 +6282,11 @@
   </url>
   
   <url>
+    <loc>/tag/signs/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/sin-fun-sia/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
@@ -6343,6 +6493,26 @@
   
   <url>
     <loc>/category/treatment/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/treatment-epidemiology-signs/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/treatment-signs/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/treatment-transmission/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/treatment-transmission-signs/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -8792,6 +8962,16 @@
   </url>
   
   <url>
+    <loc>/tag/treatment-epidemiology-transmission/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/treatment-epidemiology-transmission-signs/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/tuba-dal/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
@@ -9533,6 +9713,21 @@
   
   <url>
     <loc>/publication/32250959/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diagnosis-epidemiology-signs/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diagnosis-treatment-epidemiology-transmission/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diagnosis-treatment-epidemiology-transmission-signs/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -23422,6 +23617,21 @@
   </url>
   
   <url>
+    <loc>/tag/adolescent/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/adult/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/aged/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/akihiko-sakata/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -23487,6 +23697,11 @@
   </url>
   
   <url>
+    <loc>/tag/betacoronavirus/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/bo-xu/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -23547,6 +23762,11 @@
   </url>
   
   <url>
+    <loc>/tag/china/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/chuding-chen/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -23562,7 +23782,22 @@
   </url>
   
   <url>
+    <loc>/tag/communicable-disease-control/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/coronavirus/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/32229732/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/coronavirus-infections/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -23617,6 +23852,11 @@
   </url>
   
   <url>
+    <loc>/tag/disease-transmission/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/e-maseda/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -23648,6 +23888,11 @@
   
   <url>
     <loc>/author/ennio-giulio-favalli/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/epidemics/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -23693,6 +23938,11 @@
   
   <url>
     <loc>/author/federica-sotgia/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/female/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -23857,6 +24107,16 @@
   </url>
   
   <url>
+    <loc>/tag/human/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/humans/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/32205204/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -23868,6 +24128,21 @@
   
   <url>
     <loc>/publication/32132196/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/incidence/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/infectious/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/infectious-disease-incubation-period/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -24092,6 +24367,11 @@
   </url>
   
   <url>
+    <loc>/tag/male/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/man-liu/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -24118,6 +24398,11 @@
   
   <url>
     <loc>/author/michael-p-lisanti/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/middle-aged/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -24188,6 +24473,21 @@
   
   <url>
     <loc>/author/pan-weiqi/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pandemics/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pneumonia/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/polymerase-chain-reaction/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -24467,6 +24767,11 @@
   </url>
   
   <url>
+    <loc>/tag/viral/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/wanbing-liu/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -24623,6 +24928,11 @@
   
   <url>
     <loc>/author/you-shang/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/young-adult/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -27532,7 +27842,22 @@
   </url>
   
   <url>
+    <loc>/tag/80-and-over/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/32029004/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/adenovirus/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/adenovirus-infections/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -27597,6 +27922,11 @@
   </url>
   
   <url>
+    <loc>/tag/clinical-laboratory-techniques/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/cong-zhang/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
   </url>
@@ -27618,6 +27948,16 @@
   
   <url>
     <loc>/author/di-huang/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diagnostic-methods/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/disease-outbreaks/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -27667,6 +28007,11 @@
   </url>
   
   <url>
+    <loc>/tag/hong-kong/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/hong-weng/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
   </url>
@@ -27688,6 +28033,31 @@
   
   <url>
     <loc>/author/hui-min-sun/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/immunoassay/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/immunologic-tests/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/infection/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/influenza/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/influenza-virus/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -27782,6 +28152,11 @@
   </url>
   
   <url>
+    <loc>/tag/macau/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/meng-su/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
   </url>
@@ -27792,12 +28167,27 @@
   </url>
   
   <url>
+    <loc>/tag/multiplex-polymerase-chain-reaction/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/naru-zhang/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/tag/nucleic-acid-amplification-techniques/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/peipei-song/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/picornaviridae-infections/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -27822,7 +28212,37 @@
   </url>
   
   <url>
+    <loc>/tag/real-time-polymerase-chain-reaction/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/31944312/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/respiratory-syncytial-virus/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/respiratory-syncytial-virus-infections/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/respiratory-tract-infections/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/respiratory-viral-infection/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/rhinovirus/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -27882,6 +28302,11 @@
   </url>
   
   <url>
+    <loc>/tag/taiwan/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/32191587/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
   </url>
@@ -27898,6 +28323,11 @@
   
   <url>
     <loc>/publication/31994742/</loc>
+    <lastmod>2020-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/viruses/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -28057,7 +28487,17 @@
   </url>
   
   <url>
+    <loc>/tag/2019-ncov/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/32088679/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/3clpro/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -28082,12 +28522,32 @@
   </url>
   
   <url>
+    <loc>/tag/alanine/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/ali-toloue-ostadgavahi/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/alyson-anne-kelvin/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/amino-acid-sequence/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/antibodies/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/antiviral-agents/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -28127,7 +28587,17 @@
   </url>
   
   <url>
+    <loc>/tag/coronaviruses/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/32040667/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cysteine-endopeptidases/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -28168,6 +28638,21 @@
   
   <url>
     <loc>/author/dongchi-zhao/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/drug-combinations/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/drug-design/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/drug-discovery/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -28312,6 +28797,11 @@
   </url>
   
   <url>
+    <loc>/tag/lopinavir/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/m-iqbal/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
@@ -28347,12 +28837,27 @@
   </url>
   
   <url>
+    <loc>/tag/neuraminidase/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/neutralizing/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/nicholas-j-dawe/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/32141570/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nucleosides/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -28368,6 +28873,11 @@
   
   <url>
     <loc>/publication/32186894/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/preventive/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -28392,6 +28902,31 @@
   </url>
   
   <url>
+    <loc>/tag/rdrp/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ribonucleotides/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ritonavir/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/rna/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/rna-replicase/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/robert-fowler/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
@@ -28412,6 +28947,16 @@
   </url>
   
   <url>
+    <loc>/tag/sars/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/sequence-alignment/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/shiqing-xu/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
@@ -28427,6 +28972,16 @@
   </url>
   
   <url>
+    <loc>/tag/spike-glycoprotein/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/spike-proteins/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/t-al-khlaiwi/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
@@ -28437,12 +28992,22 @@
   </url>
   
   <url>
+    <loc>/tag/therapeutic/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/tiansheng-zeng/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/tyler-lalonde/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/viral-vaccines/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -29647,6 +30212,11 @@
   </url>
   
   <url>
+    <loc>/tag/age-distribution/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/b-ye/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
@@ -29692,7 +30262,22 @@
   </url>
   
   <url>
+    <loc>/tag/comorbidity/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cough/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/32164424/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/dyspnea/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -29707,12 +30292,27 @@
   </url>
   
   <url>
+    <loc>/tag/family-health/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/fanfan-xing/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/fangfang-zhu/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/fever/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/genome/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -29732,12 +30332,22 @@
   </url>
   
   <url>
+    <loc>/tag/hospitalization/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/huaping-zhu/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/hui-xiang/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/intensive-care-units/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -29802,12 +30412,47 @@
   </url>
   
   <url>
+    <loc>/tag/myalgia/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/phylogeny/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/prognosis/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/r-ding/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/tag/radiography/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/respiratory-distress-syndrome/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/retrospective-studies/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/rongmeng-jiang/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/severe-acute-respiratory-syndrome/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -29837,6 +30482,21 @@
   </url>
   
   <url>
+    <loc>/tag/thoracic/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/time-factors/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/tomography/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/vivian-taam-wong/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
@@ -29852,7 +30512,17 @@
   </url>
   
   <url>
+    <loc>/tag/whole-genome-sequencing/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/x-y-li/</loc>
+    <lastmod>2020-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/x-ray-computed/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -32232,6 +32902,11 @@
   </url>
   
   <url>
+    <loc>/tag/child/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/chun-zhen-hua/</loc>
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
   </url>
@@ -32263,6 +32938,21 @@
   
   <url>
     <loc>/author/lan-fang-tang/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/new-coronavirus/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/recommendation/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/respiratory-infection/</loc>
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -32332,6 +33022,11 @@
   </url>
   
   <url>
+    <loc>/tag/2019-novel-coronavirus/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/32023681/</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -32343,6 +33038,26 @@
   
   <url>
     <loc>/publication/32023684/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/antiviral-therapy/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/management/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/neumonia/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/novel-coronavirus/</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
   </url>
   

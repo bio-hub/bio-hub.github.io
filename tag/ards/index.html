@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/ards/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/ards/">
   <meta property="og:title" content="ARDS | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-15T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-04-16T00:00:00&#43;00:00">
   
 
   
@@ -506,6 +544,18 @@
     
     
     <div>
+      <h2><a href="/publication/32290839/" >Why tocilizumab could be an effective treatment for severe COVID-19?</a></h2>
+      <div class="article-style">
+        
+          Journal: J Transl Med | PMID: 32290839 | doi: 10.1186/s12967-020-02339-3 | Type: Journal Article | Journal Article. A severe pneumonia-associated respiratory syndrome caused by a new coronavirus was identified in December 2019 (COVID-19 (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32293741/" >Analysis of 92 deceased patients with COVID-19.</a></h2>
       <div class="article-style">
         
@@ -566,16 +616,61 @@
     
     
     <div>
-      <h2><a href="/publication/32048163/" >Clinical and biochemical indexes from 2019-nCoV infected patients linked to viral loads and lung injury.</a></h2>
+      <h2><a href="/publication/32252338/" >Evidence that Vitamin D Supplementation Could Reduce Risk of Influenza and COVID-19 Infections and Deaths.</a></h2>
       <div class="article-style">
         
-          Journal: Sci China Life Sci | PMID: 32048163 | doi: 10.1007/s11427-020-1643-8 | Type: Journal Article. The outbreak of the 2019-nCoV infection began in December 2019 in Wuhan, Hubei province, and rapidly spread to many prov (...)
+          Journal: Nutrients | PMID: 32252338 | doi: 10.3390/nu12040988 | Type: Journal Article. The world is in the grip of the COVID-19 pandemic. Public health measures that can reduce the risk of infection and deat (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32267998/" >Tissue Plasminogen Activator (tPA) Treatment for COVID-19 Associated Acute Respiratory Distress Syndrome (ARDS): A Case Series.</a></h2>
+      <div class="article-style">
+        
+          Journal: J. Thromb. Haemost. | PMID: 32267998 | doi: 10.1111/jth.14828 | Type: News. A hallmark of severe COVID-19 is coagulopathy, with 71.4% of patients who die of COVID-19 meeting ISTH criteria for diss (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32221983/" >Organ-protective effect of angiotensin-converting enzyme 2 and its effect on the prognosis of COVID-19.</a></h2>
+      <div class="article-style">
+        
+          Journal: J. Med. Virol. | PMID: 32221983 | doi: 10.1002/jmv.25785 | Type: Journal Article. This article reviews the correlation between angiotensin-converting enzyme 2 (ACE2) and severe risk factors for coronavi (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32191830/" >COVID-19 - what should anaethesiologists and intensivists know about it?</a></h2>
+      <div class="article-style">
+        
+          Journal: Anaesthesiol Intensive Ther | PMID: 32191830 | doi: 10.5114/ait.2020.93756 | Type: Review. Over the past three months, the world has faced an unprecedented health hazard. The World Health Organization has announ (...)
         
       </div>
     </div>
   
 
   
+<nav>
+  <ul class="pagination justify-content-center">
+    
+    
+    <li class="page-item"><a class="page-link" href="/tag/ards/page/2/">&raquo;</a></li>
+    
+  </ul>
+</nav>
+
 
 </div>
 
@@ -700,8 +795,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

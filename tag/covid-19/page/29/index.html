@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/covid-19/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/covid-19/">
   <meta property="og:title" content="COVID-19 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,10 +544,10 @@
     
     
     <div>
-      <h2><a href="/publication/32141280/" >[Analysis of myocardial injury in patients with COVID-19 and association between concomitant cardiovascular diseases and severity of COVID-19].</a></h2>
+      <h2><a href="/publication/32080991/" >Viral Load Kinetics of SARS-CoV-2 Infection in First Two Patients in Korea.</a></h2>
       <div class="article-style">
         
-          Journal: Zhonghua Xin Xue Guan Bing Za Zhi | PMID: 32141280 | doi: 10.3760/cma.j.cn112148-20200225-00123 | Type: Journal Article. Objective: To evaluate the cardiovascular damage of patients with COVID-19, and determine the correlation of seru (...)
+          Journal: J. Korean Med. Sci. | PMID: 32080991 | doi: 10.3346/jkms.2020.35.e86 | Type: Journal Article. As of February 2020, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) outbreak started in China in December (...)
         
       </div>
     </div>
@@ -518,10 +556,10 @@
     
     
     <div>
-      <h2><a href="/publication/32133831/" >[Epidemiological analysis on a family cluster of COVID-19].</a></h2>
+      <h2><a href="/publication/32170559/" >Combination of western medicine and Chinese traditional patent medicine in treating a family case of COVID-19 in Wuhan.</a></h2>
       <div class="article-style">
         
-          Journal: Zhonghua Liu Xing Bing Xue Za Zhi | PMID: 32133831 | doi: 10.3760/cma.j.cn112338-20200221-00147 | Type: Journal Article. Objective: To understand the possible transmission route of a family cluster of COVID-19 in Zhengzhou and the pot (...)
+          Journal: Front Med | PMID: 32170559 | doi: 10.1007/s11684-020-0757-x | Type: Journal Article. In December 2019, an outbreak of novel Coronavirus (2019-nCoV) occurred in Wuhan, Hubei Province, China. By February 14, (...)
         
       </div>
     </div>
@@ -530,10 +568,10 @@
     
     
     <div>
-      <h2><a href="/publication/32133830/" >[Investigation and analysis on characteristics of a cluster of COVID-19 associated with exposure in a department store in Tianjin].</a></h2>
+      <h2><a href="/publication/32164400/" >[Epidemiological characteristics of confirmed COVID-19 cases in Tianjin].</a></h2>
       <div class="article-style">
         
-          Journal: Zhonghua Liu Xing Bing Xue Za Zhi | PMID: 32133830 | doi: 10.3760/cma.j.cn112338-20200221-00139 | Type: Letter. Objective: To describe the epidemiological characteristics of a cluster of COVID-19 cases reported in Baodi distr (...)
+          Journal: Zhonghua Liu Xing Bing Xue Za Zhi | PMID: 32164400 | doi: 10.3760/cma.j.cn112338-20200221-00146 | Type: Historical Article. Objective: To investigate the clinical and epidemiological characteristics of 135 confirmed cases of COVID-19 in (...)
         
       </div>
     </div>
@@ -542,10 +580,10 @@
     
     
     <div>
-      <h2><a href="/publication/32134681/" >CT Features of Coronavirus Disease 2019 (COVID-19) Pneumonia in 62 Patients in Wuhan, China.</a></h2>
+      <h2><a href="/publication/32164424/" >COVID-19: An Update on the Epidemiological, Clinical, Preventive and Therapeutic Evidence and Guidelines of Integrative Chinese-Western Medicine for the Management of 2019 Novel Coronavirus Disease.</a></h2>
       <div class="article-style">
         
-          Journal: AJR Am J Roentgenol | PMID: 32134681 | doi: 10.2214/AJR.20.22975 | Type: Journal Article. OBJECTIVE. The purpose of this study was to investigate 62 subjects in Wuhan, China, with laboratory-confirmed co (...)
+          Journal: Am. J. Chin. Med. | PMID: 32164424 | doi: 10.1142/S0192415X20500378 | Type: Editorial. As of 22 February 2020, more than 77662 cases of confirmed COVID-19 have been documented globally with over 2360 deaths. (...)
         
       </div>
     </div>
@@ -554,10 +592,10 @@
     
     
     <div>
-      <h2><a href="/publication/32129583/" >[Comparison of heart failure and 2019 novel coronavirus pneumonia in chest CT features and clinical characteristics].</a></h2>
+      <h2><a href="/publication/32168465/" >Epidemiology of 2019 Novel Coronavirus Disease-19 in Gansu Province, China, 2020.</a></h2>
       <div class="article-style">
         
-          Journal: Zhonghua Xin Xue Guan Bing Za Zhi | PMID: 32129583 | doi: 10.3760/cma.j.cn112148-20200218-00093 | Type: Letter. Objective: To identify the characteristics including clinical features and pulmonary computed tomography (CT) fea (...)
+          Journal: Emerging Infect. Dis. | PMID: 32168465 | doi: 10.3201/eid2606.200251 | Type: Journal Article. To determine the epidemiology of 2019 novel coronavirus disease (COVID-19) in a remote region of China, far from Wuhan, (...)
         
       </div>
     </div>
@@ -566,10 +604,10 @@
     
     
     <div>
-      <h2><a href="/publication/32125873/" >Relation Between Chest CT Findings and Clinical Conditions of Coronavirus Disease (COVID-19) Pneumonia: A Multicenter Study.</a></h2>
+      <h2><a href="/publication/32162081/" >Chest computed tomography in children with COVID-19 respiratory infection.</a></h2>
       <div class="article-style">
         
-          Journal: AJR Am J Roentgenol | PMID: 32125873 | doi: 10.2214/AJR.20.22976 | Type: Review. OBJECTIVE. The increasing number of cases of confirmed coronavirus disease (COVID-19) in China is striking. The p (...)
+          Journal: Pediatr Radiol | PMID: 32162081 | doi: 10.1007/s00247-020-04656-7 | Type: Journal Article. Infection with COVID-19 is currently rare in children. To describe chest CT findings in children with COVID-19. We studi (...)
         
       </div>
     </div>
@@ -578,10 +616,10 @@
     
     
     <div>
-      <h2><a href="/publication/32118391/" >[Cause analysis and treatment strategies of recurrence with novel coronavirus pneumonia (covid-19) patients after discharge from hospital].</a></h2>
+      <h2><a href="/publication/32141619/" >The transmission and diagnosis of 2019 novel coronavirus infection disease (COVID-19): A Chinese perspective.</a></h2>
       <div class="article-style">
         
-          Journal: Zhonghua Jie He He Hu Xi Za Zhi | PMID: 32118391 | doi: 10.3760/cma.j.cn112147-20200229-00219 | Type: Comment. With a large number of COVID-19 patients discharging from hospital, some had showed re-fever and positive nucleic acid t (...)
+          Journal: J. Med. Virol. | PMID: 32141619 | doi: 10.1002/jmv.25749 | Type: Journal Article. 2019 novel coronavirus (SARS-CoV-2), which originated in Wuhan, China, has attracted the world's attention over the last (...)
         
       </div>
     </div>
@@ -590,10 +628,10 @@
     
     
     <div>
-      <h2><a href="/publication/32120458/" >[Clinical characteristics and outcomes of 112 cardiovascular disease patients infected by 2019-nCoV].</a></h2>
+      <h2><a href="/publication/32149484/" >[Epidemiological investigation of a family clustering of COVID-19].</a></h2>
       <div class="article-style">
         
-          Journal: Zhonghua Xin Xue Guan Bing Za Zhi | PMID: 32120458 | doi: 10.3760/cma.j.cn112148-20200220-00105 | Type: Journal Article. Objective: To explore the clinical characteristics and prognosis of the new coronavirus 2019-nCoV patients combin (...)
+          Journal: Zhonghua Liu Xing Bing Xue Za Zhi | PMID: 32149484 | doi: 10.3760/cma.j.cn112338-20200223-00152 | Type: Journal Article. Objective: To investigate the epidemiological characteristics of a family clustering of COVID-19. Methods: (...)
         
       </div>
     </div>
@@ -602,10 +640,10 @@
     
     
     <div>
-      <h2><a href="/publication/32118390/" >[Epidemiological characteristics of novel coronavirus pneumonia in Henan].</a></h2>
+      <h2><a href="/publication/32145719/" >[Screening and management of asymptomatic infection of corona virus disease 2019 (COVID-19)].</a></h2>
       <div class="article-style">
         
-          Journal: Zhonghua Jie He He Hu Xi Za Zhi | PMID: 32118390 | doi: 10.3760/cma.j.cn112147-20200222-00148 | Type: Editorial. Objective: To study the epidemiological characteristics of COVID-19 in Henan Province. Methods: An epidemi (...)
+          Journal: Zhonghua Yu Fang Yi Xue Za Zhi | PMID: 32145719 | doi: 10.3760/cma.j.cn112150-20200229-00220 | Type: Journal Article. To date, the controlling of outbreak of corona virus disease 2019 (COVID-19) has entered into a critical period in China (...)
         
       </div>
     </div>
@@ -614,10 +652,10 @@
     
     
     <div>
-      <h2><a href="/publication/32110742/" >Real-time forecasts of the COVID-19 epidemic in China from February 5th to February 24th, 2020.</a></h2>
+      <h2><a href="/publication/32146694/" >Clinical characteristics of 24 asymptomatic infections with COVID-19 screened among close contacts in Nanjing, China.</a></h2>
       <div class="article-style">
         
-          Journal: Infect Dis Model | PMID: 32110742 | doi: 10.1016/j.idm.2020.02.002 | Type: Journal Article. The initial cluster of severe pneumonia cases that triggered the COVID-19 epidemic was identified in Wuhan, China in Dec (...)
+          Journal: Sci China Life Sci | PMID: 32146694 | doi: 10.1007/s11427-020-1661-4 | Type: Journal Article. Previous studies have showed clinical characteristics of patients with the 2019 novel coronavirus disease (COVID-19) and (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

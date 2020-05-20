@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/2019-ncov/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/2019-ncov/">
   <meta property="og:title" content="2019-nCoV | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-16T00:00:00&#43;00:00">
@@ -506,6 +544,18 @@
     
     
     <div>
+      <h2><a href="/publication/32100486/" >2019 Novel Coronavirus (COVID-19) Pneumonia: Serial Computed Tomography Findings.</a></h2>
+      <div class="article-style">
+        
+          Journal: Korean J Radiol | PMID: 32100486 | doi: 10.3348/kjr.2020.0112 | Type: Review. From December 2019, Coronavirus disease 2019 (COVID-19) pneumonia (formerly known as the 2019 novel Coronavirus [2019-nC (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32194944/" >Prediction of the SARS-CoV-2 (2019-nCoV) 3C-like protease (3CL &lt;sup&gt;pro&lt;/sup&gt;) structure: virtual screening reveals velpatasvir, ledipasvir, and other drug repurposing candidates.</a></h2>
       <div class="article-style">
         
@@ -606,18 +656,6 @@
       <div class="article-style">
         
           Journal: Biosci Trends | PMID: 32037389 | doi: 10.5582/bst.2020.01030 | Type: Journal Article. Pneumonia associated with the 2019 novel coronavirus (2019-nCoV) is continuously and rapidly circulating at present. No (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32108351/" >Clinical characteristics of hospitalized patients with SARS-CoV-2 infection: A single arm meta-analysis.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Med. Virol. | PMID: 32108351 | doi: 10.1002/jmv.25735 | Type: Journal Article. We aim to summarize reliable evidence of evidence-based medicine for the treatment and prevention of the Severe Acute Re (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

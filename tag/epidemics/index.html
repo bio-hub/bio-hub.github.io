@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/epidemics/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/epidemics/">
   <meta property="og:title" content="Epidemics | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-13T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-04-01T00:00:00&#43;00:00">
   
 
   
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -506,58 +566,10 @@
     
     
     <div>
-      <h2><a href="/publication/32175797/" >Can the Coronavirus Disease 2019 (COVID-19) Affect the Eyes? A Review of Coronaviruses and Ocular Implications in Humans and Animals.</a></h2>
-      <div class="article-style">
-        
-          Journal: Ocul. Immunol. Inflamm. | PMID: 32175797 | doi: 10.1080/09273948.2020.1738501 | Type: Letter. In December 2019, a novel coronavirus (CoV) epidemic, caused by the severe acute respiratory syndrome coronavirus - 2 (S (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32145185/" >Middle East respiratory syndrome.</a></h2>
-      <div class="article-style">
-        
-          Journal: Lancet | PMID: 32145185 | doi: 10.1016/S0140-6736(19)33221-0 | Type: Journal Article. The Middle East respiratory syndrome coronavirus (MERS-CoV) is a lethal zoonotic pathogen that was first identified in h (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32266987/" >Corticosteroid treatment of patients with coronavirus disease 2019 (COVID-19).</a></h2>
-      <div class="article-style">
-        
-          Journal: Med. J. Aust. | PMID: 32266987 | doi: 10.5694/mja2.50577 | Type: Journal Article. To assess the efficacy of corticosteroid treatment of patients with coronavirus disease 2019 (COVID-19). Observational s (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
       <h2><a href="/publication/31995857/" >Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia.</a></h2>
       <div class="article-style">
         
           Journal: N. Engl. J. Med. | PMID: 31995857 | doi: 10.1056/NEJMoa2001316 | Type: Journal Article. The initial cases of novel coronavirus (2019-nCoV)-infected pneumonia (NCIP) occurred in Wuhan, Hubei Province, China, i (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32210236/" >Epidemiological data from the COVID-19 outbreak, real-time case information.</a></h2>
-      <div class="article-style">
-        
-          Journal: Sci Data | PMID: 32210236 | doi: 10.1038/s41597-020-0448-0 | Type: Journal Article. Cases of a novel coronavirus were first reported in Wuhan, Hubei province, China, in December 2019 and have since spread (...)
         
       </div>
     </div>
@@ -688,8 +700,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

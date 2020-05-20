@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/coronavirus-disease-2019/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/coronavirus-disease-2019/">
   <meta property="og:title" content="Coronavirus disease 2019 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-16T00:00:00&#43;00:00">
@@ -506,6 +544,102 @@
     
     
     <div>
+      <h2><a href="/publication/32222703/" >COVID-19 Infection in a Patient with End-Stage Kidney Disease.</a></h2>
+      <div class="article-style">
+        
+          Journal: Nephron | PMID: 32222703 | doi: 10.1159/000507261 | Type: Journal Article. Since December 2019, the epidemic of coronavirus disease 2019 (COVID-19) has spread very rapidly in China and worldwide. (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32220112/" >Anticoagulant treatment is associated with decreased mortality in severe coronavirus disease 2019 patients with coagulopathy.</a></h2>
+      <div class="article-style">
+        
+          Journal: J. Thromb. Haemost. | PMID: 32220112 | doi: 10.1111/jth.14817 | Type: Journal Article. A relatively high mortality of severe coronavirus disease 2019 (COVID-19) is worrying, the application of heparin in COV (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32202256/" >Lopinavir/ritonavir combination therapy amongst symptomatic coronavirus disease 2019 patients in India: Protocol for restricted public health emergency use.</a></h2>
+      <div class="article-style">
+        
+          Journal: Indian J. Med. Res. | PMID: 32202256 | doi: 10.4103/ijmr.IJMR_502_20 | Type: Editorial. As of February 29, 2020, more than 85,000 cases of coronavirus disease 2019 (COVID-19) have been reported from China and (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32188819/" >Analysis of COVID-19 infection spread in Japan based on stochastic transition model.</a></h2>
+      <div class="article-style">
+        
+          Journal: Biosci Trends | PMID: 32188819 | doi: 10.5582/bst.2020.01482 | Type: Comment. To assess the effectiveness of response strategies of avoiding large gatherings or crowded areas and to predict the spre (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32169119/" >The origin, transmission and clinical therapies on coronavirus disease 2019 (COVID-19) outbreak - an update on the status.</a></h2>
+      <div class="article-style">
+        
+          Journal: Mil Med Res | PMID: 32169119 | doi: 10.1186/s40779-020-00240-0 | Type: Journal Article. An acute respiratory disease, caused by a novel coronavirus (SARS-CoV-2, previously known as 2019-nCoV), the coronavirus (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32186171/" >[Using the big data ofinternet to understand coronavirus disease 2019&#39;s symptom characteristics: a big data study].</a></h2>
+      <div class="article-style">
+        
+          Journal: Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Za Zhi | PMID: 32186171 | doi: 10.3760/cma.j.cn115330-20200225-00128 | Type: Journal Article. Objective: Analyzing the symptom characteristics of Coronavirus Disease 2019(COVID-19) to improve its prevention. (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32172669/" >Diagnosis and clinical management of severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2) infection: an operational recommendation of Peking Union Medical College Hospital (V2.0).</a></h2>
+      <div class="article-style">
+        
+          Journal: Emerg Microbes Infect | PMID: 32172669 | doi: 10.1080/22221751.2020.1735265 | Type: Journal Article. Since December 2019, China has been experiencing an outbreak of a new infectious disease caused by severe acute respirat (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32174128/" >Clinical Features and Chest CT Manifestations of Coronavirus Disease 2019 (COVID-19) in a Single-Center Study in Shanghai, China.</a></h2>
+      <div class="article-style">
+        
+          Journal: AJR Am J Roentgenol | PMID: 32174128 | doi: 10.2214/AJR.20.22959 | Type: Journal Article. OBJECTIVE. Confronting the new coronavirus infection known as coronavirus disease 2019 (COVID-19) is challenging (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32153167/" >[The differential diagnosis for novel coronavirus pneumonia and similar lung diseases in general hospitals].</a></h2>
       <div class="article-style">
         
@@ -526,18 +660,6 @@
       </div>
     </div>
   
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32111113/" >[The keypoints in treatment of the critical coronavirus disease 2019 patient].</a></h2>
-      <div class="article-style">
-        
-          Journal: Zhonghua Jie He He Hu Xi Za Zhi | PMID: 32111113 | doi: 10.3760/cma.j.cn112147-20200224-00159 | Type: Journal Article. The treatment of critically ill patients with coronavirus disease 2019(COVID-19) faces compelling challenges. In this is (...)
-        
-      </div>
-    </div>
-  
 
   
 <nav>
@@ -545,6 +667,8 @@
     
     <li class="page-item"><a class="page-link" href="/tag/coronavirus-disease-2019/page/3/">&laquo;</a></li>
     
+    
+    <li class="page-item"><a class="page-link" href="/tag/coronavirus-disease-2019/page/5/">&raquo;</a></li>
     
   </ul>
 </nav>
@@ -673,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

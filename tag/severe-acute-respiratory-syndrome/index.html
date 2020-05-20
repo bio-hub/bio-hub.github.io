@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/severe-acute-respiratory-syndrome/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/severe-acute-respiratory-syndrome/">
   <meta property="og:title" content="Severe Acute Respiratory Syndrome | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-16T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-03-13T00:00:00&#43;00:00">
   
 
   
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -506,133 +566,16 @@
     
     
     <div>
-      <h2><a href="/publication/32229322/" >Diagnosis of the Coronavirus disease (COVID-19): rRT-PCR or CT?</a></h2>
+      <h2><a href="/publication/32007143/" >Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.</a></h2>
       <div class="article-style">
         
-          Journal: Eur J Radiol | PMID: 32229322 | doi: 10.1016/j.ejrad.2020.108961 | Type: Review. To evaluate the diagnostic value of computed tomography (CT) and real-time reverse-transcriptase-polymerase chain reacti (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32257173/" >An evidence-based framework for priority clinical research questions for COVID-19.</a></h2>
-      <div class="article-style">
-        
-          Journal: J Glob Health | PMID: 32257173 | doi: 10.7189/jogh.10-011001 | Type: Journal Article. On 31 December, 2019, the World Health Organization China Country Office was informed of cases of pneumonia of unknown a (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32105680/" >Coronavirus Disease 2019 (COVID-19) and pregnancy: what obstetricians need to know.</a></h2>
-      <div class="article-style">
-        
-          Journal: Am. J. Obstet. Gynecol. | PMID: 32105680 | doi: 10.1016/j.ajog.2020.02.017 | Type: Journal Article. Coronavirus disease 2019 is an emerging disease with a rapid increase in cases and deaths since its first identification (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32233641/" >Network pharmacology-based analysis of the role of traditional Chinese herbal medicines in the treatment of COVID-19.</a></h2>
-      <div class="article-style">
-        
-          Journal: Ann Palliat Med | PMID: 32233641 | doi: 10.21037/apm.2020.03.27 | Type: Journal Article. The novel coronavirus named COVID-19, which originated in Wuhan, China, has spread to many countries around the world. C (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32268719/" >Intubation and mechanical ventilation of patients with COVID-19: what should we tell them?</a></h2>
-      <div class="article-style">
-        
-          Journal: Monaldi Arch Chest Dis | PMID: 32268719 | doi: 10.4081/monaldi.2020.1296 | Type: Journal Article. Severe COVID-19 illness is characterised by the development of Acute Respiratory Distress Syndrome (ARDS), for which the (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32234115/" >Rapid assessment of regional SARS-CoV-2 community transmission through a convenience sample of healthcare workers, the Netherlands, March 2020.</a></h2>
-      <div class="article-style">
-        
-          Journal: Euro Surveill. | PMID: 32234115 | doi: 10.2807/1560-7917.ES.2020.25.12.2000334 | Type: Journal Article. To rapidly assess possible community transmission in Noord-Brabant, the Netherlands, healthcare workers (HCW) with mild (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32272173/" >Coronavirus membrane fusion mechanism offers as a potential target for antiviral development.</a></h2>
-      <div class="article-style">
-        
-          Journal: Antiviral Res. | PMID: 32272173 | doi: 10.1016/j.antiviral.2020.104792 | Type: Journal Article. The coronavirus disease 2019 (COVID-19) pandemic has focused attention on the need to develop effective therapies agains (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32235575/" >The First 75 Days of Novel Coronavirus (SARS-CoV-2) Outbreak: Recent Advances, Prevention, and Treatment.</a></h2>
-      <div class="article-style">
-        
-          Journal: Int J Environ Res Public Health | PMID: 32235575 | doi: 10.3390/ijerph17072323 | Type: Journal Article. The recent severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2, previously known as 2019-nCoV) outbreak has engu (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32196410/" >Hypothesis for potential pathogenesis of SARS-CoV-2 infection-a review of immune changes in patients with viral pneumonia.</a></h2>
-      <div class="article-style">
-        
-          Journal: Emerg Microbes Infect | PMID: 32196410 | doi: 10.1080/22221751.2020.1746199 | Type: Editorial. Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 ( (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32196430/" >Laboratory diagnosis of emerging human coronavirus infections - the state of the art.</a></h2>
-      <div class="article-style">
-        
-          Journal: Emerg Microbes Infect | PMID: 32196430 | doi: 10.1080/22221751.2020.1745095 | Type: Journal Article. The three unprecedented outbreaks of emerging human coronavirus (HCoV) infections at the beginning of the twenty-first c (...)
+          Journal: Lancet | PMID: 32007143 | doi: 10.1016/S0140-6736(20)30211-7 | Type: Journal Article. In December, 2019, a pneumonia associated with the 2019 novel coronavirus (2019-nCoV) emerged in Wuhan, China. We aimed (...)
         
       </div>
     </div>
   
 
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    
-    <li class="page-item"><a class="page-link" href="/tag/severe-acute-respiratory-syndrome/page/2/">&raquo;</a></li>
-    
-  </ul>
-</nav>
-
 
 </div>
 
@@ -757,8 +700,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

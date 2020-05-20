@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/covid-19/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/covid-19/">
   <meta property="og:title" content="COVID-19 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,6 +544,102 @@
     
     
     <div>
+      <h2><a href="/publication/32221523/" >Quantitative Detection and Viral Load Analysis of SARS-CoV-2 in Infected Patients.</a></h2>
+      <div class="article-style">
+        
+          Journal: Clin. Infect. Dis. | PMID: 32221523 | doi: 10.1093/cid/ciaa345 | Type: Journal Article. Coronavirus disease 2019 (COVID-19) has become a public health emergency. The widely used reverse transcription PCR (RT- (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32165854/" >Coronavirus disease-2019: is fever an adequate screening for the returning travelers?</a></h2>
+      <div class="article-style">
+        
+          Journal: Trop Med Health | PMID: 32165854 | doi: 10.1186/s41182-020-00201-2 | Type: Journal Article. On Thursday, 30 January 2020, World Health Organization declared Coronavirus disease-2019 (COVID-2019) a Public Health E (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32220033/" >Early antiviral treatment contributes to alleviate the severity and improve the prognosis of patients with novel coronavirus disease (COVID-19).</a></h2>
+      <div class="article-style">
+        
+          Journal: J. Intern. Med. | PMID: 32220033 | doi: 10.1111/joim.13063 | Type: Journal Article. At present, the severity of patients infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32213269/" >[Analysis on cluster cases of COVID-19 in Tianjin].</a></h2>
+      <div class="article-style">
+        
+          Journal: Zhonghua Liu Xing Bing Xue Za Zhi | PMID: 32213269 | doi: 10.3760/cma.j.cn112338-20200225-00165 | Type: Editorial. Objective: To understand the characteristics of clusters of COVID-19 cases in Tianjin, and provide epidemiologica (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32213270/" >[Epidemiological analysis on 1 052 cases of COVID-19 in epidemic clusters].</a></h2>
+      <div class="article-style">
+        
+          Journal: Zhonghua Liu Xing Bing Xue Za Zhi | PMID: 32213270 | doi: 10.3760/cma.j.cn112338-20200301-00223 | Type: Comment. Objective: To understand the epidemiological characteristics of the cases of COVID-19 epidemic clusters, and expl (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32215956/" >Covid-19 and the Digestive System.</a></h2>
+      <div class="article-style">
+        
+          Journal: J. Gastroenterol. Hepatol. | PMID: 32215956 | doi: 10.1111/jgh.15047 | Type: Letter. The novel coronavirus disease (Covid-19) is currently causing a major pandemic. It is caused by the severe acute respira (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32215622/" >Simulation of the clinical and pathological manifestations of Coronavirus Disease 2019 (COVID-19) in golden Syrian hamster model: implications for disease pathogenesis and transmissibility.</a></h2>
+      <div class="article-style">
+        
+          Journal: Clin. Infect. Dis. | PMID: 32215622 | doi: 10.1093/cid/ciaa325 | Type: Editorial. A physiological small animal model that resembles COVID-19 with low mortality is lacking. Molecular docking on the bindi (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32191830/" >COVID-19 - what should anaethesiologists and intensivists know about it?</a></h2>
+      <div class="article-style">
+        
+          Journal: Anaesthesiol Intensive Ther | PMID: 32191830 | doi: 10.5114/ait.2020.93756 | Type: Review. Over the past three months, the world has faced an unprecedented health hazard. The World Health Organization has announ (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32211755/" >Epidemiological and Clinical Predictors of COVID-19.</a></h2>
       <div class="article-style">
         
@@ -522,102 +656,6 @@
       <div class="article-style">
         
           Journal: Emerg Microbes Infect | PMID: 32207377 | doi: 10.1080/22221751.2020.1743767 | Type: Letter. Pseudoviruses are useful virological tools because of their safety and versatility, especially for emerging and re-emerg (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32211765/" >Inflammatory bowel disease care in the COVID-19 pandemic era: the Humanitas, Milan experience.</a></h2>
-      <div class="article-style">
-        
-          Journal: J Crohns Colitis | PMID: 32211765 | doi: 10.1093/ecco-jcc/jjaa058 | Type: Comment. The outbreak of the COVID-19 caused by Coronavirus SARS-CoV2, is rapidly spreading worldwide. This is the first pandemic (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32208987/" >Renin-Angiotensin System Blockers and the COVID-19 Pandemic: At Present There Is No Evidence to Abandon Renin-Angiotensin System Blockers.</a></h2>
-      <div class="article-style">
-        
-          Journal: Hypertension | PMID: 32208987 | doi: 10.1161/HYPERTENSIONAHA.120.15082 | Type: Journal Article. During the spread of the severe acute respiratory syndrome coronavirus-2, some reports of data still emerging and in nee (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32100486/" >2019 Novel Coronavirus (COVID-19) Pneumonia: Serial Computed Tomography Findings.</a></h2>
-      <div class="article-style">
-        
-          Journal: Korean J Radiol | PMID: 32100486 | doi: 10.3348/kjr.2020.0112 | Type: Review. From December 2019, Coronavirus disease 2019 (COVID-19) pneumonia (formerly known as the 2019 novel Coronavirus [2019-nC (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32207032/" >Clinical Characteristics of Children with Coronavirus Disease 2019 in Hubei, China.</a></h2>
-      <div class="article-style">
-        
-          Journal: Curr Med Sci | PMID: 32207032 | doi: 10.1007/s11596-020-2172-6 | Type: Journal Article. Since December 2019, COVID-19 has occurred unexpectedly and emerged as a health problem worldwide. Despite the rapidly i (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32194944/" >Prediction of the SARS-CoV-2 (2019-nCoV) 3C-like protease (3CL &lt;sup&gt;pro&lt;/sup&gt;) structure: virtual screening reveals velpatasvir, ledipasvir, and other drug repurposing candidates.</a></h2>
-      <div class="article-style">
-        
-          Journal: F1000Res | PMID: 32194944 | doi: 10.12688/f1000research.22457.1 | Type: Journal Article. We prepared the three-dimensional model of the SARS-CoV-2 (aka 2019-nCoV) 3C-like protease (3CL pro) using th (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32166607/" >A Review of Coronavirus Disease-2019 (COVID-19).</a></h2>
-      <div class="article-style">
-        
-          Journal: Indian J Pediatr | PMID: 32166607 | doi: 10.1007/s12098-020-03263-6 | Type: Review. There is a new public health crises threatening the world with the emergence and spread of 2019 novel coronavirus (2019- (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32202256/" >Lopinavir/ritonavir combination therapy amongst symptomatic coronavirus disease 2019 patients in India: Protocol for restricted public health emergency use.</a></h2>
-      <div class="article-style">
-        
-          Journal: Indian J. Med. Res. | PMID: 32202256 | doi: 10.4103/ijmr.IJMR_502_20 | Type: Editorial. As of February 29, 2020, more than 85,000 cases of coronavirus disease 2019 (COVID-19) have been reported from China and (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32198915/" >[When COVID-19 encounters interstitial lung disease: challenges and management].</a></h2>
-      <div class="article-style">
-        
-          Journal: Zhonghua Jie He He Hu Xi Za Zhi | PMID: 32198915 | doi: 10.3760/cma.j.cn112147-20200315-00339 | Type: Journal Article. In December 2019, a new type of coronavirus pneumonia (COVID-19) emerged in Wuhan, Hubei, and spread rapidly to China an (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

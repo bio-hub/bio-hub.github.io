@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/covid-19/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/covid-19/">
   <meta property="og:title" content="COVID-19 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,6 +544,90 @@
     
     
     <div>
+      <h2><a href="/publication/32246822/" >Potential false-negative nucleic acid testing results for Severe Acute Respiratory Syndrome Coronavirus 2 from thermal inactivation of samples with low viral loads.</a></h2>
+      <div class="article-style">
+        
+          Journal: Clin. Chem. | PMID: 32246822 | doi: 10.1093/clinchem/hvaa091 | Type: Editorial. Corona Virus Disease-2019 (COVID-19) has spread widely throughout the world since the end of 2019. Nucleic acid testing (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32232217/" >Risks of Novel Coronavirus Disease (COVID-19) in Pregnancy; a Narrative Review.</a></h2>
+      <div class="article-style">
+        
+          Journal: Arch Acad Emerg Med | PMID: 32232217 | doi: NA | Type: Letter. The outbreak of the new Coronavirus in China in December 2019 and subsequently in various countries around the world has (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32088847/" >&lt;sup&gt;18&lt;/sup&gt;F-FDG PET/CT findings of COVID-19: a series of four highly suspected cases.</a></h2>
+      <div class="article-style">
+        
+          Journal: Eur. J. Nucl. Med. Mol. Imaging | PMID: 32088847 | doi: 10.1007/s00259-020-04734-w | Type: Historical Article. The aim of this case series is to illustrate the 18F-FDG PET/CT findings of patients with acute respiratory d (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32244260/" >[Epidemiological characteristics of COVID-19 in Shaanxi province].</a></h2>
+      <div class="article-style">
+        
+          Journal: Zhonghua Liu Xing Bing Xue Za Zhi | PMID: 32244260 | doi: 10.3760/cma.j.cn112338-20200225-00172 | Type: Journal Article. Objective: To understand the incidence trend and epidemiological characteristics of COVID-19 in Shaanxi province. (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32241316/" >Case Report on Early Diagnosis of COVID-19.</a></h2>
+      <div class="article-style">
+        
+          Journal: Disaster Med Public Health Prep | PMID: 32241316 | doi: 10.1017/dmp.2020.66 | Type: Journal Article. Coronavirus Disease 2019 (COVID-19) outbreak in Wuhan, China, spread rapidly throughout China, and gradually to some cou (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32242738/" >Clinical Features of 85 Fatal Cases of COVID-19 from Wuhan: A Retrospective Observational Study.</a></h2>
+      <div class="article-style">
+        
+          Journal: Am. J. Respir. Crit. Care Med. | PMID: 32242738 | doi: 10.1164/rccm.202003-0543OC | Type: News. The global death toll from COVID-19 virus exceeds 21000. The risk factors for death were attributed to advanced age and (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32226295/" >COVID-19: what has been learned and to be learned about the novel coronavirus disease.</a></h2>
+      <div class="article-style">
+        
+          Journal: Int. J. Biol. Sci. | PMID: 32226295 | doi: 10.7150/ijbs.45134 | Type: Journal Article. The outbreak of Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome (SARS) coronavirus 2 (S (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32161940/" >Dysregulation of immune response in patients with COVID-19 in Wuhan, China.</a></h2>
       <div class="article-style">
         
@@ -534,90 +656,6 @@
       <div class="article-style">
         
           Journal: Eur. J. Nucl. Med. Mol. Imaging | PMID: 32107577 | doi: 10.1007/s00259-020-04735-9 | Type: Journal Article. The pneumonia caused by the 2019 novel coronavirus (SARS-CoV-2, also called 2019-nCoV) recently break out in Wuhan, Chin (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32226289/" >Perspectives on therapeutic neutralizing antibodies against the Novel Coronavirus SARS-CoV-2.</a></h2>
-      <div class="article-style">
-        
-          Journal: Int. J. Biol. Sci. | PMID: 32226289 | doi: 10.7150/ijbs.45123 | Type: Editorial. A newly identified novel coronavirus (SARS-CoV-2) is causing pneumonia-associated respiratory syndrome across the world. (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32226285/" >SARS-CoV-2: an Emerging Coronavirus that Causes a Global Threat.</a></h2>
-      <div class="article-style">
-        
-          Journal: Int. J. Biol. Sci. | PMID: 32226285 | doi: 10.7150/ijbs.45053 | Type: Journal Article. An ongoing outbreak of pneumonia caused by a novel coronavirus, currently designated as the severe acute respiratory syn (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32220178/" >[Biological Product Development Strategies for Prevention and Treatment of Coronavirus Disease 2019].</a></h2>
-      <div class="article-style">
-        
-          Journal: Sichuan Da Xue Xue Bao Yi Xue Ban | PMID: 32220178 | doi: 10.12182/20200360506 | Type: Review. Coronavirus disease 2019 (COVID-19) caused by the novel coronavirus, also known as severe acute respiratory syndrome cor (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32234127/" >[Epidemiological characteristics of COVID-19 in Gansu province].</a></h2>
-      <div class="article-style">
-        
-          Journal: Zhonghua Liu Xing Bing Xue Za Zhi | PMID: 32234127 | doi: 10.3760/cma.j.cn112338-20200229-00216 | Type: Journal Article. Objective: To understand the epidemiological characteristics of COVID-19 cases in different epidemic stages in Ga (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32234128/" >[Investigation of an epidemic cluster caused by COVID⁃19 cases in incubation period in Shanghai].</a></h2>
-      <div class="article-style">
-        
-          Journal: Zhonghua Liu Xing Bing Xue Za Zhi | PMID: 32234128 | doi: 10.3760/cma.j.cn112338-20200302-00236 | Type: Editorial. Objective: To analyze the epidemiological characteristics of a cluster of 5 confirmed COVID⁃19 cases related with (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32220179/" >[The Management of Blood Glucose Should be Emphasized in the Treatment of COVID-19].</a></h2>
-      <div class="article-style">
-        
-          Journal: Sichuan Da Xue Xue Bao Yi Xue Ban | PMID: 32220179 | doi: 10.12182/20200360606 | Type: Journal Article. Based on the higher mortality and the higher proportion of critically ill adults in coronavirus disease 2019 (COVID-19) (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32226695/" >Acetazolamide, Nifedipine and Phosphodiesterase Inhibitors: Rationale for Their Utilization as Adjunctive Countermeasures in the Treatment of Coronavirus Disease 2019 (COVID-19).</a></h2>
-      <div class="article-style">
-        
-          Journal: Cureus | PMID: 32226695 | doi: 10.7759/cureus.7343 | Type: Journal Article. Effective treatments for Coronavirus Disease 2019 (COVID-19) outbreak are urgently needed. While anti-viral approaches a (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

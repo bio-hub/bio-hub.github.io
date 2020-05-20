@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/sars-cov-2/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/sars-cov-2/">
   <meta property="og:title" content="SARS-CoV-2 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,6 +544,18 @@
     
     
     <div>
+      <h2><a href="/publication/32274341/" >Characteristics and Mechanism of Liver Injury in 2019 Coronavirus Disease.</a></h2>
+      <div class="article-style">
+        
+          Journal: J Clin Transl Hepatol | PMID: 32274341 | doi: 10.14218/JCTH.2020.00019 | Type: Review. An outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection (2019 coronavirus disease, COVID-1 (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32274342/" >COVID-19 and Liver Dysfunction: Current Insights and Emergent Therapeutic Strategies.</a></h2>
       <div class="article-style">
         
@@ -534,18 +584,6 @@
       <div class="article-style">
         
           Journal: Pharmacotherapy | PMID: 32281114 | doi: 10.1002/phar.2403 | Type: Journal Article. A case of late initiation of remdesivir antiviral therapy in the successful treatment of a patient with severe acute res (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32278065/" >Diarrhea during COVID-19 infection: pathogenesis, epidemiology, prevention and management.</a></h2>
-      <div class="article-style">
-        
-          Journal: Clin. Gastroenterol. Hepatol. | PMID: 32278065 | doi: 10.1016/j.cgh.2020.04.001 | Type: Letter. The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2 / COVID-19) pandemic is a worldwide emergency. An increa (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

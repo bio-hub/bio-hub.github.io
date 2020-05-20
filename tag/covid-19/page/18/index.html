@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/covid-19/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/covid-19/">
   <meta property="og:title" content="COVID-19 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,6 +544,54 @@
     
     
     <div>
+      <h2><a href="/publication/32255761/" >High Contagiousness and Rapid Spread of Severe Acute Respiratory Syndrome Coronavirus 2.</a></h2>
+      <div class="article-style">
+        
+          Journal: Emerging Infect. Dis. | PMID: 32255761 | doi: 10.3201/eid2607.200282 | Type: Journal Article. Severe acute respiratory syndrome coronavirus 2 is the causative agent of the 2019 novel coronavirus disease pandemic. I (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32196410/" >Hypothesis for potential pathogenesis of SARS-CoV-2 infection-a review of immune changes in patients with viral pneumonia.</a></h2>
+      <div class="article-style">
+        
+          Journal: Emerg Microbes Infect | PMID: 32196410 | doi: 10.1080/22221751.2020.1746199 | Type: Editorial. Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 ( (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32247050/" >Insight into 2019 novel coronavirus - an updated intrim review and lessons from SARS-CoV and MERS-CoV.</a></h2>
+      <div class="article-style">
+        
+          Journal: Int. J. Infect. Dis. | PMID: 32247050 | doi: 10.1016/j.ijid.2020.03.071 | Type: Journal Article. The rapid spread of the coronavirus disease 2019 (COVID-19), caused by a zoonotic beta-coronavirus entitled 2019 novel c (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32196430/" >Laboratory diagnosis of emerging human coronavirus infections - the state of the art.</a></h2>
+      <div class="article-style">
+        
+          Journal: Emerg Microbes Infect | PMID: 32196430 | doi: 10.1080/22221751.2020.1745095 | Type: Journal Article. The three unprecedented outbreaks of emerging human coronavirus (HCoV) infections at the beginning of the twenty-first c (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32259279/" >Maternal and Perinatal Outcomes with COVID-19: a systematic review of 108 pregnancies.</a></h2>
       <div class="article-style">
         
@@ -522,6 +608,18 @@
       <div class="article-style">
         
           Journal: Eur Arch Otorhinolaryngol | PMID: 32253535 | doi: 10.1007/s00405-020-05965-1 | Type: Journal Article. To investigate the occurrence of olfactory and gustatory dysfunctions in patients with laboratory-confirmed COVID-19 inf (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32208917/" >The different clinical characteristics of corona virus disease cases between children and their families in China - the character of children with COVID-19.</a></h2>
+      <div class="article-style">
+        
+          Journal: Emerg Microbes Infect | PMID: 32208917 | doi: 10.1080/22221751.2020.1744483 | Type: Journal Article. This study aims to analyze the different clinical characteristics between children and their families infected with seve (...)
         
       </div>
     </div>
@@ -558,66 +656,6 @@
       <div class="article-style">
         
           Journal: J. Infect. | PMID: 32109443 | doi: 10.1016/j.jinf.2020.02.017 | Type: Journal Article. To investigate the clinical and imaging characteristics of computed tomography (CT) in novel coronavirus pneumonia (NCP) (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32112884/" >Clinical characteristics and imaging manifestations of the 2019 novel coronavirus disease (COVID-19):A multi-center study in Wenzhou city, Zhejiang, China.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Infect. | PMID: 32112884 | doi: 10.1016/j.jinf.2020.02.016 | Type: Letter. Little is known about COVID-19 outside Hubei. The aim of this paper was to describe the clinical characteristics and ima (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32242348/" >Clinical Course and Outcomes of Patients with Severe Acute Respiratory Syndrome Coronavirus 2 Infection: a Preliminary Report of the First 28 Patients from the Korean Cohort Study on COVID-19.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Korean Med. Sci. | PMID: 32242348 | doi: 10.3346/jkms.2020.35.e142 | Type: Journal Article. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)-infected pneumonia emerged in Wuhan, China in December 2019 (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32251798/" >Diagnostic value and dynamic variance of serum antibody in coronavirus disease 2019.</a></h2>
-      <div class="article-style">
-        
-          Journal: Int. J. Infect. Dis. | PMID: 32251798 | doi: 10.1016/j.ijid.2020.03.065 | Type: Journal Article. To investigate the diagnostic value of serological test and dynamitic variance of serum antibody in coronavirus disease (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32245264/" >Emetine, Ipecac, Ipecac Alkaloids and Analogues as Potential Antiviral Agents for Coronaviruses.</a></h2>
-      <div class="article-style">
-        
-          Journal: Pharmaceuticals (Basel) | PMID: 32245264 | doi: 10.3390/ph13030051 | Type: Journal Article. The COVID-19 coronavirus is currently spreading around the globe with limited treatment options available. This article (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32249257/" >Macrolide treatment for COVID-19: Will this be the way forward?</a></h2>
-      <div class="article-style">
-        
-          Journal: Biosci Trends | PMID: 32249257 | doi: 10.5582/bst.2020.03058 | Type: Journal Article. The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic that has developed in late 2019 and 2020 is a (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

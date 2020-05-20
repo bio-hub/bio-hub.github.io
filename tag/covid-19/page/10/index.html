@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/covid-19/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/covid-19/">
   <meta property="og:title" content="COVID-19 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,6 +544,54 @@
     
     
     <div>
+      <h2><a href="/publication/32239591/" >Clinical characteristics of non-ICU hospitalized patients with coronavirus disease 2019 and liver injury: A retrospective study.</a></h2>
+      <div class="article-style">
+        
+          Journal: Liver Int. | PMID: 32239591 | doi: 10.1111/liv.14449 | Type: Review. Coronavirus disease 2019 (COVID-19) has raised world concern for global epidemic since December, 2019. Limited data are (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32281231/" >Containing COVID-19 in the emergency room: the role of improved case detection and segregation of suspect cases.</a></h2>
+      <div class="article-style">
+        
+          Journal: Acad Emerg Med | PMID: 32281231 | doi: 10.1111/acem.13984 | Type: Letter. Patients with COVID-19 may present with respiratory syndromes indistinguishable from common viruses. This poses a challe (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32274342/" >COVID-19 and Liver Dysfunction: Current Insights and Emergent Therapeutic Strategies.</a></h2>
+      <div class="article-style">
+        
+          Journal: J Clin Transl Hepatol | PMID: 32274342 | doi: 10.14218/JCTH.2020.00018 | Type: Journal Article. The outbreak of coronavirus disease 2019 (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32276102/" >Crisis Symptom Management and Patient Communication Protocols Are Important Tools for All Clinicians Responding to COVID-19.</a></h2>
+      <div class="article-style">
+        
+          Journal: J Pain Symptom Manage | PMID: 32276102 | doi: 10.1016/j.jpainsymman.2020.03.028 | Type: Letter. Symptom management and skilled communication with patients and families are essential clinical services in the midst of (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32281114/" >Delayed Initiation of Remdesivir in a COVID-19 Positive Patient.</a></h2>
       <div class="article-style">
         
@@ -522,18 +608,6 @@
       <div class="article-style">
         
           Journal: J. Med. Virol. | PMID: 32104917 | doi: 10.1002/jmv.25727 | Type: Letter. The outbreak of the novel coronavirus disease (COVID-19) quickly spread all over China and to more than 20 other countri (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32278065/" >Diarrhea during COVID-19 infection: pathogenesis, epidemiology, prevention and management.</a></h2>
-      <div class="article-style">
-        
-          Journal: Clin. Gastroenterol. Hepatol. | PMID: 32278065 | doi: 10.1016/j.cgh.2020.04.001 | Type: Letter. The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2 / COVID-19) pandemic is a worldwide emergency. An increa (...)
         
       </div>
     </div>
@@ -581,43 +655,7 @@
       <h2><a href="/publication/32281052/" >Mesenchymal Stem Cell Therapy for COVID-19: Present or Future.</a></h2>
       <div class="article-style">
         
-          Journal: Stem Cell Rev Rep | PMID: 32281052 | doi: 10.1007/s12015-020-09973-w | Type: Journal Article. &quot;COVID-19&quot; is the word that certainly isn't forgotten by everybody who lives in the first half of the twenty-f (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32233641/" >Network pharmacology-based analysis of the role of traditional Chinese herbal medicines in the treatment of COVID-19.</a></h2>
-      <div class="article-style">
-        
-          Journal: Ann Palliat Med | PMID: 32233641 | doi: 10.21037/apm.2020.03.27 | Type: Journal Article. The novel coronavirus named COVID-19, which originated in Wuhan, China, has spread to many countries around the world. C (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32281214/" >Performance of Electrophysiology Procedures at an Academic Medical Center Amidst the 2020 Coronavirus (COVID-19) Pandemic.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Cardiovasc. Electrophysiol. | PMID: 32281214 | doi: 10.1111/jce.14493 | Type: Journal Article. A global coronavirus (COVID-19) pandemic occurred at the start of 2020 and is already responsible for more than 74,000 d (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32283156/" >Rapid asymptomatic transmission of COVID-19 during the incubation period demonstrating strong infectivity in a cluster of youngsters aged 16-23 years outside Wuhan and characteristics of young patients with COVID-19: a prospective contact-tracing study.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Infect. | PMID: 32283156 | doi: 10.1016/j.jinf.2020.03.006 | Type: Journal Article. The outbreak of coronavirus-disease-2019 (COVID-19) has rapidly spread to many places outside Wuhan. Previous studies on (...)
+          Journal: Stem Cell Rev Rep | PMID: 32281052 | doi: 10.1007/s12015-020-09973-w | Type: Journal Article. COVID-19 is the word that certainly isn't forgotten by everybody who lives in the first half of the twenty-first century (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

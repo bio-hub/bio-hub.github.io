@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/covid-19/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/covid-19/">
   <meta property="og:title" content="COVID-19 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,6 +544,42 @@
     
     
     <div>
+      <h2><a href="/publication/32293834/" >ANTIVIRAL TREATMENT OF COVID-19.</a></h2>
+      <div class="article-style">
+        
+          Journal: Turk J Med Sci | PMID: 32293834 | doi: 10.3906/sag-2004-145 | Type: Journal Article | Letter. Currently, there is not any specific effective anti-viral treatment for COVID-19. Although most of the COVID-19 patients (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32292899/" >Clinical characteristics and outcomes of patients undergoing surgeries during the incubation period of COVID-19 infection.</a></h2>
+      <div class="article-style">
+        
+          Journal: EClinicalMedicine | PMID: 32292899 | doi: 10.1016/j.eclinm.2020.100331 | Type: Journal Article | Letter. The outbreak of 2019 novel coronavirus disease (COVID-19) in Wuhan, China, has spread rapidly worldwide. In the early st (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32294503/" >Clinical Features and Outcomes of Pregnant Women Suspected of Coronavirus Disease 2019.</a></h2>
+      <div class="article-style">
+        
+          Journal: J. Infect. | PMID: 32294503 | doi: 10.1016/j.jinf.2020.04.003 | Type: Journal Article | Journal Article. 2019 novel coronavirus disease (COVID-19) has become a worldwide pandemic. Under such circumstance pregnant women are al (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32292627/" >Clinical study of mesenchymal stem cell treating acute respiratory distress syndrome induced by epidemic Influenza A (H7N9) infection, a hint for COVID-19 treatment.</a></h2>
       <div class="article-style">
         
@@ -582,42 +656,6 @@
       <div class="article-style">
         
           Journal: Diabetes Metab Syndr | PMID: 32283498 | doi: 10.1016/j.dsx.2020.04.011 | Type: Journal Article. The last two decades have experienced the outbreaks of three different coronaviruses in the different parts of the world (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32291501/" >CT features of novel coronavirus pneumonia (COVID-19) in children.</a></h2>
-      <div class="article-style">
-        
-          Journal: Eur Radiol | PMID: 32291501 | doi: 10.1007/s00330-020-06860-3 | Type: Journal Article | Journal Article. A serious epidemic of COVID-19 broke out in Wuhan, Hubei Province, China, and spread to other Chinese cities and several (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32222992/" >Detectable SARS-CoV-2 viral RNA in feces of three children during recovery period of COVID-19 pneumonia.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Med. Virol. | PMID: 32222992 | doi: 10.1002/jmv.25795 | Type: Journal Article. Coronavirus Disease 2019 (COVID-19) is a newly emerging infectious disease caused by a novel coronavirus, severe acute r (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32292802/" >Emergence of deadly severe acute respiratory syndrome coronavirus-2 during 2019-2020.</a></h2>
-      <div class="article-style">
-        
-          Journal: Virusdisease | PMID: 32292802 | doi: 10.1007/s13337-020-00575-1 | Type: Journal Article | Journal Article. Wuhan, the city in Hubei province in China is in the focus of global community due to the outbreak of coronavirus diseas (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

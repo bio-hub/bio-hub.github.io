@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tags/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tags/">
   <meta property="og:title" content="Tags | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -506,7 +566,7 @@
     
     
     <div>
-      <h2><a href="/tag/diabetes/" >Diabetes</a></h2>
+      <h2><a href="/tag/antiviral-agents/" >Antiviral Agents</a></h2>
       <div class="article-style">
         
       </div>
@@ -516,7 +576,7 @@
     
     
     <div>
-      <h2><a href="/tag/diarrhea/" >Diarrhea</a></h2>
+      <h2><a href="/tag/coronaviruses/" >Coronaviruses</a></h2>
       <div class="article-style">
         
       </div>
@@ -526,7 +586,7 @@
     
     
     <div>
-      <h2><a href="/tag/disease-outbreaks/" >Disease Outbreaks</a></h2>
+      <h2><a href="/tag/cysteine-endopeptidases/" >Cysteine Endopeptidases</a></h2>
       <div class="article-style">
         
       </div>
@@ -536,7 +596,7 @@
     
     
     <div>
-      <h2><a href="/tag/dress-syndrome/" >DRESS syndrome</a></h2>
+      <h2><a href="/tag/drug-combinations/" >Drug Combinations</a></h2>
       <div class="article-style">
         
       </div>
@@ -546,7 +606,7 @@
     
     
     <div>
-      <h2><a href="/tag/drug-rash/" >drug rash</a></h2>
+      <h2><a href="/tag/drug-design/" >Drug Design</a></h2>
       <div class="article-style">
         
       </div>
@@ -556,7 +616,7 @@
     
     
     <div>
-      <h2><a href="/tag/drug-repurposing/" >Drug repurposing</a></h2>
+      <h2><a href="/tag/drug-discovery/" >Drug Discovery</a></h2>
       <div class="article-style">
         
       </div>
@@ -566,7 +626,7 @@
     
     
     <div>
-      <h2><a href="/tag/early-diagnosis/" >Early Diagnosis</a></h2>
+      <h2><a href="/tag/lopinavir/" >Lopinavir</a></h2>
       <div class="article-style">
         
       </div>
@@ -576,7 +636,7 @@
     
     
     <div>
-      <h2><a href="/tag/emetine/" >emetine</a></h2>
+      <h2><a href="/tag/neuraminidase/" >Neuraminidase</a></h2>
       <div class="article-style">
         
       </div>
@@ -586,7 +646,7 @@
     
     
     <div>
-      <h2><a href="/tag/epidemiological/" >epidemiological</a></h2>
+      <h2><a href="/tag/neutralizing/" >Neutralizing</a></h2>
       <div class="article-style">
         
       </div>
@@ -596,7 +656,7 @@
     
     
     <div>
-      <h2><a href="/tag/epidemiology/" >epidemiology</a></h2>
+      <h2><a href="/tag/nucleosides/" >Nucleosides</a></h2>
       <div class="article-style">
         
       </div>
@@ -739,8 +799,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

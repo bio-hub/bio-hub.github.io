@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/antiviral-agents/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/antiviral-agents/">
   <meta property="og:title" content="Antiviral Agents | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-16T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-03-18T00:00:00&#43;00:00">
   
 
   
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -506,10 +566,10 @@
     
     
     <div>
-      <h2><a href="/publication/32290293/" >A Review of SARS-CoV-2 and the Ongoing Clinical Trials.</a></h2>
+      <h2><a href="/publication/31996494/" >Drug treatment options for the 2019-new coronavirus (2019-nCoV).</a></h2>
       <div class="article-style">
         
-          Journal: Int J Mol Sci | PMID: 32290293 | doi: 10.3390/ijms21072657 | Type: Journal Article | Comment. The sudden outbreak of 2019 novel coronavirus (2019-nCoV, later named SARS-CoV-2) in Wuhan, China, which rapidly grew in (...)
+          Journal: Biosci Trends | PMID: 31996494 | doi: 10.5582/bst.2020.01020 | Type: Journal Article. As of January 22, 2020, a total of 571 cases of the 2019-new coronavirus (2019-nCoV) have been reported in 25 provinces (...)
         
       </div>
     </div>
@@ -518,10 +578,10 @@
     
     
     <div>
-      <h2><a href="/publication/32275256/" >Vademecum for the treatment of people with COVID-19. Edition 2.0, 13 March 2020.</a></h2>
+      <h2><a href="/publication/32022370/" >Learning from the Past: Possible Urgent Prevention and Treatment Options for Severe Acute Respiratory Infections Caused by 2019-nCoV.</a></h2>
       <div class="article-style">
         
-          Journal: Infez Med | PMID: 32275256 | doi: NA | Type: Journal Article. The spread of COVID-19 epidemic in Italy, and particularly in Lombardy determined the need to standardize the therapeuti (...)
+          Journal: Chembiochem | PMID: 32022370 | doi: 10.1002/cbic.202000047 | Type: Editorial. With the current trajectory of the 2019-nCoV outbreak unknown, public health and medicinal measures will both be needed (...)
         
       </div>
     </div>
@@ -530,109 +590,16 @@
     
     
     <div>
-      <h2><a href="/publication/32251618/" >Current Drugs with Potential for Treatment of COVID-19: A Literature Review.</a></h2>
+      <h2><a href="/publication/32017984/" >Measures for diagnosing and treating infections by a novel coronavirus responsible for a pneumonia outbreak originating in Wuhan, China.</a></h2>
       <div class="article-style">
         
-          Journal: J Pharm Pharm Sci | PMID: 32251618 | doi: 10.18433/jpps31002 | Type: Journal Article. SARS-CoV-2 first emerged in China in December 2019 and rapidly spread worldwide. No vaccine or approved drug is availabl (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32145185/" >Middle East respiratory syndrome.</a></h2>
-      <div class="article-style">
-        
-          Journal: Lancet | PMID: 32145185 | doi: 10.1016/S0140-6736(19)33221-0 | Type: Journal Article. The Middle East respiratory syndrome coronavirus (MERS-CoV) is a lethal zoonotic pathogen that was first identified in h (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32208840/" >Clinical observation and management of COVID-19 patients.</a></h2>
-      <div class="article-style">
-        
-          Journal: Emerg Microbes Infect | PMID: 32208840 | doi: 10.1080/22221751.2020.1741327 | Type: Journal Article. Three leading infectious disease experts in China were invited to share their bedside observations in the management of (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32226295/" >COVID-19: what has been learned and to be learned about the novel coronavirus disease.</a></h2>
-      <div class="article-style">
-        
-          Journal: Int. J. Biol. Sci. | PMID: 32226295 | doi: 10.7150/ijbs.45134 | Type: Journal Article. The outbreak of Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome (SARS) coronavirus 2 (S (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32226289/" >Perspectives on therapeutic neutralizing antibodies against the Novel Coronavirus SARS-CoV-2.</a></h2>
-      <div class="article-style">
-        
-          Journal: Int. J. Biol. Sci. | PMID: 32226289 | doi: 10.7150/ijbs.45123 | Type: Editorial. A newly identified novel coronavirus (SARS-CoV-2) is causing pneumonia-associated respiratory syndrome across the world. (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32214286/" >Expanded Umbilical Cord Mesenchymal Stem Cells (UC-MSCs) as a Therapeutic Strategy in Managing Critically Ill COVID-19 Patients: The Case for Compassionate Use.</a></h2>
-      <div class="article-style">
-        
-          Journal: Pain Physician | PMID: 32214286 | doi: NA | Type: Journal Article. COVID-19 has affected the United States leading to a national emergency with health care and economic impact, propelling (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32054787/" >Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection.</a></h2>
-      <div class="article-style">
-        
-          Journal: Proc. Natl. Acad. Sci. U.S.A. | PMID: 32054787 | doi: 10.1073/pnas.1922083117 | Type: Journal Article. The continued emergence of Middle East Respiratory Syndrome (MERS) cases with a high case fatality rate stresses the nee (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32029004/" >A rapid advice guideline for the diagnosis and treatment of 2019 novel coronavirus (2019-nCoV) infected pneumonia (standard version).</a></h2>
-      <div class="article-style">
-        
-          Journal: Mil Med Res | PMID: 32029004 | doi: 10.1186/s40779-020-0233-6 | Type: Journal Article. In December 2019, a new type viral pneumonia cases occurred in Wuhan, Hubei Province; and then named 2019 novel coronavi (...)
+          Journal: Microbes Infect. | PMID: 32017984 | doi: 10.1016/j.micinf.2020.01.003 | Type: Journal Article. On 10 January 2020, a new coronavirus causing a pneumonia outbreak in Wuhan City in central China was denoted as 2019-nC (...)
         
       </div>
     </div>
   
 
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    
-    <li class="page-item"><a class="page-link" href="/tag/antiviral-agents/page/2/">&raquo;</a></li>
-    
-  </ul>
-</nav>
-
 
 </div>
 
@@ -757,8 +724,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

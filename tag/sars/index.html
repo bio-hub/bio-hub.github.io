@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/sars/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/sars/">
   <meta property="og:title" content="SARS | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-03-18T00:00:00&#43;00:00">
   
 
   
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -506,133 +566,16 @@
     
     
     <div>
-      <h2><a href="/publication/32291376/" >Clinical Progression of COVID-19 Patient with Extended Incubation Period, Delayed RT-PCR Time-to-positivity, and Potential Role of Chest CT-scan.</a></h2>
+      <h2><a href="/publication/32022370/" >Learning from the Past: Possible Urgent Prevention and Treatment Options for Severe Acute Respiratory Infections Caused by 2019-nCoV.</a></h2>
       <div class="article-style">
         
-          Journal: Acta Med Indones | PMID: 32291376 | doi: NA | Type: Letter | Journal Article. Coronavirus Disease 2019 (COVID-19), previously called 2019-nCoV, is a novel disease caused by SARS- CoV-2 which was fir (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32293807/" >Systematic review of the efficacy and safety of antiretroviral drugs against SARS, MERS or COVID-19: initial assessment.</a></h2>
-      <div class="article-style">
-        
-          Journal: J Int AIDS Soc | PMID: 32293807 | doi: 10.1002/jia2.25489 | Type: Journal Article | Comment. Several antiretroviral drugs are being considered for the treatment of COVID-19, the disease caused by a newly identifie (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32292686/" >Coronavirus: Update Related to the Current Outbreak of COVID-19.</a></h2>
-      <div class="article-style">
-        
-          Journal: Infect Dis Ther | PMID: 32292686 | doi: 10.1007/s40121-020-00295-5 | Type: Journal Article | Journal Article. In December 2019, some cases of viral pneumonia were epidemiologically related to a new coronavirus in the province of H (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32292902/" >Outcome of Coronavirus spectrum infections (SARS, MERS, COVID 1 -19) during pregnancy: a systematic review and meta-analysis.</a></h2>
-      <div class="article-style">
-        
-          Journal: Am J Obstet Gynecol MFM | PMID: 32292902 | doi: 10.1016/j.ajogmf.2020.100107 | Type: Review | Journal Article. The aim of this systematic review was to report pregnancy and perinatal outcomes of Coronavirus (CoV) spectrum infection (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32267109/" >[Coronavirus and COVID-19 : focus on a galopping pandemic].</a></h2>
-      <div class="article-style">
-        
-          Journal: Rev Med Liege | PMID: 32267109 | doi: NA | Type: Guideline. The international community is currently facing a pandemic of acute respiratory syndrome caused by a new coronavirus, SA (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32208840/" >Clinical observation and management of COVID-19 patients.</a></h2>
-      <div class="article-style">
-        
-          Journal: Emerg Microbes Infect | PMID: 32208840 | doi: 10.1080/22221751.2020.1741327 | Type: Journal Article. Three leading infectious disease experts in China were invited to share their bedside observations in the management of (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32245264/" >Emetine, Ipecac, Ipecac Alkaloids and Analogues as Potential Antiviral Agents for Coronaviruses.</a></h2>
-      <div class="article-style">
-        
-          Journal: Pharmaceuticals (Basel) | PMID: 32245264 | doi: 10.3390/ph13030051 | Type: Journal Article. The COVID-19 coronavirus is currently spreading around the globe with limited treatment options available. This article (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32251668/" >Gastrointestinal Manifestations of SARS-CoV-2 Infection and Virus Load in Fecal Samples from the Hong Kong Cohort and Systematic Review and Meta-analysis.</a></h2>
-      <div class="article-style">
-        
-          Journal: Gastroenterology | PMID: 32251668 | doi: 10.1053/j.gastro.2020.03.065 | Type: Journal Article. Infection with SARS-CoV-2 causes COVID-19, which has been characterized by fever, respiratory, and gastrointestinal symp (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32220178/" >[Biological Product Development Strategies for Prevention and Treatment of Coronavirus Disease 2019].</a></h2>
-      <div class="article-style">
-        
-          Journal: Sichuan Da Xue Xue Bao Yi Xue Ban | PMID: 32220178 | doi: 10.12182/20200360506 | Type: Review. Coronavirus disease 2019 (COVID-19) caused by the novel coronavirus, also known as severe acute respiratory syndrome cor (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32233876/" >The Role of Emergency Radiology in COVID-19: From Preparedness to Diagnosis.</a></h2>
-      <div class="article-style">
-        
-          Journal: Can Assoc Radiol J | PMID: 32233876 | doi: 10.1177/0846537120916419 | Type: Journal Article. Emergency trauma radiology, although a relatively new subspecialty of radiology, plays a critical role in both the diagn (...)
+          Journal: Chembiochem | PMID: 32022370 | doi: 10.1002/cbic.202000047 | Type: Editorial. With the current trajectory of the 2019-nCoV outbreak unknown, public health and medicinal measures will both be needed (...)
         
       </div>
     </div>
   
 
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    
-    <li class="page-item"><a class="page-link" href="/tag/sars/page/2/">&raquo;</a></li>
-    
-  </ul>
-</nav>
-
 
 </div>
 
@@ -757,8 +700,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

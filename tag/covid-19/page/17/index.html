@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/covid-19/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/covid-19/">
   <meta property="og:title" content="COVID-19 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,6 +544,54 @@
     
     
     <div>
+      <h2><a href="/publication/32267098/" >Digestive system involvement of novel coronavirus infection: prevention and control infection from a gastroenterology perspective.</a></h2>
+      <div class="article-style">
+        
+          Journal: J Dig Dis | PMID: 32267098 | doi: 10.1111/1751-2980.12862 | Type: Journal Article. An epidemic of an acute respiratory syndrome caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in W (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32260471/" >In Vitro Diagnostic Assays for COVID-19: Recent Advances and Emerging Trends.</a></h2>
+      <div class="article-style">
+        
+          Journal: Diagnostics (Basel) | PMID: 32260471 | doi: 10.3390/diagnostics10040202 | Type: Journal Article. There have been tremendous advances in in vitro diagnostic (IVD) assays for coronavirus disease 2019 (COVID-19) caused b (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32242438/" >Primary care management of the coronavirus (COVID-19).</a></h2>
+      <div class="article-style">
+        
+          Journal: S Afr Fam Pract (2004) | PMID: 32242438 | doi: 10.4102/safp.v62i1.5115 | Type: News. South Africa is in the grip of a novel coronavirus pandemic (COVID-19). Primary care providers are in the frontline. COV (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32267220/" >Severe Acute Respiratory Syndrome Coronavirus 2-Specific Antibody Responses in Coronavirus Disease 2019 Patients.</a></h2>
+      <div class="article-style">
+        
+          Journal: Emerging Infect. Dis. | PMID: 32267220 | doi: 10.3201/eid2607.200841 | Type: Guideline. A new coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has recently emerged to cause a human p (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32235575/" >The First 75 Days of Novel Coronavirus (SARS-CoV-2) Outbreak: Recent Advances, Prevention, and Treatment.</a></h2>
       <div class="article-style">
         
@@ -570,54 +656,6 @@
       <div class="article-style">
         
           Journal: Arab J Gastroenterol | PMID: 32253172 | doi: 10.1016/j.ajg.2020.03.002 | Type: Journal Article. Since December 2019, the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the causative pathogen of coronav (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32255761/" >High Contagiousness and Rapid Spread of Severe Acute Respiratory Syndrome Coronavirus 2.</a></h2>
-      <div class="article-style">
-        
-          Journal: Emerging Infect. Dis. | PMID: 32255761 | doi: 10.3201/eid2607.200282 | Type: Journal Article. Severe acute respiratory syndrome coronavirus 2 is the causative agent of the 2019 novel coronavirus disease pandemic. I (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32196410/" >Hypothesis for potential pathogenesis of SARS-CoV-2 infection-a review of immune changes in patients with viral pneumonia.</a></h2>
-      <div class="article-style">
-        
-          Journal: Emerg Microbes Infect | PMID: 32196410 | doi: 10.1080/22221751.2020.1746199 | Type: Editorial. Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 ( (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32247050/" >Insight into 2019 novel coronavirus - an updated intrim review and lessons from SARS-CoV and MERS-CoV.</a></h2>
-      <div class="article-style">
-        
-          Journal: Int. J. Infect. Dis. | PMID: 32247050 | doi: 10.1016/j.ijid.2020.03.071 | Type: Journal Article. The rapid spread of the coronavirus disease 2019 (COVID-19), caused by a zoonotic beta-coronavirus entitled 2019 novel c (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32196430/" >Laboratory diagnosis of emerging human coronavirus infections - the state of the art.</a></h2>
-      <div class="article-style">
-        
-          Journal: Emerg Microbes Infect | PMID: 32196430 | doi: 10.1080/22221751.2020.1745095 | Type: Journal Article. The three unprecedented outbreaks of emerging human coronavirus (HCoV) infections at the beginning of the twenty-first c (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

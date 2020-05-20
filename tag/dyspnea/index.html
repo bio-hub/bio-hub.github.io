@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/dyspnea/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/dyspnea/">
   <meta property="og:title" content="Dyspnea | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-14T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-03-13T00:00:00&#43;00:00">
   
 
   
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -501,66 +561,6 @@
   
 
   
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32271602/" >Improved Early Recognition of Coronavirus Disease-2019 (COVID-19): Single-Center Data from a Shanghai Screening Hospital.</a></h2>
-      <div class="article-style">
-        
-          Journal: Arch Iran Med | PMID: 32271602 | doi: 10.34172/aim.2020.10 | Type: Journal Article. In December 2019, an outbreak of a novel coronavirus disease (COVID-19; previously known as 2019-nCoV) was reported in W (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32276102/" >Crisis Symptom Management and Patient Communication Protocols Are Important Tools for All Clinicians Responding to COVID-19.</a></h2>
-      <div class="article-style">
-        
-          Journal: J Pain Symptom Manage | PMID: 32276102 | doi: 10.1016/j.jpainsymman.2020.03.028 | Type: Letter. Symptom management and skilled communication with patients and families are essential clinical services in the midst of (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32242438/" >Primary care management of the coronavirus (COVID-19).</a></h2>
-      <div class="article-style">
-        
-          Journal: S Afr Fam Pract (2004) | PMID: 32242438 | doi: 10.4102/safp.v62i1.5115 | Type: News. South Africa is in the grip of a novel coronavirus pandemic (COVID-19). Primary care providers are in the frontline. COV (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32166607/" >A Review of Coronavirus Disease-2019 (COVID-19).</a></h2>
-      <div class="article-style">
-        
-          Journal: Indian J Pediatr | PMID: 32166607 | doi: 10.1007/s12098-020-03263-6 | Type: Review. There is a new public health crises threatening the world with the emergence and spread of 2019 novel coronavirus (2019- (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32183901/" >Epidemiology, causes, clinical manifestation and diagnosis, prevention and control of coronavirus disease (COVID-19) during the early outbreak period: a scoping review.</a></h2>
-      <div class="article-style">
-        
-          Journal: Infect Dis Poverty | PMID: 32183901 | doi: 10.1186/s40249-020-00646-x | Type: Journal Article. The coronavirus disease (COVID-19) has been identified as the cause of an outbreak of respiratory illness in Wuhan, Hube (...)
-        
-      </div>
-    </div>
   
     
     
@@ -700,8 +700,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

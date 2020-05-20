@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/thoracic/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/thoracic/">
   <meta property="og:title" content="Thoracic | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-16T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-03-13T00:00:00&#43;00:00">
   
 
   
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -506,78 +566,6 @@
     
     
     <div>
-      <h2><a href="/publication/32284613/" >Characteristics of pediatric SARS-CoV-2 infection and potential evidence for persistent fecal viral shedding.</a></h2>
-      <div class="article-style">
-        
-          Journal: Nat. Med. | PMID: 32284613 | doi: 10.1038/s41591-020-0817-4 | Type: Journal Article. We report epidemiological and clinical investigations on ten pediatric SARS-CoV-2 infection cases confirmed by real-time (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32271596/" >Co-infection of Coronavirus Disease 2019 and Influenza A: A Report from Iran.</a></h2>
-      <div class="article-style">
-        
-          Journal: Arch Iran Med | PMID: 32271596 | doi: 10.34172/aim.2020.04 | Type: Comment. In late December 2019, a viral pneumonia known as coronavirus disease 2019 (COVID-19) originated from China and spread v (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32242348/" >Clinical Course and Outcomes of Patients with Severe Acute Respiratory Syndrome Coronavirus 2 Infection: a Preliminary Report of the First 28 Patients from the Korean Cohort Study on COVID-19.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Korean Med. Sci. | PMID: 32242348 | doi: 10.3346/jkms.2020.35.e142 | Type: Journal Article. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)-infected pneumonia emerged in Wuhan, China in December 2019 (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32234131/" >[Analysis of CT features of 15 children with 2019 novel coronavirus infection].</a></h2>
-      <div class="article-style">
-        
-          Journal: Zhonghua Er Ke Za Zhi | PMID: 32234131 | doi: 10.3760/cma.j.cn112140-20200210-00071 | Type: Letter. Objective: To explore imaging characteristics of children with 2019 novel coronavirus (2019-nCoV) infection. M (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32226287/" >Evaluation of SARS-CoV-2 RNA shedding in clinical specimens and clinical characteristics of 10 patients with COVID-19 in Macau.</a></h2>
-      <div class="article-style">
-        
-          Journal: Int. J. Biol. Sci. | PMID: 32226287 | doi: 10.7150/ijbs.45357 | Type: Editorial. As a city famous for tourism, the public healthcare system of Macau SAR has been under great pressure during the outbrea (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32226962/" >COVID-19 in a Patient Presenting with Syncope and a Normal Chest X-ray.</a></h2>
-      <div class="article-style">
-        
-          Journal: R I Med J (2013) | PMID: 32226962 | doi: NA | Type: Comment. SARS-CoV-2 is a novel virus that has now affected hundreds of thousands of individuals across the world. Amidst this glo (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
       <h2><a href="/publication/31986261/" >A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster.</a></h2>
       <div class="article-style">
         
@@ -606,18 +594,6 @@
       <div class="article-style">
         
           Journal: Lancet | PMID: 32007143 | doi: 10.1016/S0140-6736(20)30211-7 | Type: Journal Article. In December, 2019, a pneumonia associated with the 2019 novel coronavirus (2019-nCoV) emerged in Wuhan, China. We aimed (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32075786/" >Clinical findings in a group of patients infected with the 2019 novel coronavirus (SARS-Cov-2) outside of Wuhan, China: retrospective case series.</a></h2>
-      <div class="article-style">
-        
-          Journal: BMJ | PMID: 32075786 | doi: 10.1136/bmj.m606 | Type: Journal Article. To study the clinical characteristics of patients in Zhejiang province, China, infected with the 2019 severe acute respi (...)
         
       </div>
     </div>
@@ -748,8 +724,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

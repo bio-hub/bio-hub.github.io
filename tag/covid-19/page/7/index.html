@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/covid-19/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/covid-19/">
   <meta property="og:title" content="COVID-19 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,6 +544,42 @@
     
     
     <div>
+      <h2><a href="/publication/32113704/" >The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak.</a></h2>
+      <div class="article-style">
+        
+          Journal: J. Autoimmun. | PMID: 32113704 | doi: 10.1016/j.jaut.2020.102433 | Type: Journal Article. Coronavirus disease (COVID-19) is caused by SARS-COV2 and represents the causative agent of a potentially fatal disease (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32272396/" >The possible of immunotherapy for COVID-19: A systematic review.</a></h2>
+      <div class="article-style">
+        
+          Journal: Int. Immunopharmacol. | PMID: 32272396 | doi: 10.1016/j.intimp.2020.106455 | Type: Journal Article. The novel coronavirus (2019-nCoV) is an emerging pathogen that was first described in late December 2019 and causes a se (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32253759/" >Tocilizumab treatment in COVID-19: A single center experience.</a></h2>
+      <div class="article-style">
+        
+          Journal: J. Med. Virol. | PMID: 32253759 | doi: 10.1002/jmv.25801 | Type: Journal Article. Tocilizumab (TCZ), a monoclonal antibody against interleukin-6 (IL-6), emerged as an alternative treatment for COVID-19 (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32293713/" >Treatment with convalescent plasma for COVID-19 patients in Wuhan, China.</a></h2>
       <div class="article-style">
         
@@ -582,42 +656,6 @@
       <div class="article-style">
         
           Journal: Ear Nose Throat J | PMID: 32283980 | doi: 10.1177/0145561320920762 | Type: Editorial. Pharyngodynia, nasal congestion, rhinorrhea, smell, and taste dysfunctions could be the presenting symptoms of coronavir (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32271596/" >Co-infection of Coronavirus Disease 2019 and Influenza A: A Report from Iran.</a></h2>
-      <div class="article-style">
-        
-          Journal: Arch Iran Med | PMID: 32271596 | doi: 10.34172/aim.2020.04 | Type: Comment. In late December 2019, a viral pneumonia known as coronavirus disease 2019 (COVID-19) originated from China and spread v (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32224074/" >Comparison of Hospitalized Patients With ARDS Caused by COVID-19 and H1N1.</a></h2>
-      <div class="article-style">
-        
-          Journal: Chest | PMID: 32224074 | doi: 10.1016/j.chest.2020.03.032 | Type: Journal Article. Since the outbreak of coronavirus disease 2019 (COVID-19) in China in December 2019, considerable attention has been foc (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32273156/" >Coronavirus Disease 19 (COVID-19): Implications for Clinical Dental Care.</a></h2>
-      <div class="article-style">
-        
-          Journal: J Endod | PMID: 32273156 | doi: 10.1016/j.joen.2020.03.008 | Type: Letter. The recent spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and its associated coronavirus disease (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/covid-19/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/covid-19/">
   <meta property="og:title" content="COVID-19 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,6 +544,18 @@
     
     
     <div>
+      <h2><a href="/publication/32171869/" >Clinical progression of patients with COVID-19 in Shanghai, China.</a></h2>
+      <div class="article-style">
+        
+          Journal: J. Infect. | PMID: 32171869 | doi: 10.1016/j.jinf.2020.03.004 | Type: Journal Article. Studies on the 2019 novel coronavirus disease (COVID-19) have generally been limited to the description of the epidemiol (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32286790/" >Computational Design of ACE2-Based Peptide Inhibitors of SARS-CoV-2.</a></h2>
       <div class="article-style">
         
@@ -554,6 +604,18 @@
     
     
     <div>
+      <h2><a href="/publication/32278175/" >COVID-19: A promising cure for the global panic.</a></h2>
+      <div class="article-style">
+        
+          Journal: Sci. Total Environ. | PMID: 32278175 | doi: 10.1016/j.scitotenv.2020.138277 | Type: Journal Article. The novel Coronavirus disease 2019 (COVID-19) is caused by SARS-CoV-2, which is the causative agent of a potentially fat (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32229107/" >Dynamic change process of target genes by RT-PCR testing of SARS-Cov-2 during the course of a Coronavirus Disease 2019 patient.</a></h2>
       <div class="article-style">
         
@@ -594,30 +656,6 @@
       <div class="article-style">
         
           Journal: Int J Surg | PMID: 32289472 | doi: 10.1016/j.ijsu.2020.04.001 | Type: Editorial | Journal Article. COVID-19 has now been declared a pandemic. To date, COVID-19 has affected over 944,181 people worldwide, resulting in ov (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32253799/" >Generalized pustular figurate erythema: A newly delineated severe cutaneous drug reaction linked with hydroxychloroquine.</a></h2>
-      <div class="article-style">
-        
-          Journal: Dermatol Ther | PMID: 32253799 | doi: 10.1111/dth.13380 | Type: Practice Guideline. A severe cutaneous drug reaction resembling acute generalized exanthematous pustulosis resulting from ingestion of hydro (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32224133/" >How to link patients with suspicious COVID-19 to health system from the community pharmacies? A route proposal.</a></h2>
-      <div class="article-style">
-        
-          Journal: Res Social Adm Pharm | PMID: 32224133 | doi: 10.1016/j.sapharm.2020.03.007 | Type: Journal Article. Colombia confirmed its first case of the COVID-19 on March 6th, 2020. On March 16th, 2020, 54 cases have been confirmed (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

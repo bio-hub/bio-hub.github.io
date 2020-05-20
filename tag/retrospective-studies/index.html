@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/retrospective-studies/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/retrospective-studies/">
   <meta property="og:title" content="Retrospective Studies | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-14T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-03-13T00:00:00&#43;00:00">
   
 
   
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -506,133 +566,16 @@
     
     
     <div>
-      <h2><a href="/publication/32091414/" >Chest CT Findings in Patients With Coronavirus Disease 2019 and Its Relationship With Clinical Features.</a></h2>
+      <h2><a href="/publication/32007143/" >Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.</a></h2>
       <div class="article-style">
         
-          Journal: Invest Radiol | PMID: 32091414 | doi: 10.1097/RLI.0000000000000670 | Type: Review. The aim of this study was to investigate the chest computed tomography (CT) findings in patients with confirmed coronavi (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32275128/" >[Roles of multidisciplinary team (MDT) in diagnosis and treatment of suspected cases of corona virus disease 2019 (COVID-19)].</a></h2>
-      <div class="article-style">
-        
-          Journal: Zhejiang Da Xue Xue Bao Yi Xue Ban | PMID: 32275128 | doi: NA | Type: Journal Article. To analyze the roles of multidisciplinary team (MDT) in the diagnosis and treatment of suspected cases of corona virus d (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32216961/" >Imaging manifestations and diagnostic value of chest CT of coronavirus disease 2019 (COVID-19) in the Xiaogan area.</a></h2>
-      <div class="article-style">
-        
-          Journal: Clin Radiol | PMID: 32216961 | doi: 10.1016/j.crad.2020.03.004 | Type: Journal Article. To report the epidemiological, clinical, and radiological characteristics of patients with COVID-19 in Xiaogan, Hubei, C (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32178954/" >Anesthetic Management of Patients with COVID 19 Infections during Emergency Procedures.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Cardiothorac. Vasc. Anesth. | PMID: 32178954 | doi: 10.1053/j.jvca.2020.02.039 | Type: Editorial. The aim of the present study was to prevent cross-infection in the operating room during emergency procedures for patien (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32208917/" >The different clinical characteristics of corona virus disease cases between children and their families in China - the character of children with COVID-19.</a></h2>
-      <div class="article-style">
-        
-          Journal: Emerg Microbes Infect | PMID: 32208917 | doi: 10.1080/22221751.2020.1744483 | Type: Journal Article. This study aims to analyze the different clinical characteristics between children and their families infected with seve (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32112886/" >Characteristics of COVID-19 infection in Beijing.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Infect. | PMID: 32112886 | doi: 10.1016/j.jinf.2020.02.018 | Type: Comment. Since the first case of a novel coronavirus (COVID-19) infection pneumonia was detected in Wuhan, China, a series of con (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32109443/" >Clinical and computed tomographic imaging features of novel coronavirus pneumonia caused by SARS-CoV-2.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Infect. | PMID: 32109443 | doi: 10.1016/j.jinf.2020.02.017 | Type: Journal Article. To investigate the clinical and imaging characteristics of computed tomography (CT) in novel coronavirus pneumonia (NCP) (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32112884/" >Clinical characteristics and imaging manifestations of the 2019 novel coronavirus disease (COVID-19):A multi-center study in Wenzhou city, Zhejiang, China.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Infect. | PMID: 32112884 | doi: 10.1016/j.jinf.2020.02.016 | Type: Letter. Little is known about COVID-19 outside Hubei. The aim of this paper was to describe the clinical characteristics and ima (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32242348/" >Clinical Course and Outcomes of Patients with Severe Acute Respiratory Syndrome Coronavirus 2 Infection: a Preliminary Report of the First 28 Patients from the Korean Cohort Study on COVID-19.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Korean Med. Sci. | PMID: 32242348 | doi: 10.3346/jkms.2020.35.e142 | Type: Journal Article. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)-infected pneumonia emerged in Wuhan, China in December 2019 (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32234131/" >[Analysis of CT features of 15 children with 2019 novel coronavirus infection].</a></h2>
-      <div class="article-style">
-        
-          Journal: Zhonghua Er Ke Za Zhi | PMID: 32234131 | doi: 10.3760/cma.j.cn112140-20200210-00071 | Type: Letter. Objective: To explore imaging characteristics of children with 2019 novel coronavirus (2019-nCoV) infection. M (...)
+          Journal: Lancet | PMID: 32007143 | doi: 10.1016/S0140-6736(20)30211-7 | Type: Journal Article. In December, 2019, a pneumonia associated with the 2019 novel coronavirus (2019-nCoV) emerged in Wuhan, China. We aimed (...)
         
       </div>
     </div>
   
 
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    
-    <li class="page-item"><a class="page-link" href="/tag/retrospective-studies/page/2/">&raquo;</a></li>
-    
-  </ul>
-</nav>
-
 
 </div>
 
@@ -757,8 +700,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

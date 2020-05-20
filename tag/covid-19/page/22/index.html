@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/covid-19/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/covid-19/">
   <meta property="og:title" content="COVID-19 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,6 +544,90 @@
     
     
     <div>
+      <h2><a href="/publication/32237288/" >Guidelines for Laboratory Diagnosis of Coronavirus Disease 2019 (COVID-19) in Korea.</a></h2>
+      <div class="article-style">
+        
+          Journal: Ann Lab Med | PMID: 32237288 | doi: NA | Type: Journal Article. The outbreak of coronavirus disease 2019 (COVID-19), which began in December 2019, is still ongoing in Korea, with &gt;9 (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32238429/" >INCIDENTAL FINDINGS SUGGESTIVE OF COVID-19 IN ASYMPTOMATIC PATIENTS UNDERGOING NUCLEAR MEDICINE PROCEDURES IN A HIGH PREVALENCE REGION.</a></h2>
+      <div class="article-style">
+        
+          Journal: J. Nucl. Med. | PMID: 32238429 | doi: 10.2967/jnumed.120.246256 | Type: Comment. Infection with the novel coronavirus SARS-CoV-2 may remain asymptomatic, leading to under-recognition of the related dis (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32239796/" >Liver impairment in COVID-19 patients: a retrospective analysis of 115 cases from a single center in Wuhan city, China.</a></h2>
+      <div class="article-style">
+        
+          Journal: Liver Int. | PMID: 32239796 | doi: 10.1111/liv.14455 | Type: Journal Article. The SARS-CoV-2 pandemic is an ongoing global health emergency. The aim of our study was to investigate the changes of li (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32235486/" >Novel Coronavirus Infection (COVID-19) in Humans: A Scoping Review and Meta-Analysis.</a></h2>
+      <div class="article-style">
+        
+          Journal: J Clin Med | PMID: 32235486 | doi: 10.3390/jcm9040941 | Type: Journal Article. A growing body of literature on the 2019 novel coronavirus (SARS-CoV-2) is becoming available, but a synthesis of availa (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32228222/" >Renin-angiotensin system inhibitors improve the clinical outcomes of COVID-19 patients with hypertension.</a></h2>
+      <div class="article-style">
+        
+          Journal: Emerg Microbes Infect | PMID: 32228222 | doi: 10.1080/22221751.2020.1746200 | Type: Journal Article. The dysfunction of the renin-angiotensin system (RAS) has been observed in coronavirus infection disease (COVID-19) pati (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32179150/" >Teicoplanin: an alternative drug for the treatment of COVID-19?</a></h2>
+      <div class="article-style">
+        
+          Journal: Int. J. Antimicrob. Agents | PMID: 32179150 | doi: 10.1016/j.ijantimicag.2020.105944 | Type: Journal Article. In December 2019, a novel coronavirus, named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), emerged from (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32233876/" >The Role of Emergency Radiology in COVID-19: From Preparedness to Diagnosis.</a></h2>
+      <div class="article-style">
+        
+          Journal: Can Assoc Radiol J | PMID: 32233876 | doi: 10.1177/0846537120916419 | Type: Journal Article. Emergency trauma radiology, although a relatively new subspecialty of radiology, plays a critical role in both the diagn (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32171866/" >Clinical features of COVID-19 in elderly patients: A comparison with young and middle-aged patients.</a></h2>
       <div class="article-style">
         
@@ -534,90 +656,6 @@
       <div class="article-style">
         
           Journal: R I Med J (2013) | PMID: 32226962 | doi: NA | Type: Comment. SARS-CoV-2 is a novel virus that has now affected hundreds of thousands of individuals across the world. Amidst this glo (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32205186/" >COVID-19 infection and rheumatoid arthritis: Faraway, so close!</a></h2>
-      <div class="article-style">
-        
-          Journal: Autoimmun Rev | PMID: 32205186 | doi: 10.1016/j.autrev.2020.102523 | Type: Letter. The outbreak of the new coronavirus infections COVID-19 in December 2019 in China has quickly become a global health eme (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32186952/" >COVID-19, an emerging coronavirus infection: advances and prospects in designing and developing vaccines, immunotherapeutics, and therapeutics.</a></h2>
-      <div class="article-style">
-        
-          Journal: Hum Vaccin Immunother | PMID: 32186952 | doi: 10.1080/21645515.2020.1735227 | Type: Journal Article. The novel coronavirus infection (COVID-19 or Coronavirus disease 2019) that emerged from Wuhan, Hubei province of China (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32232648/" >Diagnostic performance of chest CT to differentiate COVID-19 pneumonia in non-high-epidemic area in Japan.</a></h2>
-      <div class="article-style">
-        
-          Journal: Jpn J Radiol | PMID: 32232648 | doi: 10.1007/s11604-020-00958-w | Type: Journal Article. To evaluate the diagnostic performance of chest CT to differentiate coronavirus disease 2019 (COVID-19) pneumonia in non (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32205204/" >Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial.</a></h2>
-      <div class="article-style">
-        
-          Journal: Int. J. Antimicrob. Agents | PMID: 32205204 | doi: 10.1016/j.ijantimicag.2020.105949 | Type: Editorial. Chloroquine and hydroxychloroquine have been found to be efficient on SARS-CoV-2, and reported to be efficient in Chines (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32172228/" >Potential preanalytical and analytical vulnerabilities in the laboratory diagnosis of coronavirus disease 2019 (COVID-19).</a></h2>
-      <div class="article-style">
-        
-          Journal: Clin. Chem. Lab. Med. | PMID: 32172228 | doi: 10.1515/cclm-2020-0285 | Type: Journal Article. A novel zoonotic coronavirus outbreak is spreading all over the world. This pandemic disease has now been defined as nov (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32229257/" >Risk-adapted Treatment Strategy For COVID-19 Patients.</a></h2>
-      <div class="article-style">
-        
-          Journal: Int. J. Infect. Dis. | PMID: 32229257 | doi: 10.1016/j.ijid.2020.03.047 | Type: Journal Article. There are no clear expert consensus or guidelines on how to treat 2019 coronavirus disease (COVID-19). The objective of (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32142651/" >SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor.</a></h2>
-      <div class="article-style">
-        
-          Journal: Cell | PMID: 32142651 | doi: 10.1016/j.cell.2020.02.052 | Type: Comment. The recent emergence of the novel, pathogenic SARS-coronavirus 2 (SARS-CoV-2) in China and its rapid national and intern (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

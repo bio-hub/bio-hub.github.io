@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/sars-cov-2/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/sars-cov-2/">
   <meta property="og:title" content="SARS-CoV-2 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,6 +544,66 @@
     
     
     <div>
+      <h2><a href="/publication/32174267/" >Era of molecular diagnosis for pathogen identification of unexplained pneumonia, lessons to be learned.</a></h2>
+      <div class="article-style">
+        
+          Journal: Emerg Microbes Infect | PMID: 32174267 | doi: 10.1080/22221751.2020.1738905 | Type: Journal Article. Unexplained pneumonia (UP) caused by a novel coronavirus SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) em (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32162699/" >A report of clinical diagnosis and treatment of nine cases of coronavirus disease 2019.</a></h2>
+      <div class="article-style">
+        
+          Journal: J. Med. Virol. | PMID: 32162699 | doi: 10.1002/jmv.25755 | Type: Journal Article. Coronavirus disease 2019 (COVID-19) caused by the severe acute respiratory syndrome coronavirus 2 has become an importan (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32173110/" >A systematic review on the efficacy and safety of chloroquine for the treatment of COVID-19.</a></h2>
+      <div class="article-style">
+        
+          Journal: J Crit Care | PMID: 32173110 | doi: 10.1016/j.jcrc.2020.03.005 | Type: Journal Article. COVID-19 (coronavirus disease 2019) is a public health emergency of international concern. As of this time, there is no (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32173725/" >Clinical characteristics of refractory COVID-19 pneumonia in Wuhan, China.</a></h2>
+      <div class="article-style">
+        
+          Journal: Clin. Infect. Dis. | PMID: 32173725 | doi: 10.1093/cid/ciaa270 | Type: Journal Article. Since December 2019, novel coronavirus (SARS-CoV-2)-infected pneumonia (COVID-19) occurred in Wuhan, and rapidly spread (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32147628/" >Discovering drugs to treat coronavirus disease 2019 (COVID-19).</a></h2>
+      <div class="article-style">
+        
+          Journal: Drug Discov Ther | PMID: 32147628 | doi: 10.5582/ddt.2020.01012 | Type: Journal Article. The SARS-CoV-2 virus emerged in December 2019 and then spread rapidly worldwide, particularly to China, Japan, and South (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32080991/" >Viral Load Kinetics of SARS-CoV-2 Infection in First Two Patients in Korea.</a></h2>
       <div class="article-style">
         
@@ -562,54 +660,6 @@
       </div>
     </div>
   
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32125873/" >Relation Between Chest CT Findings and Clinical Conditions of Coronavirus Disease (COVID-19) Pneumonia: A Multicenter Study.</a></h2>
-      <div class="article-style">
-        
-          Journal: AJR Am J Roentgenol | PMID: 32125873 | doi: 10.2214/AJR.20.22976 | Type: Review. OBJECTIVE. The increasing number of cases of confirmed coronavirus disease (COVID-19) in China is striking. The p (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32125642/" >Understanding SARS-CoV-2-Mediated Inflammatory Responses: From Mechanisms to Potential Therapeutic Tools.</a></h2>
-      <div class="article-style">
-        
-          Journal: Virol Sin | PMID: 32125642 | doi: 10.1007/s12250-020-00207-4 | Type: Journal Article. Currently there is no effective antiviral therapy for SARS-CoV-2 infection, which frequently leads to fatal inflammatory (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32116147/" >Coronavirus disinfection in histopathology.</a></h2>
-      <div class="article-style">
-        
-          Journal: J Histotechnol | PMID: 32116147 | doi: 10.1080/01478885.2020.1734718 | Type: Journal Article. The 2019 Coronavirus epidemic, provisionally called 2019-nCoV, was first identified in Wuhan, China, in persons exposed (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32077115/" >Clinical characteristics of 140 patients infected with SARS-CoV-2 in Wuhan, China.</a></h2>
-      <div class="article-style">
-        
-          Journal: Allergy | PMID: 32077115 | doi: 10.1111/all.14238 | Type: Journal Article. Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection has (...)
-        
-      </div>
-    </div>
-  
 
   
 <nav>
@@ -617,6 +667,8 @@
     
     <li class="page-item"><a class="page-link" href="/tag/sars-cov-2/page/15/">&laquo;</a></li>
     
+    
+    <li class="page-item"><a class="page-link" href="/tag/sars-cov-2/page/17/">&raquo;</a></li>
     
   </ul>
 </nav>
@@ -745,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

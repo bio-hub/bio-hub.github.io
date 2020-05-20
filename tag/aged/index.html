@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/aged/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/aged/">
   <meta property="og:title" content="Aged | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-15T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-04-01T00:00:00&#43;00:00">
   
 
   
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -506,10 +566,10 @@
     
     
     <div>
-      <h2><a href="/publication/32281317/" >Use of Convalescent Plasma Therapy in Two COVID-19 Patients with Acute Respiratory Distress Syndrome in Korea.</a></h2>
+      <h2><a href="/publication/31995857/" >Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia.</a></h2>
       <div class="article-style">
         
-          Journal: J. Korean Med. Sci. | PMID: 32281317 | doi: 10.3346/jkms.2020.35.e149 | Type: Letter. Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus-2 not yet has established it (...)
+          Journal: N. Engl. J. Med. | PMID: 31995857 | doi: 10.1056/NEJMoa2001316 | Type: Journal Article. The initial cases of novel coronavirus (2019-nCoV)-infected pneumonia (NCIP) occurred in Wuhan, Hubei Province, China, i (...)
         
       </div>
     </div>
@@ -518,10 +578,10 @@
     
     
     <div>
-      <h2><a href="/publication/32091414/" >Chest CT Findings in Patients With Coronavirus Disease 2019 and Its Relationship With Clinical Features.</a></h2>
+      <h2><a href="/publication/31994742/" >Updated understanding of the outbreak of 2019 novel coronavirus (2019-nCoV) in Wuhan, China.</a></h2>
       <div class="article-style">
         
-          Journal: Invest Radiol | PMID: 32091414 | doi: 10.1097/RLI.0000000000000670 | Type: Review. The aim of this study was to investigate the chest computed tomography (CT) findings in patients with confirmed coronavi (...)
+          Journal: J. Med. Virol. | PMID: 31994742 | doi: 10.1002/jmv.25689 | Type: Journal Article. To help health workers and the public recognize and deal with the 2019 novel coronavirus (2019-nCoV) quickly, effectivel (...)
         
       </div>
     </div>
@@ -530,10 +590,10 @@
     
     
     <div>
-      <h2><a href="/publication/32271596/" >Co-infection of Coronavirus Disease 2019 and Influenza A: A Report from Iran.</a></h2>
+      <h2><a href="/publication/31986261/" >A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster.</a></h2>
       <div class="article-style">
         
-          Journal: Arch Iran Med | PMID: 32271596 | doi: 10.34172/aim.2020.04 | Type: Comment. In late December 2019, a viral pneumonia known as coronavirus disease 2019 (COVID-19) originated from China and spread v (...)
+          Journal: Lancet | PMID: 31986261 | doi: 10.1016/S0140-6736(20)30154-9 | Type: Letter. An ongoing outbreak of pneumonia associated with a novel coronavirus was reported in Wuhan city, Hubei province, China. (...)
         
       </div>
     </div>
@@ -542,10 +602,10 @@
     
     
     <div>
-      <h2><a href="/publication/32271601/" >Epidemiology and Clinical Characteristics of COVID-19.</a></h2>
+      <h2><a href="/publication/31986264/" >Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.</a></h2>
       <div class="article-style">
         
-          Journal: Arch Iran Med | PMID: 32271601 | doi: 10.34172/aim.2020.09 | Type: Letter. Since December 2019, there has been an outbreak of a novel coronavirus (COVID-19) infection in Wuhan, China. Meanwhile, (...)
+          Journal: Lancet | PMID: 31986264 | doi: 10.1016/S0140-6736(20)30183-5 | Type: Journal Article. A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus ( (...)
         
       </div>
     </div>
@@ -554,85 +614,16 @@
     
     
     <div>
-      <h2><a href="/publication/32268019/" >[Clinical experience of high-flow nasal cannula oxygen therapy in severe corona virus disease 2019 (COVID-19) patients].</a></h2>
+      <h2><a href="/publication/32007143/" >Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.</a></h2>
       <div class="article-style">
         
-          Journal: Zhejiang Da Xue Xue Bao Yi Xue Ban | PMID: 32268019 | doi: NA | Type: Letter. Acute respiratory failure due to acute hypoxemia is the major manifestation in severe coronavirus disease 2019 (COVID-19 (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32268643/" >[The network investigation on knowledge, attitude and practice about COVID-19 of the residents in Anhui Province].</a></h2>
-      <div class="article-style">
-        
-          Journal: Zhonghua Yu Fang Yi Xue Za Zhi | PMID: 32268643 | doi: 10.3760/cma.j.cn112150-20200205-00069 | Type: Letter. Objective: To analyze the current situation of the knowledge, attitudes and practice about COVID-19 of the reside (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32271726/" >Detection of SARS-CoV-2 Among Residents and Staff Members of an Independent and Assisted Living Community for Older Adults - Seattle, Washington, 2020.</a></h2>
-      <div class="article-style">
-        
-          Journal: MMWR Morb. Mortal. Wkly. Rep. | PMID: 32271726 | doi: 10.15585/mmwr.mm6914e2 | Type: Comment. In the Seattle, Washington metropolitan area, where the first case of novel coronavirus 2019 disease (COVID-19) in the U (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32216961/" >Imaging manifestations and diagnostic value of chest CT of coronavirus disease 2019 (COVID-19) in the Xiaogan area.</a></h2>
-      <div class="article-style">
-        
-          Journal: Clin Radiol | PMID: 32216961 | doi: 10.1016/j.crad.2020.03.004 | Type: Journal Article. To report the epidemiological, clinical, and radiological characteristics of patients with COVID-19 in Xiaogan, Hubei, C (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32267109/" >[Coronavirus and COVID-19 : focus on a galopping pandemic].</a></h2>
-      <div class="article-style">
-        
-          Journal: Rev Med Liege | PMID: 32267109 | doi: NA | Type: Guideline. The international community is currently facing a pandemic of acute respiratory syndrome caused by a new coronavirus, SA (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32178954/" >Anesthetic Management of Patients with COVID 19 Infections during Emergency Procedures.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Cardiothorac. Vasc. Anesth. | PMID: 32178954 | doi: 10.1053/j.jvca.2020.02.039 | Type: Editorial. The aim of the present study was to prevent cross-infection in the operating room during emergency procedures for patien (...)
+          Journal: Lancet | PMID: 32007143 | doi: 10.1016/S0140-6736(20)30211-7 | Type: Journal Article. In December, 2019, a pneumonia associated with the 2019 novel coronavirus (2019-nCoV) emerged in Wuhan, China. We aimed (...)
         
       </div>
     </div>
   
 
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    
-    <li class="page-item"><a class="page-link" href="/tag/aged/page/2/">&raquo;</a></li>
-    
-  </ul>
-</nav>
-
 
 </div>
 
@@ -757,8 +748,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

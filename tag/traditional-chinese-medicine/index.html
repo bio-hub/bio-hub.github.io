@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/traditional-chinese-medicine/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/traditional-chinese-medicine/">
   <meta property="og:title" content="Traditional Chinese Medicine | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-14T00:00:00&#43;00:00">
@@ -554,7 +592,7 @@
     
     
     <div>
-      <h2><a href="/publication/32281329/" >[Study on treatment of &amp;quot;cytokine storm&amp;quot; by anti-2019-nCoV prescriptions based on arachidonic acid metabolic pathway].</a></h2>
+      <h2><a href="/publication/32281329/" >[Study on treatment of cytokine storm by anti-2019-nCoV prescriptions based on arachidonic acid metabolic pathway].</a></h2>
       <div class="article-style">
         
           Journal: Zhongguo Zhong Yao Za Zhi | PMID: 32281329 | doi: 10.19540/j.cnki.cjcmm.20200224.405 | Type: Letter. Since the outbreak of 2019-nCoV, the epidemic has developed rapidly and the situation is grim. LANCET figured out that t (...)
@@ -570,6 +608,18 @@
       <div class="article-style">
         
           Journal: Chin J Nat Med | PMID: 32245590 | doi: 10.1016/S1875-5364(20)30022-4 | Type: Journal Article. The novel coronavirus pneumonia broke out in 2019 and spread rapidly. In 30 different countries, there are over seventy (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32226288/" >Traditional Chinese Medicine in the Treatment of Patients Infected with 2019-New Coronavirus (SARS-CoV-2): A Review and Perspective.</a></h2>
+      <div class="article-style">
+        
+          Journal: Int. J. Biol. Sci. | PMID: 32226288 | doi: 10.7150/ijbs.45538 | Type: Journal Article. Currently, Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2, formerly known as 2019-nCoV, the causative patho (...)
         
       </div>
     </div>
@@ -700,8 +750,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

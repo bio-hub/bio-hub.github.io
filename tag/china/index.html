@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/china/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/china/">
   <meta property="og:title" content="China | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-16T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-04-01T00:00:00&#43;00:00">
   
 
   
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -506,10 +566,10 @@
     
     
     <div>
-      <h2><a href="/publication/32222988/" >Review article: gastrointestinal features in COVID-19 and the possibility of faecal transmission.</a></h2>
+      <h2><a href="/publication/31995857/" >Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia.</a></h2>
       <div class="article-style">
         
-          Journal: Aliment. Pharmacol. Ther. | PMID: 32222988 | doi: 10.1111/apt.15731 | Type: Journal Article. There is little published evidence on the gastrointestinal features of COVID-19. To report on the gastrointestinal manif (...)
+          Journal: N. Engl. J. Med. | PMID: 31995857 | doi: 10.1056/NEJMoa2001316 | Type: Journal Article. The initial cases of novel coronavirus (2019-nCoV)-infected pneumonia (NCIP) occurred in Wuhan, Hubei Province, China, i (...)
         
       </div>
     </div>
@@ -518,10 +578,10 @@
     
     
     <div>
-      <h2><a href="/publication/32292802/" >Emergence of deadly severe acute respiratory syndrome coronavirus-2 during 2019-2020.</a></h2>
+      <h2><a href="/publication/31994742/" >Updated understanding of the outbreak of 2019 novel coronavirus (2019-nCoV) in Wuhan, China.</a></h2>
       <div class="article-style">
         
-          Journal: Virusdisease | PMID: 32292802 | doi: 10.1007/s13337-020-00575-1 | Type: Journal Article | Journal Article. Wuhan, the city in Hubei province in China is in the focus of global community due to the outbreak of coronavirus diseas (...)
+          Journal: J. Med. Virol. | PMID: 31994742 | doi: 10.1002/jmv.25689 | Type: Journal Article. To help health workers and the public recognize and deal with the 2019 novel coronavirus (2019-nCoV) quickly, effectivel (...)
         
       </div>
     </div>
@@ -530,10 +590,10 @@
     
     
     <div>
-      <h2><a href="/publication/32281333/" >[Analysis of property and efficacy of traditional Chinese medicine in staging revention and treatment of coronavirus disease 2019].</a></h2>
+      <h2><a href="/publication/32017984/" >Measures for diagnosing and treating infections by a novel coronavirus responsible for a pneumonia outbreak originating in Wuhan, China.</a></h2>
       <div class="article-style">
         
-          Journal: Zhongguo Zhong Yao Za Zhi | PMID: 32281333 | doi: 10.19540/j.cnki.cjcmm.20200225.501 | Type: Journal Article. Coronavirus disease 2019(COVID-19) triggered a severe and complicated epidemic situation, and it is of great significanc (...)
+          Journal: Microbes Infect. | PMID: 32017984 | doi: 10.1016/j.micinf.2020.01.003 | Type: Journal Article. On 10 January 2020, a new coronavirus causing a pneumonia outbreak in Wuhan City in central China was denoted as 2019-nC (...)
         
       </div>
     </div>
@@ -542,10 +602,10 @@
     
     
     <div>
-      <h2><a href="/publication/32281327/" >[Rapid establishment of traditional Chinese medicine prevention and treatment of 2019-nCoV based on clinical experience and molecular docking].</a></h2>
+      <h2><a href="/publication/31986261/" >A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster.</a></h2>
       <div class="article-style">
         
-          Journal: Zhongguo Zhong Yao Za Zhi | PMID: 32281327 | doi: 10.19540/j.cnki.cjcmm.20200206.501 | Type: Journal Article. The coronavirus disease 2019(COVID-19) is raging in China and more than 20 other countries and regions since the middle (...)
+          Journal: Lancet | PMID: 31986261 | doi: 10.1016/S0140-6736(20)30154-9 | Type: Letter. An ongoing outbreak of pneumonia associated with a novel coronavirus was reported in Wuhan city, Hubei province, China. (...)
         
       </div>
     </div>
@@ -554,10 +614,10 @@
     
     
     <div>
-      <h2><a href="/publication/32281334/" >[Strategy of pharmaceutical care services for clinical Chinese pharmacists in coronavirus disease 2019 (COVID-19)].</a></h2>
+      <h2><a href="/publication/31986264/" >Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.</a></h2>
       <div class="article-style">
         
-          Journal: Zhongguo Zhong Yao Za Zhi | PMID: 32281334 | doi: 10.19540/j.cnki.cjcmm.20200211.501 | Type: Journal Article. The outbreak of coronavirus disease 2019(COVID-19) seriously endangers people's health. Traditional Chinese medicine(TCM (...)
+          Journal: Lancet | PMID: 31986264 | doi: 10.1016/S0140-6736(20)30183-5 | Type: Journal Article. A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus ( (...)
         
       </div>
     </div>
@@ -566,73 +626,16 @@
     
     
     <div>
-      <h2><a href="/publication/32271597/" >A Model for COVID-19 Prediction in Iran Based on China Parameters.</a></h2>
+      <h2><a href="/publication/32007143/" >Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.</a></h2>
       <div class="article-style">
         
-          Journal: Arch Iran Med | PMID: 32271597 | doi: 10.34172/aim.2020.05 | Type: Journal Article. The rapid spread of COVID-19 virus from China to other countries and outbreaks of disease require an epidemiological ana (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32271601/" >Epidemiology and Clinical Characteristics of COVID-19.</a></h2>
-      <div class="article-style">
-        
-          Journal: Arch Iran Med | PMID: 32271601 | doi: 10.34172/aim.2020.09 | Type: Letter. Since December 2019, there has been an outbreak of a novel coronavirus (COVID-19) infection in Wuhan, China. Meanwhile, (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32271602/" >Improved Early Recognition of Coronavirus Disease-2019 (COVID-19): Single-Center Data from a Shanghai Screening Hospital.</a></h2>
-      <div class="article-style">
-        
-          Journal: Arch Iran Med | PMID: 32271602 | doi: 10.34172/aim.2020.10 | Type: Journal Article. In December 2019, an outbreak of a novel coronavirus disease (COVID-19; previously known as 2019-nCoV) was reported in W (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32233641/" >Network pharmacology-based analysis of the role of traditional Chinese herbal medicines in the treatment of COVID-19.</a></h2>
-      <div class="article-style">
-        
-          Journal: Ann Palliat Med | PMID: 32233641 | doi: 10.21037/apm.2020.03.27 | Type: Journal Article. The novel coronavirus named COVID-19, which originated in Wuhan, China, has spread to many countries around the world. C (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32268643/" >[The network investigation on knowledge, attitude and practice about COVID-19 of the residents in Anhui Province].</a></h2>
-      <div class="article-style">
-        
-          Journal: Zhonghua Yu Fang Yi Xue Za Zhi | PMID: 32268643 | doi: 10.3760/cma.j.cn112150-20200205-00069 | Type: Letter. Objective: To analyze the current situation of the knowledge, attitudes and practice about COVID-19 of the reside (...)
+          Journal: Lancet | PMID: 32007143 | doi: 10.1016/S0140-6736(20)30211-7 | Type: Journal Article. In December, 2019, a pneumonia associated with the 2019 novel coronavirus (2019-nCoV) emerged in Wuhan, China. We aimed (...)
         
       </div>
     </div>
   
 
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    
-    <li class="page-item"><a class="page-link" href="/tag/china/page/2/">&raquo;</a></li>
-    
-  </ul>
-</nav>
-
 
 </div>
 
@@ -757,8 +760,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

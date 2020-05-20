@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/2019-ncov/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/2019-ncov/">
   <meta property="og:title" content="2019-nCoV | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-16T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-03-18T00:00:00&#43;00:00">
   
 
   
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -506,10 +566,10 @@
     
     
     <div>
-      <h2><a href="/publication/32237901/" >Immune-epidemiological parameters of the novel coronavirus - a perspective.</a></h2>
+      <h2><a href="/publication/31996494/" >Drug treatment options for the 2019-new coronavirus (2019-nCoV).</a></h2>
       <div class="article-style">
         
-          Journal: Expert Rev Clin Immunol | PMID: 32237901 | doi: 10.1080/1744666X.2020.1750954 | Type: Letter. Introduction: At the end of 2019, Wuhan, a city in China with a population of about 11 million, witnessed the out (...)
+          Journal: Biosci Trends | PMID: 31996494 | doi: 10.5582/bst.2020.01020 | Type: Journal Article. As of January 22, 2020, a total of 571 cases of the 2019-new coronavirus (2019-nCoV) have been reported in 25 provinces (...)
         
       </div>
     </div>
@@ -518,10 +578,10 @@
     
     
     <div>
-      <h2><a href="/publication/32251634/" >Virtual screening and repurposing of FDA approved drugs against COVID-19 main protease.</a></h2>
+      <h2><a href="/publication/32022370/" >Learning from the Past: Possible Urgent Prevention and Treatment Options for Severe Acute Respiratory Infections Caused by 2019-nCoV.</a></h2>
       <div class="article-style">
         
-          Journal: Life Sci. | PMID: 32251634 | doi: 10.1016/j.lfs.2020.117627 | Type: Journal Article. In December 2019, the Coronavirus disease-2019 (COVID-19) virus has emerged in Wuhan, China. In this research, the first (...)
+          Journal: Chembiochem | PMID: 32022370 | doi: 10.1002/cbic.202000047 | Type: Editorial. With the current trajectory of the 2019-nCoV outbreak unknown, public health and medicinal measures will both be needed (...)
         
       </div>
     </div>
@@ -530,109 +590,16 @@
     
     
     <div>
-      <h2><a href="/publication/32292261/" >Biological and Epidemiological Trends in the Prevalence and Mortality due to Outbreaks of Novel Coronavirus COVID-19.</a></h2>
+      <h2><a href="/publication/32017984/" >Measures for diagnosing and treating infections by a novel coronavirus responsible for a pneumonia outbreak originating in Wuhan, China.</a></h2>
       <div class="article-style">
         
-          Journal: J King Saud Univ Sci | PMID: 32292261 | doi: 10.1016/j.jksus.2020.04.004 | Type: Editorial | Journal Article. The novel coronavirus (Covid-19) infection outbreak has posed a major threat to international health system and economy. (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32291112/" >Ongoing Clinical Trials for the Management of the COVID-19 Pandemic.</a></h2>
-      <div class="article-style">
-        
-          Journal: Trends Pharmacol. Sci. | PMID: 32291112 | doi: 10.1016/j.tips.2020.03.006 | Type: Journal Article | Journal Article. COVID-19 has rapidly developed into a worldwide pandemic with a significant health and economic burden. There are curren (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32234465/" >Recent progress in understanding 2019 novel coronavirus (SARS-CoV-2) associated with human respiratory disease: detection, mechanisms and treatment.</a></h2>
-      <div class="article-style">
-        
-          Journal: Int. J. Antimicrob. Agents | PMID: 32234465 | doi: 10.1016/j.ijantimicag.2020.105950 | Type: Editorial. Viral respiratory diseases such as severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS) (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32272396/" >The possible of immunotherapy for COVID-19: A systematic review.</a></h2>
-      <div class="article-style">
-        
-          Journal: Int. Immunopharmacol. | PMID: 32272396 | doi: 10.1016/j.intimp.2020.106455 | Type: Journal Article. The novel coronavirus (2019-nCoV) is an emerging pathogen that was first described in late December 2019 and causes a se (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32281333/" >[Analysis of property and efficacy of traditional Chinese medicine in staging revention and treatment of coronavirus disease 2019].</a></h2>
-      <div class="article-style">
-        
-          Journal: Zhongguo Zhong Yao Za Zhi | PMID: 32281333 | doi: 10.19540/j.cnki.cjcmm.20200225.501 | Type: Journal Article. Coronavirus disease 2019(COVID-19) triggered a severe and complicated epidemic situation, and it is of great significanc (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32281331/" >[Analysis on pattern of prescriptions and syndromes of traditional Chinese medicine for prevention and treatment of COVID-19].</a></h2>
-      <div class="article-style">
-        
-          Journal: Zhongguo Zhong Yao Za Zhi | PMID: 32281331 | doi: 10.19540/j.cnki.cjcmm.20200218.502 | Type: Journal Article. To investigate the regularity of prescription and clinical syndromes by analyzing the diagnosis and treatment protocols (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32281327/" >[Rapid establishment of traditional Chinese medicine prevention and treatment of 2019-nCoV based on clinical experience and molecular docking].</a></h2>
-      <div class="article-style">
-        
-          Journal: Zhongguo Zhong Yao Za Zhi | PMID: 32281327 | doi: 10.19540/j.cnki.cjcmm.20200206.501 | Type: Journal Article. The coronavirus disease 2019(COVID-19) is raging in China and more than 20 other countries and regions since the middle (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32281334/" >[Strategy of pharmaceutical care services for clinical Chinese pharmacists in coronavirus disease 2019 (COVID-19)].</a></h2>
-      <div class="article-style">
-        
-          Journal: Zhongguo Zhong Yao Za Zhi | PMID: 32281334 | doi: 10.19540/j.cnki.cjcmm.20200211.501 | Type: Journal Article. The outbreak of coronavirus disease 2019(COVID-19) seriously endangers people's health. Traditional Chinese medicine(TCM (...)
+          Journal: Microbes Infect. | PMID: 32017984 | doi: 10.1016/j.micinf.2020.01.003 | Type: Journal Article. On 10 January 2020, a new coronavirus causing a pneumonia outbreak in Wuhan City in central China was denoted as 2019-nC (...)
         
       </div>
     </div>
   
 
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    
-    <li class="page-item"><a class="page-link" href="/tag/2019-ncov/page/2/">&raquo;</a></li>
-    
-  </ul>
-</nav>
-
 
 </div>
 
@@ -757,8 +724,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

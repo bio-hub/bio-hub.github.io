@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/sars-cov-2/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/sars-cov-2/">
   <meta property="og:title" content="SARS-CoV-2 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,6 +544,54 @@
     
     
     <div>
+      <h2><a href="/publication/32226287/" >Evaluation of SARS-CoV-2 RNA shedding in clinical specimens and clinical characteristics of 10 patients with COVID-19 in Macau.</a></h2>
+      <div class="article-style">
+        
+          Journal: Int. J. Biol. Sci. | PMID: 32226287 | doi: 10.7150/ijbs.45357 | Type: Editorial. As a city famous for tourism, the public healthcare system of Macau SAR has been under great pressure during the outbrea (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32107577/" >Imaging and clinical features of patients with 2019 novel coronavirus SARS-CoV-2.</a></h2>
+      <div class="article-style">
+        
+          Journal: Eur. J. Nucl. Med. Mol. Imaging | PMID: 32107577 | doi: 10.1007/s00259-020-04735-9 | Type: Journal Article. The pneumonia caused by the 2019 novel coronavirus (SARS-CoV-2, also called 2019-nCoV) recently break out in Wuhan, Chin (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32226289/" >Perspectives on therapeutic neutralizing antibodies against the Novel Coronavirus SARS-CoV-2.</a></h2>
+      <div class="article-style">
+        
+          Journal: Int. J. Biol. Sci. | PMID: 32226289 | doi: 10.7150/ijbs.45123 | Type: Editorial. A newly identified novel coronavirus (SARS-CoV-2) is causing pneumonia-associated respiratory syndrome across the world. (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32226285/" >SARS-CoV-2: an Emerging Coronavirus that Causes a Global Threat.</a></h2>
+      <div class="article-style">
+        
+          Journal: Int. J. Biol. Sci. | PMID: 32226285 | doi: 10.7150/ijbs.45053 | Type: Journal Article. An ongoing outbreak of pneumonia caused by a novel coronavirus, currently designated as the severe acute respiratory syn (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32226288/" >Traditional Chinese Medicine in the Treatment of Patients Infected with 2019-New Coronavirus (SARS-CoV-2): A Review and Perspective.</a></h2>
       <div class="article-style">
         
@@ -570,54 +656,6 @@
       <div class="article-style">
         
           Journal: Liver Int. | PMID: 32239796 | doi: 10.1111/liv.14455 | Type: Journal Article. The SARS-CoV-2 pandemic is an ongoing global health emergency. The aim of our study was to investigate the changes of li (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32235486/" >Novel Coronavirus Infection (COVID-19) in Humans: A Scoping Review and Meta-Analysis.</a></h2>
-      <div class="article-style">
-        
-          Journal: J Clin Med | PMID: 32235486 | doi: 10.3390/jcm9040941 | Type: Journal Article. A growing body of literature on the 2019 novel coronavirus (SARS-CoV-2) is becoming available, but a synthesis of availa (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32241022/" >SARS-CoV-2 is not detectable in the vaginal fluid of women with severe COVID-19 infection.</a></h2>
-      <div class="article-style">
-        
-          Journal: Clin. Infect. Dis. | PMID: 32241022 | doi: 10.1093/cid/ciaa375 | Type: Journal Article. Severe acute respiratory syndrome coronavirus 2(SARS-CoV-2) is mainly spread through respiratory droplets or direct cont (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32179150/" >Teicoplanin: an alternative drug for the treatment of COVID-19?</a></h2>
-      <div class="article-style">
-        
-          Journal: Int. J. Antimicrob. Agents | PMID: 32179150 | doi: 10.1016/j.ijantimicag.2020.105944 | Type: Journal Article. In December 2019, a novel coronavirus, named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), emerged from (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32226962/" >COVID-19 in a Patient Presenting with Syncope and a Normal Chest X-ray.</a></h2>
-      <div class="article-style">
-        
-          Journal: R I Med J (2013) | PMID: 32226962 | doi: NA | Type: Comment. SARS-CoV-2 is a novel virus that has now affected hundreds of thousands of individuals across the world. Amidst this glo (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

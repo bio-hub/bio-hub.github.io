@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/sars-cov-2/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/sars-cov-2/">
   <meta property="og:title" content="SARS-CoV-2 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,6 +544,66 @@
     
     
     <div>
+      <h2><a href="/publication/32221519/" >Antibody responses to SARS-CoV-2 in patients of novel coronavirus disease 2019.</a></h2>
+      <div class="article-style">
+        
+          Journal: Clin. Infect. Dis. | PMID: 32221519 | doi: 10.1093/cid/ciaa344 | Type: Journal Article. The novel coronavirus SARS-CoV-2 is a newly emerging virus. The antibody response in infected patient remains largely un (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32170865/" >Coronavirus disease 2019: What we know?</a></h2>
+      <div class="article-style">
+        
+          Journal: J. Med. Virol. | PMID: 32170865 | doi: 10.1002/jmv.25766 | Type: Letter. In late December 2019, a cluster of unexplained pneumonia cases has been reported in Wuhan, China. A few days later, the (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32221523/" >Quantitative Detection and Viral Load Analysis of SARS-CoV-2 in Infected Patients.</a></h2>
+      <div class="article-style">
+        
+          Journal: Clin. Infect. Dis. | PMID: 32221523 | doi: 10.1093/cid/ciaa345 | Type: Journal Article. Coronavirus disease 2019 (COVID-19) has become a public health emergency. The widely used reverse transcription PCR (RT- (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32220033/" >Early antiviral treatment contributes to alleviate the severity and improve the prognosis of patients with novel coronavirus disease (COVID-19).</a></h2>
+      <div class="article-style">
+        
+          Journal: J. Intern. Med. | PMID: 32220033 | doi: 10.1111/joim.13063 | Type: Journal Article. At present, the severity of patients infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32210741/" >Unrevealing sequence and structural features of novel coronavirus using &lt;i&gt;in silico&lt;/i&gt; approaches: The main protease as molecular target.</a></h2>
+      <div class="article-style">
+        
+          Journal: EXCLI J | PMID: 32210741 | doi: 10.17179/excli2020-1189 | Type: Letter. Direct-acting antivirals are effective tools to control viral infections. SARS-CoV-2 is a coronavirus associated with th (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32215622/" >Simulation of the clinical and pathological manifestations of Coronavirus Disease 2019 (COVID-19) in golden Syrian hamster model: implications for disease pathogenesis and transmissibility.</a></h2>
       <div class="article-style">
         
@@ -558,66 +656,6 @@
       <div class="article-style">
         
           Journal: Curr Med Sci | PMID: 32207032 | doi: 10.1007/s11596-020-2172-6 | Type: Journal Article. Since December 2019, COVID-19 has occurred unexpectedly and emerged as a health problem worldwide. Despite the rapidly i (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32166607/" >A Review of Coronavirus Disease-2019 (COVID-19).</a></h2>
-      <div class="article-style">
-        
-          Journal: Indian J Pediatr | PMID: 32166607 | doi: 10.1007/s12098-020-03263-6 | Type: Review. There is a new public health crises threatening the world with the emergence and spread of 2019 novel coronavirus (2019- (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32098422/" >Systematic Comparison of Two Animal-to-Human Transmitted Human Coronaviruses: SARS-CoV-2 and SARS-CoV.</a></h2>
-      <div class="article-style">
-        
-          Journal: Viruses | PMID: 32098422 | doi: 10.3390/v12020244 | Type: Letter. After the outbreak of the severe acute respiratory syndrome (SARS) in the world in 2003, human coronaviruses (HCoVs) hav (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32139372/" >What we know so far: COVID-19 current clinical knowledge and research.</a></h2>
-      <div class="article-style">
-        
-          Journal: Clin Med (Lond) | PMID: 32139372 | doi: 10.7861/clinmed.2019-coron | Type: Journal Article. In December 2019, health authorities in Wuhan, China, identified a cluster of pneumonia cases of unknown aetiology linke (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32167166/" >An exclusive 42 amino acid signature in pp1ab protein provides insights into the evolutive history of the 2019 novel human-pathogenic coronavirus (SARS-CoV-2).</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Med. Virol. | PMID: 32167166 | doi: 10.1002/jmv.25758 | Type: Journal Article. The city of Wuhan, Hubei province, China, was the origin of a severe pneumonia outbreak in December 2019, attributed to (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32149037/" >Early Epidemiological and Clinical Characteristics of 28 Cases of Coronavirus Disease in South Korea.</a></h2>
-      <div class="article-style">
-        
-          Journal: Osong Public Health Res Perspect | PMID: 32149037 | doi: 10.24171/j.phrp.2020.11.1.03 | Type: Journal Article. The first confirmed case of coronavirus disease 2019 (COVID-19) in South Korea was reported in January 2020, with 28 con (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

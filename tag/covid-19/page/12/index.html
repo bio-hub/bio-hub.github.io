@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/covid-19/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/covid-19/">
   <meta property="og:title" content="COVID-19 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,6 +544,54 @@
     
     
     <div>
+      <h2><a href="/publication/32279418/" >Threatening drug-drug interaction in a kidney transplant patient with Coronavirus Disease 2019 (COVID-19).</a></h2>
+      <div class="article-style">
+        
+          Journal: Transpl Infect Dis | PMID: 32279418 | doi: 10.1111/tid.13286 | Type: Editorial. During the novel coronavirus pandemic, organ transplant recipients represent a frail susceptible category due to long-te (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32269893/" >A Comprehensive Literature Review on the Clinical Presentation, and Management of the Pandemic Coronavirus Disease 2019 (COVID-19).</a></h2>
+      <div class="article-style">
+        
+          Journal: Cureus | PMID: 32269893 | doi: 10.7759/cureus.7560 | Type: Journal Article. Coronavirus disease 2019 (COVID-19) is a declared global pandemic. There are multiple parameters of the clinical course (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32247926/" >Clinical features of the first cases and a cluster of Coronavirus Disease 2019 (COVID-19) in Bolivia imported from Italy and Spain.</a></h2>
+      <div class="article-style">
+        
+          Journal: Travel Med Infect Dis | PMID: 32247926 | doi: 10.1016/j.tmaid.2020.101653 | Type: Journal Article. In March 2020, Coronavirus Disease 2019 (COVID-19) arrived in Bolivia. Here, we report the main clinical findings, and e (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32277759/" >Cluster of coronavirus disease 2019 (Covid-19) in the French Alps, 2020.</a></h2>
+      <div class="article-style">
+        
+          Journal: Clin. Infect. Dis. | PMID: 32277759 | doi: 10.1093/cid/ciaa424 | Type: Journal Article. On 07/02/2020, French Health authorities were informed of a confirmed case of SARS-CoV-2 coronavirus in an Englishman in (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32277591/" >Fatal outcome in a liver transplant recipient with COVID-19.</a></h2>
       <div class="article-style">
         
@@ -570,54 +656,6 @@
       <div class="article-style">
         
           Journal: J. Med. Virol. | PMID: 32222119 | doi: 10.1002/jmv.25789 | Type: Journal Article. The aim is to evaluate pregnant women infected with coronavirus disease 2019 (COVID-19) and provide help for clinical pr (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32219882/" >Controversial treatments: An updated understanding of the coronavirus disease 2019.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Med. Virol. | PMID: 32219882 | doi: 10.1002/jmv.25788 | Type: Journal Article. An outbreak of severe acute respiratory syndrome-related coronavirus 2 infection has posed significant threats to intern (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32162702/" >COVID-19 patients&#39; clinical characteristics, discharge rate, and fatality rate of meta-analysis.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Med. Virol. | PMID: 32162702 | doi: 10.1002/jmv.25757 | Type: Journal Article. The aim of this study was to analyze the clinical data, discharge rate, and fatality rate of COVID-19 patients for clini (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32275452/" >COVID-19 with Different Severity: A Multi-center Study of Clinical Features.</a></h2>
-      <div class="article-style">
-        
-          Journal: Am. J. Respir. Crit. Care Med. | PMID: 32275452 | doi: 10.1164/rccm.202002-0445OC | Type: Letter. COVID-19 pandemic is now a global health concern. We compared the clinical characteristics, laboratory examinations, CT (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32238757/" >Current Status of Epidemiology, Diagnosis, Therapeutics, and Vaccines for Novel Coronavirus Disease 2019 (COVID-19).</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Microbiol. Biotechnol. | PMID: 32238757 | doi: 10.4014/jmb.2003.03011 | Type: Journal Article. Coronavirus disease 2019 (COVID-19), which causes serious respiratory illness such as pneumonia and lung failure, was fi (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/coronavirus-disease-2019/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/coronavirus-disease-2019/">
   <meta property="og:title" content="Coronavirus disease 2019 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-16T00:00:00&#43;00:00">
@@ -506,6 +544,30 @@
     
     
     <div>
+      <h2><a href="/publication/32238024/" >A case of imported COVID-19 diagnosed by PCR-positive lower respiratory specimen but with PCR-negative throat swabs.</a></h2>
+      <div class="article-style">
+        
+          Journal: Infect Dis (Lond) | PMID: 32238024 | doi: 10.1080/23744235.2020.1744711 | Type: Letter. A 35-year-old woman presented with fever and mild diarrhoea without any respiratory symptoms 9 days after travelling to (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32278175/" >COVID-19: A promising cure for the global panic.</a></h2>
+      <div class="article-style">
+        
+          Journal: Sci. Total Environ. | PMID: 32278175 | doi: 10.1016/j.scitotenv.2020.138277 | Type: Journal Article. The novel Coronavirus disease 2019 (COVID-19) is caused by SARS-CoV-2, which is the causative agent of a potentially fat (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32289016/" >Herbal medicine and pattern identification for treating COVID-19: a rapid review of guidelines.</a></h2>
       <div class="article-style">
         
@@ -522,6 +584,18 @@
       <div class="article-style">
         
           Journal: Travel Med Infect Dis | PMID: 32283217 | doi: 10.1016/j.tmaid.2020.101665 | Type: Letter. This report highlights details on a pregnant case of COVID-19 who unfortunately did not survive. This 27-year-old woman (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32222466/" >The use of anti-inflammatory drugs in the treatment of people with severe coronavirus disease 2019 (COVID-19): The Perspectives of clinical immunologists from China.</a></h2>
+      <div class="article-style">
+        
+          Journal: Clin. Immunol. | PMID: 32222466 | doi: 10.1016/j.clim.2020.108393 | Type: Journal Article. The pandemic outbreak of coronavirus disease 2019 (COVID-19) is rapidly spreading all over the world. Reports from China (...)
         
       </div>
     </div>
@@ -582,42 +656,6 @@
       <div class="article-style">
         
           Journal: Arch Iran Med | PMID: 32271596 | doi: 10.34172/aim.2020.04 | Type: Comment. In late December 2019, a viral pneumonia known as coronavirus disease 2019 (COVID-19) originated from China and spread v (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32175797/" >Can the Coronavirus Disease 2019 (COVID-19) Affect the Eyes? A Review of Coronaviruses and Ocular Implications in Humans and Animals.</a></h2>
-      <div class="article-style">
-        
-          Journal: Ocul. Immunol. Inflamm. | PMID: 32175797 | doi: 10.1080/09273948.2020.1738501 | Type: Letter. In December 2019, a novel coronavirus (CoV) epidemic, caused by the severe acute respiratory syndrome coronavirus - 2 (S (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32278758/" >A cross-sectional comparison of epidemiological and clinical features of patients with coronavirus disease (COVID-19) in Wuhan and outside Wuhan, China.</a></h2>
-      <div class="article-style">
-        
-          Journal: Travel Med Infect Dis | PMID: 32278758 | doi: 10.1016/j.tmaid.2020.101664 | Type: Letter. Coronavirus disease 2019 (COVID-19) has spread outside the initial epicenter of Wuhan. We compared cases in Guangzhou an (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32193037/" >CT manifestations of coronavirus disease-2019: A retrospective analysis of 73 cases by disease severity.</a></h2>
-      <div class="article-style">
-        
-          Journal: Eur J Radiol | PMID: 32193037 | doi: 10.1016/j.ejrad.2020.108941 | Type: Journal Article. To report CT features of coronavirus disease-2019 (COVID-19) in patients with various disease severity. The CT manifesta (...)
         
       </div>
     </div>
@@ -757,8 +795,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

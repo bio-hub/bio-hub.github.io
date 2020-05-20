@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/spike-glycoprotein/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/spike-glycoprotein/">
   <meta property="og:title" content="Spike Glycoprotein | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-14T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-03-18T00:00:00&#43;00:00">
   
 
   
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -501,54 +561,6 @@
   
 
   
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32281327/" >[Rapid establishment of traditional Chinese medicine prevention and treatment of 2019-nCoV based on clinical experience and molecular docking].</a></h2>
-      <div class="article-style">
-        
-          Journal: Zhongguo Zhong Yao Za Zhi | PMID: 32281327 | doi: 10.19540/j.cnki.cjcmm.20200206.501 | Type: Journal Article. The coronavirus disease 2019(COVID-19) is raging in China and more than 20 other countries and regions since the middle (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32231345/" >Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion.</a></h2>
-      <div class="article-style">
-        
-          Journal: Cell Res. | PMID: 32231345 | doi: 10.1038/s41422-020-0305-x | Type: Letter. The recent outbreak of coronavirus disease (COVID-19) caused by SARS-CoV-2 infection in Wuhan, China has posed a serious (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32207377/" >Establishment and validation of a pseudovirus neutralization assay for SARS-CoV-2.</a></h2>
-      <div class="article-style">
-        
-          Journal: Emerg Microbes Infect | PMID: 32207377 | doi: 10.1080/22221751.2020.1743767 | Type: Letter. Pseudoviruses are useful virological tools because of their safety and versatility, especially for emerging and re-emerg (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32134278/" >Perspectives on monoclonal antibody therapy as potential therapeutic intervention for Coronavirus disease-19 (COVID-19).</a></h2>
-      <div class="article-style">
-        
-          Journal: Asian Pac. J. Allergy Immunol. | PMID: 32134278 | doi: 10.12932/AP-200220-0773 | Type: Journal Article. Last decade witnessed the outbreak of many life-threatening human pathogens including Nipah, Ebola, Chikungunya, Zika, M (...)
-        
-      </div>
-    </div>
   
     
     
@@ -688,8 +700,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

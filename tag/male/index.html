@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/male/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,10 +269,10 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/male/">
   <meta property="og:title" content="Male | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-04-16T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-04-01T00:00:00&#43;00:00">
   
 
   
@@ -429,6 +467,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -506,10 +566,10 @@
     
     
     <div>
-      <h2><a href="/publication/32284613/" >Characteristics of pediatric SARS-CoV-2 infection and potential evidence for persistent fecal viral shedding.</a></h2>
+      <h2><a href="/publication/31995857/" >Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia.</a></h2>
       <div class="article-style">
         
-          Journal: Nat. Med. | PMID: 32284613 | doi: 10.1038/s41591-020-0817-4 | Type: Journal Article. We report epidemiological and clinical investigations on ten pediatric SARS-CoV-2 infection cases confirmed by real-time (...)
+          Journal: N. Engl. J. Med. | PMID: 31995857 | doi: 10.1056/NEJMoa2001316 | Type: Journal Article. The initial cases of novel coronavirus (2019-nCoV)-infected pneumonia (NCIP) occurred in Wuhan, Hubei Province, China, i (...)
         
       </div>
     </div>
@@ -518,10 +578,10 @@
     
     
     <div>
-      <h2><a href="/publication/32290644/" >Clinical and epidemiologic profile of the initial COVID-19 patients at a tertiary care centre in India.</a></h2>
+      <h2><a href="/publication/31986264/" >Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.</a></h2>
       <div class="article-style">
         
-          Journal: Monaldi Arch Chest Dis | PMID: 32290644 | doi: 10.4081/monaldi.2020.1294 | Type: Letter | Journal Article. COVID-19 has now become a pandemic. It has spread from Wuhan, China, in December 2019 to a large number of countries wit (...)
+          Journal: Lancet | PMID: 31986264 | doi: 10.1016/S0140-6736(20)30183-5 | Type: Journal Article. A recent cluster of pneumonia cases in Wuhan, China, was caused by a novel betacoronavirus, the 2019 novel coronavirus ( (...)
         
       </div>
     </div>
@@ -530,109 +590,16 @@
     
     
     <div>
-      <h2><a href="/publication/32228252/" >COVID-19, ACE2, and the cardiovascular consequences.</a></h2>
+      <h2><a href="/publication/32007143/" >Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.</a></h2>
       <div class="article-style">
         
-          Journal: Am. J. Physiol. Heart Circ. Physiol. | PMID: 32228252 | doi: 10.1152/ajpheart.00217.2020 | Type: Journal Article. The novel SARS coronavirus SARS-CoV-2 pandemic may be particularly deleterious to patients with underlying cardiovascula (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32271459/" >Clinical characteristics of 161 cases of corona virus disease 2019 (COVID-19) in Changsha.</a></h2>
-      <div class="article-style">
-        
-          Journal: Eur Rev Med Pharmacol Sci | PMID: 32271459 | doi: 10.26355/eurrev_202003_20711 | Type: Review. In December 2019, a new type of coronavirus-infected pneumonia broke out in Wuhan and spread rapidly to other parts of t (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32271456/" >Clinical efficacy of lopinavir/ritonavir in the treatment of Coronavirus disease 2019.</a></h2>
-      <div class="article-style">
-        
-          Journal: Eur Rev Med Pharmacol Sci | PMID: 32271456 | doi: 10.26355/eurrev_202003_20706 | Type: Letter. The Coronavirus disease 2019 (COVID-19) which outbroke in December 2019 is highly contagious with a low cure rate. In vi (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32271455/" >Successful treatment of COVID-19 using extracorporeal membrane oxygenation, a case report.</a></h2>
-      <div class="article-style">
-        
-          Journal: Eur Rev Med Pharmacol Sci | PMID: 32271455 | doi: 10.26355/eurrev_202003_20705 | Type: Letter. Since the end of 2019, COVID-19 has been prevalent in Wuhan, China, and has been rapidly spreading to mainland China. Cu (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32281317/" >Use of Convalescent Plasma Therapy in Two COVID-19 Patients with Acute Respiratory Distress Syndrome in Korea.</a></h2>
-      <div class="article-style">
-        
-          Journal: J. Korean Med. Sci. | PMID: 32281317 | doi: 10.3346/jkms.2020.35.e149 | Type: Letter. Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus-2 not yet has established it (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32091414/" >Chest CT Findings in Patients With Coronavirus Disease 2019 and Its Relationship With Clinical Features.</a></h2>
-      <div class="article-style">
-        
-          Journal: Invest Radiol | PMID: 32091414 | doi: 10.1097/RLI.0000000000000670 | Type: Review. The aim of this study was to investigate the chest computed tomography (CT) findings in patients with confirmed coronavi (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32271596/" >Co-infection of Coronavirus Disease 2019 and Influenza A: A Report from Iran.</a></h2>
-      <div class="article-style">
-        
-          Journal: Arch Iran Med | PMID: 32271596 | doi: 10.34172/aim.2020.04 | Type: Comment. In late December 2019, a viral pneumonia known as coronavirus disease 2019 (COVID-19) originated from China and spread v (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32250959/" >Dentists&#39; Awareness, Perception, and Attitude Regarding COVID-19 and Infection Control: Cross-Sectional Study Among Jordanian Dentists.</a></h2>
-      <div class="article-style">
-        
-          Journal: JMIR Public Health Surveill | PMID: 32250959 | doi: 10.2196/18798 | Type: Letter. Despite the availability of prevention guidelines and recommendations on infection control, many dental practices lack t (...)
+          Journal: Lancet | PMID: 32007143 | doi: 10.1016/S0140-6736(20)30211-7 | Type: Journal Article. In December, 2019, a pneumonia associated with the 2019 novel coronavirus (2019-nCoV) emerged in Wuhan, China. We aimed (...)
         
       </div>
     </div>
   
 
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    
-    <li class="page-item"><a class="page-link" href="/tag/male/page/2/">&raquo;</a></li>
-    
-  </ul>
-</nav>
-
 
 </div>
 
@@ -757,8 +724,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

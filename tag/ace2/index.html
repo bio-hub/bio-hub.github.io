@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/ace2/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/ace2/">
   <meta property="og:title" content="ACE2 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-16T00:00:00&#43;00:00">
@@ -554,10 +592,10 @@
     
     
     <div>
-      <h2><a href="/publication/32278065/" >Diarrhea during COVID-19 infection: pathogenesis, epidemiology, prevention and management.</a></h2>
+      <h2><a href="/publication/32285293/" >Searching therapeutic strategy of new coronavirus pneumonia from angiotensin-converting enzyme 2: the target of COVID-19 and SARS-CoV.</a></h2>
       <div class="article-style">
         
-          Journal: Clin. Gastroenterol. Hepatol. | PMID: 32278065 | doi: 10.1016/j.cgh.2020.04.001 | Type: Letter. The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2 / COVID-19) pandemic is a worldwide emergency. An increa (...)
+          Journal: Eur. J. Clin. Microbiol. Infect. Dis. | PMID: 32285293 | doi: 10.1007/s10096-020-03883-y | Type: Journal Article. Since December 2019, the infection of the new coronavirus (COVID-19) caused an outbreak of new coronavirus pneumonia in (...)
         
       </div>
     </div>
@@ -570,6 +608,18 @@
       <div class="article-style">
         
           Journal: Cureus | PMID: 32269893 | doi: 10.7759/cureus.7560 | Type: Journal Article. Coronavirus disease 2019 (COVID-19) is a declared global pandemic. There are multiple parameters of the clinical course (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32221983/" >Organ-protective effect of angiotensin-converting enzyme 2 and its effect on the prognosis of COVID-19.</a></h2>
+      <div class="article-style">
+        
+          Journal: J. Med. Virol. | PMID: 32221983 | doi: 10.1002/jmv.25785 | Type: Journal Article. This article reviews the correlation between angiotensin-converting enzyme 2 (ACE2) and severe risk factors for coronavi (...)
         
       </div>
     </div>
@@ -594,6 +644,18 @@
       <div class="article-style">
         
           Journal: F1000Res | PMID: 32117569 | doi: 10.12688/f1000research.22211.2 | Type: Editorial. A novel coronavirus (2019-nCoV) originating in Wuhan, China presents a potential respiratory viral pandemic to the world (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32129518/" >Angiotensin receptor blockers as tentative SARS-CoV-2 therapeutics.</a></h2>
+      <div class="article-style">
+        
+          Journal: Drug Dev. Res. | PMID: 32129518 | doi: 10.1002/ddr.21656 | Type: Journal Article. At the time of writing this commentary (February 2020), the coronavirus COVID-19 epidemic has already resulted in more f (...)
         
       </div>
     </div>
@@ -724,8 +786,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

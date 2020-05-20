@@ -23,7 +23,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
 
   
   <link rel="alternate" hreflang="en-us" href="/tag/sars-cov-2/">
@@ -199,6 +199,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -231,7 +269,7 @@
   <meta property="og:site_name" content="PlatCOVID">
   <meta property="og:url" content="/tag/sars-cov-2/">
   <meta property="og:title" content="SARS-CoV-2 | PlatCOVID">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-17T00:00:00&#43;00:00">
@@ -506,6 +544,18 @@
     
     
     <div>
+      <h2><a href="/publication/32292802/" >Emergence of deadly severe acute respiratory syndrome coronavirus-2 during 2019-2020.</a></h2>
+      <div class="article-style">
+        
+          Journal: Virusdisease | PMID: 32292802 | doi: 10.1007/s13337-020-00575-1 | Type: Journal Article | Journal Article. Wuhan, the city in Hubei province in China is in the focus of global community due to the outbreak of coronavirus diseas (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/32291076/" >EZH2-mediated H3K27me3 inhibits ACE2 expression.</a></h2>
       <div class="article-style">
         
@@ -606,18 +656,6 @@
       <div class="article-style">
         
           Journal: J. Korean Med. Sci. | PMID: 32281317 | doi: 10.3346/jkms.2020.35.e149 | Type: Letter. Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus-2 not yet has established it (...)
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/32283980/" >Clinical Presentation of COVID-19: A Systematic Review Focusing on Upper Airway Symptoms.</a></h2>
-      <div class="article-style">
-        
-          Journal: Ear Nose Throat J | PMID: 32283980 | doi: 10.1177/0145561320920762 | Type: Editorial. Pharyngodynia, nasal congestion, rhinorrhea, smell, and taste dysfunctions could be the presenting symptoms of coronavir (...)
         
       </div>
     </div>
@@ -759,8 +797,12 @@
       <a href="/privacy/">Privacy Policy</a>
     
     
-       &middot; 
+        &middot; 
       <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
     
   </p>
   

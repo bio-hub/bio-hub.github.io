@@ -3799,7 +3799,7 @@ This study was conducted to explore the clinical value of noninvasive assessment
 
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; 15 terms used to create the Treatment Category and its counts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; 27 terms used to create the Treatment Category and its counts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -3815,7 +3815,87 @@ Count
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Clinical Diagnosis
+All (sum)
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+683
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+treatment
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+555
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Therapy
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+159
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Therapeutics
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+51
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medication
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Intensive Care Units
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Palliative Care
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Treatment Outcome
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Conservative Treatment
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pretreatment
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Clinical Protocols
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
@@ -3823,7 +3903,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Clinical Laboratory Techniques
+drug effects
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
@@ -3831,7 +3911,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-diagnosis
+Health Resorts
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
@@ -3839,7 +3919,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Diagnosis of Health Situation
+Homebound Persons
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
@@ -3847,7 +3927,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Diagnostic
+Life Support Care
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
@@ -3855,7 +3935,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Diagnostic Imaging
+Medical Futility
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
@@ -3863,7 +3943,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Diagnostic Techniques and Procedures
+Medication Adherence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
@@ -3871,7 +3951,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Immunologic Tests
+Medication Therapy Management
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
@@ -3879,7 +3959,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Medicamentous Diagnosis
+Molecular Targeted Therapy
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
@@ -3887,7 +3967,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Molecular Diagnostic Techniques
+Molecular Therapy
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
@@ -3895,7 +3975,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Nursing Diagnosis
+Patient Care Planning
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
@@ -3903,7 +3983,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Reagent Kits
+Patient Compliance
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
@@ -3911,7 +3991,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Serologic Tests
+Patient Dropouts
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
@@ -3919,7 +3999,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Techniques
+Residential Treatment
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
@@ -3927,7 +4007,23 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Telediagnostics
+Teletherapy
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Transitional Care
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Withholding Treatment
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA

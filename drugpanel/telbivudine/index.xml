@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01265&#39; target=&#39;_blank&#39;&gt;db01265&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=telbivudine&#34; target=&#34;_blank&#34;&gt;telbivudine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
 Synonymous :1-(2-deoxy-β-l-ribofuranosyl)-5-methyluracil | 2’-deoxy-l-thymidine | beta-l-thymidine | epavudine | l-deoxythymidine | l-dt | l-thymidine | ldt | telbivudin | telbivudina | telbivudine | β-l-2’-deoxythymidine
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :1-(2-deoxy-β-l-ribofuranosyl)-5-methyluracil | 2’-deoxy-l-thymidi
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;telbivudine&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32251634
+&lt;a href=&#34;/publication/32251634&#34; target=&#34;_blank&#34;&gt;32251634&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The top 20 drugs in the virtual screening studies comprised a broad-spectrum antiviral (ribavirin), anti-hepatitis B virus (telbivudine), two vitamins (vitamin B12 and nicotinamide) and other miscellaneous systemically acting drugs. […] Ribavirin, telbivudine, vitamin B12 and nicotinamide can be combined and used for COVID treatment.

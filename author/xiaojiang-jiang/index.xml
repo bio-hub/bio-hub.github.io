@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaojiang Jiang | PlatCOVID</title>
+    <link>/author/xiaojiang-jiang/</link>
+      <atom:link href="/author/xiaojiang-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaojiang Jiang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Xiaojiang Jiang</title>
+      <link>/author/xiaojiang-jiang/</link>
+    </image>
+    
+    <item>
+      <title>Do psychiatric patients experience more psychiatric symptoms during COVID-19 pandemic and lockdown? A case-control study with service and research implications for immunopsychiatry.</title>
+      <link>/publication/32353518/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32353518/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is returning to work during the COVID-19 pandemic stressful? A study on immediate mental health status and psychoneuroimmunity prevention measures of Chinese workforce.</title>
+      <link>/publication/32335200/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32335200/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

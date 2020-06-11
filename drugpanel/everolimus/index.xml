@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01590&#39; target=&#39;_blank&#39;&gt;db01590&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=everolimus&#34; target=&#34;_blank&#34;&gt;everolimus&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
 Synonymous :40-o-(2-hydroxyethyl)-rapamycin | 42-o-(2-hydroxyethyl)rapamycin | everolimus | évérolimus
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :40-o-(2-hydroxyethyl)-rapamycin | 42-o-(2-hydroxyethyl)rapamycin | e
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;everolimus&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 343 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,10 +49,18 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32229705
+&lt;a href=&#34;/publication/32229705&#34; target=&#34;_blank&#34;&gt;32229705&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Previous studies showed that postulated geroprotectors, such as sirolimus (rapamycin) and its close derivative rapalog everolimus (RAD001), decreased infection rates in a small sample of elderly patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32337790&#34; target=&#34;_blank&#34;&gt;32337790&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The clinical course was complicated by extreme overexposure to the mammalian target of rapamycin inhibitor everolimus, following coadministration of chloroquine and lopinavir/ritonavir therapy.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

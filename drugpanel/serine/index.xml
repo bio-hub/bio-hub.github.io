@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00133&#39; target=&#39;_blank&#39;&gt;db00133&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=serine&#34; target=&#34;_blank&#34;&gt;serine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=nitazoxanide&#34; target=&#34;_blank&#34;&gt;nitazoxanide&lt;/a&gt; &lt;br&gt;
 Synonymous :(s)-2-amino-3-hydroxypropanoic acid | (s)-serine | alpha-amino-beta-hydroxypropionic acid | beta-hydroxyalanine | l-serine | ser | serina | serine | serinum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(s)-2-amino-3-hydroxypropanoic acid | (s)-serine | alpha-amino-beta-
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;serine&lt;/em&gt; gene in 6 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;nitazoxanide&lt;/em&gt; gene in 8 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32027036
+&lt;a href=&#34;/publication/32027036&#34; target=&#34;_blank&#34;&gt;32027036&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Despite the low heterogeneity of the 2019-nCoV genomes, we could identify at least two hypervariable genomic hotspots, one of which is responsible for a Serine/Leucine variation in the viral ORF8-encoded protein.
@@ -57,7 +57,7 @@ Despite the low heterogeneity of the 2019-nCoV genomes, we could identify at lea
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32083328
+&lt;a href=&#34;/publication/32083328&#34; target=&#34;_blank&#34;&gt;32083328&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Position 723 in the COVID-2019 has a serine instead a glycine residue, while at aminoacidic position 1010 a proline instead an isoleucine.
@@ -65,7 +65,7 @@ Position 723 in the COVID-2019 has a serine instead a glycine residue, while at 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32142651
+&lt;a href=&#34;/publication/32142651&#34; target=&#34;_blank&#34;&gt;32142651&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Here, we demonstrate that SARS-CoV-2 uses the SARS-CoV receptor ACE2 for entry and the serine protease TMPRSS2 for S protein priming.
@@ -73,7 +73,7 @@ Here, we demonstrate that SARS-CoV-2 uses the SARS-CoV receptor ACE2 for entry a
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32271454
+&lt;a href=&#34;/publication/32271454&#34; target=&#34;_blank&#34;&gt;32271454&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The protein-protein interaction network exhibited hub targets of MXSGD, such as Heat shock protein 90, RAC-alpha serine/threonine-protein kinase, Transcription factor AP-1, Mitogen-activated protein kinase 1, Cellular tumor antigen p53, Vascular endothelial growth factor A, and Tumour necrosis factor.
@@ -81,7 +81,7 @@ The protein-protein interaction network exhibited hub targets of MXSGD, such as 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32278065
+&lt;a href=&#34;/publication/32278065&#34; target=&#34;_blank&#34;&gt;32278065&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 SARS-CoV uses the the angiotensin-converting enzyme 2 (ACE2) and the serine protease TMPRSS2 for S protein priming.
@@ -89,10 +89,250 @@ SARS-CoV uses the the angiotensin-converting enzyme 2 (ACE2) and the serine prot
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32279064
+&lt;a href=&#34;/publication/32279064&#34; target=&#34;_blank&#34;&gt;32279064&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Similar to the respiratory mucosa, angiotensin converting enzyme-2 (ACE-2) receptor and transmembrane serine protease 2 TMPRSS2) co-express in the gastrointestinal tract, which facilitates viral entry into the tissue.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32299776&#34; target=&#34;_blank&#34;&gt;32299776&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These pulmonary findings were accompanied by significant deposits of terminal complement components C5b-9 (membrane attack complex), C4d, and mannose binding lectin (MBL)-associated serine protease (MASP)2, in the microvasculature, consistent with sustained, systemic activation of the alternative and lectin-based complement pathways.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32316719&#34; target=&#34;_blank&#34;&gt;32316719&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; Angiotensin converting enzyme 2 (ACE2) and Transmembrane serine protease 2 (TMPRSS2) are the key proteins for 2019-nCoV entry into host cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32321878&#34; target=&#34;_blank&#34;&gt;32321878&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This serine/threonine protein kinase is now recognised as a point of convergence for host inflammatory response.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32325025&#34; target=&#34;_blank&#34;&gt;32325025&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+(Cell) identify ACE2 as a SARS-CoV-2 receptor, and the latter show its entry mechanism depends on cellular serine protease TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32331255&#34; target=&#34;_blank&#34;&gt;32331255&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The interaction of the SARS-CoV-2 spike protein with the human ACE2 (angiotensin-converting enzyme 2) receptor, and its subsequent cleavage by serine protease and fusion, are the main events in the pathophysiology. […] The serine protease inhibitors, spike protein-based vaccines, or ACE2 blockers may have therapeutic potential in the near future.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32333601&#34; target=&#34;_blank&#34;&gt;32333601&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We hypothesized that the viral entry molecules angiotensin I converting enzyme 2 (ACE2) and transmembrane serine protease 2 (TMPRSS2) are expressed in the intestine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32335456&#34; target=&#34;_blank&#34;&gt;32335456&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+While the binding to host cell receptor is the first step of infection, the entrance of the virus into the cell needs the cleavage of S1-S2 subunits to expose S2 for fusion to cell membrane via host proteases including cathepsins, cell surface transmembrane protease/serine (TMPRSS) proteases, furin, trypsin and factor Xa.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32336007&#34; target=&#34;_blank&#34;&gt;32336007&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Dipeptidyl peptidase 4 (DPP4), also known as cluster of differentiation 26 (CD26), is a serine exopeptidase expressed ubiquitously in several tissues, including but not limited to lung, kidney, liver, gut, and immune cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32343593&#34; target=&#34;_blank&#34;&gt;32343593&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Finally, the small bowel is rich in furin, a serine protease which can separate the S-spike of the coronavirus into two “pinchers” (S1 and 2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32343658&#34; target=&#34;_blank&#34;&gt;32343658&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Transmembrane protease serine 2 (TMPRSS2) plays a role in the fusion of the virus with cells; inhibitors of this enzyme are known as well.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32345328&#34; target=&#34;_blank&#34;&gt;32345328&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, we investigated the gene expression of angiotensin I-converting enzyme 2 (ACE2) and transmembrane serine protease 2 (TMPRSS2) with prognosis in lung adenocarcinoma (LUAD) and lung squamous cell carcinoma (LUSC).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348692&#34; target=&#34;_blank&#34;&gt;32348692&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin converting enzyme 2 (ACE2) and transmembrane protease serine 2 (TMPRSS2) mediate viral infection of host cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32352535&#34; target=&#34;_blank&#34;&gt;32352535&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mechanistically, SARS-CoV-2, following proteolytic cleavage of its S protein by a serine protease, binds to the transmembrane angiotensin-converting enzyme 2 (ACE2) -a homologue of ACE-to enter type 2 pneumocytes, macrophages, perivascular pericytes, and cardiomyocytes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32352944&#34; target=&#34;_blank&#34;&gt;32352944&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+S-proteins covering its surface, which bind to the cell receptor - angiotensin converting enzyme 2 (ACE-2) and transmembrane serine protease (TMPRSS2) are important in shaping virus activity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32360480&#34; target=&#34;_blank&#34;&gt;32360480&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Such drugs comprise inhibitors of TMPRSS2 serine protease and inhibitors of angiotensin-converting enzyme 2 (ACE2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32376402&#34; target=&#34;_blank&#34;&gt;32376402&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among them, Mitogen-activated protein kinase kinase (MEK), serine-threonine kinase (AKT), mammalian target of rapamycin (mTOR) and I kappa B Kinase (IKK) inhibitors emerged as candidate drugs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32376714&#34; target=&#34;_blank&#34;&gt;32376714&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cleavage of the spike protein by transmembrane protease serine 2 and other cellular proteases initiates fusion and endocytosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32376987&#34; target=&#34;_blank&#34;&gt;32376987&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The transmembrane serine protease TMPRSS2 was previously identified as the essential protease that can cleave hemagglutinin of many subtypes of influenza virus and spike protein of coronavirus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32382146&#34; target=&#34;_blank&#34;&gt;32382146&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To determine the expressions of SARS-CoV-2 receptor angiotensin-converting enzyme 2 (ACE2) and type II transmembrane serine protease (TMPRSS2) genes in human and mouse ocular cells and comparison to other tissue cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32404436&#34; target=&#34;_blank&#34;&gt;32404436&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Expression of two mucosa-specific serine proteases, TMPRSS2 and TMPRSS4, facilitated SARS-CoV-2 spike fusogenic activity and promoted virus entry into host cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32408547&#34; target=&#34;_blank&#34;&gt;32408547&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the current study, we used an in silico approach to screen natural compounds to find potent inhibitors of the host enzyme transmembrane protease serine 2 (TMPRSS2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32410502&#34; target=&#34;_blank&#34;&gt;32410502&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+TMPRSS2 encodes a transmembrane serine protease which plays a crucial role in SARS-CoV-2 cell entry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32412125&#34; target=&#34;_blank&#34;&gt;32412125&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The androgen receptor regulates transcription of the transmembrane protease, serine 2 (TMPRSS2), which is required for SARS-CoV-2 infectivity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32412310&#34; target=&#34;_blank&#34;&gt;32412310&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Prostate cancer is one of the most common cancers among men and raises particular interest during the pandemic as recent reports show that the TMPRSS2 (and other serine proteases), which facilitate the entry, replication and budding of the virion from a cell, can be inhibited using androgen deprivation therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32413319&#34; target=&#34;_blank&#34;&gt;32413319&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 spike (S) protein binds angiotensin-converting enzyme 2 (ACE2), and in concert with host proteases, principally transmembrane serine protease 2 (TMPRSS2), promotes cellular entry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32422146&#34; target=&#34;_blank&#34;&gt;32422146&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To extend our work in interleukin (IL)-13 biology to determine if airway epithelial cell expression of two key mediators critical for SARS-CoV-2 infection, angiotensin-converting enzyme 2 (ACE2) and transmembrane protease, serine 2 (TMPRSS2) are modulated by IL-13.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32423094&#34; target=&#34;_blank&#34;&gt;32423094&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Firstly, SARS-CoV-2 has a strong interaction with the human ACE2 receptor, which plays an essential role in cell entry together with transmembrane serine protease 2 (TMPRSS2); it is interesting to note that the &lt;i&gt;ACE2&lt;/i&gt; gene lays on the X-chromosome, thus allowing females to be potentially heterozygous and differently assorted compared to men who are definitely hemizygous.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32452644&#34; target=&#34;_blank&#34;&gt;32452644&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The key steps of virus life cycle have been recently clarified, highlighting the role of host type 2 angiotensin converting enzyme (ACE2) and TMPRSS2 serine protease in virus-cell binding and entry, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32455942&#34; target=&#34;_blank&#34;&gt;32455942&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Processing of certain viral proteins and bacterial toxins by host serine proteases is a frequent and critical step in virulence. […] However, there remains some confusion on the relative roles of the possible serine proteases involved for priming. […] Using anthrax toxin as a model system, we show that in vivo inhibition of priming by pan-active serine protease inhibitors can be effective at suppressing toxicity. […] Hence, our studies should encourage further efforts in developing either pan-serine protease inhibitors or inhibitor cocktails to target SARS-CoV2 and potentially ward off future pandemics that could develop because of additional mutations in the S-protein priming sequence in coronaviruses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32468052&#34; target=&#34;_blank&#34;&gt;32468052&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS‑CoV‑2 infection of host cells is facilitated by the angiotensin‑converting enzyme 2 (ACE‑2), and by transmembrane protease serine 2 (TMPRSS2) and other host cell proteases such as cathepsin L (CTSL).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

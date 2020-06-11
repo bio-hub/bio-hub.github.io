@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peng Wang | PlatCOVID</title>
+    <link>/author/peng-wang/</link>
+      <atom:link href="/author/peng-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peng Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Peng Wang</title>
+      <link>/author/peng-wang/</link>
+    </image>
+    
+    <item>
+      <title>Identifying potential treatments of COVID-19 from Traditional Chinese Medicine (TCM) by using a data-driven approach.</title>
+      <link>/publication/32376368/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32376368/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A retrospective study of risk factors for severe acute respiratory syndrome coronavirus 2 infections in hospitalized adult patients.</title>
+      <link>/publication/32329978/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32329978/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Severe air pollution events not avoided by reduced anthropogenic activities during COVID-19 outbreak.</title>
+      <link>/publication/32300261/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32300261/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

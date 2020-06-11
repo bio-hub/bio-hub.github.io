@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01109&#39; target=&#39;_blank&#39;&gt;db01109&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=heparin&#34; target=&#34;_blank&#34;&gt;heparin&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=sofosbuvir&#34; target=&#34;_blank&#34;&gt;sofosbuvir&lt;/a&gt; &lt;br&gt;
 Synonymous :eparina | heparina | heparine | heparinic acid | heparinum | unfractionated heparin
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :eparina | heparina | heparine | heparinic acid | heparinum | unfract
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;heparin&lt;/em&gt; gene in 12 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;sofosbuvir&lt;/em&gt; gene in 9 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32196410
+&lt;a href=&#34;/publication/32196410&#34; target=&#34;_blank&#34;&gt;32196410&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Combined with the published literature, the potential pathogenesis of COVID-19 is inferred, and the treatment recommendations for giving high-doses intravenous immunoglobulin and low-molecular-weight heparin anticoagulant therapy to severe type patients are proposed.
@@ -57,7 +57,7 @@ Combined with the published literature, the potential pathogenesis of COVID-19 i
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32208840
+&lt;a href=&#34;/publication/32208840&#34; target=&#34;_blank&#34;&gt;32208840&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Furthermore, he observes the significant abnormality of coagulation function and proposes that the early intravenous immunoglobulin and low molecular weight heparin anticoagulation therapy are very important.
@@ -65,7 +65,7 @@ Furthermore, he observes the significant abnormality of coagulation function and
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32220112
+&lt;a href=&#34;/publication/32220112&#34; target=&#34;_blank&#34;&gt;32220112&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 A relatively high mortality of severe coronavirus disease 2019 (COVID-19) is worrying, the application of heparin in COVID-19 has been recommended by some expert consensus due to the risk of disseminated intravascular coagulation and venous thromboembolism. […] The 28-day mortality between heparin users and nonusers were compared, also in different risk of coagulopaphy which was stratified by the sepsis-induced coagulopathy (SIC) score or D-dimer result. […] There were 449 patients with severe COVID-19 enrolled into the study, 99 of them received heparin (mainly with low molecular weight heparin, LMWH) for 7 days or longer. […] No difference on 28-day mortality was found between heparin users and nonusers (30.3% vs 29.7%, P=0.910). […] But the 28-day mortality of heparin users were lower than nonusers In patients with SIC score ≥4 (40.0% vs 64.2%, P=0.029), or D-dimer &amp;gt; 6 fold of upper limit of normal (32.8% vs 52.4%, P=0.017).
@@ -73,7 +73,7 @@ A relatively high mortality of severe coronavirus disease 2019 (COVID-19) is wor
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32220276
+&lt;a href=&#34;/publication/32220276&#34; target=&#34;_blank&#34;&gt;32220276&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 D-dimer and FDP levels increased progressively when COVID-2019 exacerbated, and 4 patients were diagnosed with definite disseminated intravascular coagulation (DIC). 6 patients received low molecular weight heparin (LMWH) treatment, after which their D-dimer and FDP decreased, but there was no significant improvement in clinical symptoms. 5 patients died finally and the median time from acro-ischemia to death was 12 days. &lt;b&gt;Conclusions:&lt;/b&gt; The existence of hypercoagulation status in critical COVID-2019 patients should be monitored closely, and anticoagulation therapy can be considered in selected patients.
@@ -81,7 +81,7 @@ D-dimer and FDP levels increased progressively when COVID-2019 exacerbated, and 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32239799
+&lt;a href=&#34;/publication/32239799&#34; target=&#34;_blank&#34;&gt;32239799&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Coagulopathy in corona virus infection has been shown to be associated with high mortality with high D-dimers being a particularly important marker for the coagulopathy.&lt;sup&gt;1&lt;/sup&gt; In the latest paper from the same group, the use of anticoagulant therapy with heparin was shown to decrease mortality as well. &lt;sup&gt;2&lt;/sup&gt; This is especially so in patients i) who have met the sepsis induced coagulopathy (SIC) criteria ≥4 (40.0% vs 64.2%, P=0.029) compared to those with SIC score &amp;lt;4 (29.0% vs 22.6%, P=0.419).or ii) with markedly elevated D-dimer (greater than six-fold at the upper limit of normal).
@@ -89,7 +89,7 @@ Coagulopathy in corona virus infection has been shown to be associated with high
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32246317
+&lt;a href=&#34;/publication/32246317&#34; target=&#34;_blank&#34;&gt;32246317&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The 28-day mortality of heparin users were lower than nonusers In COVID group with D-dimer &amp;gt; 3.0 μg/mL (32.8% vs.
@@ -97,7 +97,7 @@ The 28-day mortality of heparin users were lower than nonusers In COVID group wi
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32282949
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32282949&#34; target=&#34;_blank&#34;&gt;32282949&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 COVID-19 infected patients whatever hospitalized or ambulatory are at high risk for VTE and an early and prolonged pharmacological thromboprophylaxis with low molecular weight heparin is highly recommended.
@@ -105,10 +105,258 @@ COVID-19 infected patients whatever hospitalized or ambulatory are at high risk 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32294289
+&lt;a href=&#34;/publication/32294289&#34; target=&#34;_blank&#34;&gt;32294289&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In this retrospective analysis, conducted at the Tongji Hospital of Wuhan, China, it is reported that heparin treatment reduces mortality in subjects affected by severe COVID-19 who have “sepsis-induced coagulopathy”. […] The Authors of this study also reported that, among subjects not treated with heparin, mortality raised according with D-dimer levels. […] Of note, patients that received heparin in this study were mostly treated with enoxaparin, at the thromboprophylactic dose of 40-60 mg/day, for at least 7 days.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32297089&#34; target=&#34;_blank&#34;&gt;32297089&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In consideration of the pharmacological characteristics of oral anticoagulant drugs, the multiple pharmacological interactions due to the treatment of acute disease and the possible necessity of mechanical ventilation with hospitalization in intensive-care units, we suggest replacing oral anticoagulant therapies (VKA and DOAC) with parenteral heparin to avoid the risk of over/under treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32302448&#34; target=&#34;_blank&#34;&gt;32302448&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ten patients were followed in the subsequent 7 days, after increasing the dose of low molecular weight heparin, antithrombin levels correction, and clopidogrel in selected cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32302462&#34; target=&#34;_blank&#34;&gt;32302462&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+While we agree that this interim guidance addresses important considerations for monitoring the disease process, we believe that the proposed treatment strategy of prophylactic low molecular weight heparin (LMWH) to treat severe COVID-19 coagulopathy is an unconvincing strategy. […] We address this concern with the existing data on the severe hypercoagulable state of COVID-19 victims and advocate for consideration of systemic anticoagulation with unfractionated heparin to prevent life threatening micro- and macrovascular thrombosis to mitigate their associated consequences, up to and including progression of respiratory and organ failure.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32329246&#34; target=&#34;_blank&#34;&gt;32329246&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Prophylaxis treatment of COVID-19 patients with low molecular weight heparin (LMWH) is important to limit coagulopathy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32330308&#34; target=&#34;_blank&#34;&gt;32330308&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Importantly however, Caucasian COVID19 patients on low molecular weight heparin thromboprophylaxis rarely develop overt disseminated intravascular coagulation (DIC).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32335456&#34; target=&#34;_blank&#34;&gt;32335456&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We suppose that host cell proteases including furin (as expressed highly in lungs), factor Xa and cathepsin are possible targets to decrease viral burden, therefore unfractioned heparin and low molecular weight heparin-LMWH (specifically dalteparin and tinzaparin for their anti inflammatory action) can be potential inhibitors of multiple endoproteases involved in virus infectivity. […] Our hypothesis needs to be tested in in vitro and clinical studies, however as we are in an urgent situation as the burden of SARS-CoV2 is increasing all around the world, we recommend the usage of unfractioned heparin or LMWH in intensive care unit (ICU) and non-ICU hospitalized patients with the risk-benefit judgement of the clinician.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32345864&#34; target=&#34;_blank&#34;&gt;32345864&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thoracic computed tomography (CT) and oropharyngeal swabs confirmed that they were positive for COVID-19, requiring hospitalization and prophylaxis with low-molecular-weight heparin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32360432&#34; target=&#34;_blank&#34;&gt;32360432&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Antiretroviral therapy and prophylactic low molecular weight heparin treatment were initiated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32360679&#34; target=&#34;_blank&#34;&gt;32360679&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although successful revascularization was not significantly associated with the postoperative use of intravenous heparin (64.7% vs 83.3%; P = .622), no patient who had received intravenous heparin required reintervention. […] The use of continuous postoperative systemic heparin infusion was significantly associated with survival (0% vs 57.1%; P = .042). […] The use of prolonged systemic heparin might improve surgical treatment efficacy, limb salvage, and overall survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32364677&#34; target=&#34;_blank&#34;&gt;32364677&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A liver and kidney transplant patient with SARS-CoV-2 pneumonia without respiratory failure was treated in a clinical multimodal strategy consisting of symptomatic support therapy, immunosuppression reduction, use of anti-coronavirus drugs and heparin leading to a progressive improvement of patient symptoms till discharge.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32397399&#34; target=&#34;_blank&#34;&gt;32397399&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Using propensity scores, the 21 patients who received TCZ were matched to 21 patients who received SOC (a combination of hydroxychloroquine, azithromycin and prophylactic dose of low weight heparin).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32399449&#34; target=&#34;_blank&#34;&gt;32399449&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Deep vein thrombosis and pulmonary embolism can occur in patients with COVID-19 pneumonia.Low-molecular-weight heparin prophylaxis does not decrease the risk of venous thromboembolism (VTE) in COVID-19 pneumonia.In the presence of clinical signs and/or suspicion of VTE, compression ultrasound and echocardiography should be always performed, irrespective of disease stage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32399456&#34; target=&#34;_blank&#34;&gt;32399456&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 52-year-old patient with SARS-CoV-2 was diagnosed with interstitial pneumonia and treated with darunavir/ritonavir, hydroxychloroquine, azithromycin and low molecular weight heparin (LMWH).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32408391&#34; target=&#34;_blank&#34;&gt;32408391&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A recent paper by Tang et al. [2] in this journal reported that heparin treatment reduced mortality of COVID-19 patients with elevated D-dimer; similar preliminary results have been reported elsewhere [3].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32415902&#34; target=&#34;_blank&#34;&gt;32415902&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent studies have also reported and advised on the use of prophylactic Low Molecular Weight Heparin (LMWH) in COVID-19 patients, to prevent the severe outcomes associated with thromboembolic complications.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32418066&#34; target=&#34;_blank&#34;&gt;32418066&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The correct article title is “Venous Thromboembolism and Heparin Use in COVID-19 Patients: Juggling between Pragmatic Choices, Suggestions of Medical Societies and the Lack of Guidelines”.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32423903&#34; target=&#34;_blank&#34;&gt;32423903&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We describe three cases of thromboembolism refractory to heparin treatment, the incidence of VTE in an inpatient cohort, and a case-control study to identify risk factors associated with VTE.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32425013&#34; target=&#34;_blank&#34;&gt;32425013&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Anticoagulants, mainly low-molecular-weight heparin (LMWH), should be tailored in patients meeting sepsis induced coagulopathy (SIC) criteria or with markedly elevated D-dimer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32426897&#34; target=&#34;_blank&#34;&gt;32426897&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent reports published in Thrombosis and Haemostasis show that treatment with low-molecular weight heparin (LMWH) decreases mortality in critically ill patients with sepsis-induced hypercoagulation, and thus argue for prophylactic administration of the anticoagulant. […] In addition, the authors point to non-anticoagulant activities of heparin, in particular anti-inflammatory effects with potential to prevent deterioration of the disease. […] We would like to use this opportunity to clarify the biochemical background of the diverse activities of heparin, and further, how this information may be exploited to generate more efficient treatment of the viral infection. […] Mechanisms to consider relate to the functional roles of proteins interacting with heparan sulfate (HS), a polysaccharide closely related to heparin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32445030&#34; target=&#34;_blank&#34;&gt;32445030&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sixthly, whenever possible, oral anticoagulation should be converted to parental heparin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32445064&#34; target=&#34;_blank&#34;&gt;32445064&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In a cohort of 69 intensive care unit (ICU) patients we investigated for evidence of heparin resistance in those that have received therapeutic anticoagulation. 15 of the patients have received therapeutic anticoagulation with either unfractionated heparin (UFH) or low molecular weight heparin (LMWH), of which full information was available on 14 patients. […] Heparin resistance to UFH was documented in 8/10 (80%) patients and sub-optimal peak anti-Xa following therapeutic LMWH in 5/5 (100%) patients where this was measured (some patients received both anticoagulants sequentially). […] In conclusion, we have found evidence of heparin resistance in critically unwell COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32447121&#34; target=&#34;_blank&#34;&gt;32447121&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Intra-arterial fibrinolysis and intravenous heparin infusion did not lead to complete recanalization of the tibial arteries, which were successfully treated by surgical embolectomy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32447934&#34; target=&#34;_blank&#34;&gt;32447934&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low molecular weight heparin (LMWH) was administrated in 6 patients, which reduced D-dimer and FDP rather than improved clinical symptoms.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32450344&#34; target=&#34;_blank&#34;&gt;32450344&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All controls were receiving prophylactic or therapeutic dose heparin, according to local standard operating procedures.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32451823&#34; target=&#34;_blank&#34;&gt;32451823&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+D-dimer level-guided aggressive thromboprophylaxis regimens using higher doses of heparin should be evaluated in prospective studies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32459790&#34; target=&#34;_blank&#34;&gt;32459790&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Also, four children received heparin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32463186&#34; target=&#34;_blank&#34;&gt;32463186&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Two of the cases occurred despite early institution of standard dosage of low molecular weight heparin thromboprophylaxis, and in one case, pulmonary embolism was diagnosed during the convalescent phase of an otherwise benign COVID-19 disease course.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32467443&#34; target=&#34;_blank&#34;&gt;32467443&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In all hospitalized patients, thromboprophylaxis using low-molecular-weight heparin is currently recommended.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32470198&#34; target=&#34;_blank&#34;&gt;32470198&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+I thank Lindahl and Li for their thoughtful comments on the non-anticoagulant properties of heparin.&lt;sup&gt;1&lt;/sup&gt; Heightened awareness of hypercoagulability has made heparin part and parcel of the COVID-19 management algorithms. […] In addition, reports of prophylactic anticoagulation failure have triggered several trials where escalated doses of heparin are compared with standard doses with the aim of preventing thrombotic complications. […] At this juncture, we do need to consider where do the non-anticoagulant properties of heparin fit in the COVID-19 clinical context?
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32471650&#34; target=&#34;_blank&#34;&gt;32471650&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Six out of 7 patients were treated with unfractionated or low molecular weight heparin with clinical benefit within few days; one patient needed systemic thrombolysis (death from hemorrhagic complication).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32473596&#34; target=&#34;_blank&#34;&gt;32473596&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this article by the Global COVID-19 Thrombosis Collaborative Group, we describe novel dosing approaches for commonly used antithrombotic agents (especially heparin-based regimens) and the potential use of less widely used antithrombotic drugs in the absence of confirmed thrombosis.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

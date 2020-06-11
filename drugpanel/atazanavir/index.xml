@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01072&#39; target=&#39;_blank&#39;&gt;db01072&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=atazanavir&#34; target=&#34;_blank&#34;&gt;atazanavir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
 Synonymous :atazanavir | atazanavirum | atz
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :atazanavir | atazanavirum | atz
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;atazanavir&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,10 +49,34 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32280433
+&lt;a href=&#34;/publication/32280433&#34; target=&#34;_blank&#34;&gt;32280433&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The result showed that atazanavir, an antiretroviral medication used to treat and prevent the human immunodeficiency virus (HIV), is the best chemical compound, showing an inhibitory potency with &lt;i&gt;K&lt;sub&gt;d&lt;/sub&gt;&lt;/i&gt; of 94.94 nM against the SARS-CoV-2 3C-like proteinase, followed by remdesivir (113.13 nM), efavirenz (199.17 nM), ritonavir (204.05 nM), and dolutegravir (336.91 nM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32397940&#34; target=&#34;_blank&#34;&gt;32397940&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Top three bioactive molecules (Oolonghomobisflavan-A, Theasinensin-D, and Theaflavin-3-O-gallate) were selected by comparing their docking scores with repurposed drugs (Atazanavir, Darunavir, and Lopinavir) against SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32399096&#34; target=&#34;_blank&#34;&gt;32399096&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Interaction with SARS-CoV-2 helicase, approved drugs, vapreotide (affinity: -12.88; &lt;i&gt;S&lt;/i&gt; score: -9.84 kcal/mol), and atazanavir (affinity: -11.28; &lt;i&gt;S&lt;/i&gt; score: -9.32 kcal/mol), approved drugs for treating AIDS-related diarrhoea and HIV infection, respectively, are observed with significantly low binding affinity and MOE score or binding free energy. […] The functional binding pockets of the clinically approved drugs on SARS-CoV-2 helicase protein molecule suggest that vapreotide and atazanavir may interrupt the activities of the SARS-CoV-2 helicase.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32438446&#34; target=&#34;_blank&#34;&gt;32438446&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hydroxychloroquine, chloroquine, mefloquine, atazanavir (ritonavir-boosted), tipranavir (ritonavir-boosted), ivermectin, azithromycin and lopinavir (ritonavir-boosted) were all predicted to achieve lung concentrations over 10-fold higher than their reported EC&lt;sub&gt;50&lt;/sub&gt; .
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

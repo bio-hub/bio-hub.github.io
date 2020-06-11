@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ilja L Kruglikov | PlatCOVID</title>
+    <link>/author/ilja-l-kruglikov/</link>
+      <atom:link href="/author/ilja-l-kruglikov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ilja L Kruglikov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Ilja L Kruglikov</title>
+      <link>/author/ilja-l-kruglikov/</link>
+    </image>
+    
+    <item>
+      <title>The role of adipocytes and adipocyte-like cells in the severity of COVID-19 infections.</title>
+      <link>/publication/32339391/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32339391/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

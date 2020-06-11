@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db14126&#39; target=&#39;_blank&#39;&gt;db14126&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=tenofovir&#34; target=&#34;_blank&#34;&gt;tenofovir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=lopinavir&#34; target=&#34;_blank&#34;&gt;lopinavir&lt;/a&gt; &lt;br&gt;
 Synonymous :(r)-pmpa | anhydrous tenofovir | tenofovir (anh.) | tenofovir (anhydrous) | tenofovir anhydrous
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(r)-pmpa | anhydrous tenofovir | tenofovir (anh.) | tenofovir (anhyd
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;tenofovir&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lopinavir&lt;/em&gt; gene in 133 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,10 +49,50 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32222463
+&lt;a href=&#34;/publication/32222463&#34; target=&#34;_blank&#34;&gt;32222463&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The results suggest the effectiveness of Ribavirin, Remdesivir, Sofosbuvir, Galidesivir, and Tenofovir as potent drugs against SARS-CoV-2 since they tightly bind to its RdRp.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32338164&#34; target=&#34;_blank&#34;&gt;32338164&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results show the effectiveness of Sofosbuvir, Ribavirin, Galidesivir, Remdesivir, Favipiravir, Cefuroxime, Tenofovir, and Hydroxychloroquine, in binding to SARS-CoV-2 RdRp.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32394344&#34; target=&#34;_blank&#34;&gt;32394344&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients were on antiretroviral treatment, of them 22 on tenofovir-containing regimen and 4 on the protease inhibitor darunavir. […] SARS-CoV-2 infections may occur during boosted darunavir-based and/or on tenofovir-containing ART.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32429580&#34; target=&#34;_blank&#34;&gt;32429580&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These agents included tenofovir (TFV), 4’-ethynyl-2-fluoro-2’-deoxyadenosine (EFdA), alovudine (FLT), lamivudine (3TC), and emtricitabine (FTC), known as nucleoside reverse-transcriptase inhibitors (NRTIs), and a number of 5’-&lt;i&gt;O&lt;/i&gt;-fatty acylated anti-HIV nucleoside conjugates.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32437000&#34; target=&#34;_blank&#34;&gt;32437000&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 34 year old HIV-positive female on antiretroviral therapy (tenofovir disoproxil fumarate, lamivudine and efavirenz) for 5 years, tested positive for SARS-CoV-2, the causative agent for coronavirus disease 19 (COVID-19).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32444382&#34; target=&#34;_blank&#34;&gt;32444382&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To this end, the antiviral efficacies of lopinavir-ritonavir, hydroxychloroquine sulfate, and emtricitabine-tenofovir for SARS-CoV-2 infection were assessed in the ferret infection model. […] While the lopinavir-ritonavir-, hydroxychloroquine sulfate-, or emtricitabine-tenofovir-treated group exhibited lower overall clinical scores than the phosphate-buffered saline (PBS)-treated control group, the virus titers in nasal washes, stool specimens, and respiratory tissues were similar between all three antiviral-candidate-treated groups and the PBS-treated control group. […] Only the emtricitabine-tenofovir-treated group showed lower virus titers in nasal washes at 8 days postinfection (dpi) than the PBS-treated control group. […] In this study, we tested the FDA-approved drugs lopinavir-ritonavir, hydroxychloroquine sulfate, and emtricitabine-tenofovir against SARS-CoV-2 infection in a highly susceptible ferret infection model. […] While most of the drug treatments marginally reduced clinical symptoms, they did not reduce virus titers, with the exception of emtricitabine-tenofovir treatment, which led to diminished virus titers in nasal washes at 8 dpi.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

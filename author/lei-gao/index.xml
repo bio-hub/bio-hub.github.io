@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lei Gao | PlatCOVID</title>
+    <link>/author/lei-gao/</link>
+      <atom:link href="/author/lei-gao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lei Gao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Lei Gao</title>
+      <link>/author/lei-gao/</link>
+    </image>
+    
+    <item>
+      <title>Active constituents and mechanisms of Respiratory Detox Shot, a traditional Chinese medicine prescription, for COVID-19 control and prevention: Network-molecular docking-LC-MS&lt;sup&gt;E&lt;/sup&gt; analysis.</title>
+      <link>/publication/32307268/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32307268/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of the quality of systematic reviews on COVID-19: A comparative study of previous coronavirus outbreaks.</title>
+      <link>/publication/32301508/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32301508/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roberto Da Cas | PlatCOVID</title>
+    <link>/author/roberto-da-cas/</link>
+      <atom:link href="/author/roberto-da-cas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roberto Da Cas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Roberto Da Cas</title>
+      <link>/author/roberto-da-cas/</link>
+    </image>
+    
+    <item>
+      <title>[Vitamin D and coronavirus: a new field of use?]</title>
+      <link>/publication/32319447/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32319447/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

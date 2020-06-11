@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruce C Marshall | PlatCOVID</title>
+    <link>/author/bruce-c-marshall/</link>
+      <atom:link href="/author/bruce-c-marshall/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bruce C Marshall</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Bruce C Marshall</title>
+      <link>/author/bruce-c-marshall/</link>
+    </image>
+    
+    <item>
+      <title>A multinational report to characterise SARS-CoV-2 infection in people with cystic fibrosis.</title>
+      <link>/publication/32376098/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32376098/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

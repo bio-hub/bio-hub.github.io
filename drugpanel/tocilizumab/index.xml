@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db06273&#39; target=&#39;_blank&#39;&gt;db06273&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=tocilizumab&#34; target=&#34;_blank&#34;&gt;tocilizumab&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydrocortisone&#34; target=&#34;_blank&#34;&gt;hydrocortisone&lt;/a&gt; &lt;br&gt;
 Synonymous :atlizumab
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :atlizumab
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;tocilizumab&lt;/em&gt; gene in 7 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydrocortisone&lt;/em&gt; gene in 6 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32222713
+&lt;a href=&#34;/publication/32222713&#34; target=&#34;_blank&#34;&gt;32222713&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 He remained in critical condition being treated with hydroxychloroquine and tocilizumab in addition to the standard medical management for septic shock and ARDS.
@@ -57,7 +57,7 @@ He remained in critical condition being treated with hydroxychloroquine and toci
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32234467
+&lt;a href=&#34;/publication/32234467&#34; target=&#34;_blank&#34;&gt;32234467&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Tocilizumab is a blocker of IL-6R, which can effectively block IL-6 signal transduction pathway. […] So, tocilizumab is likely to become an effective drug for patients with severe COVID-19.
@@ -65,7 +65,7 @@ Tocilizumab is a blocker of IL-6R, which can effectively block IL-6 signal trans
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32240462
+&lt;a href=&#34;/publication/32240462&#34; target=&#34;_blank&#34;&gt;32240462&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The efficacy of some promising antivirals, convalescent plasma transfusion, and tocilizumab needs to be investigated by ongoing clinical trials.
@@ -73,7 +73,7 @@ The efficacy of some promising antivirals, convalescent plasma transfusion, and 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32243270
+&lt;a href=&#34;/publication/32243270&#34; target=&#34;_blank&#34;&gt;32243270&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 This review summarizes the current evidence of potential therapeutic agents, such as lopinavir/ritonavir, remdesivir, favipiravir, chloroquine, hydroxychloroquine, interferon, ribavirin, tocilizumab and sarilumab.
@@ -81,7 +81,7 @@ This review summarizes the current evidence of potential therapeutic agents, suc
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32247050
+&lt;a href=&#34;/publication/32247050&#34; target=&#34;_blank&#34;&gt;32247050&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Potential treatments included remdesivir, chloroquine, tocilizumab, convalescent plasma and vaccine immunization (when possible).
@@ -89,7 +89,7 @@ Potential treatments included remdesivir, chloroquine, tocilizumab, convalescent
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32253068
+&lt;a href=&#34;/publication/32253068&#34; target=&#34;_blank&#34;&gt;32253068&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Anti-IL-1 and anti-IL-6 may interfere with the cytokine storm in severe cases and use of tocilizumab has shown good outcomes in a small cohort.
@@ -97,7 +97,7 @@ Anti-IL-1 and anti-IL-6 may interfere with the cytokine storm in severe cases an
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32253759
+&lt;a href=&#34;/publication/32253759&#34; target=&#34;_blank&#34;&gt;32253759&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Tocilizumab (TCZ), a monoclonal antibody against interleukin-6 (IL-6), emerged as an alternative treatment for COVID-19 patients with a risk of cytokine storms recently.
@@ -105,7 +105,7 @@ Tocilizumab (TCZ), a monoclonal antibody against interleukin-6 (IL-6), emerged a
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32275256
+&lt;a href=&#34;/publication/32275256&#34; target=&#34;_blank&#34;&gt;32275256&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Lastly, a collaborating group with immunologists and rheumatologists has been built with the aim of providing some guidance about the use of tocilizumab, a promising option for the treatment of the hyperinflammatory state occurring in most patients affected by COVID-19.
@@ -113,7 +113,7 @@ Lastly, a collaborating group with immunologists and rheumatologists has been bu
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32277367
+&lt;a href=&#34;/publication/32277367&#34; target=&#34;_blank&#34;&gt;32277367&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 • Although preliminary results may be encouraging, high-quality clinical trials are needed to better understand the role of drugs commonly used in rheumatology like hydroxychloroquine and tocilizumab in COVID-19.
@@ -121,7 +121,7 @@ Lastly, a collaborating group with immunologists and rheumatologists has been bu
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32282982
+&lt;a href=&#34;/publication/32282982&#34; target=&#34;_blank&#34;&gt;32282982&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Hydroxychloroquine (HCQ) was used by 78.1% of respondents; azithromycin by 46.9%; tocilizumab by 31.3%, and remdesivir by 25.0%.
@@ -129,10 +129,562 @@ Hydroxychloroquine (HCQ) was used by 78.1% of respondents; azithromycin by 46.9%
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32290839
+&lt;a href=&#34;/publication/32290839&#34; target=&#34;_blank&#34;&gt;32290839&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Moreover, Tocilizumab treatment that blocking IL-6 receptors showed inspiring clinical results including temperature returned to normal quickly and respiratory function improved. […] Therefore, we suggest that Tocilizumab is an effective treatment in severe patients of COVID-19 to calm the inflammatory storm and reduce mortality.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32297987&#34; target=&#34;_blank&#34;&gt;32297987&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The use of humanized anti-human inteleukine-6 receptor antibody tocilizumab seems a promising strategy for these patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32298807&#34; target=&#34;_blank&#34;&gt;32298807&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Specifically, we address (1) necessary resources for safe administration of cell therapies; (2) determinants of cell therapy utilization; (3) selection among patients with B cell non-Hodgkin lymphomas and B cell acute lymphoblastic leukemia; (4) supportive measures during cell therapy administration; (5) use and prioritization of tocilizumab; and (6) collaborative care with referring physicians.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32305359&#34; target=&#34;_blank&#34;&gt;32305359&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Expanded indications for hydroxychloroquine and tocilizumab have already caused stress on the usual supply chain.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32314799&#34; target=&#34;_blank&#34;&gt;32314799&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tocilizumab is an interleukin-6 (IL-6) receptor antibody and is progressing as a viable and promising treatment option in patients with severe coronavirus disease 2019 (COVID-19). […] In this letter we outline two cases of acute hypertriglyceridemia in patients with COVID-19 treated with tocilizumab: one with elevated biomarkers consistent with acute pancreatitis the other without. […] Clinicians should consider monitoring for hypertriglyceridemia and acute pancreatitis as described with chronic tocilizumab use for rheumatoid arthritis in those receiving it for COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32317557&#34; target=&#34;_blank&#34;&gt;32317557&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Adjunctive medication in the surviving patients while on ECMO was as follows: 4 of 5 survivors received intravenous steroids, 3 of 5 survivors received antiviral medications (Remdesivir), 2 of 5 survivors were treated with anti-interleukin-6-receptor monoclonal antibodies (Tocilizumab or Sarilumab), and 1 of 5 survivors received hydroxychloroquine.An analysis of 32 COVID-19 patients with severe pulmonary compromise supported with ECMO suggests that ECMO may play a useful role in salvaging select critically ill patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32320677&#34; target=&#34;_blank&#34;&gt;32320677&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 patient plasma inhibited HLA-DR expression, and this was partially restored by the IL-6 blocker Tocilizumab; off-label Tocilizumab treatment of patients was accompanied by increase in circulating lymphocytes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32324331&#34; target=&#34;_blank&#34;&gt;32324331&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We describe the case of a 61-year-old kidney transplant recipient with several comorbidities who was hospitalized and later received a diagnosis of COVID-19 pneumonia; the infection was successfully managed with the use of hydroxychloroquine and a single administration of tocilizumab, after immunosuppression reduction; the patient did not require mechanical ventilation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32329520&#34; target=&#34;_blank&#34;&gt;32329520&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Drug repositioning may offer a strategy and a number of drugs have been repurposed, including lopinavir/ritonavir, remdesivir, favipiravir and tocilizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32329879&#34; target=&#34;_blank&#34;&gt;32329879&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, the current treatment options include hydroxychloroquine, tocilizumab, remdesivir, lopinavir-ritonavir (Kaletra®), and nitazoxanide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32330343&#34; target=&#34;_blank&#34;&gt;32330343&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among the 68 hospitalized patients, 12% required non-rebreather and 35% required intubation. 91% received hydroxychloroquine, 66% azithromycin, 3% remdesivir, 21% tocilizumab, and 24% bolus steroids.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32330817&#34; target=&#34;_blank&#34;&gt;32330817&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients also received lopinivir/ritonavir (82%), hydroxychloroquine (79%), and tocilizumab (12%) according to this treatment algorithm.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32337664&#34; target=&#34;_blank&#34;&gt;32337664&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tocilizumab, which is the IL-6 receptor antagonist, has been approved by the US FDA for the treatment of cytokine release syndrome (CRS), is expected to treat cytokine storm caused by COVID-19 and is now in clinical trials. […] In this paper, we will elaborate the role of cytokine storm in COVID-19, the mechanism of tocilizumab on cytokine storm and the key points of pharmaceutical care based on the actual clinical application for COVID-19 in our hospital, the latest research reports, clinical trial progress of tocilizumab, drug instruction from the US FDA, and “Diagnosis and Treatment Plan of Novel Coronavirus Pneumonia (seventh trial edition)” in China, so as to provide reference for the treatment of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32339832&#34; target=&#34;_blank&#34;&gt;32339832&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Without much experience, currently, the medicines that are clinically being evaluated for COVID-19 include chloroquine, hydroxychloroquine, azithromycin, tocilizumab, lopinavir, ritonavir, tocilizumab and corticosteroids.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32341791&#34; target=&#34;_blank&#34;&gt;32341791&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here we discuss the challenges that patients with autoimmune diseases might face and the information on using immunomodulatory therapies like chloroquine, tocilizumab and baricitinib to quench the cytokine storm in patients with very severe COVID-19 pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32343413&#34; target=&#34;_blank&#34;&gt;32343413&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We read with interest the article by Morrison et al. on acute hypertriglyceridemia secondary to tocilizumab in patients with severe COVID-19. […] Both patients were already on lopinavir/ritonavir before tocilizumab (added day 9 and day 13) was added.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32343429&#34; target=&#34;_blank&#34;&gt;32343429&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our study should encourage researchers to conduct trial evaluating Anti IL-6 antibodies such as Tocilizumab to assess the efficacy in patients with severe COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32343968&#34; target=&#34;_blank&#34;&gt;32343968&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Anti-cytokine therapy such as tocilizumab, an IL-6 receptor antagonist, is a potential treatment for COVID-19; however, data regarding the efficacy of this anti-IL-6 therapy are currently lacking. […] We report two cases of patients who received a diagnosis of COVID-19 complicated by CRS and were treated with tocilizumab. […] Both patients progressed to sHLH despite treatment with tocilizumab, and one developed viral myocarditis, challenging the safety and clinical usefulness of tocilizumab in the treatment of COVID-19-induced CRS. […] These cases highlight the need for clinical trials to determine optimal patient selection and timing for the use of tocilizumab during this disease process.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32350134&#34; target=&#34;_blank&#34;&gt;32350134&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we aimed to assess the efficacy of tocilizumab in severe patients with COVID-19 and seek a therapeutic strategy. […] The patients diagnosed as severe or critical COVID-19 in The First Affiliated Hospital of University of Science and Technology of China (Anhui Provincial Hospital) and Anhui Fuyang Second People’s Hospital were given tocilizumab in addition to routine therapy between 5 and 14 February 2020. […] Within 5 d after tocilizumab, 15 of the 20 patients (75.0%) had lowered their oxygen intake, and 1 patient needed no oxygen therapy. […] All patients have been discharged on average 15.1 d after giving tocilizumab. […] Preliminary data show that tocilizumab, which improved the clinical outcome immediately in severe and critical COVID-19 patients, is an effective treatment to reduce mortality.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32352535&#34; target=&#34;_blank&#34;&gt;32352535&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cardiovascular considerations of therapies currently used, including remdesivir, chloroquine, hydroxychloroquine, tocilizumab, ribavirin, interferons, and lopinavir/ritonavir, as well as experimental therapies, such as human recombinant ACE2 (rhACE2), are discussed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32352944&#34; target=&#34;_blank&#34;&gt;32352944&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The administration of glucocorticosteroids and research drugs (tocilizumab) is acceptable for massive infiltrative lesions in the pulmonary parenchyma causing severe lung injury (ALI) and acute respiratory distress syndrome (ARDS).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32353742&#34; target=&#34;_blank&#34;&gt;32353742&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There is anecdotal evidence that tocilizumab, an immunosuppressant drug, may be a potential therapeutic option for patients with severe manifestations of coronavirus disease 2019 (COVID-19). […] Like tocilizumab, Vitamin D appears to modulate the activity of an interleukin (IL-6), which may explain the seasonal variation in prevalence of influenza. […] This would be far cheaper and simpler than tocilizumab as a therapeutic option to trial.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32354634&#34; target=&#34;_blank&#34;&gt;32354634&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Six of 12 patients were treated with tocilizumab, a humanized monoclonal antibody to the IL-6 receptor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32359035&#34; target=&#34;_blank&#34;&gt;32359035&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We conducted a pilot prospective open, single-arm multicentre study on off-label use of tocilizumab (TCZ) involving 63 hospitalised adult patients (56 males, age 62.6±12.5) with severe COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32359210&#34; target=&#34;_blank&#34;&gt;32359210&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report the clinical course and management of a liver transplant recipient on hemodialysis, who presented with COVID-19 pneumonia, and despite completing a 5-day course of hydroxychloroquine, later developed marked inflammatory manifestations with rapid improvement after administration of off-label, single-dose tocilizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32367812&#34; target=&#34;_blank&#34;&gt;32367812&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+He developed respiratory failure and was transferred to the intensive care unit where he received further treatment, including tocilizumab (IL-6 receptor inhibitor).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32369191&#34; target=&#34;_blank&#34;&gt;32369191&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tocilizumab, an interleukin-6 inhibitor, may ameliorate the inflammatory manifestations associated with severe coronavirus disease 2019 (COVID-19) and thus improve clinical outcomes. […] This was a retrospective review of patients with laboratory-confirmed severe COVID-19 who received tocilizumab and completed 14 days of follow up. […] The proportion of patients on invasive ventilation declined from (84%) at the time of tocilizumab initiation to 60% on day 7 (P = .031) and 28% on day 14 (P = .001). […] However, it is not possible to ascertain which adverse events were directly related to tocilizumab therapy. […] In patients with severe COVID-19, tocilizumab was associated with dramatic decline in inflammatory markers, radiological improvement and reduced ventilatory support requirements.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32371479&#34; target=&#34;_blank&#34;&gt;32371479&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Early reports suggest that tocilizumab, an IL6 receptor-blocking antibody used to manage toxicities associated with chimeric antigen receptor T-cell therapy, may help control cytokine storms in people infected with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32373721&#34; target=&#34;_blank&#34;&gt;32373721&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Blocking IL-6 with tocilizumab and using respirator equipment seems to be a very important issue in this (SARS-CoV-2) pneumonia, but not all patients are referred to such treatments.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32376395&#34; target=&#34;_blank&#34;&gt;32376395&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this cross-sectional study, Tuscan outpatients with systemic autoimmune diseases followed at a tertiary referral centre were telephonically interviewed between April 1st-14th 2020 to collect demographic and clinical data, information on ongoing immunomodulating/immunosuppressive treatments, and on the presence of symptoms suspected of SARS-CoV-2 or of a confirmed infection. 458 patients were interviewed [74% female, median age 56 years (IQR 43-68)]; 56% of them were receiving corticosteroids, 44% traditional disease-modifying anti-rheumatic drugs (DMARDs), of whom 23% hydroxychloroquine, 5% colchicine, while 41% were on biologic DMARDs (of whom 9% on tocilizumab).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32376398&#34; target=&#34;_blank&#34;&gt;32376398&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A prospective series of 100 consecutive patients admitted to the Spedali Civili University Hospital in Brescia (Italy) between March 9th and March 20th with confirmed COVID-19 pneumonia and ARDS requiring ventilatory support was analyzed to determine whether intravenous administration of tocilizumab (TCZ), a monoclonal antibody that targets the interleukin 6 (IL-6) receptor, was associated with improved outcome. […] Tocilizumab was administered at a dosage of 8 mg/kg by two consecutive intravenous infusions 12 h apart. […] The outcome measure was an improvement in acute respiratory failure assessed by means of the Brescia COVID Respiratory Severity Score (BCRSS 0 to 8, with higher scores indicating higher severity) at 24-72 h and 10 days after tocilizumab administration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32378314&#34; target=&#34;_blank&#34;&gt;32378314&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Despite reduction in immunosuppression and treatment with tocilizumab, intravenous immunoglobulin, hydroxychloroquine, lopinavir/ritonavir, and broad-spectrum antibiotics, she ultimately died from multiorgan failure. […] Because of a lack of clinical improvement several days later, tocilizumab, methylprednisolone, and therapeutic anticoagulation were initiated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32378647&#34; target=&#34;_blank&#34;&gt;32378647&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Interleukin 6 (IL-6) inhibitor (tocilizumab) had been suggested for the treatment of acute respiratory distress syndrome (ARDS) patients based on the concept of “cytokine storm” in COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32387320&#34; target=&#34;_blank&#34;&gt;32387320&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tocilizumab (TCZ) in patients with severe COVID-19 could be an effective treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32391669&#34; target=&#34;_blank&#34;&gt;32391669&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To observe the clinical effect of plasma exchange and tocilizumab in treatment of patients with severe coronavirus disease 2019 (COVID-19). […] Three patients were treated with plasma exchange and three patients were treated with tocilizumab. […] The effect on excessive inflammatory reaction of plasma exchange and tocilizumab was observed. […] The C-reactive protein (CRP) and IL-6 levels were significantly decreased and the lymphocyte and prothrombin time were improved in 3 patients after treatment with plasma exchange; while inflammation level was not significantly decreased, and lymphocyte and prothrombin time did not improve in 3 patients treated with tocilizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32392389&#34; target=&#34;_blank&#34;&gt;32392389&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One patient treated with tocilizumab for COVID-19 was successfully extubated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32397399&#34; target=&#34;_blank&#34;&gt;32397399&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; This study aimed to assess the role of Tocilizumab therapy (TCZ) in terms of ICU admission and mortality rate of critically ill patients with severe COVID-19 pneumonia. &lt;b&gt;Design:&lt;/b&gt; Patients with COVID-19 pneumonia were prospectively enrolled in SMAtteo COvid19 REgistry (SMACORE). […] The first administration was 8 mg/kg (up to a maximum 800 mg per dose) of Tocilizumab intravenously, repeated after 12 h if no side effects were reported after the first dose. &lt;b&gt;Main Outcomes and Measures:&lt;/b&gt; ICU admission and 7-day mortality rate.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32397911&#34; target=&#34;_blank&#34;&gt;32397911&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In particular, hydroxychloroquine, remdesivir, favipiravir, arbidol, tocilizumab and bevacizumab have shown promising results.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32399455&#34; target=&#34;_blank&#34;&gt;32399455&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We present a case of life-threatening CRS caused by COVID-19 infection with a favourable response to immunosuppressive therapy with tocilizumab (TCZ). […] Cytokine release syndrome may cause sudden and potentially life-threatening clinical deterioration in COVID-19 pneumonia, particularly in younger patients.Immunosuppressive therapy may provide important additional therapeutic benefit in these patients.Tocilizumab, a specific IL-6 inhibitor, led to dramatic clinical improvement in a young patient with severe COVID-19-associated cytokine release syndrome.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405160&#34; target=&#34;_blank&#34;&gt;32405160&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study aims to evaluate if tocilizumab, an anti-soluble IL-6 receptor monoclonal antibody, reduces patients’ mortality. 85 consecutive patients admitted to the Montichiari Hospital (Italy) with COVID-19 related pneumonia and respiratory failure, not needing mechanical ventilation, were included if satisfying at least one among: respiratory rate ≥ 30 breaths/min, peripheral capillary oxygen saturation ≤ 93% or PaO2/FiO2&amp;lt;=300 mmHg. […] On March 13th tocilizumab was available and patients admitted thereafter (n=62) received tocilizumab once within 4 days from admission, plus the standard care. […] Patients receiving tocilizumab showed significantly greater survival rate as compared to control patients (hazard ratio for death, 0.035; 95% confidence interval [CI], 0.004 to 0.347; p = 0.004), adjusting for baseline clinical characteristics. […] Two out of 62 patients of the tocilizumab group and 11 out of 23 in the control group died. 92% and 42.1% of the discharged patients in the tocilizumab and control group respectively, recovered. […] The respiratory function resulted improved in 64.8% of the observations in tocilizumab patients who were still hospitalized, whereas 100% of controls worsened and needed mechanical ventilation. […] Tocilizumab results to have a positive impact if used early during Covid-19 pneumonia with severe respiratory syndrome in terms of increased survival and favorable clinical course.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32406985&#34; target=&#34;_blank&#34;&gt;32406985&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Herein, we report a case of successful treatment of SARS-CoV-2 induced inflammatory syndrome by utilization of the interleukin-6 receptor antagonist (IL-6Ra) tocilizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32410234&#34; target=&#34;_blank&#34;&gt;32410234&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Intravenous tocilizumab, an antirheumatic drug, seems to be promising in counteracting cytokine storm caused by SARS-CoV-2 infection with associated clinical improvements. […] We report herein a case series of patients with COVID-19 pneumonia who were treated with tocilizumab administrated, for the first time, subcutaneously with good clinical and radiological outcomes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32410772&#34; target=&#34;_blank&#34;&gt;32410772&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thus, anti-proinflammatory cytokine drugs like Anakinra and Tocilizumab are undergoing multiple trials and some results are encouraging.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32412509&#34; target=&#34;_blank&#34;&gt;32412509&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Monoclonal antibodies targeting different pro-inflammatory cytokines, such as tocilizumab, an anti-interleukin 6 agent, are being tried with encouraging results.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32413736&#34; target=&#34;_blank&#34;&gt;32413736&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tocilizumab, a monoclonal antibody against IL6, could confer clinical benefit in patients with high IL6 levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32416330&#34; target=&#34;_blank&#34;&gt;32416330&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Case report RESULTS: We report a fingolimod-treated MS patient who developed severe COVID-19 but recovered after treatment with tocilizumab. […] This report suggests that a brief course of tocilizumab for the treatment of severe COVID-19 may be effective while not aggravating pre-existing MS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32419524&#34; target=&#34;_blank&#34;&gt;32419524&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition, tocilizumab might be considered as the supplementary treatment for COVID-19 patients with cytokine release syndrome.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32421092&#34; target=&#34;_blank&#34;&gt;32421092&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since the outbreak of COVID-19 many studies have been published showing possible therapies, here the author discusses the end of stage disease related drugs, like Tocilizumab which is currently being used in ARDS patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32425246&#34; target=&#34;_blank&#34;&gt;32425246&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The only FDA approved drug to treat COVID-19 is remdesivir, and other off-label medications used include chloroquine and hydroxychloroquine, tocilizumab, lopinavir/ritonavir, favipiravir, convalescent plasma therapy, azithromycin, vitamin C, corticosteroids, interferon and colchicine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32425662&#34; target=&#34;_blank&#34;&gt;32425662&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients were divided in two groups: 42 severe cases (TOCI) with adverse prognostic features including raised CRP and IL-6 levels, who underwent anti-cytokine treatments, mostly tocilizumab, and 69 standard of care patients (SOC).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32426957&#34; target=&#34;_blank&#34;&gt;32426957&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The paper reviews aspects of COVID-19 that pertain to rheumatology, including symptoms and signs akin to those observed in rheumatic disorders, risk of infection or severe course of the disease in patients with a pre-existing rheumatic disease and those receiving antirheumatic or immunosuppressive medication as well as potential applications of antirheumatic or anticytokine therapeutic strategies that are already applied in rheumatology (including chloroquine, hydroxychloroquine, tocilizumab, baricitinib, and others) for patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32433778&#34; target=&#34;_blank&#34;&gt;32433778&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several drugs with anti-inflammatory properties (tocilizumab, siltuximab, sarilumab, anakinra, among others) have been suggested as adjuncts to supportive care in the management of COVID-19, and several clinical trials are underway (NCT04315298, NCT04317092, NCT04306705).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32434788&#34; target=&#34;_blank&#34;&gt;32434788&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A monoclonal anti-IL-6 receptor antibody, tocilizumab has been administered in a number of cases in China and Italy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32436445&#34; target=&#34;_blank&#34;&gt;32436445&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The use of chloroquine or hydroxychloroquine (HCQ), remdesivir, and tocilizumab are some of the other promising potential therapies; however, they are yet to be tested in randomized clinical trials (RCTs).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32436867&#34; target=&#34;_blank&#34;&gt;32436867&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients are being treated with protease drugs are inhibitors, remdesivir, chloroquine, angiotensin-converting enzyme 2 inhibitors, ivermectin, sarilumab and tocilizumab, though none of these is Food and Drug Administration approved and are undergoing trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32436994&#34; target=&#34;_blank&#34;&gt;32436994&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Inhibition of the IL-6 pathway with tocilizumab has been employed successfully in some of these patients but the data is mostly consistent of case reports and series. […] We performed a systematic search of PubMed, Embase, and Medline from 22&lt;sup&gt;nd&lt;/sup&gt; April 2020 and again on 27&lt;sup&gt;th&lt;/sup&gt; April 2020 using the following search terms alone or in combination: “COVID-19”, “coronavirus”, “SARS-CoV-2”, “COVID”, “anti-interleukin 6 receptor antibodies”, “anti-IL-6”, “tocilizumab”, “sarilumab”, “siltuximab”. […] IL-6 level was significantly higher after the initiation of tocilizumab with median (IQR) of 376.6 (148-900.6) pg/mL compared to the baseline of 71.1 (31.9-122.8) pg/mL (p=0.002). […] In COVID-19 patients treated with tocilizumab, IL-6 levels are significantly elevated which are supportive of cytokine storm. […] Following initiation of tocilizumab, there is elevation in the IL-6 levels and CRP levels dramatically decrease suggesting an improvement in this hyper-inflammatory state. […] However, to our knowledge, there is no individual patient data systematic review performed to summarize baseline characteristics and clinical outcomes of COVID 19 patients who received tocilizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32439306&#34; target=&#34;_blank&#34;&gt;32439306&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the absence of a vaccine, the management of COVID-19 included antivirals, high-flow oxygen, mechanical ventilation, corticosteroids, hydroxychloroquine, tocilizumab, interferons, intravenous immunoglobulin, and convalescent plasma infusions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32441332&#34; target=&#34;_blank&#34;&gt;32441332&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Forty-one patients (68.6%) required hospital admission (18 due to disease worsening and 23 for delivery) of whom 21 patients (35%) underwent pharmacological treatment, including hydroxychloroquine, antivirals, antibiotics and tocilizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32441764&#34; target=&#34;_blank&#34;&gt;32441764&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PARPi’s may potentiate the effectiveness of Tocilizumab, Anakinra, Sarilumab, Adalimumab, Canakinumab or Siltuximab therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32441805&#34; target=&#34;_blank&#34;&gt;32441805&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Therefore, an add-on therapy with drugs able to reduce inflammation, edema, and cell activation has been proposed as well as a treatment with interferon, corticosteroids or monoclonal antibodies (eg, tocilizumab).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32445484&#34; target=&#34;_blank&#34;&gt;32445484&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several drugs are being repurposed into clinical trials in COVID-19 patients, ranging from drugs already well established in other diseases, such as chloroquine/hydroxychloroquine, lopinavir+ ritonavir, azithromycin and tocilizumab/sarilumab, to those such as remdesivir still in development for their initial indication (1).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32447102&#34; target=&#34;_blank&#34;&gt;32447102&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tocilizumab (TCZ) is used for treating moderate-to-severe Covid-19 pneumonia by targeting interleukin-6 receptors (IL-6Rs) and reducing cytokine release.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32448770&#34; target=&#34;_blank&#34;&gt;32448770&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tocilizumab, a humanized monoclonal antibody, targets IL-6 receptors blocking downstream pro-inflammatory effects of IL-6. […] In this open-label prospective study we describe clinical characteristics and outcome of 51 patients hospitalized with confirmed and severe COVID-19 pneumonia treated with tocilizumab intravenously. […] From baseline to day 7 after tocilizumab we observed a dramatic drop of body temperature and CRP value with a significant increase in lymphocyte count (p&amp;lt;0.001). […] Over a median follow-up time of 34 days from tocilizumab, 34 patients (67%) showed an improvement in their clinical severity class; 31 were discharged; 17 (33%) showed a worsening of their clinical status, of these 14 died (27%). […] Tocilizumab exerts a rapidly beneficial effect on fever and inflammatory markers, although no significant impact on the clinical outcome can be inferred by our results.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32449235&#34; target=&#34;_blank&#34;&gt;32449235&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report a case of the successful recovery from severe COVID-19 of a kidney-transplanted patient treated with hydroxychloroquine, lopinavir/ritonavir, steroid and tocilizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32459790&#34; target=&#34;_blank&#34;&gt;32459790&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tocilizumab was applied in two intubated children.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32461326&#34; target=&#34;_blank&#34;&gt;32461326&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tocilizumab was administered to 4 patients and hydroxychloroquine to 1 patient.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32462717&#34; target=&#34;_blank&#34;&gt;32462717&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Two humanized monoclonal antibodies are in clinical trial following IL6R antagonist therapies namely tocilizumab and sarilumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32463803&#34; target=&#34;_blank&#34;&gt;32463803&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Off-label treatment with tocilizumab restored the cytotoxic potential of NK cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32470751&#34; target=&#34;_blank&#34;&gt;32470751&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thus, anti-proinflammatory cytokine drugs like Anakinra and Tocilizumab are undergoing multiple trials and some results are encouraging.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32471001&#34; target=&#34;_blank&#34;&gt;32471001&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A subset of patients was treated with anti-retroviral and tocilizumab.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

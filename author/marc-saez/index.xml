@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc Saez | PlatCOVID</title>
+    <link>/author/marc-saez/</link>
+      <atom:link href="/author/marc-saez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marc Saez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Marc Saez</title>
+      <link>/author/marc-saez/</link>
+    </image>
+    
+    <item>
+      <title>Effectiveness of the measures to flatten the epidemic curve of COVID-19. The case of Spain.</title>
+      <link>/publication/32330703/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32330703/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

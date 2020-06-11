@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00860&#39; target=&#39;_blank&#39;&gt;db00860&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=prednisolone&#34; target=&#34;_blank&#34;&gt;prednisolone&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=chloroquine&#34; target=&#34;_blank&#34;&gt;chloroquine&lt;/a&gt; &lt;br&gt;
 Synonymous :(11β)-11,17,21-trihydroxypregna-1,4-diene-3,20-dione | 1,4-pregnadiene-11β,17α,21-triol-3,20-dione | 1,4-pregnadiene-3,20-dione-11β,17α,21-triol | 3,20-dioxo-11β,17α,21-trihydroxy-1,4-pregnadiene | delta-dehydrocortisol | delta-dehydrohydrocortisone | delta-hydrocortisone | delta(1)-dehydrocortisol | delta(1)-dehydrohydrocortisone | delta(1)-hydrocortisone | hydroretrocortine | metacortandralone | prdl | prednisolona | prednisolone | prednisolonum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(11β)-11,17,21-trihydroxypregna-1,4-diene-3,20-dione | 1,4-pregnadi
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;prednisolone&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;chloroquine&lt;/em&gt; gene in 158 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,10 +49,26 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32256705
+&lt;a href=&#34;/publication/32256705&#34; target=&#34;_blank&#34;&gt;32256705&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low-dose prednisolone and tacrolimus may have beneficial impacts on COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32363963&#34; target=&#34;_blank&#34;&gt;32363963&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+He was receiving mycophenolate mofetil (MMF) for one month and 30 mg prednisolone for three months until his hospitalization. […] Prednisolone was tapered to 15 mg when current COVID-19 was suspected, considering his recent cough, dyspnea, and fever.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32379699&#34; target=&#34;_blank&#34;&gt;32379699&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We also comment on suggested dosing for patients who usually take modified release hydrocortisone or prednisolone.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

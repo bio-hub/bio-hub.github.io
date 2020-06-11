@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaap Bonjer | PlatCOVID</title>
+    <link>/author/jaap-bonjer/</link>
+      <atom:link href="/author/jaap-bonjer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jaap Bonjer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Jaap Bonjer</title>
+      <link>/author/jaap-bonjer/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 and laparoscopic surgery, a scoping review of current literature and local expertise.</title>
+      <link>/publication/32406853/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32406853/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

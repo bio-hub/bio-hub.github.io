@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huimin Wan | PlatCOVID</title>
+    <link>/author/huimin-wan/</link>
+      <atom:link href="/author/huimin-wan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Huimin Wan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 23 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Huimin Wan</title>
+      <link>/author/huimin-wan/</link>
+    </image>
+    
+    <item>
+      <title>Hypolipidemia is associated with the severity of COVID-19.</title>
+      <link>/publication/32430154/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32430154/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

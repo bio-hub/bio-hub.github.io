@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00151&#39; target=&#39;_blank&#39;&gt;db00151&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=cysteine&#34; target=&#34;_blank&#34;&gt;cysteine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=lopinavir&#34; target=&#34;_blank&#34;&gt;lopinavir&lt;/a&gt; &lt;br&gt;
 Synonymous :(2r)-2-amino-3-mercaptopropanoic acid | (2r)-2-amino-3-sulfanylpropanoic acid | (r)-2-amino-3-mercaptopropanoic acid | cisteina | cisteinum | cys | cysteine | cysteinum | free cysteine | l-2-amino-3-mercaptopropionic acid | l-cys | l-cystein | l-zystein
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(2r)-2-amino-3-mercaptopropanoic acid | (2r)-2-amino-3-sulfanylpropa
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cysteine&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lopinavir&lt;/em&gt; gene in 133 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,10 +49,50 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32266873
+&lt;a href=&#34;/publication/32266873&#34; target=&#34;_blank&#34;&gt;32266873&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 3CLpro is a cysteine protease responsible for the proteolysis of replicase polyproteins resulting in the formation of various functional proteins, whereas 2’-O-MTase methylates the ribose 2’-O position of the first and second nucleotide of viral mRNA, which sequesters it from the host immune system.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32296570&#34; target=&#34;_blank&#34;&gt;32296570&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The viral 3-chymotrypsin-like cysteine protease (3CL&lt;sup&gt;pro&lt;/sup&gt;) enzyme controls coronavirus replication and is essential for its life cycle.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32322478&#34; target=&#34;_blank&#34;&gt;32322478&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Oral and IV glutathione, glutathione precursors (N-acetyl-cysteine) and alpha lipoic acid may represent a novel treatment approach for blocking NFKappaB and addressing “cytokine storm syndrome” and respiratory distress in patients with COVID-19 pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32391184&#34; target=&#34;_blank&#34;&gt;32391184&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Coronavirus 3C-like protease (3CL&lt;sup&gt;Pro&lt;/sup&gt;) is a highly conserved cysteine protease employing a catalytic dyad for its functions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32402186&#34; target=&#34;_blank&#34;&gt;32402186&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+An attractive therapeutic target for CoVs is the main protease (M&lt;sup&gt;pro&lt;/sup&gt;) or 3-chymotrypsin-like cysteine protease (3CL&lt;sup&gt;pro&lt;/sup&gt;), as this enzyme plays a key role in polyprotein processing and is active in a dimeric form.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32429099&#34; target=&#34;_blank&#34;&gt;32429099&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+First, PLP is one of the two viral cysteine proteases, along with 3-chymotripsin-like protease, that is responsible for the production of the replicase proteins required for viral replication.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

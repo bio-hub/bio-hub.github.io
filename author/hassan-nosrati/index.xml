@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hassan Nosrati | PlatCOVID</title>
+    <link>/author/hassan-nosrati/</link>
+      <atom:link href="/author/hassan-nosrati/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hassan Nosrati</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Hassan Nosrati</title>
+      <link>/author/hassan-nosrati/</link>
+    </image>
+    
+    <item>
+      <title>Combination of Biodata Mining and Computational Modelling in Identification and Characterization of ORF1ab Polyprotein of SARS-CoV-2 Isolated from Oronasopharynx of an Iranian Patient.</title>
+      <link>/publication/32336957/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32336957/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

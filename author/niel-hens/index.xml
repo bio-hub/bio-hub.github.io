@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Niel Hens | PlatCOVID</title>
+    <link>/author/niel-hens/</link>
+      <atom:link href="/author/niel-hens/index.xml" rel="self" type="application/rss+xml" />
+    <description>Niel Hens</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Niel Hens</title>
+      <link>/author/niel-hens/</link>
+    </image>
+    
+    <item>
+      <title>The COVID-19 epidemic, its mortality, and the role of non-pharmaceutical interventions.</title>
+      <link>/publication/32352314/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32352314/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the generation interval for coronavirus disease (COVID-19) based on symptom onset data, March 2020.</title>
+      <link>/publication/32372755/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32372755/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

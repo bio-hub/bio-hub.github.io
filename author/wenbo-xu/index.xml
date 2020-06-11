@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenbo Xu | PlatCOVID</title>
+    <link>/author/wenbo-xu/</link>
+      <atom:link href="/author/wenbo-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenbo Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Wenbo Xu</title>
+      <link>/author/wenbo-xu/</link>
+    </image>
+    
+    <item>
+      <title>A multiple center clinical evaluation of an ultra-fast single-tube assay for SARS-CoV-2 RNA.</title>
+      <link>/publication/32422410/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32422410/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The pathogenicity of SARS-CoV-2 in hACE2 transgenic mice.</title>
+      <link>/publication/32380511/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32380511/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

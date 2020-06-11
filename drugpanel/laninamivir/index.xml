@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db12791&#39; target=&#39;_blank&#39;&gt;db12791&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=laninamivir&#34; target=&#34;_blank&#34;&gt;laninamivir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
 Synonymous :laninamivir | laninamivirum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :laninamivir | laninamivirum
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;laninamivir&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32251791
+&lt;a href=&#34;/publication/32251791&#34; target=&#34;_blank&#34;&gt;32251791&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 He saw doctors nearby twice (day2 and 5) and was prescribed Laninamivir and antipyretic agents, His family visited his home and found that he was unconsciousness and lying on the floor in his vomit.

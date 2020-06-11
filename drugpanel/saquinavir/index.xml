@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01232&#39; target=&#39;_blank&#39;&gt;db01232&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=saquinavir&#34; target=&#34;_blank&#34;&gt;saquinavir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
 Synonymous :saquinavir
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :saquinavir
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;saquinavir&lt;/em&gt; gene in 3 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32210741
+&lt;a href=&#34;/publication/32210741&#34; target=&#34;_blank&#34;&gt;32210741&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Our results showed that several HIV inhibitors such as lopinavir, ritonavir, and saquinavir produce strong interaction with the active site of SARS-CoV-2 main protease.
@@ -57,7 +57,7 @@ Our results showed that several HIV inhibitors such as lopinavir, ritonavir, and
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32238094
+&lt;a href=&#34;/publication/32238094&#34; target=&#34;_blank&#34;&gt;32238094&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 As a result three FDA approved drugs (Remdesivir, Saquinavir and Darunavir) and two natural compounds (. flavone and coumarine derivatives) were identified as promising hits.
@@ -65,10 +65,18 @@ As a result three FDA approved drugs (Remdesivir, Saquinavir and Darunavir) and 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32294562
+&lt;a href=&#34;/publication/32294562&#34; target=&#34;_blank&#34;&gt;32294562&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Several antiviral medications: Zanamivir, Indinavir, Saquinavir, and Remdesivir show potential as and 3CL&lt;sup&gt;PRO&lt;/sup&gt; main proteinase inhibitors and as a treatment of COVID-19. […] Zanamivir, Indinavir, Saquinavir, and Remdesivir are among the exciting hits on the 3CL&lt;sup&gt;PRO&lt;/sup&gt; main proteinase.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32364041&#34; target=&#34;_blank&#34;&gt;32364041&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The covalent docking showed that saquinavir, ritonavir, remdesivir, delavirdine, cefuroxime axetil, oseltamivir and prevacid have the highest binding energies MMGBSA of -72.17, -72.02, -65.19, -57.65, -54.25, -51.8, and -51.14 kcal/mol, respectively. […] The 50 ns molecular dynamics simulation was conducted for saquinavir, ritonavir and remdesivir to evaluate the stability of these drugs inside the binding pocket of SARS-CoV-2 main protease.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

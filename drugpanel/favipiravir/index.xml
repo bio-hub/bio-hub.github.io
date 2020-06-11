@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db12466&#39; target=&#39;_blank&#39;&gt;db12466&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=favipiravir&#34; target=&#34;_blank&#34;&gt;favipiravir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=melatonin&#34; target=&#34;_blank&#34;&gt;melatonin&lt;/a&gt; &lt;br&gt;
 Synonymous :fapilavir | favilavir | favipiravir
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :fapilavir | favilavir | favipiravir
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;favipiravir&lt;/em&gt; gene in 9 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;melatonin&lt;/em&gt; gene in 24 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32147628
+&lt;a href=&#34;/publication/32147628&#34; target=&#34;_blank&#34;&gt;32147628&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Several drugs such as chloroquine, arbidol, remdesivir, and favipiravir are currently undergoing clinical studies to test their efficacy and safety in the treatment of coronavirus disease 2019 (COVID-19) in China; some promising results have been achieved thus far.
@@ -57,7 +57,7 @@ Several drugs such as chloroquine, arbidol, remdesivir, and favipiravir are curr
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32243270
+&lt;a href=&#34;/publication/32243270&#34; target=&#34;_blank&#34;&gt;32243270&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 This review summarizes the current evidence of potential therapeutic agents, such as lopinavir/ritonavir, remdesivir, favipiravir, chloroquine, hydroxychloroquine, interferon, ribavirin, tocilizumab and sarilumab.
@@ -65,7 +65,7 @@ This review summarizes the current evidence of potential therapeutic agents, suc
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32246834
+&lt;a href=&#34;/publication/32246834&#34; target=&#34;_blank&#34;&gt;32246834&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Favipiravir, a purine nucleic acid analog and potent RdRp inhibitor approved for use in influenza, is also considered in several clinical trials. […] Herein, we summarized the pharmacokinetic characteristics of favipiravir and possible drug-drug interactions from the view of drug metabolism. […] We hope this will be helpful for the design of clinical trials for favipiravir in COVID-2019, as data regarding in vitro virus inhibition and efficacy in preclinical animal studies are still not available.
@@ -73,7 +73,7 @@ Favipiravir, a purine nucleic acid analog and potent RdRp inhibitor approved for
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32251767
+&lt;a href=&#34;/publication/32251767&#34; target=&#34;_blank&#34;&gt;32251767&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Ribavirin or favipiravir that are currently evaluated under clinical trials showed no inhibition at 100 μM.
@@ -81,7 +81,7 @@ Ribavirin or favipiravir that are currently evaluated under clinical trials show
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32256547
+&lt;a href=&#34;/publication/32256547&#34; target=&#34;_blank&#34;&gt;32256547&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We identified 24 clinical trials, involving more than 20 medicines, such as human immunoglobulin, interferons, chloroquine, hydroxychloroquine, arbidol, remdesivir, favipiravir, lopinavir, ritonavir, oseltamivir, methylprednisolone, bevacizumab, and traditional Chinese medicines (TCM). […] Se identificaron 24 ensayos clínicos relacionados con más de 20 medicamentos, como inmunoglobulina humana, interferones, cloroquina, hidroxicloroquina, arbidol, remdesivir, favipiravir, lopinavir, ritonavir, oseltamivir, metilprednisolona, bevacizumab y medicina tradicional china. […] Foram identificados 24 ensaios clínicos envolvendo mais de 20 medicamentos, tais como imunoglobulina humana, interferons, cloroquina, hidroxicloroquina, arbidol, remdesivir, favipiravir, lopinavir, ritonavir, oseltamivir, metilprednisolona, bevacizumabe e medicamentos chineses tradicionais.
@@ -89,7 +89,7 @@ We identified 24 clinical trials, involving more than 20 medicines, such as huma
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32277367
+&lt;a href=&#34;/publication/32277367&#34; target=&#34;_blank&#34;&gt;32277367&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Antiviral drugs like lopinavir/ritonavir, favipiravir and remdesivir are also being explored.
@@ -97,7 +97,7 @@ Antiviral drugs like lopinavir/ritonavir, favipiravir and remdesivir are also be
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32284326
+&lt;a href=&#34;/publication/32284326&#34; target=&#34;_blank&#34;&gt;32284326&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In this regard, the triphosphate forms of 2’-C-methylated compounds, including sofosbuvir, approved for the management of hepatitis C virus infection, and the broad-acting antivirals favipiravir and ribavirin, exhibited significant deficits.
@@ -105,7 +105,7 @@ In this regard, the triphosphate forms of 2’-C-methylated compounds, including
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32290293
+&lt;a href=&#34;/publication/32290293&#34; target=&#34;_blank&#34;&gt;32290293&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The initial clinical studies revealed the promising therapeutic potential of several of such drugs, including &lt;i&gt;favipiravir&lt;/i&gt;, a broad-spectrum antiviral drug that interferes with the viral replication, and &lt;i&gt;hydroxychloroquine&lt;/i&gt;, the repurposed antimalarial drug that interferes with the virus endosomal entry pathway.
@@ -113,10 +113,146 @@ The initial clinical studies revealed the promising therapeutic potential of sev
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32293834
+&lt;a href=&#34;/publication/32293834&#34; target=&#34;_blank&#34;&gt;32293834&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The most frequently used agents both in Turkey and all over the world including chloroquine, hydroxychloroquine, lopinavir/ritonavir, favipiravir and remdesivir will be reviewed here .
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32297571&#34; target=&#34;_blank&#34;&gt;32297571&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Inaddition, remdesivir, which has been previously administered to Ebola virus patients, has alsoproven effective in the U.S. against coronavirus, while antimalarial chloroquine and hydroxy-chloroquine, favipiravir and co-administered darunavir and umifenovir (in patient therapies)were also recently recorded as having anti-SARS-CoV-2 effects.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32307245&#34; target=&#34;_blank&#34;&gt;32307245&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The other excellent anti-influenza RdRp inhibitor favipiravir is also being clinically evaluated for its efficacy in COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32329520&#34; target=&#34;_blank&#34;&gt;32329520&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Drug repositioning may offer a strategy and a number of drugs have been repurposed, including lopinavir/ritonavir, remdesivir, favipiravir and tocilizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32336586&#34; target=&#34;_blank&#34;&gt;32336586&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There are currently no therapeutic drugs available that are directly active against SARS-CoV-2; however, several antivirals (remdesivir, favipiravir) and antimalarials (chloroquine, hydroxychloroquine) have emerged as potential therapies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32338164&#34; target=&#34;_blank&#34;&gt;32338164&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results show the effectiveness of Sofosbuvir, Ribavirin, Galidesivir, Remdesivir, Favipiravir, Cefuroxime, Tenofovir, and Hydroxychloroquine, in binding to SARS-CoV-2 RdRp.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32346491&#34; target=&#34;_blank&#34;&gt;32346491&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Herein, we examine the effects of Favipiravir (FPV) versus Lopinavir (LPV)/ritonavir (RTV) for the treatment of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32360480&#34; target=&#34;_blank&#34;&gt;32360480&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Further, chloroquine and hydroxychloroquine, and off-label antiviral drugs, such as the nucleotide analogue remdesivir, HIV protease inhibitors lopinavir and ritonavir, broad-spectrum antiviral drugs arbidol and favipiravir as well as antiviral phytochemicals available to date may limit spread of SARS-CoV-2 and morbidity and mortality of COVID-19 pandemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32372695&#34; target=&#34;_blank&#34;&gt;32372695&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Similarly, other investigational drugs such as favipiravir and lopinavir/ritonavir can prolong QT interval and cause Torsade de Pointes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32392072&#34; target=&#34;_blank&#34;&gt;32392072&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, we demonstrate the binding poses of three viral RdRp inhibitors (Galidesivir, Favipiravir, and Penciclovir), which were recently reported to have clinical significance for SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32394467&#34; target=&#34;_blank&#34;&gt;32394467&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Favipiravir increases clinical recovery and reduces respiratory problems and has a stronger antiviral effect than LPV/r. currently, appropriate treatment for patients with COVID-19 is an ACE2 inhibitor and a clinical problem reducing agent such as favipiravir in addition to hydroxychloroquine and corticosteroids.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32395418&#34; target=&#34;_blank&#34;&gt;32395418&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These drugs and therapeutic agents include antiviral agents (remdesivir, hydroxychloroquine, chloroquine, lopinavir, umifenovir, favipiravir, and oseltamivir), and supporting agents (Ascorbic acid, Azithromycin, Corticosteroids, Nitric oxide, IL-6 antagonists), among others.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32397911&#34; target=&#34;_blank&#34;&gt;32397911&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In particular, hydroxychloroquine, remdesivir, favipiravir, arbidol, tocilizumab and bevacizumab have shown promising results.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32399094&#34; target=&#34;_blank&#34;&gt;32399094&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 Mpro was docked with all statins, while antiviral and antiretroviral drugs - favipiravir, nelfinavir, and lopinavir - were used as standards for comparison. […] The binding energies obtained from the docking of 6LU7 with native ligand favipiravir, nelfinavir, lopinavir, simvastatin, rosuvastatin, pravastatin, pitavastatin, lovastatin, fluvastatin, and atorvastatin were -6.8, -5.8, -7.9, -7.9, -7.0, -7.7, -6.6, -8.2, -7.4, -7.7, and -6.8 kcal/mol, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405421&#34; target=&#34;_blank&#34;&gt;32405421&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Favipiravir is an antiviral previously indicated for influenza and Ebola, which has shown some promise in early trials for treatment of COVID-19. […] We aim to review existing favipiravir safety evidence, which is vital to informing the potential future use of favipiravir in COVID-19. […] All studies assessing the use of favipiravir in humans by 27 March 2020 were considered for inclusion. […] Twenty-nine studies were identified as potential sources of evidence of the clinical safety of favipiravir. […] The proportions of grade 1-4 AEs on favipiravir was 28.2% &lt;i&gt;vs&lt;/i&gt; 28.4% (&lt;i&gt;P&lt;/i&gt; = n.s.) in the comparison arms. […] The proportion of discontinuations due to AEs on favipiravir was 1.1% &lt;i&gt;vs&lt;/i&gt; 1.2% (&lt;i&gt;P&lt;/i&gt; = n.s.) in the comparison arms. […] There were significantly fewer gastrointestinal AEs occurring on favipiravir &lt;i&gt;vs&lt;/i&gt; comparators [8.7% &lt;i&gt;vs&lt;/i&gt; 11.5%; &lt;i&gt;P&lt;/i&gt; = 0.003]. […] Favipiravir showed significantly more uric acid elevations than comparators [5.8% &lt;i&gt;vs&lt;/i&gt; 1.3%; &lt;i&gt;P&lt;/i&gt;&amp;lt;0.0001]. […] Favipiravir demonstrates a favourable safety profile regarding total and serious AEs. […] Favipiravir may be safe and tolerable in short-term use, but more evidence is needed to assess the longer-term effects of treatment. […] Given the limitations of the evidence and unresolved safety concerns, caution is warranted in the widespread use of favipiravir against pandemic COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405423&#34; target=&#34;_blank&#34;&gt;32405423&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Minimum estimated costs of production were US $0.93/day for remdesivir, $1.45/day for favipiravir, $0.08/day for hydroxychloroquine, $0.02/day for chloroquine, $0.10/day for azithromycin, $0.28/day for lopinavir/ritonavir, $0.39/day for sofosbuvir/daclatasvir and $1.09/day for pirfenidone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32425246&#34; target=&#34;_blank&#34;&gt;32425246&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The only FDA approved drug to treat COVID-19 is remdesivir, and other off-label medications used include chloroquine and hydroxychloroquine, tocilizumab, lopinavir/ritonavir, favipiravir, convalescent plasma therapy, azithromycin, vitamin C, corticosteroids, interferon and colchicine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32448818&#34; target=&#34;_blank&#34;&gt;32448818&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The additive effects of interferons on the inhibitory effects of other candidate drugs to treat SARS-CoV-2 infection, such as lopinavir, ritonavir and favipiravir, have also been studied.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

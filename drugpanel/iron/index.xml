@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01592&#39; target=&#39;_blank&#39;&gt;db01592&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=iron&#34; target=&#34;_blank&#34;&gt;iron&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=lopinavir&#34; target=&#34;_blank&#34;&gt;lopinavir&lt;/a&gt; &lt;br&gt;
 Synonymous :carbonyl iron | eisen | electrolytic iron | fe | fer | ferrum | ferrum metallicum | hierro | iron powder | iron, carbonyl | iron, electrolytic | iron, elemental | iron, reduced | reduced iron
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :carbonyl iron | eisen | electrolytic iron | fe | fer | ferrum | ferr
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;iron&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lopinavir&lt;/em&gt; gene in 133 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,10 +49,50 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32270515
+&lt;a href=&#34;/publication/32270515&#34; target=&#34;_blank&#34;&gt;32270515&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We concluded that rhEPO could attenuate respiratory distress syndrome and confront the SARS-CoV-2 virus through multiple mechanisms including cytokine modulation, anti-apoptotic effects, leukocyte release from bone marrow, and iron redistribution away from the intracellular virus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32318324&#34; target=&#34;_blank&#34;&gt;32318324&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Iron-containing enzymes are required for viruses most likely including coronaviruses (CoVs) to complete their replication process. […] Moreover, poor prognosis occurred in the conditions of iron overload for patients upon infections of viruses. […] Thus, limiting iron represents a promising adjuvant strategy in treating viral infection through oral uptake or venous injection of iron chelators, or through the manipulation of the key iron regulators. […] For example, treatment with iron chelator deferiprone has been shown to prolong the survival of acquired immunodeficiency syndrome (AIDS) patients. […] Increasing intracellular iron efflux via increasing iron exporter ferroportin expression also exhibits antiviral effect on human immunodeficiency virus (HIV). […] The implications of other metals besides iron are also briefly discussed. […] For even though we know little about iron regulation in COVID-19 patients thus far, it could be deduced from other viral infections that iron chelation might be an alternative beneficial adjuvant in treating COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32340216&#34; target=&#34;_blank&#34;&gt;32340216&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A wealth of mechanistic and clinical data show that vitamins, including vitamins A, B&lt;sub&gt;6&lt;/sub&gt;, B&lt;sub&gt;12&lt;/sub&gt;, C, D, E, and folate; trace elements, including zinc, iron, selenium, magnesium, and copper; and the omega-3 fatty acids eicosapentaenoic acid and docosahexaenoic acid play important and complementary roles in supporting the immune system.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32418885&#34; target=&#34;_blank&#34;&gt;32418885&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we present evidence from the literature and a compelling hypothesis on the potential immunomodulatory, iron chelating and anti-oxidant effects of iron chelators in the treatment of COVID-19 and its complications. […] Interestingly, iron chelation has been shown in vitro to suppress endothelial inflammation in viral infection, which is the main pathophysiologic mechanism behind systemic organ involvement induced by SARS-CoV-2, by inhibiting IL-6 synthesis through decreasing NF-kB. […] Iron chelators exhibit iron chelating, antiviral and immunomodulatory effects in vitro and in vivo, particularly against RNA viruses. […] These agents could attenuate ARDS and help control SARS-CoV-2 via multiple mechanisms including: 1) inhibition of viral replication; 2) decrease of iron availability; 3) upregulation of B cells; 4) improvement of the neutralizing anti-viral antibody titer; 5) inhibition of endothelial inflammation and 6) prevention of pulmonary fibrosis and lung decline via reduction of pulmonary iron accumulation. […] Both retrospective analyses of data in electronic health records, as well as proof of concept studies in humans and large RCTs are needed to fully elucidate the efficacy and safety of iron chelating agents in the therapeutic armamentarium of COVID-19, probably as an adjunctive treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32430286&#34; target=&#34;_blank&#34;&gt;32430286&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Given the role of iron in several human viral infections, we also propose a different insight into a number of CQ and HCQ pharmacological effects, suggesting a potential involvement of iron homeostasis in Sars-Cov-2 infection and COVID-19 clinical course.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32438763&#34; target=&#34;_blank&#34;&gt;32438763&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Intravenous iron is the first-line treatment in subjects with moderate-severe anemia, active disease, or oral iron intolerance. […] On the other hand, oral iron is recommended in patients with mild anemia and inactive disease. […] However, during the current coronavirus pandemic, hospital activities have significantly changed, and all non-essential procedures, including non-urgent iron infusions, have been rescheduled. […] Oral iron, including both the traditional formulations with ferrous iron and the new ferric iron complexes, could constitute a valid alternative for anemia treatment. […] For this reason, we conducted a literature review, to summarize the scientific evidence on oral iron therapy in IBD patients with anemia.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

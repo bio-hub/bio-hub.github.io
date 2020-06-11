@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shaun A Nguyen | PlatCOVID</title>
+    <link>/author/shaun-a-nguyen/</link>
+      <atom:link href="/author/shaun-a-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shaun A Nguyen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Shaun A Nguyen</title>
+      <link>/author/shaun-a-nguyen/</link>
+    </image>
+    
+    <item>
+      <title>Tracheostomy protocols during COVID-19 pandemic.</title>
+      <link>/publication/32329922/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32329922/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Head and neck survivorship care in the times of the SARS-CoV-2 pandemic.</title>
+      <link>/publication/32358880/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32358880/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bronchoscopy, laryngoscopy, and esophagoscopy during the COVID-19 pandemic.</title>
+      <link>/publication/32348600/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32348600/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

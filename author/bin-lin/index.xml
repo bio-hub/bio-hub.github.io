@@ -5,12 +5,20 @@
     <link>/author/bin-lin/</link>
       <atom:link href="/author/bin-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Bin Lin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Bin Lin</title>
       <link>/author/bin-lin/</link>
     </image>
+    
+    <item>
+      <title>Artificial intelligence-enabled rapid diagnosis of patients with COVID-19.</title>
+      <link>/publication/32427924/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32427924/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chest CT Findings in Coronavirus Disease-19 (COVID-19): Relationship to Duration of Infection.</title>

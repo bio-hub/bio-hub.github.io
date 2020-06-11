@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11817&#39; target=&#39;_blank&#39;&gt;db11817&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=baricitinib&#34; target=&#34;_blank&#34;&gt;baricitinib&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=remdesivir&#34; target=&#34;_blank&#34;&gt;remdesivir&lt;/a&gt; &lt;br&gt;
 Synonymous :baricitinib
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :baricitinib
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;baricitinib&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;remdesivir&lt;/em&gt; gene in 116 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,10 +49,42 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32253068
+&lt;a href=&#34;/publication/32253068&#34; target=&#34;_blank&#34;&gt;32253068&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Baricitinib has both antiviral and anti-inflammatory properties.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32341791&#34; target=&#34;_blank&#34;&gt;32341791&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here we discuss the challenges that patients with autoimmune diseases might face and the information on using immunomodulatory therapies like chloroquine, tocilizumab and baricitinib to quench the cytokine storm in patients with very severe COVID-19 pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32392562&#34; target=&#34;_blank&#34;&gt;32392562&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since the combination of MTX and baricitinib leads to outstanding clinical outcomes, the addition of baricitinib to MTX might be a potential strategy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32426957&#34; target=&#34;_blank&#34;&gt;32426957&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The paper reviews aspects of COVID-19 that pertain to rheumatology, including symptoms and signs akin to those observed in rheumatic disorders, risk of infection or severe course of the disease in patients with a pre-existing rheumatic disease and those receiving antirheumatic or immunosuppressive medication as well as potential applications of antirheumatic or anticytokine therapeutic strategies that are already applied in rheumatology (including chloroquine, hydroxychloroquine, tocilizumab, baricitinib, and others) for patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32473600&#34; target=&#34;_blank&#34;&gt;32473600&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Baricitinib, is an oral Janus kinase (JAK)1/JAK2 inhibitor approved for the treatment of rheumatoid arthritis (RA) that was independently predicted, using artificial intelligence (AI)-algorithms, to be useful for COVID-19 infection via a proposed anti-cytokine effects and as an inhibitor of host cell viral propagation. […] We evaluated the in vitro pharmacology of baricitinib across relevant leukocyte subpopulations coupled to its in vivo pharmacokinetics and showed it inhibited signaling of cytokines implicated in COVID-19 infection. […] We validated the AI-predicted biochemical inhibitory effects of baricitinib on human numb-associated kinase (hNAK) members measuring nanomolar affinities for AAK1, BIKE, and GAK. […] Inhibition of NAKs led to reduced viral infectivity with baricitinib using human primary liver spheroids. […] In a case series of patients with bilateral COVID-19 pneumonia, baricitinib treatment was associated with clinical and radiologic recovery, a rapid decline in SARS-CoV-2 viral load, inflammatory markers, and IL-6 levels. […] Collectively, these data support further evaluation of the anti-cytokine and anti-viral activity of baricitinib and supports its assessment in randomized trials in hospitalized COVID-19 patients.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

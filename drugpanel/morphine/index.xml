@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00295&#39; target=&#39;_blank&#39;&gt;db00295&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=morphine&#34; target=&#34;_blank&#34;&gt;morphine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=remdesivir&#34; target=&#34;_blank&#34;&gt;remdesivir&lt;/a&gt; &lt;br&gt;
 Synonymous :(−)-morphine | (5alpha,6alpha)-17-methyl-7,8-didehydro-4,5-epoxymorphinan-3,6-diol | (5alpha,6alpha)-didehydro-4,5-epoxy-17-methylmorphinan-3,6-diol | (5r,6s,9r,13s,14r)-4,5-epoxy-n-methyl-7-morphinen-3,6-diol | (5α,6α)-17-methyl-7,8-didehydro-4,5-epoxymorphinan-3,6-diol | (5α,6α)-didehydro-4,5-epoxy-17-methylmorphinan-3,6-diol | (7r,7as,12bs)-3-methyl-2,3,4,4a,7,7a-hexahydro-1h-4,12-methano[1]benzofuro[3,2-e]isoquinoline-7,9-diol | anhydrous morphine | morfina | morphia | morphin | morphine | morphinum | morphium
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(−)-morphine | (5alpha,6alpha)-17-methyl-7,8-didehydro-4,5-epoxymo
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;morphine&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;remdesivir&lt;/em&gt; gene in 116 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32133829
+&lt;a href=&#34;/publication/32133829&#34; target=&#34;_blank&#34;&gt;32133829&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Midazolam, Propofol and Morphine or fentanyl were used for sedation and analgesia, avoiding patients cough and agitated during the procedure.
@@ -57,10 +57,34 @@ Midazolam, Propofol and Morphine or fentanyl were used for sedation and analgesi
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32293020
+&lt;a href=&#34;/publication/32293020&#34; target=&#34;_blank&#34;&gt;32293020&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Based on the evidence to date, there are several treatment options to consider for the relief of fever (acetaminophen, NSAID, oral glucocorticoids), cough (morphine), breathlessness (morphine, oxygen, fan), anxiety (benzodiazepines) and pain (NSAID, morphine).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32325167&#34; target=&#34;_blank&#34;&gt;32325167&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Frequently used medicines (median [range] dose/24 hours) were opioids (morphine, 10 [5-30] mg; fentanyl, 100 [100-200] mcg; alfentanil, 500 [150-1000] mcg) and midazolam (10 [5-20] mg).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32387575&#34; target=&#34;_blank&#34;&gt;32387575&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Frequently used medicines include opioids such as morphine or fentanyl and midazolam, all of them listed as ICEMs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32428864&#34; target=&#34;_blank&#34;&gt;32428864&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this view, we highlighted potential approaches to address ACE2-mediated SARS-CoV-2 virus, including 1) delivering an excessive soluble form of ACE2 (recombinant human ACE2: rhACE2) and 2) inhibition of the interaction between SARS-CoV-2 virus and ACE2 by some compounds with competitive effects (morphine and codeine).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

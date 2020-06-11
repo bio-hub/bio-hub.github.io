@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theofano Tikka | PlatCOVID</title>
+    <link>/author/theofano-tikka/</link>
+      <atom:link href="/author/theofano-tikka/index.xml" rel="self" type="application/rss+xml" />
+    <description>Theofano Tikka</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Theofano Tikka</title>
+      <link>/author/theofano-tikka/</link>
+    </image>
+    
+    <item>
+      <title>Rapid implementation of an evidence-based remote triaging system for assessment of suspected referrals and patients with head and neck cancer on follow-up after treatment during the COVID-19 pandemic: Model for international collaboration.</title>
+      <link>/publication/32374942/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32374942/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

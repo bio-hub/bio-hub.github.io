@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pallavi Bhargava | PlatCOVID</title>
+    <link>/author/pallavi-bhargava/</link>
+      <atom:link href="/author/pallavi-bhargava/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pallavi Bhargava</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Pallavi Bhargava</title>
+      <link>/author/pallavi-bhargava/</link>
+    </image>
+    
+    <item>
+      <title>Early Short Course Corticosteroids in Hospitalized Patients with COVID-19.</title>
+      <link>/publication/32427279/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32427279/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cardiac Tamponade Secondary to COVID-19.</title>
+      <link>/publication/32328588/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32328588/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

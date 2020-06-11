@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaihu Xiao | PlatCOVID</title>
+    <link>/author/kaihu-xiao/</link>
+      <atom:link href="/author/kaihu-xiao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaihu Xiao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Kaihu Xiao</title>
+      <link>/author/kaihu-xiao/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 pneumonia: CT findings of 122 patients and differentiation from influenza pneumonia.</title>
+      <link>/publication/32399710/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32399710/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationships among lymphocyte subsets, cytokines, and the pulmonary inflammation index in coronavirus (COVID-19) infected patients.</title>
+      <link>/publication/32297671/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32297671/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>/author/yang-jin/</link>
       <atom:link href="/author/yang-jin/index.xml" rel="self" type="application/rss+xml" />
     <description>Yang Jin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Yang Jin</title>
       <link>/author/yang-jin/</link>
     </image>
+    
+    <item>
+      <title>Remdesivir in adults with severe COVID-19: a randomised, double-blind, placebo-controlled, multicentre trial.</title>
+      <link>/publication/32423584/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32423584/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clinical Features of 85 Fatal Cases of COVID-19 from Wuhan: A Retrospective Observational Study.</title>

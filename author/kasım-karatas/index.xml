@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kasım Karataş | PlatCOVID</title>
+    <link>/author/kas%C4%B1m-karatas/</link>
+      <atom:link href="/author/kas%C4%B1m-karatas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kasım Karataş</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Kasım Karataş</title>
+      <link>/author/kas%C4%B1m-karatas/</link>
+    </image>
+    
+    <item>
+      <title>The development and initial tests for the psychometric properties of the COVID-19 Phobia Scale (C19P-S).</title>
+      <link>/publication/32394993/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32394993/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

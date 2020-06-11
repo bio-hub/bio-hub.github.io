@@ -5,12 +5,20 @@
     <link>/author/hiroshi-nishiura/</link>
       <atom:link href="/author/hiroshi-nishiura/index.xml" rel="self" type="application/rss+xml" />
     <description>Hiroshi Nishiura</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Hiroshi Nishiura</title>
       <link>/author/hiroshi-nishiura/</link>
     </image>
+    
+    <item>
+      <title>Ascertainment rate of novel coronavirus disease (COVID-19) in Japan.</title>
+      <link>/publication/32389846/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32389846/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Rate of Underascertainment of Novel Coronavirus (2019-nCoV) Infection: Estimation Using Japanese Passengers Data on Evacuation Flights.</title>

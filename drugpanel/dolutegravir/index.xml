@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db08930&#39; target=&#39;_blank&#39;&gt;db08930&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=dolutegravir&#34; target=&#34;_blank&#34;&gt;dolutegravir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
 Synonymous :dolutegravir
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :dolutegravir
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;dolutegravir&lt;/em&gt; gene in 3 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 343 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32266873
+&lt;a href=&#34;/publication/32266873&#34; target=&#34;_blank&#34;&gt;32266873&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 From the virtual screening results, two drug molecules were selected for each drug target protein [Paritaprevir (ΔG= -9.8 kcal/mol) &amp;amp;Raltegravir (ΔG= -7.8 kcal/mol) for 3CLpro and Dolutegravir (ΔG= -9.4 kcal/mol) and Bictegravir (ΔG= -8.4 kcal/mol) for 2’-OMTase]. […] After the extensive computational analysis, we proposed that Raltegravir, Paritaprevir, Bictegravir and Dolutegravir are excellent lead candidates for these crucial proteins and they could become potential therapeutic drugs against SARS-CoV-2.
@@ -57,7 +57,7 @@ From the virtual screening results, two drug molecules were selected for each dr
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32280433
+&lt;a href=&#34;/publication/32280433&#34; target=&#34;_blank&#34;&gt;32280433&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The result showed that atazanavir, an antiretroviral medication used to treat and prevent the human immunodeficiency virus (HIV), is the best chemical compound, showing an inhibitory potency with &lt;i&gt;K&lt;sub&gt;d&lt;/sub&gt;&lt;/i&gt; of 94.94 nM against the SARS-CoV-2 3C-like proteinase, followed by remdesivir (113.13 nM), efavirenz (199.17 nM), ritonavir (204.05 nM), and dolutegravir (336.91 nM).

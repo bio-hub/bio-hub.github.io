@@ -724,7 +724,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of ENPEP gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of ENPEP gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -740,10 +740,18 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32199615
+&lt;a href=&#34;/publication/32199615&#34; target=&#34;_blank&#34;&gt;32199615&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Intriguingly, we found that the candidate co-receptors, manifesting the most similar expression patterns with ACE2 across 13 human tissues, are all peptidases, including ANPEP, DPP4 and ENPEP. […] Among them, ANPEP and DPP4 are the known receptors for human CoVs, suggesting ENPEP as another potential receptor for human CoVs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32374427&#34; target=&#34;_blank&#34;&gt;32374427&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, a total of 38 conjunctival samples from 38 patients, including 12 healthy conjunctiva, 12 melanoma, 7 squamous cell carcinoma and 7 papilloma samples, were analyzed using high-throughput RNA sequencing to assess mRNA expression of the SARS-CoV-2 receptor ACE2 and its cofactors including TMPRSS2, ANPEP, DPP4, and ENPEP.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

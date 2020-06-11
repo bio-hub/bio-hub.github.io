@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db14154&#39; target=&#39;_blank&#39;&gt;db14154&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=gold&#34; target=&#34;_blank&#34;&gt;gold&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=quercetin&#34; target=&#34;_blank&#34;&gt;quercetin&lt;/a&gt; &lt;br&gt;
 Synonymous :aurum metallicum | colloidal gold | gold flake | gold leaf | gold powder | gold, colloidal | gold, elemental
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :aurum metallicum | colloidal gold | gold flake | gold leaf | gold po
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;gold&lt;/em&gt; gene in 6 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;quercetin&lt;/em&gt; gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32172228
+&lt;a href=&#34;/publication/32172228&#34; target=&#34;_blank&#34;&gt;32172228&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 As the current gold standard for the etiological diagnosis of SARS-CoV-2 infection is (real time) reverse transcription polymerase chain reaction (rRT-PCR) on respiratory tract specimens, the diagnostic accuracy of this technique shall be considered a foremost prerequisite.
@@ -57,7 +57,7 @@ As the current gold standard for the etiological diagnosis of SARS-CoV-2 infecti
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32174053
+&lt;a href=&#34;/publication/32174053&#34; target=&#34;_blank&#34;&gt;32174053&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The nucleic acid test or genetic sequencing serves as the gold standard method for confirmation of infection, yet several recent studies have reported false-negative results of real-time reverse-transcriptase polymerase chain reaction (rRT-PCR).
@@ -65,7 +65,7 @@ The nucleic acid test or genetic sequencing serves as the gold standard method f
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32196430
+&lt;a href=&#34;/publication/32196430&#34; target=&#34;_blank&#34;&gt;32196430&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Newer laboratory methods are fast, highly sensitive and specific, and are gradually replacing the conventional gold standards.
@@ -73,7 +73,7 @@ Newer laboratory methods are fast, highly sensitive and specific, and are gradua
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32277023
+&lt;a href=&#34;/publication/32277023&#34; target=&#34;_blank&#34;&gt;32277023&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 &lt;b&gt;Objective:&lt;/b&gt; To investigate the interference factors that lead to false-positive novel coronavirus (SARS-CoV-2) IgM detected using gold immunochromatography assay (GICA) and enzyme-linked immunosorbent assay (ELISA) and the corresponding solutions.&lt;b&gt;Methods:&lt;/b&gt; GICA and ELISA were used to detect SARS-CoV-2 IgM in 86 serum samples, including 5 influenza A virus (Flu A) IgM-positive sera, 5 influenza B virus (Flu B) IgM-positive sera, 5 &lt;i&gt;Mycoplasma pneumoniae&lt;/i&gt; IgM-positive sera, 5 &lt;i&gt;Legionella pneumophila&lt;/i&gt; IgM-positive sera, 6 sera of HIV infection patients, 36 rheumatoid factor IgM (RF-IgM)-positive sera, 5 sera from hypertensive patients, 5 sera from diabetes mellitus patients, and 14 sera from novel coronavirus infection disease (COVID-19) patients.
@@ -81,7 +81,7 @@ Newer laboratory methods are fast, highly sensitive and specific, and are gradua
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32281785
+&lt;a href=&#34;/publication/32281785&#34; target=&#34;_blank&#34;&gt;32281785&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The two-dimensional gold nanoislands (AuNIs) functionalized with complementary DNA receptors can perform a sensitive detection of the selected sequences from severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) through nucleic acid hybridization.
@@ -89,7 +89,7 @@ The two-dimensional gold nanoislands (AuNIs) functionalized with complementary D
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32283141
+&lt;a href=&#34;/publication/32283141&#34; target=&#34;_blank&#34;&gt;32283141&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Here, we presented the colloidal gold-based immunochromatographic (ICG) strip targeting viral IgM or IgG antibody and compared it with real-time RT-PCR.
@@ -97,10 +97,346 @@ Here, we presented the colloidal gold-based immunochromatographic (ICG) strip ta
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32292623
+&lt;a href=&#34;/publication/32292623&#34; target=&#34;_blank&#34;&gt;32292623&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Polymerase chain reaction (PCR) is regarded as a gold standard test for the molecular diagnosis of viral and bacterial infections with high sensitivity and specificity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32301746&#34; target=&#34;_blank&#34;&gt;32301746&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Amplification of viral RNA by rRT-PCR serves as the gold standard for confirmation of infection, yet it needs a long turnaround time (3-4 h to generate results) and shows false-negative rates as large as 15%-20%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32301749&#34; target=&#34;_blank&#34;&gt;32301749&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Laboratory tests play a pivotal role in the diagnosis and management of COVID-19, the current gold standard being real-time reverse transcription polymerase chain reaction (rRT-PCR) on respiratory tract specimens.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32302956&#34; target=&#34;_blank&#34;&gt;32302956&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+With a positive nucleic acid test as the gold standard, the sensitivity of lung CT was 12.00 %, 95 % CI: 4.6-24.3; with the changes of CT as the gold standard, the sensitivity of nucleic acid positive was 30.16 %, 95 % CI: 19.2-43.0.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32306047&#34; target=&#34;_blank&#34;&gt;32306047&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The gold standard for COVID-19 diagnosis was nucleic acid testing for SARS-CoV-2 by RT-PCR.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32311437&#34; target=&#34;_blank&#34;&gt;32311437&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Real-time fluorescence quantitative reverse transcriptase polymerase chain reaction (reverse transcriptase-polymerase chain reaction,RT-PCR) and viral gene sequencing are the gold standard for the diagnosis of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32312166&#34; target=&#34;_blank&#34;&gt;32312166&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Flexible laryngoscopy, the gold-standard evaluation of the larynx and the pharynx, is one of the most commonly performed procedures in otolaryngology.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32324359&#34; target=&#34;_blank&#34;&gt;32324359&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We also focus on the proper method of microbiological sampling and the relevant informations regarding diagnostic tests like the gold standard real-time reverse transcriptase polymerase chain reaction (RT-PCR) for SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32327383&#34; target=&#34;_blank&#34;&gt;32327383&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ultrasound is being used in Italy and China to help review lung condition during the COVID-19 outbreak however not strictly as a diagnostic tool as Computed Tomography (CT) of the chest and chest radiographs are currently gold standard.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32328206&#34; target=&#34;_blank&#34;&gt;32328206&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is desirable to prioritize disease conditions for which cytoreduction surgery with or without associated hyperthermic intraoperative peritoneal chemotherapy (HIPEC) is the gold-standard treatment, and for which systemic chemotherapy cannot be a temporary or long-term alternative: pseudomyxoma peritonei, resectable malignant peritoneal mesotheliomas, peritoneal metastases of colorectal origin if they are resectable and unresponsive to systemic chemotherapy after up to 12 courses, first-line ovarian carcinomatosis if resectable or in interval surgery after at most six courses of systemic chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32330291&#34; target=&#34;_blank&#34;&gt;32330291&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Though molecular diagnostic tests are the gold standard for COVID-19, serological testing is emerging as a potential surveillance tool, in addition to its complementary role in COVID-19 diagnostics.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32334183&#34; target=&#34;_blank&#34;&gt;32334183&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The gold standard is a quantitative polymerase chain reaction (qPCR)-based system taking several hours to confirm positivity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32335426&#34; target=&#34;_blank&#34;&gt;32335426&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The current gold standard for the diagnosis of COVID-19 is the detection of coronavirus nucleic acids, but imaging has an important role in the detection of lung lesions, stratification, evaluation of treatment strategies, and differentiation of mixed infections.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32337795&#34; target=&#34;_blank&#34;&gt;32337795&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although chest Computer Tomography (CT) represents the gold standard to assess lung involvement, with a specificity even superior to the nasal/pharyngeal swab for diagnosis, lung ultrasound examination can be a valid alternative to CT scan, with some advantages, particularly desirable for pregnant women.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32340562&#34; target=&#34;_blank&#34;&gt;32340562&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Molecular docking is performed using AutoDock Vina and GOLD suite to determine the binding affinities and interactions between the phytochemicals and the main protease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32342927&#34; target=&#34;_blank&#34;&gt;32342927&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All kits are based on colloidal gold-labeled immunochromatography principle and one-step method with results obtained within 15 minutes, using whole blood, serum or plasma samples.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32346593&#34; target=&#34;_blank&#34;&gt;32346593&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The nucleic acid testing is the gold standard for the diagnosis of COVID-19, but has a low sensitivity is low.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32350048&#34; target=&#34;_blank&#34;&gt;32350048&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All assays were 100% specific, using our CDC-based LDT as the gold standard.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32354369&#34; target=&#34;_blank&#34;&gt;32354369&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nucleic acid detection is considered as the gold standard for the diagnosis of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32355546&#34; target=&#34;_blank&#34;&gt;32355546&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To evaluate the diagnostic performance and clinical utility of the colloidal gold immunochromatography assay for SARS-Cov-2 specific IgM/IgG anti-body detection in suspected COVID-19 cases. […] All patients were tested by the colloidal gold immunochromatography assay for COVID-19. […] The colloidal gold immunochromatography assay for SARS-Cov-2 specific IgM/IgG anti-body had 71.1% sensitivity and 96.2% specificity in this population, showing the potential for a useful rapid diagnosis test for COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32356672&#34; target=&#34;_blank&#34;&gt;32356672&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The gold standard so far is RT-PCR (reverse transcriptase polmerase chain reaction) from the nasopharyngeal smear.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32357503&#34; target=&#34;_blank&#34;&gt;32357503&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Despite the decline in postmortem examination rate, autopsy remains the gold standard to determine why and how death happens.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32358057&#34; target=&#34;_blank&#34;&gt;32358057&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, the “gold standard” test pioneered by the United States Center for Disease Control &amp;amp; Prevention, takes several hours to complete and requires extensive human labor, materials such as RNA extraction kits that could become in short supply and relatively scarce qPCR machines. […] There has been a tremendous explosion in the number of papers written within the first weeks of the pandemic evaluating potential advances, comparable reagents, and alternatives to the “gold-standard” CDC RT-PCR test.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32361322&#34; target=&#34;_blank&#34;&gt;32361322&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Using the in-house assays as the “gold standard”, the sensitivity, specificity, positive and negative predictive values of the AusDiagnostics assay was 100 %, 92.16 %, 55.56 % and 100 % respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32363011&#34; target=&#34;_blank&#34;&gt;32363011&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results revealed a sensitivity of 69% and 93.1% for IgM and IgG, respectively, based solely on PCR-positivity due to the absence of a serological gold standard.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32364358&#34; target=&#34;_blank&#34;&gt;32364358&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Aim: We evaluated two rapid tests (Anhui and Clungene) in comparison with those of real-time PCR tests considered as the gold standard in the detection of infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32370065&#34; target=&#34;_blank&#34;&gt;32370065&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The proposed chain reactions target the complementary DNA (cDNA) of &lt;i&gt;SARS-CoV-2&lt;/i&gt;, with loci corresponding to gold-standard polymerase chain reaction (PCR) loci.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32376587&#34; target=&#34;_blank&#34;&gt;32376587&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+RCTs provides the gold standard for evaluating the effectiveness of a given treatment for the patients from the outbreaks.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32387058&#34; target=&#34;_blank&#34;&gt;32387058&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is desirable to prioritize disease conditions for which cytoreduction surgery with or without associated hyperthermic intraoperative peritoneal chemotherapy (HIPEC) is the gold-standard treatment, and for which systemic chemotherapy cannot be a temporary or long-term alternative: pseudomyxoma peritonei, resectable malignant peritoneal mesotheliomas, peritoneal metastases of colorectal origin if they are resectable and unresponsive to systemic chemotherapy after up to 12 courses, first-line ovarian carcinomatosis if resectable or in interval surgery after at most six courses of systemic chemotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32391022&#34; target=&#34;_blank&#34;&gt;32391022&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Molecular assays have been the gold standard to directly detect for the presence of viral genetic material in infected individuals.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32400049&#34; target=&#34;_blank&#34;&gt;32400049&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recently, the group of Sichuan published a protocol for COVID/ACS infected patients that see the thrombolysis as the gold standard of care.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32431052&#34; target=&#34;_blank&#34;&gt;32431052&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For this infectious disease, nucleic acid detection is still the gold standard for pathogenic detection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32437124&#34; target=&#34;_blank&#34;&gt;32437124&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We herein report the development of a colorimetric assay based on gold nanoparticles (AuNPs), when capped with suitably designed thiol-modified antisense oligonucleotides (ASOs) specific for N-gene (nucleocapsid phosphoprotein) of SARS-CoV-2, could be used for diagnosing positive COVID-19 cases within 10 min from the isolated RNA samples.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32438677&#34; target=&#34;_blank&#34;&gt;32438677&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although Nucleic Acid Test (NAT) is considered to be the gold standard, serological tests based on antibodies could be very helpful.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32438806&#34; target=&#34;_blank&#34;&gt;32438806&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The reverse transcriptase real-time quantitative PCR (qRT-PCR) test is currently considered as a gold standard in the laboratory for the etiological detection of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32438868&#34; target=&#34;_blank&#34;&gt;32438868&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Quantitative real time PCR (RT-PCR) is widely used as the gold standard for clinical detection of SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32443459&#34; target=&#34;_blank&#34;&gt;32443459&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, assays based on the reverse-transcription polymerase chain reaction (RT-PCR) in respiratory samples are the gold standard for COVID-19 diagnosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32446037&#34; target=&#34;_blank&#34;&gt;32446037&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although CT scan is the gold standard, CXR are still useful because it is cheaper, faster and more widespread.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32451162&#34; target=&#34;_blank&#34;&gt;32451162&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Real-time polymerase chain reaction was considered the gold standard for the diagnosis of COVID-19, and computed tomography scans were considered useful for cases of diagnostic uncertainty.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32455796&#34; target=&#34;_blank&#34;&gt;32455796&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The real-time reverse transcriptase polymerase chain was one of the most quickly established methods in the novel viral pandemic and was considered as the gold standard for the detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32458502&#34; target=&#34;_blank&#34;&gt;32458502&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Detection of viral genomic materials by RT-PCR is the gold standard for diagnosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32462968&#34; target=&#34;_blank&#34;&gt;32462968&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Gold nanoparticles and semiconductor quantum dots in colorimetric and immunochromatographic assays, silica nanoparticles in a polymerase chain reaction and spike protein nanospheres as antigen carriers and adjuvants in vaccine formulations present notable examples in diagnostics and prevention, while uses of nanoparticles in coronavirus infection treatments have been merely sporadic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32467809&#34; target=&#34;_blank&#34;&gt;32467809&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Appendectomy is the gold standard of treatment for acute appendicitis; however, recent evidence suggests conservative management with intravenous antibiotics may provide similar outcomes and can be used as an alternative in selected patients.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

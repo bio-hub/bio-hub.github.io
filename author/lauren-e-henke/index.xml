@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lauren E Henke | PlatCOVID</title>
+    <link>/author/lauren-e-henke/</link>
+      <atom:link href="/author/lauren-e-henke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lauren E Henke</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Lauren E Henke</title>
+      <link>/author/lauren-e-henke/</link>
+    </image>
+    
+    <item>
+      <title>Implementation of a Novel Remote Physician SBRT Coverage Process during the Coronavirus Pandemic.</title>
+      <link>/publication/32346656/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32346656/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

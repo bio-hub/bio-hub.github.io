@@ -5,12 +5,20 @@
     <link>/author/peipei-song/</link>
       <atom:link href="/author/peipei-song/index.xml" rel="self" type="application/rss+xml" />
     <description>Peipei Song</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Peipei Song</title>
       <link>/author/peipei-song/</link>
     </image>
+    
+    <item>
+      <title>An international comparison analysis of reserve and supply system for emergency medical supplies between China, the United States, Australia, and Canada.</title>
+      <link>/publication/32389940/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32389940/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analysis of COVID-19 infection spread in Japan based on stochastic transition model.</title>

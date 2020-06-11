@@ -640,7 +640,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of DPP4 gene in 3 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of DPP4 gene in 13 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -656,7 +656,7 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32199615
+&lt;a href=&#34;/publication/32199615&#34; target=&#34;_blank&#34;&gt;32199615&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Intriguingly, we found that the candidate co-receptors, manifesting the most similar expression patterns with ACE2 across 13 human tissues, are all peptidases, including ANPEP, DPP4 and ENPEP. […] Among them, ANPEP and DPP4 are the known receptors for human CoVs, suggesting ENPEP as another potential receptor for human CoVs.
@@ -664,7 +664,7 @@ Intriguingly, we found that the candidate co-receptors, manifesting the most sim
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32265331
+&lt;a href=&#34;/publication/32265331&#34; target=&#34;_blank&#34;&gt;32265331&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In this study, we evaluated parainfluenza virus 5 (PIV5)-based vaccine expressing the MERS-CoV envelope spike protein (PIV5/MERS-S) in a human DPP4 knockin C57BL/6 congenic mouse model (hDPP4 KI). […] Following a single-dose intranasal immunization, PIV5-MERS-S induced neutralizing antibody and robust T cell responses in hDPP4 KI mice.
@@ -672,10 +672,90 @@ In this study, we evaluated parainfluenza virus 5 (PIV5)-based vaccine expressin
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32294179
+&lt;a href=&#34;/publication/32294179&#34; target=&#34;_blank&#34;&gt;32294179&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Two coronavirus receptor proteins, Angiotensin Converting Enzyme 2 (ACE2) and Dipeptidyl Peptidase-4 (DPP4) are also established transducers of metabolic signals and pathways regulating inflammation, renal and cardiovascular physiology, and glucose homeostasis. […] Moreover, glucose-lowering agents such as the DPP4 inhibitors, widely used in subjects with T2D, are known to modify the biological activities of multiple immunomodulatory substrates. […] Here we review the basic and clinical science spanning the intersections of diabetes, coronavirus infections, ACE2, and DPP4 biology, highlighting clinical relevance and evolving areas of uncertainty underlying the pathophysiology and treatment of T2D in the context of coronavirus infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32335097&#34; target=&#34;_blank&#34;&gt;32335097&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It has been hypothesized that DPP4 inhibition, a therapy currently available for type 2 diabetes, might represent a target for decreasing the risk of the acute respiratory complications of the COVID-19 infection but (1) lack of demonstration of SARS-CoV2 binding to DPP4 (2) possible protective role of sDPP4 in Middle East respiratory Syndrome (MERS-CoV) (3) demonstrated inhibition and downregulation of DPP4 by HIV1 and MERS-CoV and (4) not exclusive role of the receptor binding in tropism of the Coronavirus family, support that DPP4 inhibition at present doesn’t represent a plausible approach to mitigate COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32336007&#34; target=&#34;_blank&#34;&gt;32336007&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Dipeptidyl peptidase 4 (DPP4), also known as cluster of differentiation 26 (CD26), is a serine exopeptidase expressed ubiquitously in several tissues, including but not limited to lung, kidney, liver, gut, and immune cells. […] The question has been raised on whether DPP4 modulation or inhibition may prevent infection and/or progression of the COVID-19. […] A docked complex model of the SARS-CoV-2 spike glycoprotein and DPP4 has been proposed, showing a large interface between the proteins and proposing close similarity with other coronaviruses using DPP4 as functional receptor. […] Nevertheless, this observation may rise the question on whether DPP4 is directly involved in SARS-CoV-2 cell adhesion/virulence, and whether DPP4 inhibition might be a therapeutic strategy for preventing infection. […] Although a direct involvement of DPP4 in SARS-CoV-2 infection needs to be clarified, there is also evidence suggesting that DPP4i modulate inflammation and exert anti-fibrotic activity. […] Taken together these findings may suggest a potential role for DPP4 inhibition or modulation in one or more steps of COVID-19 immunopathogenesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32338224&#34; target=&#34;_blank&#34;&gt;32338224&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the case of MERS-CoV, S proteins bind to the host cell receptor dipeptidyl peptidase 4 (DPP4 or CD26) which is broadly expressed on intestinal, alveolar, renal, hepatic and prostate cells as well as on activated leukocytes [8]. […] In the case of MERSCoV, its RBM binds to DPP4 with residues 484-567, thus, suggesting that its RBD differs from that of SARS-CoV [12, 13].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32349031&#34; target=&#34;_blank&#34;&gt;32349031&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this article, we are focusing on the impact of ACE inhibitors (ACEI) and DPP4 inhibitors used on SARS-CoV-2 activity and discussions about those drugs that may be related to infectious condition of COVID-19 diseases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32374427&#34; target=&#34;_blank&#34;&gt;32374427&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, a total of 38 conjunctival samples from 38 patients, including 12 healthy conjunctiva, 12 melanoma, 7 squamous cell carcinoma and 7 papilloma samples, were analyzed using high-throughput RNA sequencing to assess mRNA expression of the SARS-CoV-2 receptor ACE2 and its cofactors including TMPRSS2, ANPEP, DPP4, and ENPEP.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32394639&#34; target=&#34;_blank&#34;&gt;32394639&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cell binding and entry of betacoronaviruses is via their surface spike glycoprotein; SARS-CoV binds to the metalloprotease angiotensin-converting enzyme 2 (ACE2), MERS-CoV utilizes dipeptidyl peptidase 4 (DPP4), and recent modeling of the structure of SARS-CoV-2 spike glycoprotein predicts that it can interact with human DPP4 in addition to ACE2. […] DPP4 is a ubiquitous membrane-bound aminopeptidase that circulates in plasma; it is multifunctional with roles in nutrition, metabolism, and immune and endocrine systems. […] DPP4 activity differentially regulates glucose homeostasis and inflammation via its enzymatic activity and nonenzymatic immunomodulatory effects. […] The importance of DPP4 for the medical community has been highlighted by the approval of DPP4 inhibitors, or gliptins, for the treatment of type 2 diabetes mellitus. […] This review discusses the dysregulation of DPP4 in COVID-19 comorbid conditions; DPP4 activity is higher in older individuals and increased plasma DPP4 is a predictor of the onset of metabolic syndrome. […] DPP4 upregulation may be a determinant of COVID-19 disease severity, which creates interest regarding the use of gliptins in management of COVID-19. […] Also, knowledge of the chemistry and biology of DPP4 could be utilized to develop novel therapies to block viral entry of some betacoronaviruses, potentially including SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405622&#34; target=&#34;_blank&#34;&gt;32405622&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, bioinformatics approaches combining human-virus protein interaction prediction and protein docking based on crystal structures have revealed the high affinity between human dipeptidylpeptidase 4 (DPP4) and the spike (S) receptor-binding domain of SARS-CoV-2. […] Intriguingly, the crucial binding residues of DPP4 are identical to those that are bound to the MERS-CoV-S. […] Moreover, E484 insertion and adjacent substitutions should be most essential for this DPP4-binding ability acquirement of SARS-CoV-2-S compared with SARS-CoV-S. […] This potential utilization of DPP4 as a binding target for SARS-CoV-2 may offer novel insight into the viral pathogenesis and help the surveillance and therapeutics strategy for meeting the challenge of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32456064&#34; target=&#34;_blank&#34;&gt;32456064&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Even more relevant, and irrespective of glucose-lowering activities, DPP4 inhibitors and GLP1 receptor agonists may have a favorable impact on the modulation of viral entry and overproduction of inflammatory cytokines during COVID-19 infection, although current evidence is limited and not univocal.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32463365&#34; target=&#34;_blank&#34;&gt;32463365&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We find the gut as the putative hotspot of COVID-19, where a maturation correlated transcriptional signature is shared in small intestine enterocytes among coronavirus receptors(ACE2, DPP4, ANPEP).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32471607&#34; target=&#34;_blank&#34;&gt;32471607&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As such, no available evidence has yet suggested that glucose-lowering drugs - including those targeting DPP4-related pathways - produce any significant harm or benefit in the context of human infections.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

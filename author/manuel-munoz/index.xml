@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuel Muñoz | PlatCOVID</title>
+    <link>/author/manuel-munoz/</link>
+      <atom:link href="/author/manuel-munoz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuel Muñoz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Manuel Muñoz</title>
+      <link>/author/manuel-munoz/</link>
+    </image>
+    
+    <item>
+      <title>Mental health consequences during the initial stage of the 2020 Coronavirus pandemic (COVID-19) in Spain.</title>
+      <link>/publication/32405150/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32405150/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

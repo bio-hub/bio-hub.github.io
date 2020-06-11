@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11193&#39; target=&#39;_blank&#39;&gt;db11193&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=papain&#34; target=&#34;_blank&#34;&gt;papain&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=heparin&#34; target=&#34;_blank&#34;&gt;heparin&lt;/a&gt; &lt;br&gt;
 Synonymous :papaína
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :papaína
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;papain&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;heparin&lt;/em&gt; gene in 39 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32120929
+&lt;a href=&#34;/publication/32120929&#34; target=&#34;_blank&#34;&gt;32120929&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Different modes of time-of-addition/removal assay indicated that tryptanthrin prevented the early and late stages of HCoV-NL63 replication, particularly by blocking viral RNA genome synthesis and papain-like protease 2 activity.
@@ -57,7 +57,7 @@ Different modes of time-of-addition/removal assay indicated that tryptanthrin pr
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32167166
+&lt;a href=&#34;/publication/32167166&#34; target=&#34;_blank&#34;&gt;32167166&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The AS-SCoV2 located in the acidic-domain of papain-like protein of SARS-CoV-2 and bat-SL-CoV-RatG13 guided us to suggest that the novel 2019 coronavirus probably emerged by genetic drift from bat-SL-CoV-RaTG13. […] The implication of this amino acid signature in papain-like protein structure arrangement and function is something worth to be explored.
@@ -65,7 +65,7 @@ The AS-SCoV2 located in the acidic-domain of papain-like protein of SARS-CoV-2 a
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32181901
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32181901&#34; target=&#34;_blank&#34;&gt;32181901&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Among the nonstructural proteins, the leader protein (nsp1), the papain-like protease (nsp3), the nsp4, the 3C-like protease (nsp5), the nsp7, the nsp8, the nsp9, the nsp10, the RNA-directed RNA polymerase (nsp12), the helicase (nsp13), the guanine-N7 methyltransferase (nsp14), the uridylate-specific endoribonuclease (nsp15), the 2’-O-methyltransferase (nsp16), and the ORF7a protein could be built on the basis of homology templates.
@@ -73,7 +73,7 @@ Among the nonstructural proteins, the leader protein (nsp1), the papain-like pro
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32188728
+&lt;a href=&#34;/publication/32188728&#34; target=&#34;_blank&#34;&gt;32188728&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Coronaviruses express a multifunctional papain-like protease, termed PLP2. […] The coronavirus papain-like protease 2 (PLP2) domain possesses protease activity, which cleaves the viral replicase polyprotein, and also DUB activity (de-conjugating ubiquitin/ubiquitin-like molecules from modified substrates) using identical catalytic residues.
@@ -81,7 +81,7 @@ Coronaviruses express a multifunctional papain-like protease, termed PLP2. […]
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32216114
+&lt;a href=&#34;/publication/32216114&#34; target=&#34;_blank&#34;&gt;32216114&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Coronaviral proteases, including main proteases and papain-like proteases (PLP), are attractive antiviral targets because of their essential roles in polyprotein processing and thus viral maturation. […] Here, we describe the biochemical and structural identification of recombinant SADS papain-like protease 2 (PLP2) domain of nsp3.
@@ -89,7 +89,7 @@ Coronaviral proteases, including main proteases and papain-like proteases (PLP),
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32281328
+&lt;a href=&#34;/publication/32281328&#34; target=&#34;_blank&#34;&gt;32281328&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The crystal structures of 3 CL protease(Mpro) and papain-like protease(PLP) were obtained from PDB database and homologous modeling respectively, and were used to conduct virtual screening of TCMD 2009 database by CDOCKER program.
@@ -97,10 +97,42 @@ The crystal structures of 3 CL protease(Mpro) and papain-like protease(PLP) were
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32292689
+&lt;a href=&#34;/publication/32292689&#34; target=&#34;_blank&#34;&gt;32292689&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Structure and screening results of important targets such as 3-chymotrypsin-like protease (3CLpro), Spike, RNA-dependent RNA polymerase (RdRp), and papain like protease (PLpro) were discussed in detail.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32375574&#34; target=&#34;_blank&#34;&gt;32375574&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lopinavir has the highest binding affinities to the pocket site of SARS-CoV spike glycoprotein/ACE-2 complex, cyclic AMP-dependent protein kinase A and 3-Chymotrypsin like protease while redemsivir has the highest binding affinities for vacuolar proton-translocating ATPase (V-ATPase) and papain-like proteins.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32428392&#34; target=&#34;_blank&#34;&gt;32428392&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As a betacoronavirus, SARS-CoV-2 encodes for a papain-like protease (PLpro) that is likely responsible for cleavage of the CoV viral poly-peptide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32429099&#34; target=&#34;_blank&#34;&gt;32429099&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Coronaviruses code for an important multifunctional enzyme named papain-like protease (PLP), that has many roles in pathogenesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32450166&#34; target=&#34;_blank&#34;&gt;32450166&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among coronaviruses, the main protease (M&lt;sup&gt;pro&lt;/sup&gt;) is an essential drug target which, along with papain-like proteases catalyzes the processing of polyproteins translated from viral RNA and recognizes specific cleavage sites.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

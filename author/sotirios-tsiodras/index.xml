@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sotirios Tsiodras | PlatCOVID</title>
+    <link>/author/sotirios-tsiodras/</link>
+      <atom:link href="/author/sotirios-tsiodras/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sotirios Tsiodras</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Sotirios Tsiodras</title>
+      <link>/author/sotirios-tsiodras/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19: lambda interferon against viral load and hyperinflammation.</title>
+      <link>/publication/32333818/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32333818/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current and Future Point-of-Care Tests for Emerging and New Respiratory Viruses and Future Perspectives.</title>
+      <link>/publication/32411619/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32411619/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

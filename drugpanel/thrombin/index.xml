@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11300&#39; target=&#39;_blank&#39;&gt;db11300&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=thrombin&#34; target=&#34;_blank&#34;&gt;thrombin&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
 Synonymous :coagulation factor ii | thrombin bovine | thrombin, topical (bovine)
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :coagulation factor ii | thrombin bovine | thrombin, topical (bovine)
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;thrombin&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 80 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32172226
+&lt;a href=&#34;/publication/32172226&#34; target=&#34;_blank&#34;&gt;32172226&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Thrombin time in critical SARS-CoV-2 patients was also shorter than that in controls.
@@ -57,7 +57,7 @@ Thrombin time in critical SARS-CoV-2 patients was also shorter than that in cont
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32181911
+&lt;a href=&#34;/publication/32181911&#34; target=&#34;_blank&#34;&gt;32181911&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 A comparison of the hematological parameters between the mild and severe groups showed significant differences in interleukin-6 (IL-6), d-dimer (d-D), glucose, thrombin time, fibrinogen, and C-reactive protein (P &amp;lt; .05).
@@ -65,10 +65,42 @@ A comparison of the hematological parameters between the mild and severe groups 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32267998
+&lt;a href=&#34;/publication/32267998&#34; target=&#34;_blank&#34;&gt;32267998&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Additionally, it has become clear that this is not a bleeding diathesis but rather a predominantly pro-thrombotic DIC with high venous thromboembolism rates, elevated D-dimer levels, high fibrinogen levels in concert with low anti-thrombin levels, and pulmonary congestion with microvascular thrombosis and occlusion on pathology in addition to mounting experience with high rates of central line thrombosis and vascular occlusive events (e.g. ischemic limbs, strokes, etc.) observed by those who care for critically ill COVID-19 patients (1-7).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32335281&#34; target=&#34;_blank&#34;&gt;32335281&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This brief article discusses the therapeutic potential of glycyrrhizin for the treatment of COVID-19 from the perspective of its pharmacological action, including binding angiotensin-converting enzyme II (ACE2), downregulating proinflammatory cytokines, inhibiting the accumulation of intracellular reactive oxygen species (ROS), inhibiting thrombin, inhibiting the hyperproduction of airway exudates, and inducing endogenous interferon.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32345864&#34; target=&#34;_blank&#34;&gt;32345864&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ten patients underwent surgery on the day after admission, whereas 3 patients had suspended their use of direct thrombin inhibitors and needed surgery to be delayed until the third day after admission.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32360484&#34; target=&#34;_blank&#34;&gt;32360484&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Supportively, through transcriptomic analysis of gene expression after MXSG administration in rat model of LPS-induced pneumonia, the thrombin and Toll-like receptor (TLR) signaling pathway were suggested to be essential pathways for MXSG mediated anti-inflammatory effects.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32395487&#34; target=&#34;_blank&#34;&gt;32395487&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients in the ProLOS group showed lower neutrophil counts [median (IQR): 2.50 (1.77-3.23) ×10&lt;sup&gt;9&lt;/sup&gt;/L &lt;i&gt;vs.&lt;/i&gt; 2.90 (2.21-4.19) ×10&lt;sup&gt;9&lt;/sup&gt;/L; P=0.048], higher partial thrombin time (PT) (13.42±0.63 &lt;i&gt;vs.&lt;/i&gt; 13.10±0.48 s; P=0.029), lower D-Dimer [0.26 (0.22-0.46) &lt;i&gt;vs.&lt;/i&gt; 0.44 (0.32-0.84) mg/L; P=0.012].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

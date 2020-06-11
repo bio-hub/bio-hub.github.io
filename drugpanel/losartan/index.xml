@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00678&#39; target=&#39;_blank&#39;&gt;db00678&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=losartan&#34; target=&#34;_blank&#34;&gt;losartan&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
 Synonymous :(2-butyl-4-chloro-1-{[2’-(1h-tetrazol-5-yl)biphenyl-4-yl]methyl}-1h-imidazol-5-yl)methanol | 2-n-butyl-4-chloro-5-hydroxymethyl-1-[(2’-(1h-tetrazol-5-yl)biphenyl-4-yl)methyl]imidazole | losartan
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(2-butyl-4-chloro-1-{[2’-(1h-tetrazol-5-yl)biphenyl-4-yl]methyl}-1
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;losartan&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 80 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32129518
+&lt;a href=&#34;/publication/32129518&#34; target=&#34;_blank&#34;&gt;32129518&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 A tentative suggestion based on existing therapeutics, which would likely be resistant to new coronavirus mutations, is to use available angiotensin receptor 1 (AT1R) blockers, such as losartan, as therapeutics for reducing the aggressiveness and mortality from SARS-CoV-2 virus infections.
@@ -57,7 +57,7 @@ A tentative suggestion based on existing therapeutics, which would likely be res
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32213760
+&lt;a href=&#34;/publication/32213760&#34; target=&#34;_blank&#34;&gt;32213760&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Based on some publications that associate SARS-CoV-2 infection with the use of anti-hypertensive drug groups such as angiotensin-converting-enzyme inhibitors (e.g. enalapril) or angiotensin II receptor blockers (e.g. losartan), many patients from South America, Central America or Spain, have stopped or intend to interrupt their treatments with these drugs.
@@ -65,10 +65,42 @@ Based on some publications that associate SARS-CoV-2 infection with the use of a
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32222713
+&lt;a href=&#34;/publication/32222713&#34; target=&#34;_blank&#34;&gt;32222713&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 He has hypertension controlled with angiotensin receptor blocker losartan 100 mg/day and coronary artery disease status-post stent placement. […] Losartan was withheld due to hypotension and septic shock.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32338224&#34; target=&#34;_blank&#34;&gt;32338224&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this framework, Gurwitz [40] proposed to use AT1R blockers, such as losartan, as a potential treatment of COVID-19 infection. […] In fact, losartan as well as olmesartan, used for treating hypertension in patients, were able to increase ACE2 expression after 28 days treatment of rats with myocardial infarction [41].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32356926&#34; target=&#34;_blank&#34;&gt;32356926&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recently, Gurwitz proposed the tentative use of agents such as losartan and telmisartan as alternative options for treating COVID-19 patients prior to development of ARDS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32418532&#34; target=&#34;_blank&#34;&gt;32418532&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The proposed molecules are (so far) ACE inhibitors (to prevent the production of Angiotensin II from Angiotensin I), and blockers/antagonists of AT1R such as Losartan and derivatives.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32471115&#34; target=&#34;_blank&#34;&gt;32471115&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Remarkably, the analysis of the current knowledge of the different GPCRs of the RAS molecular system not only confirms that AT1R could be considered a drug target and that its inhibition by losartan and candesartan could be useful in the treatment of BC, but also identifies Mas-related GPCR member D (MRGD) as a druggable protein.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

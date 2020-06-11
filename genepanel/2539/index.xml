@@ -920,7 +920,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of G6PD gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of G6PD gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -936,10 +936,26 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32281268
+&lt;a href=&#34;/publication/32281268&#34; target=&#34;_blank&#34;&gt;32281268&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 HCov-229E is one of the four flu-causing coronaviruses which share great sequence similitude, while many symptoms of patients infected with COVID-19 resemble those of patients infected with these known flu-causing coronaviruses.&lt;sup&gt;2&lt;/sup&gt; A previous study reported that human lung epithelial A549 cells treated with glucose 6-phosphate dehydrogenase (G6PD) interfering RNA (RNAi) to lower G6PD activity displayed augmented (12-fold) viral production in comparison to normal counterparts when infected with coronavirus HCov-229E. […] Moreover, viral replication in these G6PD-deficient cells was found to be 3-fold higher than normal cells, following a 10-h incubation, as estimated by quantitative polymerase chain reaction (qPCR).&lt;sup&gt;3&lt;/sup&gt; G6PD deficiency remains the most common human enzymatic disorder of red blood cells worldwide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32316233&#34; target=&#34;_blank&#34;&gt;32316233&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Glucose-6-Phosphate Dehydrogenase (G6PD) deficiency screening test is essential for malaria treatment, control, and elimination programs. […] G6PD deficient individuals are at high risk of severe hemolysis when given anti-malarial drugs such as primaquine, quinine, other sulphonamide-containing medicines, and chloroquine, which has recently been shown to be potent for the treatment of coronavirus disease (COVID-19). […] We evaluated the geographical accessibility to POC testing for G6PD deficiency in Ghana, a malaria-endemic country. […] We also obtained the geolocated data of all public hospitals providing G6PD deficiency testing services in the region. […] Using ArcGIS 10.5, we quantified geographical access to G6PD deficiency screening test and identified clinics as well as visualize locations with poor access for targeted improvement. […] Access to G6PD deficiency screening test was varied across the districts, and G6PD deficiency screening test was available in all eight public hospitals. […] This implies that the health facility-to-population ratio for G6PD deficiency testing service was approximately 1:159,210 (8/1,273,677) population. […] The spatial analysis quantified the current mean distance to a G6PD deficiency testing service from all locations in the region to be 34 ± 14 km, and travel time (68 ± 27 min). […] The estimated mean distance from a clinic to a district hospital for G6PD deficiency testing services was 15 ± 11 km, and travel time (46 ± 33 min). […] Access to POC testing for G6PD deficiency in Ghana was poor. […] Given the challenges associated with G6PD deficiency, it would be essential to improve access to G6PD deficiency POC testing to facilitate administration of sulphadoxine-pyrimethamine to pregnant women, full implementation of the malaria control program in Ghana, and treatment of COVID-19 patients with chloroquine in malaria-endemic countries. […] To enable the World Health Organization include appropriate G6PD POC diagnostic tests in its list of essential in-vitro diagnostics for use in resource-limited settings, we recommend a wider evaluation of available POC diagnostic tests for G6PD deficiency, particularly in malaria-endemic countries.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32324284&#34; target=&#34;_blank&#34;&gt;32324284&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Glucose-6-phosphate dehydrogenase (G6PD) deficiency is an inherited genetic disorder caused by red cell enzymatic defects and is associated with haemolytic crisis when patients are exposed to oxidative agents (fava beans, drugs, infections). […] Hydroxychloroquine is suspected to trigger haemolytic crisis in G6PD-deficient patients, and off-label administration of this drug to patients infected with the novel coronavirus (SARS-CoV-2) could cause concern. […] We report here the first case of severe haemolytic crisis in a patient with G6PD deficiency, initiated by severe COVID-19 infection and hydroxychloroquine use. […] With worldwide spread of COVID-19, especially in regions with a high prevalence of G6PD deficiency, our case should alert physicians to this possible correlation.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

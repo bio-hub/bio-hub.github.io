@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00693&#39; target=&#39;_blank&#39;&gt;db00693&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=fluorescein&#34; target=&#34;_blank&#34;&gt;fluorescein&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=lopinavir&#34; target=&#34;_blank&#34;&gt;lopinavir&lt;/a&gt; &lt;br&gt;
 Synonymous :3,6-fluorandiol | 3’,6’-dihydroxyfluoran | 9-(o-carboxyphenyl)-6-hydroxy-3-isoxanthenone | 9-(o-carboxyphenyl)-6-hydroxy-3h-xanthen-3-one | c.i. solvent yellow 94 | d and c yellow no. 7 | d&amp;amp;c yellow no. 7 | fluoresceina | fluoresceína | fluoresceine | fluoreszein | japan yellow 201 | resorcinolphthalein | solvent yellow 94 | yellow fluorescein
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :3,6-fluorandiol | 3’,6’-dihydroxyfluoran | 9-(o-carboxyphenyl)-6
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;fluorescein&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lopinavir&lt;/em&gt; gene in 133 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,10 +49,50 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32243678
+&lt;a href=&#34;/publication/32243678&#34; target=&#34;_blank&#34;&gt;32243678&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Aerosolization was simulated in a cadaver using fluorescein solution (0.2mg/10ml) and quantified using a blue-light filter and digital image processing. […] Surgical aerosolization was simulated during non-powered instrumentation, suction microdebrider, and high-speed drilling following nasal fluorescein application.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32358853&#34; target=&#34;_blank&#34;&gt;32358853&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Fluorescein was applied to the surgical field. […] Black light examination of fluorescein-treated operative fields revealed minimal contamination distant to the surgical field.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32384377&#34; target=&#34;_blank&#34;&gt;32384377&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mastoidectomy with a high-speed drill was simulated using fresh-frozen cadaveric heads with fluorescein solution injected into the mastoid air cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32423283&#34; target=&#34;_blank&#34;&gt;32423283&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After instilling cadaver head specimens (n = 2) with fluorescein solution, endoscopic endonasal procedures were systematically performed to evaluate the quantity, size, and distance of droplets and splatter following each experimental condition. […] There were no observable fluorescein droplets or splatter noted in the measured surgical field in any direction after nasal endoscopy, septoplasty with microdebrider-assisted turbinoplasty, cold-steel functional endoscopic sinus surgery (FESS), and all experimental conditions using an ultrasonic aspirator.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32423287&#34; target=&#34;_blank&#34;&gt;32423287&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Fluorescein was instilled through a 4-mm burr hole drilled into the middle cranial fossa floor, and presence in the middle ear was confirmed via microscopic ear examination. […] There were no fluorescein droplets or splatter contamination observed in the measured surgical field in any direction after myringotomy and insertion of ventilation tube.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32457134&#34; target=&#34;_blank&#34;&gt;32457134&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A fluorescein dye experiment was used to demonstrate the reduction in aerosol emission output from the bottle with our described technique, allowing an antiviral filter to be attached to a pleural underwater seal drainage bottle for added protection of patients and staff in the local environment.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

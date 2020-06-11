@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoyan Deng | PlatCOVID</title>
+    <link>/author/xiaoyan-deng/</link>
+      <atom:link href="/author/xiaoyan-deng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoyan Deng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Xiaoyan Deng</title>
+      <link>/author/xiaoyan-deng/</link>
+    </image>
+    
+    <item>
+      <title>Risk Factors for Mortality in 244 Older Adults With COVID-19 in Wuhan, China: A Retrospective Study.</title>
+      <link>/publication/32383809/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32383809/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

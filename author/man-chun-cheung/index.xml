@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Man-Chun Cheung | PlatCOVID</title>
+    <link>/author/man-chun-cheung/</link>
+      <atom:link href="/author/man-chun-cheung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Man-Chun Cheung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Man-Chun Cheung</title>
+      <link>/author/man-chun-cheung/</link>
+    </image>
+    
+    <item>
+      <title>Tropism, replication competence, and innate immune responses of the coronavirus SARS-CoV-2 in human respiratory tract and conjunctiva: an analysis in ex-vivo and in-vitro cultures.</title>
+      <link>/publication/32386571/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32386571/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

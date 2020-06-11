@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nancy Sugg | PlatCOVID</title>
+    <link>/author/nancy-sugg/</link>
+      <atom:link href="/author/nancy-sugg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nancy Sugg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Nancy Sugg</title>
+      <link>/author/nancy-sugg/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 Outbreak Among Three Affiliated Homeless Service Sites - King County, Washington, 2020.</title>
+      <link>/publication/32352954/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32352954/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00224&#39; target=&#39;_blank&#39;&gt;db00224&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=indinavir&#34; target=&#34;_blank&#34;&gt;indinavir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
 Synonymous :(1(1s,2r),5(s))-2,3,5-trideoxy-n-(2,3-dihydro-2-hydroxy-1h-inden-1-yl)-5-(2-(((1,1-dimethylethyl)amino)carbonyl)-4-(3-pyridinylmethyl)-1-piperazinyl)-2-(phenylmethyl)-d-erythro-pentonamide | indinavir | indinavir anhydrous
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(1(1s,2r),5(s))-2,3,5-trideoxy-n-(2,3-dihydro-2-hydroxy-1h-inden-1-y
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;indinavir&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 343 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,10 +49,18 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32294562
+&lt;a href=&#34;/publication/32294562&#34; target=&#34;_blank&#34;&gt;32294562&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Several antiviral medications: Zanamivir, Indinavir, Saquinavir, and Remdesivir show potential as and 3CL&lt;sup&gt;PRO&lt;/sup&gt; main proteinase inhibitors and as a treatment of COVID-19. […] Zanamivir, Indinavir, Saquinavir, and Remdesivir are among the exciting hits on the 3CL&lt;sup&gt;PRO&lt;/sup&gt; main proteinase.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32362245&#34; target=&#34;_blank&#34;&gt;32362245&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All the studied molecules could bind to the active site of the SARS-CoV-2 protease (PDB: 6Y84), out of which rutin (a natural compound) has the highest inhibitor efficiency among the 33 molecules studied, followed by ritonavir (control drug), emetine (anti-protozoal), hesperidin (a natural compound), lopinavir (control drug) and indinavir (anti-viral drug).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

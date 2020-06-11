@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katherine Hill | PlatCOVID</title>
+    <link>/author/katherine-hill/</link>
+      <atom:link href="/author/katherine-hill/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katherine Hill</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Katherine Hill</title>
+      <link>/author/katherine-hill/</link>
+    </image>
+    
+    <item>
+      <title>Drive-through testing in COVID-19: experience from NHS Lothian.</title>
+      <link>/publication/32414716/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32414716/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

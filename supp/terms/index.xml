@@ -50,71 +50,7 @@ Frequency
 disease
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1949
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-health
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1446
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-respiratory
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1380
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-clinical
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1372
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-infection
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1367
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-severe
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1208
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-outbreak
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-958
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-novel
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-957
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-virus
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-918
+7345
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -122,7 +58,71 @@ virus
 pandemic
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-892
+5885
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+health
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5666
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+infection
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4904
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+clinical
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4734
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+respiratory
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4438
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+severe
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4260
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+care
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4022
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+during
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3651
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+risk
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3176
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -130,7 +130,7 @@ pandemic
 treatment
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-882
+3067
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -155,71 +155,7 @@ Frequency
 acute
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-806
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-care
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-777
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-syndrome
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-760
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-during
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-754
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-pneumonia
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-725
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-epidemic
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-710
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-risk
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-710
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-transmission
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-710
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-confirmed
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-664
+2968
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -227,15 +163,79 @@ confirmed
 reserved
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-655
+2957
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-spread
+virus
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-635
+2909
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+study
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2642
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+outbreak
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2497
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+syndrome
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2374
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+novel
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2341
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+published
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2241
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+symptoms
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2206
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+medical
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2130
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+public
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2000
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -256,66 +256,26 @@ Frequency
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-study
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-628
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-control
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-625
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-symptoms
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-614
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-public
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-593
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-medical
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-574
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
 viral
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-555
+1987
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-case
+transmission
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-542
+1958
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-published
+spread
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-541
+1951
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -323,7 +283,31 @@ published
 article
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-521
+1880
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+case
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1843
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+control
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1797
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epidemic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1779
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -331,15 +315,31 @@ article
 hospital
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-473
+1764
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-infected
+current
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-471
+1734
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+confirmed
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1706
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pneumonia
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1687
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -400,63 +400,31 @@ Frequency
 disease
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-402
+953
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 treatment
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-882
+2185
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 disease
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-302
+541
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 transmission
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-710
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-clinical
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1372
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-clinical
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-386
+1248
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 disease
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-728
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-clinical
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-297
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-disease
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-439
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-disease
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1353
+3698
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -464,95 +432,191 @@ disease
 diagnosis
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-368
+755
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+disease
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2067
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 clinical
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-656
+431
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+disease
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+779
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+clinical
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3362
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+clinical
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+750
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+clinical
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1582
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+infection
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+407
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+health
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+659
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pandemic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2955
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+infection
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+642
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pandemic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1554
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+health
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+370
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+infection
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+620
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+health
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2522
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+respiratory
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+625
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+infection
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1293
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 epidemiological
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-247
+319
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pandemic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+601
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 infection
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-394
+2432
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pandemic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+612
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+care
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1287
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 respiratory
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-999
+305
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+respiratory
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+517
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+respiratory
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2300
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-infection
+severe
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+521
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+severe
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1286
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+severe
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 293
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-infection
+during
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-555
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-infection
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-217
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-respiratory
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-375
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-infection
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-968
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-respiratory
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-283
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-respiratory
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-549
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-health
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-200
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-health
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-339
+458
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 severe
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-884
+2267
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -560,479 +624,95 @@ severe
 treatment
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-269
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-severe
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-527
+486
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 respiratory
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-195
+1178
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-virus
+pandemic
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 291
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-health
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-883
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-severe
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-245
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-health
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-414
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-epidemic
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-179
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-outbreak
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-274
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-treatment
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-660
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-health
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-244
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
 virus
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-340
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-confirmed
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-173
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-severe
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-254
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-novel
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-633
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-novel
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-207
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-novel
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-333
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-novel
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-164
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-novel
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-234
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-symptoms
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-614
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-pneumonia
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-193
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-acute
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-331
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-outbreak
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-159
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-clinical
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-229
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-virus
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-591
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-virus
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-169
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-syndrome
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-316
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-transmission
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-158
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-confirmed
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-218
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-outbreak
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-585
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-outbreak
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-157
+452
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 care
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-313
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-severe
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-150
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-spread
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-212
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-pandemic
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-575
+2052
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-acute
+health
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-151
+453
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-pandemic
+health
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-295
+1079
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-control
+virus
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-147
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-control
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-205
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-acute
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-562
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-symptoms
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-151
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-outbreak
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-289
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-case
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-145
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-syndrome
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-197
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-pneumonia
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-545
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-confirmed
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-141
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-pneumonia
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-278
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-symptoms
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-131
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-acute
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-192
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-syndrome
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-529
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-epidemic
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-140
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-during
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-250
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-spread
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-123
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-during
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-192
+201
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 care
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-528
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-viral
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-133
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-medical
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-242
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-days
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-122
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-measures
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-190
+426
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 during
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-498
+1860
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-syndrome
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-132
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-viral
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-235
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-syndrome
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-117
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-epidemic
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-187
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-study
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-496
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-chest
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-127
-&lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 symptoms
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-233
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-infected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-115
+447
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 risk
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-187
+923
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-transmission
+symptoms
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-462
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-control
+200
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-127
+risk
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-group
+411
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-230
+risk
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-virus
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-115
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-case
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-175
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-confirmed
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-460
+1624
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1040,63 +720,31 @@ confirmed
 diagnostic
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-127
+437
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-risk
+during
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-221
+896
 &lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-characteristics
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-110
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-care
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-168
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-risk
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-456
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 transmission
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-124
+200
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-study
+severe
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-212
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-pneumonia
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-109
+346
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 symptoms
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-166
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-viral
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-422
+1592
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1104,95 +752,63 @@ viral
 during
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-121
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-management
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-210
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-public
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-106
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-pandemic
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-156
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-epidemic
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-401
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-medical
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-121
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-therapy
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-190
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-treatment
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-102
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-public
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-155
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-spread
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-394
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-positive
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-121
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-diagnosis
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-188
+386
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 acute
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-101
+883
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-infected
+outbreak
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-149
+198
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-medical
+clinical
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-392
+335
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+treatment
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1576
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+acute
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+381
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+therapy
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+722
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+case
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+194
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+measures
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+308
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+acute
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1530
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1200,159 +816,543 @@ medical
 care
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-120
+368
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-hospital
+virus
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-183
+676
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-medical
+acute
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-100
+190
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+outbreak
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+303
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+study
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1471
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+study
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+328
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 reserved
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-135
+662
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+during
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+189
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+spread
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+289
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+virus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1370
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+virus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+312
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+syndrome
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+661
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+treatment
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+181
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 control
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-379
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-spread
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-117
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-spread
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-183
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-prevention
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-94
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-days
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-130
+288
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 reserved
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-367
+1334
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-prevention
+risk
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-110
+303
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-drugs
+study
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-175
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-period
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-91
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-prevention
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-130
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-hospital
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-366
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-children
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-108
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-prevention
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-174
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-epidemiology
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-83
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-viral
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-125
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-case
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-363
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-pandemic
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-107
+580
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 confirmed
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-172
+179
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+symptoms
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+274
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+syndrome
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1190
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+positive
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+302
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 published
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-83
+566
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-contact
+risk
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-124
+179
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+case
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+272
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 published
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-360
+1088
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+syndrome
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+298
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+symptoms
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+556
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+syndrome
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+170
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+acute
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+271
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+viral
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1041
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+chest
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+267
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+viral
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+548
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+study
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+169
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+study
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+263
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+studies
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1013
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testing
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+266
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+drugs
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+532
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epidemiology
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+167
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+infected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+253
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+medical
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+996
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+reserved
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+265
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+novel
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+523
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+children
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+161
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+public
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+252
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+outbreak
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+988
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pneumonia
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+261
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+current
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+522
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+care
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+160
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+reserved
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+239
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+associated
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+941
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+novel
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+260
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+management
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+516
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+public
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+160
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+viral
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+239
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+novel
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+936
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+hospital
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+259
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+potential
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+516
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+spread
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+148
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+published
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+236
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+hospital
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+908
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+viral
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+255
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+hospital
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+515
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epidemic
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+144
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+medical
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+233
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+current
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+890
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+outbreak
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+253
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cancer
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+500
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+characteristics
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+143
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+confirmed
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+231
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+potential
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+883
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+management
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+251
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+medical
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+493
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+measures
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+143
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+syndrome
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+229
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+case
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+863
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+detection
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+248
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+studies
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+474
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+reserved
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+143
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+healthcare
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+213
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+transmission
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+836
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+published
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+243
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+associated
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+470
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+days
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+142
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+current
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+212
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+management
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+828
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -1890,19 +1890,19 @@ Clinical*
 covid-19
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2020
+coronavirus
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 coronavirus
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-china
+2020
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-cases
+patients
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-cases
+2020
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1910,19 +1910,19 @@ cases
 patients
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2019
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
 has
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2019
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-china
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
 2020
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+sars-cov-2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cases
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+coronavirus
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1930,19 +1930,19 @@ china
 found
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-sars-cov-2
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
 2019
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-data
+sars-cov-2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 has
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2019
+©
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cases
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1950,19 +1950,19 @@ has
 abstract
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-china
+©
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-cases
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-wuhan
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-wuhan
+©
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 china
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+been
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+may
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1970,16 +1970,16 @@ china
 coronavirus
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ct
+may
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-sars-cov-2
+cases
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-sars-cov-2
+©
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-had
+may
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 been
@@ -1990,39 +1990,19 @@ been
 2020
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-(covid-19)
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-been
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
 been
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 (covid-19)
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-data
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-cases
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-should
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-may
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-february
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-data
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 more
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+china
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+data
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2030,19 +2010,19 @@ more
 has
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-©
+had
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 copyright
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-number
+(covid-19)
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+data
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 copyright
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ct
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2050,19 +2030,39 @@ ct
 sars-cov-2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2019-ncov
+copyright
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-should
+patient
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-among
+been
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-should
+(covid-19)
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rights
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cases
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+patient
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+data
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rights
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 copyright
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+had
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2070,39 +2070,19 @@ copyright
 2019
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-data
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-including
+more
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 more
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-rights
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-using
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-china
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-patient
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-2019-ncov
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-hubei
+reported
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 number
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-including
+should
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2110,19 +2090,19 @@ including
 ©
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-reported
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-patient
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-province
+results
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 including
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-results
+review
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+reported
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+china
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2130,39 +2110,79 @@ results
 been
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
+used
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+review
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+elsevier
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+had
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+including
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+copyright
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+using
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+high
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+high
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+review
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+results
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
 may
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
+elsevier
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+need
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+s
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+high
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+such
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
 rights
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+among
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+however
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 early
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-may
+elsevier
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-february
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-wuhan
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-february
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-such
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-including
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-february
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-among
+review
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2170,59 +2190,19 @@ among
 (covid-19)
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-review
+however
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-chinese
+due
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-copyright
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-among
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-patient
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-copyright
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-january
+should
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 evidence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-using
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-january
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-elsevier
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-had
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-used
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-reported
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-patient
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-december
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-used
+high
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2230,182 +2210,11 @@ used
 data
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-s
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-elsevier
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-those
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-elsevier
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-december
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-rights
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-hubei
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-among
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-three
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-evidence
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-s
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-may
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
 number
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-high
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-higher
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-such
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-higher
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-more
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-using
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-review
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-evidence
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-high
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-such
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-2019-ncov
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-high
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-february
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ct
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 results
 &lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-early
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-reported
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-such
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-s
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-(sars-cov-2)
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-review
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-review
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-should
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-three
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-however
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-s
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-however
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-rapidly
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ct
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-evidence
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-rapidly
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-however
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-within
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-(sars-cov-2)
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-number
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-rapidly
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-due
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-high
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ltd
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-while
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 including
 &lt;/td&gt;
@@ -2413,56 +2222,67 @@ including
 however
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
+while
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+china
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+s
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+while
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+such
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+s
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+both
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+more
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+(sars-cov-2)
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+using
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+(sars-cov-2)
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+due
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+higher
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+had
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+due
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+both
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
 january
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-further
+early
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-while
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-both
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-february
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-need
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-both
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-chinese
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-known
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-hubei
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-results
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-while
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-while
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ltd
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-both
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-found
+those
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2470,19 +2290,199 @@ found
 patient
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-elsevier
+rapidly
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-sars-cov
+those
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+higher
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+results
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+need
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+should
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+higher
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 many
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-sars-cov
+february
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-lower
+(sars-cov-2)
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+wuhan
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+elsevier
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+those
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+higher
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ct
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rapidly
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ci
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+including
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ci
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+wuhan
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+however
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+those
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+many
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+reported
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+evidence
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+further
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+due
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+within
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+further
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+number
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+february
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rapidly
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+both
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+three
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+three
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+such
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+three
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+without
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+found
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+december
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+within
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+s
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+found
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+inc
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rapidly
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+found
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+95%
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+wuhan
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+further
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ltd
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+three
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+many
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+december
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+used
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+within
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+found
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+chinese
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ci
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+vs
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

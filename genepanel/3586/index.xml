@@ -30,7 +30,7 @@ OMIM: &lt;a href=&#39;https://omim.org/entry/614395&#39; target=&#39;_blank&#39;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;The protein encoded by this gene is a cytokine produced primarily by monocytes and to a lesser extent by lymphocytes. This cytokine has pleiotropic effects in immunoregulation and inflammation. It down-regulates the expression of Th1 cytokines, MHC class II Ags, and costimulatory molecules on macrophages. It also enhances B cell survival, proliferation, and antibody production. This cytokine can block NF-kappa B activity, and is involved in the regulation of the JAK-STAT signaling pathway. Knockout studies in mice suggested the function of this cytokine as an essential immunoregulator in the intestinal tract. Mutations in this gene are associated with an increased susceptibility to HIV-1 infection and rheumatoid arthritis.[provided by RefSeq, May 2011] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;The protein encoded by this gene is a cytokine produced primarily by monocytes and to a lesser extent by lymphocytes. This cytokine has pleiotropic effects in immunoregulation and inflammation. It down-regulates the expression of Th1 cytokines, MHC class II Ags, and costimulatory molecules on macrophages. It also enhances B cell survival, proliferation, and antibody production. This cytokine can block NF-kappa B activity, and is involved in the regulation of the JAK-STAT signaling pathway. Knockout studies in mice suggested the function of this cytokine as an essential immunoregulator in the intestinal tract. Mutations in this gene are associated with an increased susceptibility to HIV-1 infection and rheumatoid arthritis. [provided by RefSeq, May 2020] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
@@ -838,7 +838,7 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31986264
+&lt;a href=&#34;/publication/31986264&#34; target=&#34;_blank&#34;&gt;31986264&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Compared with non-ICU patients, ICU patients had higher plasma levels of IL2, IL7, IL10, GSCF, IP10, MCP1, MIP1A, and TNFα.
@@ -846,7 +846,7 @@ Compared with non-ICU patients, ICU patients had higher plasma levels of IL2, IL
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32176772
+&lt;a href=&#34;/publication/32176772&#34; target=&#34;_blank&#34;&gt;32176772&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Compared with SpO2≥90% group, patients of the SpO2&amp;lt;90% group were older, and showed more comorbidities and higher plasma levels of IL6, IL10, lactate dehydrogenase, and c reactive protein.

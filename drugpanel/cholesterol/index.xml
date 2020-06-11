@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db04540&#39; target=&#39;_blank&#39;&gt;db04540&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=cholesterol&#34; target=&#34;_blank&#34;&gt;cholesterol&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=lopinavir&#34; target=&#34;_blank&#34;&gt;lopinavir&lt;/a&gt; &lt;br&gt;
 Synonymous :(3β,14β,17α)-cholest-5-en-3-ol | cholest-5-en-3beta-ol | cholesterin
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(3β,14β,17α)-cholest-5-en-3-ol | cholest-5-en-3beta-ol | choleste
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cholesterol&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lopinavir&lt;/em&gt; gene in 133 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,10 +49,50 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32191676
+&lt;a href=&#34;/publication/32191676&#34; target=&#34;_blank&#34;&gt;32191676&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We focus on the role of lipid structures, such as lipid rafts and cholesterol, involved in the process, mediated by endocytosis, by which viruses attach to and infect cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32340551&#34; target=&#34;_blank&#34;&gt;32340551&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results show high to a moderate binding affinity for the phytoestrogens (Diadiazin, Genistein, Formontein, and Biochanin A), chlorogenic acid, linolenic acid, palmitic acid, caffeic acid, caffeic acid phenethyl ester, hydroxytyrosol, cis-p-Coumaric acid, cinnamaldehyde, thymoquinone, and some physiological hormones such as estrogens, progesterone, testosterone, and cholesterol to the HSPA5 SBDβ.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32375002&#34; target=&#34;_blank&#34;&gt;32375002&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cholesterol, a major constituent within LNPs, contributes to their morphology that influences gene delivery. […] Herein, we examine the structure of LNPs containing cholesterol derivatives using electron microscopy, differential scanning calorimetry, and membrane fluidity assays. […] LNPs formulated with C24 alkyl derivatives of cholesterol show a polymorphic shape and various degrees of multilamellarity and lipid partitioning, likely due to phase separation. […] The addition of methyl and ethyl groups to the C24 alkyl tail of the cholesterol backbone induces multilamellarity (&amp;gt;50% increase compared to cholesterol), while the addition of a double bond induces lipid partitioning (&amp;gt;90% increase compared to cholesterol).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32402109&#34; target=&#34;_blank&#34;&gt;32402109&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We thank Dr Mansur for his interest in our editorial in which we highlighted the association between northern latitude and increased COVID-19 mortality&lt;sup&gt;1&lt;/sup&gt; and for his helpful comments about the potential importance of vitamin D effects on cathelicidin and on the renin-angiotensin system, which could be important in protecting against severe COVID-19.&lt;sup&gt;2&lt;/sup&gt; Vitamin D is a secosteroid hormone, derived like cortisol and sex hormones from cholesterol, so not surprisingly it has a broad range of actions reflecting the several hundred or more genes that are vitamin D-responsive.&lt;sup&gt;3,4&lt;/sup&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32430154&#34; target=&#34;_blank&#34;&gt;32430154&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, we aimed to investigate the pathological alterations of low-density lipoprotein cholesterol (LDL-c), high-density lipoprotein cholesterol (HDL-c), and total cholesterol (TC) in COVID-19 patients and their relationships with the disease severity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32457038&#34; target=&#34;_blank&#34;&gt;32457038&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 shares extensive structural and functional conservation with SARS-CoV-1 including engagement of the same host cell receptor (ACE2) localized in cholesterol-rich microdomains.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amir Nutman | PlatCOVID</title>
+    <link>/author/amir-nutman/</link>
+      <atom:link href="/author/amir-nutman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amir Nutman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Amir Nutman</title>
+      <link>/author/amir-nutman/</link>
+    </image>
+    
+    <item>
+      <title>Angiotension-converting enzyme inhibitors and angiotensin-receptor blockers are not associated with increased risk of SARS-CoV-2 infection.</title>
+      <link>/publication/32406512/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32406512/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

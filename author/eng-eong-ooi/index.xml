@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eng Eong Ooi | PlatCOVID</title>
+    <link>/author/eng-eong-ooi/</link>
+      <atom:link href="/author/eng-eong-ooi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eng Eong Ooi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Eng Eong Ooi</title>
+      <link>/author/eng-eong-ooi/</link>
+    </image>
+    
+    <item>
+      <title>Impact of immune enhancement on Covid-19 polyclonal hyperimmune globulin therapy and vaccine development.</title>
+      <link>/publication/32344202/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32344202/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dynamic Immune Response Shapes COVID-19 Progression.</title>
+      <link>/publication/32359396/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32359396/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

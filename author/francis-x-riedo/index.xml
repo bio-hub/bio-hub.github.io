@@ -5,12 +5,28 @@
     <link>/author/francis-x-riedo/</link>
       <atom:link href="/author/francis-x-riedo/index.xml" rel="self" type="application/rss+xml" />
     <description>Francis X Riedo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Francis X Riedo</title>
       <link>/author/francis-x-riedo/</link>
     </image>
+    
+    <item>
+      <title>Detection of Nucleocapsid Antibody to SARS-CoV-2 is More Sensitive than Antibody to Spike Protein in COVID-19 Patients.</title>
+      <link>/publication/32427334/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32427334/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earliest cases of coronavirus disease 2019 (COVID-19) identified in solid organ transplant recipients in the United States.</title>
+      <link>/publication/32330356/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32330356/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington.</title>

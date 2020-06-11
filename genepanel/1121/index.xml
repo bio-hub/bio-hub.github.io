@@ -892,7 +892,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CHM gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CHM gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -908,10 +908,18 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32233641
+&lt;a href=&#34;/publication/32233641&#34; target=&#34;_blank&#34;&gt;32233641&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Traditional Chinese herbal medicines (CHM) have unique roles in the treatment of viral infections. […] In this article we analyzed the effectiveness and possible molecular mechanisms of CHM formulas for the prevention of COVID-19. […] The active ingredients and action targets of CHM formulas were obtained from the TCMSP database. […] The action mechanisms of these genes were predicted using a Gene Ontology (GO)-based functional enrichment and annotation tool and the Kyoto Encyclopedia of Genes and Genomes (KEGG). […] CHM formulas played a positive role in preventing COVID-19 and warrant further application. […] Our research provides new evidence to support the possible value of CHM formulas for the prevention of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32349517&#34; target=&#34;_blank&#34;&gt;32349517&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition, we also summarized preclinical rationale for anti-coronavirus activity by TCM in terms of virion assembly and release, as well as viral entry and replication, which could be a useful contribution for figuring out effective Chinese herbal medicine (CHM) for coronavirus, including ingredients from single monomeric compounds, Chinese herbs, Chinese herb extracts and Chinese herb formulas, or potential targets for medicine. […] We would like to see these relevant studies, ranging from basic researches to clinical application, could provide some idea on effects of CHM to combat COVID-19 or other coronaviruses, and also offer new thinking for the exploration of therapeutic strategies under the guidance of TCM.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michel Goldman | PlatCOVID</title>
+    <link>/author/michel-goldman/</link>
+      <atom:link href="/author/michel-goldman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michel Goldman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Michel Goldman</title>
+      <link>/author/michel-goldman/</link>
+    </image>
+    
+    <item>
+      <title>Antibody-based therapies for COVID-19: Can Europe move faster?</title>
+      <link>/publication/32369479/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32369479/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

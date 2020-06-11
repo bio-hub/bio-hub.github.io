@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ai Tang Xiao | PlatCOVID</title>
+    <link>/author/ai-tang-xiao/</link>
+      <atom:link href="/author/ai-tang-xiao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ai Tang Xiao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Ai Tang Xiao</title>
+      <link>/author/ai-tang-xiao/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic profile of RT-PCR findings from 301 COVID-19 patients in Wuhan, China: A descriptive study.</title>
+      <link>/publication/32361324/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32361324/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profile of RT-PCR for SARS-CoV-2: a preliminary study from 56 COVID-19 patients.</title>
+      <link>/publication/32306036/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32306036/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

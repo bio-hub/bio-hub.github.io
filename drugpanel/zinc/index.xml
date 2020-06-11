@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01593&#39; target=&#39;_blank&#39;&gt;db01593&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=zinc&#34; target=&#34;_blank&#34;&gt;zinc&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=gold&#34; target=&#34;_blank&#34;&gt;gold&lt;/a&gt; &lt;br&gt;
 Synonymous :zinc, chelated | zinc, elemental | zincum metallicum | zn
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :zinc, chelated | zinc, elemental | zincum metallicum | zn
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;zinc&lt;/em&gt; gene in 4 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;gold&lt;/em&gt; gene in 49 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32210741
+&lt;a href=&#34;/publication/32210741&#34; target=&#34;_blank&#34;&gt;32210741&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Furthermore, broad library protease inhibitors obtained from PubChem and ZINC (www.zinc.docking.org) were evaluated.
@@ -57,7 +57,7 @@ Furthermore, broad library protease inhibitors obtained from PubChem and ZINC (w
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32267566
+&lt;a href=&#34;/publication/32267566&#34; target=&#34;_blank&#34;&gt;32267566&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Tetracyclines (e.g. tetracycline, doxycycline, and minocycline) are highly lipophilic antibiotics that are known to chelate zinc compounds on matrix metalloproteinases (MMPs)&lt;sup&gt;1&lt;/sup&gt; . […] Coronaviruses are also known to heavily rely on host MMPs for survival, cell infiltration, cell to cell adhesion, and replication, many of which have zinc as part of their MMP complex&lt;sup&gt;2,3&lt;/sup&gt; . […] It is possible that the zinc chelating properties of tetracyclines may also aid in inhibiting COVID-19 infection in humans limiting their ability to replicate within the host.
@@ -65,7 +65,7 @@ Tetracyclines (e.g. tetracycline, doxycycline, and minocycline) are highly lipo
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32289821
+&lt;a href=&#34;/publication/32289821&#34; target=&#34;_blank&#34;&gt;32289821&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The zinc finger antiviral protein (ZAP) binds specifically to CpG dinucleotides and recruits other proteins to degrade a variety of viral RNA genomes.
@@ -73,10 +73,98 @@ The zinc finger antiviral protein (ZAP) binds specifically to CpG dinucleotides 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32292689
+&lt;a href=&#34;/publication/32292689&#34; target=&#34;_blank&#34;&gt;32292689&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 By performing target-based virtual ligand screening, a total of 21 targets (including two human targets) were screened against compound libraries including ZINC drug database and our own database of natural products.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32306822&#34; target=&#34;_blank&#34;&gt;32306822&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Potential compounds were screened from the CHEMBL database, ZINC database, FDA approved drugs and molecules under clinical trials. […] Seven hundred compounds from ZINC/CHEMBL databases and fourteen hundred compounds from drug-bank were selected based on positive interactions with the reported binding site.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32334392&#34; target=&#34;_blank&#34;&gt;32334392&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among trace elements, selenium and zinc have also shown favourable immune-modulatory effects in viral respiratory infections.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32335560&#34; target=&#34;_blank&#34;&gt;32335560&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We seek to draw the attention of the scientific community to the possibility of drastically reducing the effects of the virus on the affected patients and improving clinical trials outcome through the synergistic action of zinc and chloroquine in patients suffering from the coronavirus disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32340216&#34; target=&#34;_blank&#34;&gt;32340216&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A wealth of mechanistic and clinical data show that vitamins, including vitamins A, B&lt;sub&gt;6&lt;/sub&gt;, B&lt;sub&gt;12&lt;/sub&gt;, C, D, E, and folate; trace elements, including zinc, iron, selenium, magnesium, and copper; and the omega-3 fatty acids eicosapentaenoic acid and docosahexaenoic acid play important and complementary roles in supporting the immune system.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32362243&#34; target=&#34;_blank&#34;&gt;32362243&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The structure files of Indian spices chemical compounds were taken from PubChem database or Zinc database and screened by molecular docking, by using AutoDock-4.2, MGLTools-1.5.6, Raccoon virtual screening tools.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32396382&#34; target=&#34;_blank&#34;&gt;32396382&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we review theoretical mechanisms and evidence related to efficacy and safety of select supplements in the setting of COVID-19, including vitamin C, vitamin D, zinc, elderberry, and silver.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32408070&#34; target=&#34;_blank&#34;&gt;32408070&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Besides direct antiviral effects, CQ/HCQ specifically target extracellular zinc to intracellular lysosomes where it interferes with RNA-dependent RNA polymerase activity and coronavirus replication. […] As zinc deficiency frequently occurs in elderly patients and in those with cardiovascular disease, chronic pulmonary disease, or diabetes, we hypothesize that CQ/HCQ plus zinc supplementation may be more effective in reducing COVID-19 morbidity and mortality than CQ or HCQ in monotherapy. […] Therefore, CQ/HCQ in combination with zinc should be considered as additional study arm for COVID-19 clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32430459&#34; target=&#34;_blank&#34;&gt;32430459&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We also identified drugs that may target the top-ranked proteins in MR, such as fostamatinib and zinc.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32446866&#34; target=&#34;_blank&#34;&gt;32446866&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A combination such as hydroxychloroquine, azithromycin and zinc, all of which have previously been used topically in the eye and which work at least in part by blocking ACE2 receptors, may offer a safe, cost-effective and resource-sparing intervention.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32471251&#34; target=&#34;_blank&#34;&gt;32471251&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low micronutrient status, such as of vitamin A or zinc, has been associated with increased infection risk.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32473509&#34; target=&#34;_blank&#34;&gt;32473509&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Zinc Iodide and Dimethyl Sulfoxide compositions are proposed as therapeutic agents to treat and prevent chronic and acute viral infections including SARS-CoV-2 infected patients. […] Given the fact that Zinc Iodide has been used as an oral antiseptic agent and DMSO has been already proven as a safe pharmaceutical solvent and therapeutic agent, we hypothesize that the combination of these two agents can be applied as an effective, safe and inexpensive treatment for SARS-CoV-2 and other viral infection.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

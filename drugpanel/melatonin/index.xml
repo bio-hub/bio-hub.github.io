@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01065&#39; target=&#39;_blank&#39;&gt;db01065&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=melatonin&#34; target=&#34;_blank&#34;&gt;melatonin&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
 Synonymous :5-methoxy-n-acetyltryptamine | melatonin | melatonina | mélatonine | n-[2-(5-methoxyindol-3-yl)ethyl]acetamide | n-acetyl-5-methoxytryptamine
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :5-methoxy-n-acetyltryptamine | melatonin | melatonina | mélatonine 
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;melatonin&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 80 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32194980
+&lt;a href=&#34;/publication/32194980&#34; target=&#34;_blank&#34;&gt;32194980&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Using network proximity analyses of drug targets and HCoV-host interactions in the human interactome, we prioritize 16 potential anti-HCoV repurposable drugs (e.g., melatonin, mercaptopurine, and sirolimus) that are further validated by enrichment analyses of drug-gene signatures and HCoV-induced transcriptomics data in human cell lines. […] We further identify three potential drug combinations (e.g., sirolimus plus dactinomycin, mercaptopurine plus melatonin, and toremifene plus emodin) captured by the “&lt;i&gt;Complementary Exposure&lt;/i&gt;” pattern: the targets of the drugs both hit the HCoV-host subnetwork, but target separate neighborhoods in the human interactome network.
@@ -57,10 +57,50 @@ Using network proximity analyses of drug targets and HCoV-host interactions in t
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32217117
+&lt;a href=&#34;/publication/32217117&#34; target=&#34;_blank&#34;&gt;32217117&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 This article summarizes the likely benefits of melatonin in the attenuation of COVID-19 based on its putative pathogenesis. […] Melatonin, a well-known anti-inflammatory and anti-oxidative molecule, is protective against ALI/ARDS caused by viral and other pathogens. […] Melatonin is effective in critical care patients by reducing vessel permeability, anxiety, sedation use, and improving sleeping quality, which might also be beneficial for better clinical outcomes for COVID-19 patients. […] Notably, melatonin has a high safety profile. […] There is significant data showing that melatonin limits virus-related diseases and would also likely be beneficial in COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32313880&#34; target=&#34;_blank&#34;&gt;32313880&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thus, as alternative potentially more direct “broad-spectrum” COVID-19 therapeutics, several natural and synthetic PAK1-blockers such as propolis, melatonin, ciclesonide, hydroxy chloroquine (HQ), ivermection, and ketorolac, which are readily available in the market, are introduced here.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32314850&#34; target=&#34;_blank&#34;&gt;32314850&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Viral, or preexistent, suppression of pineal melatonin disinhibits neutrophil attraction, thereby contributing to an initial “cytokine storm”, as well as the regulation of other immune cells. […] Melatonin induces the circadian gene, Bmal1, which disinhibits the pyruvate dehydrogenase complex (PDC), countering viral inhibition of Bmal1/PDC. […] Pineal melatonin suppression attenuates this, preventing the circadian “resetting” of mitochondrial metabolism. […] Consequently, pineal melatonin regulates mitochondrial melatonin and immune cell phenotype.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32347747&#34; target=&#34;_blank&#34;&gt;32347747&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Children don’t suffer from COVID-19 as much as their grandparents and have a much higher melatonin level. […] Bats are nocturnal animals possessing high levels of melatonin, which may contribute to their high anti-viral resistance. […] Viruses induce an explosion of inflammatory cytokines and reactive oxygen species, and melatonin is the best natural antioxidant that is lost with age. […] The programmed cell death coronaviruses cause, which can result in significant lung damage, is also inhibited by melatonin. […] Melatonin blocks these inflammasomes. […] Melatonin improves sleep habits, reduces anxiety and stimulates immunity. […] Melatonin is known to prevent fibrosis. […] Mechanical ventilation may be necessary but yet imposes risks due to oxidative stress, which can be reduced by melatonin. […] Thus, by using the safe over-the-counter drug melatonin, we may be immediately able to prevent the development of severe disease symptoms in coronavirus patients, reduce the severity of their symptoms, and/or reduce the immuno-pathology of coronavirus infection on patients’ health after the active phase of the infection is over.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32422305&#34; target=&#34;_blank&#34;&gt;32422305&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Vitamin D and melatonin could be good options for achieving this aim, taking into account that they have many shared underlying mechanisms that are able to modulate and control the immune adequately and oxidative response against COVID-19 infection, possibly even through a synergistic interaction. […] The renin-angiotensin system exaltation with consequent inflammatory response has a leading role in the physiopathology of COVID-19 infection; and it may be down-regulated by vitamin D and melatonin in many organs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32454157&#34; target=&#34;_blank&#34;&gt;32454157&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Melatonin is an immunoregulator, anti-pyretic, antioxidant, anti-inflammatory and ER stress modulator during viral infections.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

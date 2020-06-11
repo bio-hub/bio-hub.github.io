@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00145&#39; target=&#39;_blank&#39;&gt;db00145&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=glycine&#34; target=&#34;_blank&#34;&gt;glycine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
 Synonymous :aminoacetic acid | aminoessigsäure | aminoethanoic acid | glicina | gly | glycin | glycine | glycocoll | glykokoll | glyzin | leimzucker
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :aminoacetic acid | aminoessigsäure | aminoethanoic acid | glicina |
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;glycine&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,10 +49,34 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32083328
+&lt;a href=&#34;/publication/32083328&#34; target=&#34;_blank&#34;&gt;32083328&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Position 723 in the COVID-2019 has a serine instead a glycine residue, while at aminoacidic position 1010 a proline instead an isoleucine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32311094&#34; target=&#34;_blank&#34;&gt;32311094&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sequence analysis from 2310 viral isolates from Nexstrain reveals that residue at 614 of the viral spike protein is changed from a putative ancestral aspartic acid (D) to a glycine (G) between two viral clades.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32336957&#34; target=&#34;_blank&#34;&gt;32336957&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results revealed that the identified ORF1ab polyprotein belongs to a part of nonstructural protein 1 (nsp1) with the high antigenicity residues in a glycine-proline or hydrophobic amino acid rich domain.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32374903&#34; target=&#34;_blank&#34;&gt;32374903&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The major mutation detected to date in the SARS-CoV-2 viral envelope spike protein, which is responsible for virus attachment to the host and is also the main target for host antibodies, is a mutation of an aspartate (D) at position 614 found frequently in Chinese strains to a glycine (G).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

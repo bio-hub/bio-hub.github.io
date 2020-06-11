@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>José Millán-Oñate | PlatCOVID</title>
+    <link>/author/jose-millan-onate/</link>
+      <atom:link href="/author/jose-millan-onate/index.xml" rel="self" type="application/rss+xml" />
+    <description>José Millán-Oñate</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>José Millán-Oñate</title>
+      <link>/author/jose-millan-onate/</link>
+    </image>
+    
+    <item>
+      <title>Successful recovery of COVID-19 pneumonia in a patient from Colombia after receiving chloroquine and clarithromycin.</title>
+      <link>/publication/32331519/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32331519/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

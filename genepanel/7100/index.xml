@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/7100&#34; target=&#34;_blank&#34;&gt;7100&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=7100&#34; target=&#34;_blank&#34;&gt; 1q41&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/603030&#39; target=&#39;_blank&#39;&gt;603030&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/613002&#39; target=&#39;_blank&#39;&gt;613002&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/609423&#39; target=&#39;_blank&#39;&gt;609423&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/603029&#39; target=&#39;_blank&#39;&gt;603029&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -572,7 +572,7 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32249203
+&lt;a href=&#34;/publication/32249203&#34; target=&#34;_blank&#34;&gt;32249203&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In variant constructs, we engineered immune stimulants (RS09 or flagellin, as TLR4 or TLR5 agonists, respectively) into this trimeric design.

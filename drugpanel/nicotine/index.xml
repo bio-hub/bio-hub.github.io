@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00184&#39; target=&#39;_blank&#39;&gt;db00184&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=nicotine&#34; target=&#34;_blank&#34;&gt;nicotine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=lopinavir&#34; target=&#34;_blank&#34;&gt;lopinavir&lt;/a&gt; &lt;br&gt;
 Synonymous :(−)-nicotine | (s)-(−)-nicotine | (s)-3-(1-methylpyrrolidin-2-yl)pyridine | (s)-3-(n-methylpyrrolidin-2-yl)pyridine | (s)-nicotine | 3-(2-(n-methylpyrrolidinyl))pyridine | 3-(n-methylpyrollidino)pyridine | l(−)-nicotine | nicotina | nicotine betadex | nicotine polacrilex | nikotin | nikotyna
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(−)-nicotine | (s)-(−)-nicotine | (s)-3-(1-methylpyrrolidin-2-yl
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;nicotine&lt;/em&gt; gene in 3 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lopinavir&lt;/em&gt; gene in 133 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32189428
+&lt;a href=&#34;/publication/32189428&#34; target=&#34;_blank&#34;&gt;32189428&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Here, we focus on those individuals who have been exposed to nicotine prior to their exposure to the virus. […] We predict that these individuals are ‘primed’ to be at higher risk because nicotine can directly impact the putative receptor for the virus (ACE2) and lead to deleterious signaling in lung epithelial cells.
@@ -57,10 +57,42 @@ Here, we focus on those individuals who have been exposed to nicotine prior to t
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32238438
+&lt;a href=&#34;/publication/32238438&#34; target=&#34;_blank&#34;&gt;32238438&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Moreover, we predict that nicotine exposure through various kinds of smoking (cigarettes, e-cigarettes, or vape) can increase the risk for COVID19 neuroinfection based on known functional interactions between the nicotinic receptor and ACE2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32305506&#34; target=&#34;_blank&#34;&gt;32305506&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We decided to use the analogy of a play and speculate about the possible impact in this tragedy of 1) air pollution via the interference of nitrogen dioxide on ACE2 expression; 2) the dual role of nicotine; 3) the hypothetical involvement of ACE2 polymorphisms, the relationships of which with ethnic factors and susceptibility to cardiovascular disease seems intriguing; 4) the impact on the severity of infection of hypertension and related medications acting on the renin/angiotensin system, and, finally, 5) the possible helpful role of chloroquine, thanks to its capacity of modifying ACE2 affinity to the viral spike protein by altering glycosylation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32385628&#34; target=&#34;_blank&#34;&gt;32385628&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although the generalized advice to quit smoking as a measure to reduce health risk remains valid, the findings, together with the well-established immunomodulatory effects of nicotine, suggest that pharmaceutical nicotine should be considered as a potential treatment option in COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32420934&#34; target=&#34;_blank&#34;&gt;32420934&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Some authors, noticing that reported smoking prevalence among hospitalized patients was substantially below smoking prevalence in the corresponding populations, speculated a protective role of nicotine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32470789&#34; target=&#34;_blank&#34;&gt;32470789&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+recent studies have provided novel evidence regarding the effect of nicotine agonists on the prevention or modulation of cytokines storm and reduction of infection. […] In this study we tried to attempt to address these issues from a therapeutic perspective of nicotine agonists in this manner and we describe one of the most challenging theories of immunotherapy in coronavirus-19 (COVID-19).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

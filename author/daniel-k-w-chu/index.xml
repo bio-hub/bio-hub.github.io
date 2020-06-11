@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel K W Chu | PlatCOVID</title>
+    <link>/author/daniel-k-w-chu/</link>
+      <atom:link href="/author/daniel-k-w-chu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel K W Chu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Daniel K W Chu</title>
+      <link>/author/daniel-k-w-chu/</link>
+    </image>
+    
+    <item>
+      <title>Multivariate analyses of codon usage of SARS-CoV-2 and other betacoronaviruses.</title>
+      <link>/publication/32431949/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32431949/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infection of dogs with SARS-CoV-2.</title>
+      <link>/publication/32408337/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32408337/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Respiratory virus shedding in exhaled breath and efficacy of face masks.</title>
+      <link>/publication/32371934/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32371934/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

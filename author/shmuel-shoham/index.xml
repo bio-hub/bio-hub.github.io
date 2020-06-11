@@ -5,12 +5,20 @@
     <link>/author/shmuel-shoham/</link>
       <atom:link href="/author/shmuel-shoham/index.xml" rel="self" type="application/rss+xml" />
     <description>Shmuel Shoham</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Shmuel Shoham</title>
       <link>/author/shmuel-shoham/</link>
     </image>
+    
+    <item>
+      <title>Infectious Diseases Society of America Guidelines on the Treatment and Management of Patients with COVID-19.</title>
+      <link>/publication/32338708/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32338708/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deployment of convalescent plasma for the prevention and treatment of COVID-19.</title>

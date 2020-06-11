@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduardo Marbán | PlatCOVID</title>
+    <link>/author/eduardo-marban/</link>
+      <atom:link href="/author/eduardo-marban/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eduardo Marbán</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Eduardo Marbán</title>
+      <link>/author/eduardo-marban/</link>
+    </image>
+    
+    <item>
+      <title>Allogeneic cardiosphere-derived cells (CAP-1002) in critically ill COVID-19 patients: compassionate-use case series.</title>
+      <link>/publication/32399655/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32399655/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

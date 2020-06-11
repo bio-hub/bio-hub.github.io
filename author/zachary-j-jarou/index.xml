@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zachary J Jarou | PlatCOVID</title>
+    <link>/author/zachary-j-jarou/</link>
+      <atom:link href="/author/zachary-j-jarou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zachary J Jarou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Zachary J Jarou</title>
+      <link>/author/zachary-j-jarou/</link>
+    </image>
+    
+    <item>
+      <title>Lung Base Findings of Coronavirus Disease (COVID-19) on Abdominal CT in Patients With Predominant Gastrointestinal Symptoms.</title>
+      <link>/publication/32301631/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32301631/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

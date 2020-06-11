@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00959&#39; target=&#39;_blank&#39;&gt;db00959&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=methylprednisolone&#34; target=&#34;_blank&#34;&gt;methylprednisolone&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=clozapine&#34; target=&#34;_blank&#34;&gt;clozapine&lt;/a&gt; &lt;br&gt;
 Synonymous :(6α,11β)-11,17,21-trihydroxy-6-methylpregna-1,4-diene-3,20-dione | 1-dehydro-6α-methylhydrocortisone | 6α-methyl-11β,17α,21-triol-1,4-pregnadiene-3,20-dione | delta(1)-6alpha-methylhydrocortisone | methylprednisolon | methylprednisolone | methylprednisolonum | metilprednisolona
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(6α,11β)-11,17,21-trihydroxy-6-methylpregna-1,4-diene-3,20-dione |
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;methylprednisolone&lt;/em&gt; gene in 11 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;clozapine&lt;/em&gt; gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32149773
+&lt;a href=&#34;/publication/32149773&#34; target=&#34;_blank&#34;&gt;32149773&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Each eligible subject will be assigned to an intervention group (methylprednisolone via intravenous injection at a dose of 1-2mg/kg/day for 3 days) or a control group (no glucocorticoid use) randomly, at a 1:1 ratio.
@@ -57,7 +57,7 @@ Each eligible subject will be assigned to an intervention group (methylprednisol
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32167524
+&lt;a href=&#34;/publication/32167524&#34; target=&#34;_blank&#34;&gt;32167524&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Among patients with ARDS, treatment with methylprednisolone decreased the risk of death (HR, 0.38; 95% CI, 0.20-0.72). […] Moreover, treatment with methylprednisolone may be beneficial for patients who develop ARDS.
@@ -65,7 +65,7 @@ Among patients with ARDS, treatment with methylprednisolone decreased the risk o
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32181990
+&lt;a href=&#34;/publication/32181990&#34; target=&#34;_blank&#34;&gt;32181990&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Following a treatment regimen consisting of reduced immunosuppressant use and low dose methylprednisolone-based therapy, the COVID-19 pneumonia in this long-term immunosuppressive patient was successfully recovered.
@@ -73,7 +73,7 @@ Following a treatment regimen consisting of reduced immunosuppressant use and lo
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32211844
+&lt;a href=&#34;/publication/32211844&#34; target=&#34;_blank&#34;&gt;32211844&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Finally, Higher rates of ICU admission (9.56% vs 1.38%, P&amp;lt;0.001) and methylprednisolone application (28.68% vs 9.36%, P&amp;lt;0.001) were also identified in older patients.
@@ -81,7 +81,7 @@ Finally, Higher rates of ICU admission (9.56% vs 1.38%, P&amp;lt;0.001) and meth
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32219428
+&lt;a href=&#34;/publication/32219428&#34; target=&#34;_blank&#34;&gt;32219428&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 All 5 patients (age range, 36-65 years; 2 women) were receiving mechanical ventilation at the time of treatment and all had received antiviral agents and methylprednisolone.
@@ -89,7 +89,7 @@ All 5 patients (age range, 36-65 years; 2 women) were receiving mechanical venti
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32229257
+&lt;a href=&#34;/publication/32229257&#34; target=&#34;_blank&#34;&gt;32229257&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In severe COVID-19 patients, early and short-term use of low-dose methylprednisolone was beneficial and did not delay SARS-CoV-2 RNA clearance and influence IgG antibody production.
@@ -97,7 +97,7 @@ In severe COVID-19 patients, early and short-term use of low-dose methylpredniso
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32243690
+&lt;a href=&#34;/publication/32243690&#34; target=&#34;_blank&#34;&gt;32243690&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Based on the severity of clinical symptoms, chest computer tomography findings and SARS-Cov-2 RNA test results, we admitted the husband to the respiratory intensive care unit (RICU) and used a treatment consisting of immunosuppressant reduction/cessation and low dose methylprednisolone-based therapy, and his wife to the respiratory isolation ward.
@@ -105,7 +105,7 @@ Based on the severity of clinical symptoms, chest computer tomography findings a
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32243697
+&lt;a href=&#34;/publication/32243697&#34; target=&#34;_blank&#34;&gt;32243697&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 After the diagnosis of COVID-19, immunosuppressive agents were discontinued and methylprednisolone with prophylactic antibiotics were initiated, however, the lung injury progressed.
@@ -113,7 +113,7 @@ After the diagnosis of COVID-19, immunosuppressive agents were discontinued and 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32253759
+&lt;a href=&#34;/publication/32253759&#34; target=&#34;_blank&#34;&gt;32253759&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The TCZ was used in combination with methylprednisolone in eight patients.
@@ -121,7 +121,7 @@ The TCZ was used in combination with methylprednisolone in eight patients.
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32256547
+&lt;a href=&#34;/publication/32256547&#34; target=&#34;_blank&#34;&gt;32256547&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We identified 24 clinical trials, involving more than 20 medicines, such as human immunoglobulin, interferons, chloroquine, hydroxychloroquine, arbidol, remdesivir, favipiravir, lopinavir, ritonavir, oseltamivir, methylprednisolone, bevacizumab, and traditional Chinese medicines (TCM).
@@ -129,10 +129,106 @@ We identified 24 clinical trials, involving more than 20 medicines, such as huma
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32282986
+&lt;a href=&#34;/publication/32282986&#34; target=&#34;_blank&#34;&gt;32282986&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Following a treatment regimen consisting of discontinued immunosuppressant use and low-dose methylprednisolone-based therapy, the patient developed acute rejection but eventually recovered.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32298988&#34; target=&#34;_blank&#34;&gt;32298988&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Methylprednisolone was administered in 44.44% of cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32317180&#34; target=&#34;_blank&#34;&gt;32317180&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Immunosuppressant reduction and low-dose methylprednisolone therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32340089&#34; target=&#34;_blank&#34;&gt;32340089&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Seven cases were treated with corticosteroid (methylprednisolone ≤40 mg/d, not more than 5 days).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32354634&#34; target=&#34;_blank&#34;&gt;32354634&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+At admission, all had immunosuppression withdrawn and were started on methylprednisolone 16 mg/day, all but one was commenced on antiviral therapy and hydroxychloroquine with doses adjusted for kidney function.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32361703&#34; target=&#34;_blank&#34;&gt;32361703&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Methylprednisolone and cyclophosphamide were prescribed due to suspected glomerulonephritis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32371416&#34; target=&#34;_blank&#34;&gt;32371416&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Following treatment with oseltamivir and short-term methylprednisolone combined with symptomatic management, all three patients recovered within 3 weeks, as evidenced by the disappearance of their symptoms, clearance of pulmonary infiltrates and consecutive negative molecular diagnostic test findings.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32378314&#34; target=&#34;_blank&#34;&gt;32378314&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Because of a lack of clinical improvement several days later, tocilizumab, methylprednisolone, and therapeutic anticoagulation were initiated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32391369&#34; target=&#34;_blank&#34;&gt;32391369&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, one study, on 201 participants with different stages of pneumonia due to COVID-19, found that in more severe forms, the administration of methylprednisolone significantly reduced the risk of death by 62%. […] The literature to date does not fully support the routine use of corticosteroids in COVID-19, but some findings suggest that methylprednisolone could lower mortality rate in more severe forms of the condition.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32391668&#34; target=&#34;_blank&#34;&gt;32391668&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient was treated with methylprednisolone 80 mg on the 2nd day after admission.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32415905&#34; target=&#34;_blank&#34;&gt;32415905&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Both cases were discharged following a treatment regimen including discontinued immunosuppressant and low-dose methylprednisolone-based therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32427279&#34; target=&#34;_blank&#34;&gt;32427279&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A protocol was implemented on March 20, 2020 using early, short-course, methylprednisolone 0.5 to 1 mg/kg/day divided in 2 intravenous doses for 3 days. […] An early short course of methylprednisolone in patients with moderate to severe COVID-19 reduced escalation of care and improved clinical outcomes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32441786&#34; target=&#34;_blank&#34;&gt;32441786&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In most cases, application of methylprednisolone in severe and critical viral pneumonia patients can quickly alleviate the symptoms of dyspnea and prevent disease progression. […] In our retrospective non-randomised study, 34 patients under 50 years old and diagnosed with coronavirus disease 2019 (COVID-19) were included, according to given methylprednisolone treatment (n = 18) or not (n = 16), they were separated into 2 groups.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

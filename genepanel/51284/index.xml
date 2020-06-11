@@ -514,7 +514,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of TLR7 gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of TLR7 gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -530,10 +530,26 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32253888
+&lt;a href=&#34;/publication/32253888&#34; target=&#34;_blank&#34;&gt;32253888&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The levels of activation of the immune cells are higher in women than in men, and it is correlated with the trigger of TLR7 and the production of IFN. […] TLR7 is higher in women than in men and its biallelic expression leads to higher immune responses and increases the resistance to viral infections. […] TLR7 is expressed in innate immune cells which recognizes single strand RNA virus by promoting the production of antibodies against the virus and the generation of pro-inflammatory cytokines including IL-6 and IL-1 family members.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32361001&#34; target=&#34;_blank&#34;&gt;32361001&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+TLR7/8 can identify the single-stranded RNA (ssRNA) of the virus. […] This study aimed to search ssRNA sequences recognized by TLR7/8 from the SARS-CoV-2, SARS-CoV, and MERS-CoV whole genomes by a bioinformatic technique. […] The immunoinformatic approach showed that the SARS-CoV-2 genome has more ssRNA fragments that could be recognized by TLR7/8 than the SARS-CoV genome. […] This activity is possibly able to provoke a robust proinflammatory response via TLR7/8 recognition and cause acute lung injury.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32456409&#34; target=&#34;_blank&#34;&gt;32456409&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Conti and Younes have pointed to a connection between lower TLR7 expression in men and their increased vulnerability towards a severe form of COVID-19 infection (1). […] I had started to investigate the same idea and think that I have discovered a wealth of additional supporting information that renders the hypothesis plausible and, if correct, could establish lower TLR7 activity/sensitivity as a common molecular characteristic of several high-risk patient groups.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eunice J Yuan | PlatCOVID</title>
+    <link>/author/eunice-j-yuan/</link>
+      <atom:link href="/author/eunice-j-yuan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eunice J Yuan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Eunice J Yuan</title>
+      <link>/author/eunice-j-yuan/</link>
+    </image>
+    
+    <item>
+      <title>Where to buy face masks? Survey of applications using Taiwan&#39;s open data in the time of COVID-19.</title>
+      <link>/publication/32304508/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32304508/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

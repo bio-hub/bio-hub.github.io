@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liang Chen | PlatCOVID</title>
+    <link>/author/liang-chen/</link>
+      <atom:link href="/author/liang-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liang Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Liang Chen</title>
+      <link>/author/liang-chen/</link>
+    </image>
+    
+    <item>
+      <title>A Novel Combination of Vitamin C, Curcumin and Glycyrrhizic Acid Potentially Regulates Immune and Inflammatory Response Associated with Coronavirus Infections: A Perspective from System Biology Analysis.</title>
+      <link>/publication/32344708/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32344708/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational screening of antagonists against the SARS-CoV-2 (COVID-19) coronavirus by molecular docking.</title>
+      <link>/publication/32389723/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32389723/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SARS-CoV-2 receptor ACE2 expression of maternal-fetal interface and fetal organs by single-cell transcriptome study.</title>
+      <link>/publication/32298273/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32298273/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

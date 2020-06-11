@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01264&#39; target=&#39;_blank&#39;&gt;db01264&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=darunavir&#34; target=&#34;_blank&#34;&gt;darunavir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=procalcitonin&#34; target=&#34;_blank&#34;&gt;procalcitonin&lt;/a&gt; &lt;br&gt;
 Synonymous :(3r,3as,6ar)-hexahydrofuro[2,3-b]furan-3-yl n-((1s,2r)-1-benzyl-2-hydroxy-3-(n1-isobutylsulfanilamido)propyl)carbamate | (3r,3as,6ar)-tetrahydro-2h-furo[2,3-b]furan-3-yl (2s,3r)-4-(4-amino-n-isobutylphenylsulfonamido)-3-hydroxy-1-phenylbutan-2-ylcarbamate | (3r,3as,6ar)-tetrahydro-2h-furo[2,3-b]furan-3-yl (2s,3r)-4-(4-amino-n-neopentylphenylsulfonamido)-3-hydroxy-1-phenylbutan-2-ylcarbamate | [(s)-3-[(4-amino-benzenesulfonyl)-isobutyl-amino]-2-hydroxy-1-((r)-phenylmethyl)-propyl]-carbamic acid (3r,3as,6ar)-(hexahydro-furo[2,3-b]furan-3-yl) ester | {(1s,2r)-3-[(4-amino-benzenesulfonyl)-isobutyl-amino]-1-benzyl-2-hydroxy-propyl}-carbamic acid (3r,3as,6ar)-(hexahydro-furo[2,3-b]furan-3-yl) ester | darunavir | darunavirum | n-((1s,2r)-3-(((4-aminophenyl)sulfonyl)(2-methylpropyl)amino)-2-hydroxy-1-benzylpropyl)((1s,2r,5r)-4,6-dioxabicyclo(3.3.0)oct-2-yloxy)carboxamide
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(3r,3as,6ar)-hexahydrofuro[2,3-b]furan-3-yl n-((1s,2r)-1-benzyl-2-hy
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;darunavir&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;procalcitonin&lt;/em&gt; gene in 56 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32238094
+&lt;a href=&#34;/publication/32238094&#34; target=&#34;_blank&#34;&gt;32238094&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 As a result three FDA approved drugs (Remdesivir, Saquinavir and Darunavir) and two natural compounds (. flavone and coumarine derivatives) were identified as promising hits.
@@ -57,7 +57,7 @@ As a result three FDA approved drugs (Remdesivir, Saquinavir and Darunavir) and 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32277836
+&lt;a href=&#34;/publication/32277836&#34; target=&#34;_blank&#34;&gt;32277836&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Both patients were treated with darunavir/cobicistat and hydroxychloroquine.
@@ -65,7 +65,7 @@ Both patients were treated with darunavir/cobicistat and hydroxychloroquine.
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32279418
+&lt;a href=&#34;/publication/32279418&#34; target=&#34;_blank&#34;&gt;32279418&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Hydroxychloroquine and lopinavir/ritonavir were started, and the antiviral drug was replaced with darunavir/cobicistat after two days for diarrhea.
@@ -73,7 +73,7 @@ Hydroxychloroquine and lopinavir/ritonavir were started, and the antiviral drug 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32280433
+&lt;a href=&#34;/publication/32280433&#34; target=&#34;_blank&#34;&gt;32280433&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Interestingly, lopinavir, ritonavir, and darunavir are all designed to target viral proteinases.
@@ -81,10 +81,66 @@ Interestingly, lopinavir, ritonavir, and darunavir are all designed to target vi
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32292805
+&lt;a href=&#34;/publication/32292805&#34; target=&#34;_blank&#34;&gt;32292805&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In the absence of authorised pharmacological treatments, many antiretrovirals, including darunavir/cobicistat fixed combination, were used off-label in the hospital wards as life-treating medicines for COVID-19 patients. […] The data in this article indicate that darunavir/cobicistat suspensions compounded by pharmacists using as active ingredient a commercially available tablet can be stable at least for one week.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32297571&#34; target=&#34;_blank&#34;&gt;32297571&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Inaddition, remdesivir, which has been previously administered to Ebola virus patients, has alsoproven effective in the U.S. against coronavirus, while antimalarial chloroquine and hydroxy-chloroquine, favipiravir and co-administered darunavir and umifenovir (in patient therapies)were also recently recorded as having anti-SARS-CoV-2 effects.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32306822&#34; target=&#34;_blank&#34;&gt;32306822&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cobicistat, ritonavir, lopinavir, and darunavir are in the top screened molecules from FDA approved drugs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32329231&#34; target=&#34;_blank&#34;&gt;32329231&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All consecutive patients on DOACs were candidates for administration of antiviral agents (lopinavir, ritonavir, or darunavir).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32394344&#34; target=&#34;_blank&#34;&gt;32394344&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients were on antiretroviral treatment, of them 22 on tenofovir-containing regimen and 4 on the protease inhibitor darunavir. […] SARS-CoV-2 infections may occur during boosted darunavir-based and/or on tenofovir-containing ART.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32396767&#34; target=&#34;_blank&#34;&gt;32396767&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Finally, we have compared ΔG&lt;sub&gt;bind&lt;/sub&gt; of these two inhibitors with the anti-HIV retroviral drugs, such as lopinavir and darunavir. […] It is observed that α-ketoamide is more potent compared to lopinavir and darunavir. […] On the other hand, in the case of darunavir, a decrease in the favorable intermolecular electrostatic and van der Waals interactions contributes to lower affinity compared to α-ketoamide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32397940&#34; target=&#34;_blank&#34;&gt;32397940&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Top three bioactive molecules (Oolonghomobisflavan-A, Theasinensin-D, and Theaflavin-3-O-gallate) were selected by comparing their docking scores with repurposed drugs (Atazanavir, Darunavir, and Lopinavir) against SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32399456&#34; target=&#34;_blank&#34;&gt;32399456&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 52-year-old patient with SARS-CoV-2 was diagnosed with interstitial pneumonia and treated with darunavir/ritonavir, hydroxychloroquine, azithromycin and low molecular weight heparin (LMWH).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

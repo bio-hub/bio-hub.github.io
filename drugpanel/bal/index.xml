@@ -23,7 +23,7 @@
 
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=bal&#34; target=&#34;_blank&#34;&gt;bal&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=lopinavir&#34; target=&#34;_blank&#34;&gt;lopinavir&lt;/a&gt; &lt;br&gt;
 Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -32,7 +32,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;bal&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lopinavir&lt;/em&gt; gene in 133 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -48,10 +48,50 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32004165
+&lt;a href=&#34;/publication/32004165&#34; target=&#34;_blank&#34;&gt;32004165&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We collected clinical data and bronchoalveolar lavage (BAL) specimens from five patients with severe pneumonia from Jin Yin-tan Hospital of Wuhan, Hubei province, China. […] Nucleic acids of the BAL were extracted and subjected to next-generation sequencing.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32341141&#34; target=&#34;_blank&#34;&gt;32341141&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Specimen types tested included Nasopharyngeal/Oropharyngeal (NP/OP) swabs in the above transport media, bronchoalveolar lavage (BAL) and Sputum.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32341142&#34; target=&#34;_blank&#34;&gt;32341142&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This assay is the first rapid multiplex PCR (mPCR) assay including SARS-CoV-2 detection, and is fully compatible with a non-PCR trained laboratory or point-of-care (POC) testing.This evaluation was performed using 69 primary clinical samples (66 NPS, 1 BAL and 1 tracheal aspirate and 1 bronchial aspirate) comparing the SARS-CoV-2 detection with the currently WHO recommended RT-PCR (WHO-PCR) workflow.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405257&#34; target=&#34;_blank&#34;&gt;32405257&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Study Design We compared the matrix effect on the analytical sensitivity of SARS-CoV-2 detection by qRT-PCR in nasal swabs collected in viral transport medium (VTM), bronchoalveolar lavage (BAL), sputum, plasma, cerebral spinal fluid (CSF), stool, VTM, phosphate buffered saline (PBS), and Hanks’ Balanced Salt Solution (HBSS).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32437932&#34; target=&#34;_blank&#34;&gt;32437932&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To report a clinical case of a patient with a compatible HRCT scan and two negative SARS-CoV-2 RNA upper respiratory tract specimens but with a confirmed viral infection by BAL (19 days after symptom onset). […] BAL fluid collected 19 days after symptoms onset was positive for SARS-CoV-2. […] We suggest collection of BAL fluid when consecutive nasopharyngeal swabs are negative, to confirm or exclude the diagnosis of COVID-19-associated pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32470887&#34; target=&#34;_blank&#34;&gt;32470887&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Study Design We compared the matrix effect on the analytical sensitivity of SARS-CoV-2 detection by qRT-PCR in nasal swabs collected in viral transport medium (VTM), bronchoalveolar lavage (BAL), sputum, plasma, cerebral spinal fluid (CSF), stool, VTM, phosphate buffered saline (PBS), and Hanks’ Balanced Salt Solution (HBSS).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

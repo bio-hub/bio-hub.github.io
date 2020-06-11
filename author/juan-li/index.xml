@@ -5,12 +5,28 @@
     <link>/author/juan-li/</link>
       <atom:link href="/author/juan-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Juan Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Juan Li</title>
       <link>/author/juan-li/</link>
     </image>
+    
+    <item>
+      <title>An infant with a mild SARS-CoV-2 infection detected only by anal swabs: a case report.</title>
+      <link>/publication/32389618/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32389618/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pharmacological perspective: glycyrrhizin may be an efficacious therapeutic agent for COVID-19.</title>
+      <link>/publication/32335281/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32335281/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tocilizumab treatment in COVID-19: A single center experience.</title>

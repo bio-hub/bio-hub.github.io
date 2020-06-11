@@ -906,7 +906,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CAD gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CAD gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -922,10 +922,34 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32265088
+&lt;a href=&#34;/publication/32265088&#34; target=&#34;_blank&#34;&gt;32265088&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Computer-aided design (CAD) was used to produce the reusable components of the 3D face mask based on individual facial scans, which were acquired using a new-generation smartphone with two cameras and a face scanning application. […] 3D modelling can easily be done by CAD designers worldwide with free download software.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32337516&#34; target=&#34;_blank&#34;&gt;32337516&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The procedure of creating customized face masks initially involved importing and aligning STL files of face scans and mask components in free CAD software. […] Within the limitations of this technical report, the present findings suggest that customized 3D-printed face masks with enhanced adaptation can be digitally designed using face scans and free CAD software.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32422233&#34; target=&#34;_blank&#34;&gt;32422233&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Increasing age (analyzed in quartiles), male sex, BMI ≥ 35 kg/m&lt;sup&gt;2&lt;/sup&gt; (reference: BMI 25-34 kg/m&lt;sup&gt;2&lt;/sup&gt;), heart failure, CAD, and CKD or ESRD were found to have a significant univariate association with mortality.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32455058&#34; target=&#34;_blank&#34;&gt;32455058&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A computer-assisted design (CAD) software was used to assemble the vertebral models into a simulator unit in anatomical order to produce an easily prototyped simulator.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

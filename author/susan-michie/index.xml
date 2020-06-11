@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Susan Michie | PlatCOVID</title>
+    <link>/author/susan-michie/</link>
+      <atom:link href="/author/susan-michie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Susan Michie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Susan Michie</title>
+      <link>/author/susan-michie/</link>
+    </image>
+    
+    <item>
+      <title>Multidisciplinary research priorities for the COVID-19 pandemic: a call for action for mental health science.</title>
+      <link>/publication/32304649/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32304649/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying principles of behaviour change to reduce SARS-CoV-2 transmission.</title>
+      <link>/publication/32377018/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32377018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing SARS-CoV-2 transmission in the UK: A behavioural science approach to identifying options for increasing adherence to social distancing and shielding vulnerable people.</title>
+      <link>/publication/32428385/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32428385/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

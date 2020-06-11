@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Béatrice Bouhanick | PlatCOVID</title>
+    <link>/author/beatrice-bouhanick/</link>
+      <atom:link href="/author/beatrice-bouhanick/index.xml" rel="self" type="application/rss+xml" />
+    <description>Béatrice Bouhanick</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Béatrice Bouhanick</title>
+      <link>/author/beatrice-bouhanick/</link>
+    </image>
+    
+    <item>
+      <title>Genesis of an emergency public drug information website by the French Society of Pharmacology and Therapeutics during the COVID-19 pandemic.</title>
+      <link>/publication/32394481/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32394481/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renin-angiotensin-aldosterone system and COVID-19 infection.</title>
+      <link>/publication/32370986/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32370986/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

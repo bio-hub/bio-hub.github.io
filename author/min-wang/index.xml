@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Min Wang | PlatCOVID</title>
+    <link>/author/min-wang/</link>
+      <atom:link href="/author/min-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Min Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Min Wang</title>
+      <link>/author/min-wang/</link>
+    </image>
+    
+    <item>
+      <title>The implications of preliminary screening and diagnosis: Clinical characteristics of 33 mild patients with SARS-CoV-2 infection in Hunan, China.</title>
+      <link>/publication/32388472/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32388472/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typical radiological progression and clinical features of patients with coronavirus disease 2019.</title>
+      <link>/publication/32364528/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32364528/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coronavirus disease 2019 (COVID-19) and pregnancy: a systematic review.</title>
+      <link>/publication/32354293/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32354293/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

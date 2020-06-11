@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/7432&#34; target=&#34;_blank&#34;&gt;7432&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=7432&#34; target=&#34;_blank&#34;&gt; 6q25.2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/300366&#39; target=&#39;_blank&#39;&gt;300366&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/192320&#39; target=&#39;_blank&#39;&gt;192320&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -780,7 +780,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of VIP gene in 2 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of VIP gene in 8 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -796,7 +796,7 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32268923
+&lt;a href=&#34;/publication/32268923&#34; target=&#34;_blank&#34;&gt;32268923&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We will search electronic databases including PubMed, Embase, the Cochrane Central Register of Controlled Trials (CENTRAL), Chinese Biomedical Literature Database (CBM), China National Knowledge Infrastructure (CNKI), Chinese Science and Technology Periodical Database (VIP), and Wanfang database using keywords related to COVID-19 and traditional Chinese herbal medicine.
@@ -804,10 +804,58 @@ We will search electronic databases including PubMed, Embase, the Cochrane Centr
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32281332
+&lt;a href=&#34;/publication/32281332&#34; target=&#34;_blank&#34;&gt;32281332&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In this paper, We collected and sorted the prescriptions of modern Chinese medicine for COVID-19 released by national government, different provinces, autonomous regions and municipalities, as well as online databases, such as CNKI, WanFang medical network, and VIP database.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32314805&#34; target=&#34;_blank&#34;&gt;32314805&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our article comprehensively searched PubMed, FMRS, EMbase, CNKI, WanFang databases, and VIP databases to collect literatures about the CT imaging features of COVID-19 from 1 January to 16 March 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32329275&#34; target=&#34;_blank&#34;&gt;32329275&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The SARS-CoV-2 related terms were selected in both English and Chinese and were searched in several major databases, including Pubmed, Web of Science, CNKI, Wanfang, and VIP databases. […] 用新型冠状病毒肺炎（简称新冠肺炎）相关的中英文检索词在 Pubmed、Web of Science、CNKI、万方数据库、维普数据库（VIP database）中进行检索并补充相关专栏文献，对纳入研究的基本信息进行分布描述并对各研究主题的文献进行梳理和总结。
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32354293&#34; target=&#34;_blank&#34;&gt;32354293&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; To summarize currently available evidence on maternal, fetal, and neonatal outcomes of pregnant women infected with Coronavirus Disease 2019 (COVID-19).&lt;b&gt;Material and methods:&lt;/b&gt; PubMed, Google Scholar, CNKI, Wanfang Data, VIP, and CBMdisc were searched for studies reporting maternal, fetal, and neonatal outcomes of women infected with COVID-19 published from 1 January 2020 to 26 March 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32360583&#34; target=&#34;_blank&#34;&gt;32360583&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We searched PubMed, EMBASE, Cochrane Library, China National Knowledge Infrastructure (CNKI), China Science and Technology Journal Database (VIP), and WANFANG DATA for randomized controlled trials (RCTs), prospective cohort, and retrospective cohort studies that evaluated therapies (hydroxychloroquine, lopinavir/ritonavir-based therapy, and ribavirin-based therapy, etc.) for SARS, MERS, and COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32403209&#34; target=&#34;_blank&#34;&gt;32403209&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CNKI, VIP, WanFang Data, SinoMed, PubMed, Cochrane, EMBASE, MEDLINE, Scopus, Google Scholar and other databases were searched to collect literature on the anxiety status of Chinese medical workers during the epidemic of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32473312&#34; target=&#34;_blank&#34;&gt;32473312&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Relevant articles were retrieved from PubMed, Web of Science, ScienceDirect, Cochrane Library, and Chinese National Knowledge Infrastructure (CNKI), VIP (Chinese) database.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

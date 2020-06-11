@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/7099&#34; target=&#34;_blank&#34;&gt;7099&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=7099&#34; target=&#34;_blank&#34;&gt; 9q33.1&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/182128&#39; target=&#39;_blank&#39;&gt;182128&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/603030&#39; target=&#39;_blank&#39;&gt;603030&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -640,7 +640,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of TLR4 gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of TLR4 gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -656,10 +656,42 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32249203
+&lt;a href=&#34;/publication/32249203&#34; target=&#34;_blank&#34;&gt;32249203&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In variant constructs, we engineered immune stimulants (RS09 or flagellin, as TLR4 or TLR5 agonists, respectively) into this trimeric design.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32295479&#34; target=&#34;_blank&#34;&gt;32295479&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After predicting and evaluating of the third structure of the protein candidate, the best 3 D predicted model was applied for docking studies with Toll-like receptor 4 (TLR4) and HLA-A&lt;em&gt;11:01. […] In the next step, molecular dynamics (MD) simulation was used to evaluate the stability of the designed fusion protein with TLR4 and HLA-A&lt;/em&gt;11:01 receptors. […] MD studies demonstrated that the NOM-TLR4 and NOM-HLA-A*11:01 docked models were stable during simulation time. &lt;i&gt;In silico&lt;/i&gt; evaluation showed that the designed chimeric protein could simultaneously elicit humoral and cell-mediated immune responses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32380958&#34; target=&#34;_blank&#34;&gt;32380958&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Disulfide-HMGB1 triggers TLR4 receptors generating pro-inflammatory cytokine release.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32383269&#34; target=&#34;_blank&#34;&gt;32383269&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We have also found that cell surface TLRs, especially TLR4 is most likely to be involved in recognizing molecular patterns from SARS-CoV-2 to induce inflammatory responses. […] The present study supported the zoonotic origin of SARS-CoV-2 from a bat and also revealed that TLR4 may have a crucial role in the virus-induced inflammatory consequences associated with COVID-19. […] Therefore, selective targeting of TLR4-spike protein interaction by designing competitive TLR4-antagonists could pave a new way to treat COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32432519&#34; target=&#34;_blank&#34;&gt;32432519&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We discuss the possible excess risk for COVID-19 infection in the context of the common conditions among shiftworkers, including nurses, doctors, and first responders, among others of high exposure to the contagion, of sleep imbalance and circadian disruption.&lt;b&gt;Abbreviations:&lt;/b&gt; ACE2: Angiotensin-converting enzyme 2; APC: Antigen﻿-presenting ﻿cells; CCL: Chemokine (C-C motif) ligand; CD&lt;sup&gt;+&lt;/sup&gt;: ﻿Adhesion molecule expression; COVID-19: 2019 coronavirus disease; DCs: Dendritic cells; GH: Growth hormone; HPA: Hypothalamic-pituitary-adrenal; HSF: Heat shock factor; HSP70: Heat shock protein 70; HSP90: Heat shock protein 90; IL: Interleukin; INFγ: Interferon-gamma; LT/LB: T/B lymphocytes; MHC: Major histocompatibility complex; NK: Natural ﻿killer; RAAS: renin-angiotensin-aldosterone system; SARS: ﻿Severe acute respiratory syndrome; SCN: Suprachiasmatic nucleus;SD: Sleep deprivation; SNS: Sympathetic nervous system; Th1/Th2: T helper lymphocytes 1/2; TLR2/TLR4: Toll-like receptor 2/4; TNF-α: Tumor ﻿necrosis ﻿factor alpha; VEGF: Vascular endothelial growth factor.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

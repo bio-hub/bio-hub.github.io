@@ -26,7 +26,7 @@
 &lt;h2&gt;Cell Sentence Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hepatocytes&lt;/em&gt; tissue in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hepatocytes&lt;/em&gt; tissue in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -42,7 +42,7 @@ Senteces
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32077659
+&lt;a href=&#34;/publication/32077659&#34; target=&#34;_blank&#34;&gt;32077659&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Liver tissue results of single cell sequencing and immunohistochemistry showed that ACE2 was only expressed in bile duct epithelial cells of normal liver tissues, and very low in hepatocytes. […] In RNA-Seq data, 77 transcription factors were positively correlated with the expression of ACE2 (r &amp;gt; 0.2, FDR &amp;lt; 0.05), which were mainly enriched in the development, differentiation, morphogenesis and cell proliferation of glandular epithelial cells. &lt;b&gt;Conclusion:&lt;/b&gt; We assumed that in addition to the over activated inflammatory response in patients with NCP, the up-regulation of ACE2 expression in liver tissue caused by compensatory proliferation of hepatocytes derived from bile duct epithelial cells may also be the possible mechanism of liver tissue injury caused by 2019 novel coronavirus infection. &lt;b&gt;目的：&lt;/b&gt; 探索和分析新型冠状病毒感染肺炎（NCP）患者发生肝损伤的可能机制。
@@ -50,10 +50,34 @@ Liver tissue results of single cell sequencing and immunohistochemistry showed t
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32274341
+&lt;a href=&#34;/publication/32274341&#34; target=&#34;_blank&#34;&gt;32274341&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 However, there is insufficient evidence for SARS-CoV-2 infected hepatocytes or virus-related liver injury in COVID-19 at present.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32302212&#34; target=&#34;_blank&#34;&gt;32302212&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Liver biopsy showed moderate acute hepatitis with prominent clusters of apoptotic hepatocytes and associated cellular debris.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405183&#34; target=&#34;_blank&#34;&gt;32405183&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These are postulated to be related to the virus’s use of ACE-2 receptors located on certain intestinal cells, cholangiocytes, and hepatocytes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32437830&#34; target=&#34;_blank&#34;&gt;32437830&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ultrastructural examination identified typical coronavirus particles characterized by spike structure in cytoplasm of hepatocytes in two COVID-19 cases. […] SARS-CoV-2 infected hepatocytes displayed conspicuous mitochondrial swelling, endoplasmic reticulum dilatation, and glycogen granule decrease. […] Histologically, massive hepatic apoptosis and a certain binuclear hepatocytes were observed.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

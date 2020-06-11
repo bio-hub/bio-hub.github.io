@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ewelina Pośpiech | PlatCOVID</title>
+    <link>/author/ewelina-pospiech/</link>
+      <atom:link href="/author/ewelina-pospiech/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ewelina Pośpiech</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Ewelina Pośpiech</title>
+      <link>/author/ewelina-pospiech/</link>
+    </image>
+    
+    <item>
+      <title>Angiotensin converting enzyme: A review on expression profile and its association with human disorders with special focus on SARS-CoV-2 infection.</title>
+      <link>/publication/32423553/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32423553/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

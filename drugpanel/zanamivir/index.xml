@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00558&#39; target=&#39;_blank&#39;&gt;db00558&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=zanamivir&#34; target=&#34;_blank&#34;&gt;zanamivir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=chloroquine&#34; target=&#34;_blank&#34;&gt;chloroquine&lt;/a&gt; &lt;br&gt;
 Synonymous :(2r,3r,4s)-3-(acetylamino)-4-carbamimidamido-2-[(1r,2r)-1,2,3-trihydroxypropyl]-3,4-dihydro-2h-pyran-6-carboxylic acid | 4-guanidino-2,4-dideoxy-2,3-dehydro-n-acetylneuraminic acid | 4-guanidino-neu5ac2en | 5-(acetylamino)-2,6-anhydro-4-carbamimidamido-3,4,5-trideoxy-d-glycero-d-galacto-non-2-enonic acid | 5-acetamido-2,6-anhydro-3,4,5-trideoxy-4-guanidino-d-glycero-d-galacto-non-2-enonic acid | gana | zanamivir
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(2r,3r,4s)-3-(acetylamino)-4-carbamimidamido-2-[(1r,2r)-1,2,3-trihyd
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;zanamivir&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;chloroquine&lt;/em&gt; gene in 158 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32023685
+&lt;a href=&#34;/publication/32023685&#34; target=&#34;_blank&#34;&gt;32023685&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Antiviral drugs commonly used in clinical practice, including neuraminidase inhibitors (oseltamivir, paramivir, zanamivir, etc.), ganciclovir, acyclovir and ribavirin, are invalid for 2019-nCoV and not recommended.
@@ -57,10 +57,18 @@ Antiviral drugs commonly used in clinical practice, including neuraminidase inhi
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32294562
+&lt;a href=&#34;/publication/32294562&#34; target=&#34;_blank&#34;&gt;32294562&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Several antiviral medications: Zanamivir, Indinavir, Saquinavir, and Remdesivir show potential as and 3CL&lt;sup&gt;PRO&lt;/sup&gt; main proteinase inhibitors and as a treatment of COVID-19. […] Zanamivir, Indinavir, Saquinavir, and Remdesivir are among the exciting hits on the 3CL&lt;sup&gt;PRO&lt;/sup&gt; main proteinase.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32394467&#34; target=&#34;_blank&#34;&gt;32394467&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Neuraminidase inhibitors such as oseltamivir, peramivir, and zanamivir are invalid for 2019-nCoV and are not recommended for treatment but protease inhibitors such as lopinavir/ritonavir (LPV/r) inhibit the progression of MERS-CoV disease and can be useful for patients of COVID-19 and, in combination with Arbidol, has a direct antiviral effect on early replication of SARS-CoV.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

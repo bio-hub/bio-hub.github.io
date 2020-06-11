@@ -5,12 +5,20 @@
     <link>/author/mei-li/</link>
       <atom:link href="/author/mei-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Mei Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Mei Li</title>
       <link>/author/mei-li/</link>
     </image>
+    
+    <item>
+      <title>The clinical data from 19 critically ill patients with coronavirus disease 2019: a single-centered, retrospective, observational study.</title>
+      <link>/publication/32318325/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32318325/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evolving epidemiology and transmission dynamics of coronavirus disease 2019 outside Hubei province, China: a descriptive and modelling study.</title>

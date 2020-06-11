@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahmed Yaqinuddin | PlatCOVID</title>
+    <link>/author/ahmed-yaqinuddin/</link>
+      <atom:link href="/author/ahmed-yaqinuddin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ahmed Yaqinuddin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Ahmed Yaqinuddin</title>
+      <link>/author/ahmed-yaqinuddin/</link>
+    </image>
+    
+    <item>
+      <title>Innate immunity in COVID-19 patients mediated by NKG2A receptors, and potential treatment using Monalizumab, Cholroquine, and antiviral agents.</title>
+      <link>/publication/32344314/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32344314/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loop mediated isothermal amplification (LAMP) assays as a rapid diagnostic for COVID-19.</title>
+      <link>/publication/32361529/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32361529/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

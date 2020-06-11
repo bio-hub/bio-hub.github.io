@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00877&#39; target=&#39;_blank&#39;&gt;db00877&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=sirolimus&#34; target=&#34;_blank&#34;&gt;sirolimus&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
 Synonymous :(-)-rapamycin | rapamycin | sirolimús | sirolimus | sirolimusum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(-)-rapamycin | rapamycin | sirolimús | sirolimus | sirolimusum
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;sirolimus&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32040667
+&lt;a href=&#34;/publication/32040667&#34; target=&#34;_blank&#34;&gt;32040667&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Several adjunctive pharmacologic interventions have been studied for their immunomodulatory effects, including macrolides, corticosteroids, cyclooxygenase-2 inhibitors, sirolimus, statins, anti-influenza immune plasma, and vitamin C, but none is recommended at present in severe RVIs.
@@ -57,7 +57,7 @@ Several adjunctive pharmacologic interventions have been studied for their immun
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32194980
+&lt;a href=&#34;/publication/32194980&#34; target=&#34;_blank&#34;&gt;32194980&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Using network proximity analyses of drug targets and HCoV-host interactions in the human interactome, we prioritize 16 potential anti-HCoV repurposable drugs (e.g., melatonin, mercaptopurine, and sirolimus) that are further validated by enrichment analyses of drug-gene signatures and HCoV-induced transcriptomics data in human cell lines. […] We further identify three potential drug combinations (e.g., sirolimus plus dactinomycin, mercaptopurine plus melatonin, and toremifene plus emodin) captured by the “&lt;i&gt;Complementary Exposure&lt;/i&gt;” pattern: the targets of the drugs both hit the HCoV-host subnetwork, but target separate neighborhoods in the human interactome network.
@@ -65,10 +65,18 @@ Using network proximity analyses of drug targets and HCoV-host interactions in t
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32229705
+&lt;a href=&#34;/publication/32229705&#34; target=&#34;_blank&#34;&gt;32229705&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Previous studies showed that postulated geroprotectors, such as sirolimus (rapamycin) and its close derivative rapalog everolimus (RAD001), decreased infection rates in a small sample of elderly patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32406181&#34; target=&#34;_blank&#34;&gt;32406181&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Maintenance immunosuppression (IS) consisted of sirolimus and mycophenolate.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

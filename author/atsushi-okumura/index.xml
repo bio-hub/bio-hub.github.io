@@ -5,12 +5,20 @@
     <link>/author/atsushi-okumura/</link>
       <atom:link href="/author/atsushi-okumura/index.xml" rel="self" type="application/rss+xml" />
     <description>Atsushi Okumura</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Atsushi Okumura</title>
       <link>/author/atsushi-okumura/</link>
     </image>
+    
+    <item>
+      <title>Respiratory disease in rhesus macaques inoculated with SARS-CoV-2.</title>
+      <link>/publication/32396922/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32396922/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection.</title>

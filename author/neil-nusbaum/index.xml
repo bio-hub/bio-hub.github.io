@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neil Nusbaum | PlatCOVID</title>
+    <link>/author/neil-nusbaum/</link>
+      <atom:link href="/author/neil-nusbaum/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neil Nusbaum</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Neil Nusbaum</title>
+      <link>/author/neil-nusbaum/</link>
+    </image>
+    
+    <item>
+      <title>Pharmacologic Therapy for COVID-19 Infection.</title>
+      <link>/publication/32314081/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32314081/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

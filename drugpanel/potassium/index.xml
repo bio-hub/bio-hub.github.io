@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db14500&#39; target=&#39;_blank&#39;&gt;db14500&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=potassium&#34; target=&#34;_blank&#34;&gt;potassium&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
 Synonymous :k | kalium | potasio | potassium metal | potassium, elemental | potassium, metal
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :k | kalium | potasio | potassium metal | potassium, elemental | pota
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;potassium&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 80 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32173576
+&lt;a href=&#34;/publication/32173576&#34; target=&#34;_blank&#34;&gt;32173576&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Levels of potassium, albumin, lymphocyte were low, but increased persistently after treatment.
@@ -57,10 +57,50 @@ Levels of potassium, albumin, lymphocyte were low, but increased persistently af
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32284379
+&lt;a href=&#34;/publication/32284379&#34; target=&#34;_blank&#34;&gt;32284379&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Valinomycin, a potassium ionophore, was among our top targets. […] Valinomycin did not affect particle stability or infectivity, suggesting that it may preclude virus replication by altering cellular potassium ions, a known determinant of LACV entry. […] In sum, we demonstrate the importance of potassium ions to virus infection, suggesting a potential therapeutic target to disrupt virus replication.&lt;b&gt;Importance&lt;/b&gt; No antivirals are approved for the treatment of bunyavirus infection. […] We focused on a potassium ionophore, valinomycin, due to its promising &lt;i&gt;in vitro&lt;/i&gt; antiviral activity. […] We finally observe that valinomycin has activity against a wide array of human viral pathogens, suggesting that disrupting potassium ion homeostasis with valinomycin may be a potent host pathway to target to quell virus infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32376987&#34; target=&#34;_blank&#34;&gt;32376987&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Herein, we found that a guanine rich tract, capable of forming intramolecular G-quadruplex in the presence of potassium ions, in the promoter region of human TMPRSS2 gene was quite important for gene transcriptional activity, hence affecting its function.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32432127&#34; target=&#34;_blank&#34;&gt;32432127&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Drug-induced prolongation of the QT interval is primarily caused by inhibition of the hERG potassium channel either directly and/or by impaired channel trafficking.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32457932&#34; target=&#34;_blank&#34;&gt;32457932&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Bradycardia and ventricular escape rhythms arise from impaired myocardial automaticity and conductivity due to sodium and potassium channel blockade. […] Infusions of epinephrine titrated to treat unstable hypotension, as well as potassium for severe hypokalemia may be required.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32463308&#34; target=&#34;_blank&#34;&gt;32463308&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chloroquine interacts with multiple cardiac ion channels including the hERG potassium channel that is essential for normal electrical activity in the heart. […] A reduction in hERG channel potassium current is the principle cause of drug-induced long QT syndrome.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32470186&#34; target=&#34;_blank&#34;&gt;32470186&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+And potassium, creatinine, temperature, and D-dimer showed mild distinguishing power (each AUC between 0.6-0.7).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Leboyer | PlatCOVID</title>
+    <link>/author/m-leboyer/</link>
+      <atom:link href="/author/m-leboyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Leboyer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>M Leboyer</title>
+      <link>/author/m-leboyer/</link>
+    </image>
+    
+    <item>
+      <title>[Ensuring mental health care during the SARS-CoV-2 epidemic in France: A narrative review].</title>
+      <link>/publication/32312567/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32312567/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Health professionals facing the coronavirus disease 2019 (COVID-19) pandemic: What are the mental health risks?]</title>
+      <link>/publication/32370984/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32370984/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensuring mental health care during the SARS-CoV-2 epidemic in France: A narrative review.</title>
+      <link>/publication/32370982/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32370982/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

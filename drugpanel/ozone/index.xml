@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db12510&#39; target=&#39;_blank&#39;&gt;db12510&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ozone&#34; target=&#34;_blank&#34;&gt;ozone&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=gold&#34; target=&#34;_blank&#34;&gt;gold&lt;/a&gt; &lt;br&gt;
 Synonymous :ozono
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :ozono
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ozone&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;gold&lt;/em&gt; gene in 49 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,10 +49,122 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32228825
+&lt;a href=&#34;/publication/32228825&#34; target=&#34;_blank&#34;&gt;32228825&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In addition, germicidal UV radiation “breaks down” the oxygen O2 which then aggregate into O3 (ozone) molecules creating the ozone layer, capable of inhibiting viral replication and improving lung respiration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32303365&#34; target=&#34;_blank&#34;&gt;32303365&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Another potential effective therapy is ozone: it has been extensively studied and used for many years and its effectiveness has been demonstrated so far in multiples studies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32335409&#34; target=&#34;_blank&#34;&gt;32335409&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, concentrations of six criteria pollutants, PM&lt;sub&gt;10&lt;/sub&gt;, PM&lt;sub&gt;2.5&lt;/sub&gt;, CO, NO&lt;sub&gt;2&lt;/sub&gt;, ozone and SO&lt;sub&gt;2&lt;/sub&gt; during March 16th to April 14th from 2017 to 2020 in 22 cities covering different regions of India were analysed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32361428&#34; target=&#34;_blank&#34;&gt;32361428&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The main goal of this work is to discuss the impact of the measures on the air quality of the city by comparing the particulate matter, carbon monoxide, nitrogen dioxide and ozone concentrations determined during the partial lockdown with values obtained in the same period of 2019 and also with the weeks prior to the virus outbreak. […] Ozone concentrations increased probably due to the decrease in nitrogen oxides level.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32380370&#34; target=&#34;_blank&#34;&gt;32380370&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+By contrast, an increase of approximately 30% in ozone concentrations was observed in urban areas highly influenced by vehicle traffic, probably related to nitrogen monoxide decreases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32384798&#34; target=&#34;_blank&#34;&gt;32384798&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Systemic ozone therapy (OT) could be potentially useful in the clinical management of several complications secondary to SARS-CoV-2. […] This review summarizes the OT studies that illustrate the possible cytoprotective mechanism of action of ozone and its physiological by-products in target organs affected by SARS-CoV-2. […] It is mainly focused on ozone as a modulator of the NF-κ B/Nrf2 pathways and IL-6/IL-1β expression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32388162&#34; target=&#34;_blank&#34;&gt;32388162&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Existing experimental data showed that coronavirus survival was negatively impacted by ozone, high temperature and low humidity. […] Here, regression analysis showed that the spread of SARS-Cov-2 was reduced by increasing ambient ozone concentration level from 48.83 to 94.67 μg/m&lt;sup&gt;3&lt;/sup&gt; (p-value = 0.039) and decreasing relative humidity from 23.33 to 82.67% (p-value = 0.002) and temperature from -13.17 to 19 °C) (p-value = 0.003) observed for Chinese cities during Jan-March 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32406406&#34; target=&#34;_blank&#34;&gt;32406406&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Results showed that the most promising methods are those that use hydrogen peroxide vapor, ultraviolet radiation, moist heat, dry heat and ozone gas.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32413621&#34; target=&#34;_blank&#34;&gt;32413621&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, ozone did not show any reduction and increased greatly.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32416357&#34; target=&#34;_blank&#34;&gt;32416357&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Particulate matter, sulfur dioxide, nitrogen oxides, ozone, carbon monoxide, volatile organic compounds (VOCs) and polycyclic aromatic hydrocarbons (PAHs) are among the outdoor air pollutants that are major factors in diseases, causing especially adverse respiratory effects in humans.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32437014&#34; target=&#34;_blank&#34;&gt;32437014&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ozone may exert its antiviral actions and ozone therapy has been demonstrated therapeutically usefulness in influenza and novel viruses. […] In this letter, two severe cases with COVID-19 received ozone therapy were described. […] The results showed that ozone therapy may promote recovery of clinical condition and improvement of chest CT images, shorten the duration of viral shedding and length of hospital stay.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32443202&#34; target=&#34;_blank&#34;&gt;32443202&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Liquid chlorine, sodium hypochlorite, chlorine dioxide, ozone, and ultraviolet irradiation disinfection are commonly used for hospital wastewater disinfection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32447070&#34; target=&#34;_blank&#34;&gt;32447070&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The effect of lockdown due to coronavirus disease (COVID-19) pandemic on air pollution in four Southern European cities (Nice, Rome, Valencia and Turin) and Wuhan (China) was quantified, with a focus on ozone (O&lt;sub&gt;3&lt;/sub&gt;).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32462858&#34; target=&#34;_blank&#34;&gt;32462858&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of the multicentre study promoted by Nuova FIO is to evaluate the beneficial effects of the systemic Oxygen-Ozone (O2O3) therapy in patients suffering from SARS COV-2 disease in the early phases of the disease, before worsening, up to the need of tracheal intubation. […] The study is based on the rationale on that the systemic oxygen-ozone treatment could be effective, positively influencing the disease evolution and/or being able to mitigate the onset of the cytokine storm syndrome at least partially.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32471302&#34; target=&#34;_blank&#34;&gt;32471302&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We found that SARS-CoV-2 infection frequency positively correlates with particulate air pollutants, and specifically with particulate matter 2.5 (PM&lt;sub&gt;2.5&lt;/sub&gt;), while ozone gas is oppositely related with the number of infected individuals.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

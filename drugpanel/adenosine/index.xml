@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00640&#39; target=&#39;_blank&#39;&gt;db00640&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=adenosine&#34; target=&#34;_blank&#34;&gt;adenosine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=remdesivir&#34; target=&#34;_blank&#34;&gt;remdesivir&lt;/a&gt; &lt;br&gt;
 Synonymous :(2r,3r,4s,5r)-2-(6-aminopurin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol | 6-amino-9-beta-d-ribofuranosyl-9h-purine | 9-beta-d-ribofuranosidoadenine | 9-beta-d-ribofuranosyl-9h-purin-6-amine | 9-β-d-ribofuranosyl-9h-purin-6-amine | ade-rib | adenin riboside | adenine deoxyribonucleoside | adenogesic | adenosin | adenosina | adénosine | adenosine | adenosinum | ado | beta-d-adenosine
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(2r,3r,4s,5r)-2-(6-aminopurin-9-yl)-5-(hydroxymethyl)oxolane-3,4-dio
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;adenosine&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;remdesivir&lt;/em&gt; gene in 116 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32171193
+&lt;a href=&#34;/publication/32171193&#34; target=&#34;_blank&#34;&gt;32171193&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 IL-37 performs its immunosuppressive activity by acting on mTOR and increasing the adenosine monophosphate (AMP) kinase.
@@ -57,7 +57,7 @@ IL-37 performs its immunosuppressive activity by acting on mTOR and increasing t
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32239125
+&lt;a href=&#34;/publication/32239125&#34; target=&#34;_blank&#34;&gt;32239125&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Among them, remdesivir, an analogue of adenosine, is what seems to have a more promising future.
@@ -65,10 +65,26 @@ Among them, remdesivir, an analogue of adenosine, is what seems to have a more p
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32253888
+&lt;a href=&#34;/publication/32253888&#34; target=&#34;_blank&#34;&gt;32253888&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 It is hoped that certain drugs, such as CoV-19 receptor blockers, anti-inflammatories (against rheumatic diseases), monoclonal antibodies, anti-IL-1 and anti-IL-6, the remdesevir drug (analogue adenosine, effective against ebola), hydroxychloroquine (for the treatment of malaria) and vaccines, will open up new strategies and new therapeutic ways to combat this terrible virus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32388390&#34; target=&#34;_blank&#34;&gt;32388390&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this article, we provide a novel hypothesis to describe how an increase in cellular adenosine triphosphate (c-ATP) can potentially improve the efficiency of innate and adaptive immune systems to either prevent or fight off COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32461703&#34; target=&#34;_blank&#34;&gt;32461703&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Specifically, the focus of this work is on &lt;i&gt;G-protein-coupled receptors&lt;/i&gt; (GPCRs), the widest group of transmembrane proteins in animals, which regulate specific cell processes through chemical signalling pathways involving a synergistic balance between the &lt;i&gt;cyclic Adenosine Monophosphate&lt;/i&gt; (cAMP) produced by active GPCRs in the intracellular environment and its efflux, mediated by the &lt;i&gt;Multidrug Resistance Proteins&lt;/i&gt; (MRPs) transporters.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Davide Locatelli | PlatCOVID</title>
+    <link>/author/davide-locatelli/</link>
+      <atom:link href="/author/davide-locatelli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Davide Locatelli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Davide Locatelli</title>
+      <link>/author/davide-locatelli/</link>
+    </image>
+    
+    <item>
+      <title>Managing care for patients with sinonasal and anterior skull base cancers during the COVID-19 pandemic.</title>
+      <link>/publication/32415882/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32415882/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skull base surgery during the Covid-19 pandemic: The Italian skull base society recommendations.</title>
+      <link>/publication/32348025/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32348025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

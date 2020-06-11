@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dhruv Sharma | PlatCOVID</title>
+    <link>/author/dhruv-sharma/</link>
+      <atom:link href="/author/dhruv-sharma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dhruv Sharma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Dhruv Sharma</title>
+      <link>/author/dhruv-sharma/</link>
+    </image>
+    
+    <item>
+      <title>Correlations of Online Search Engine Trends With Coronavirus Disease (COVID-19) Incidence: Infodemiology Study.</title>
+      <link>/publication/32401211/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32401211/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cadaveric Simulation of Endoscopic Endonasal Procedures: Analysis of Droplet Splatter Patterns During the COVID-19 Pandemic.</title>
+      <link>/publication/32423283/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32423283/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

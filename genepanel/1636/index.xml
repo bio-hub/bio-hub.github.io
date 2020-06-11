@@ -30,7 +30,7 @@ OMIM: &lt;a href=&#39;https://omim.org/entry/614519&#39; target=&#39;_blank&#39;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes an enzyme involved in catalyzing the conversion of angiotensin I into a physiologically active peptide angiotensin II. Angiotensin II is a potent vasopressor and aldosterone-stimulating peptide that controls blood pressure and fluid-electrolyte balance. This enzyme plays a key role in the renin-angiotensin system. Many studies have associated the presence or absence of a 287 bp Alu repeat element in this gene with the levels of circulating enzyme or cardiovascular pathophysiologies. Multiple alternatively spliced transcript variants encoding different isoforms have been identified, and two most abundant spliced variants encode the somatic form and the testicular form, respectively, that are equally active. [provided by RefSeq, May 2010] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes an enzyme involved in in blood pressure regulation and electrolyte balance. It catalyzes the conversion of angiotensin I into a physiologically active peptide angiotensin II. Angiotensin II is a potent vasopressor and aldosterone-stimulating peptide that controls blood pressure and fluid-electrolyte balance. ACE also inactivates the vasodilator protein, bradykinin. Accordingly, the encoded enzyme increases blood pressure and is a drug target of ACE inhibitors, which are often prescribed to reduce blood pressure. This enzyme additionally plays a role in fertility through its ability to cleave and release GPI-anchored proteins in testes. Many studies have associated the presence or absence of a 287 bp Alu repeat element in this gene with the levels of circulating enzyme. This polymorphism, as well as mutations in this gene, have been implicated in a wide variety of diseases including cardiovascular pathophysiologies, psoriasis, renal disease, stroke, and Alzheimer’s disease. Alternative splicing results in multiple transcript variants. [provided by RefSeq, May 2020] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
@@ -668,7 +668,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of ACE gene in 19 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of ACE gene in 83 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -684,7 +684,7 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32061198
+&lt;a href=&#34;/publication/32061198&#34; target=&#34;_blank&#34;&gt;32061198&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The novel coronavirus 2019 (COVID-19) infected patients by binding human ACE2, leading to severe pneumonia and highly mortality rate in patients. […] ACE2 plays an important role in the RAS, and the imbalance between ACE/Ang II/AT1R pathway and ACE2/Ang (1-7)/Mas receptor pathway in the RAS system will lead to multi-system inflammation. […] Increased ACE and Ang II are poor prognostic factors for severe pneumonia. […] The binding of COVID-19 and ACE2 resulted in the exhaustion of ACE2, and then ACE2/Ang (1-7)/Mas receptor pathway was inhibited. […] The balance of the RAS system was broken, and this would lead to the exacerbation of acute severe pneumonia. […] Therefore, we speculate that ACEI and AT1R inhibitors could be used in patients with COVID-19 pneumonia under the condition of controlling blood pressure, and might reduce the pulmonary inflammatory response and mortality. […] 新型冠状病毒通过与人体血管紧张素转化酶2（ACE2）结合感染产生重症肺炎，传染性强，病死率高，目前无确切有效的治疗方式。 […] ACE2是肾素-血管紧张素系统（RAS）的重要组成部分，RAS系统中ACE/Ang II/AT1R通路与ACE2/Ang (1-7)/Mas受体通路失衡将导致多系统炎症。 […] ACE和Ang II升高是重症肺炎的不良预后因素。 […] 新型冠状病毒与ACE2的结合导致ACE2耗竭，ACE2/Ang (1-7)/Mas受体通路受到抑制，RAS系统失衡，使新型冠状病毒肺炎患者病死率升高。 […] 因此，在控制血压的情况下，对新型冠状病毒肺炎患者应用ACEI及AT1R抑制剂，有可能减轻患者肺部炎症反应，降低患者病死率。.
@@ -692,23 +692,7 @@ The novel coronavirus 2019 (COVID-19) infected patients by binding human ACE2, l
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32159318
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-与严重急性呼吸系统综合征冠状病毒（SARS-CoV）一样，2019新型冠状病毒（2019-nCoV）亦是以血管紧张素转化酶2（ACE2）为受体感染细胞。 […] ACE2作为肾素-血管紧张素系统（RAS）的重要成员，与ACE互为拮抗，二者的平衡与失衡在维护心血管系统生理功能、机体炎症反应、肺损伤等过程中均发挥着重要作用，而其在冠状病毒感染与致病机制中亦发挥着非常重要的作用。 […] 目前为止，在7种人畜共患的冠状病毒中有3种以ACE2为受体感染细胞，即SARS-CoV、人类冠状病毒NL63（HCoV-NL63）和2019-nCoV，了解这些病毒与ACE2的相互作用对于冠状病毒感染的预防和治疗意义重大。 […] 本文对相关文献进行了梳理，总结了ACE2及RAS系统在冠状病毒感染、致病过程中发挥的作用，对于2019-nCoV防治过程中存在的争议进行了归纳，针对ACE2和RAS系统中可能存在的2019-nCoV的治疗靶点进行了展望。.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-32166940
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-血管紧张素转化酶2（ACE2）作为受体介导2019-nCoV进入细胞，是目前最有可能防治COVID-19的靶点之一。 […] ACE2是肾素-血管紧张素系统重要的组成部分，以此系统为靶点的ACE抑制剂和血管紧张素受体阻断剂等药物，是目前临床治疗高血压、心肌重构和心力衰竭等心血管疾病的最主要的药物之一。
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-32208987
+&lt;a href=&#34;/publication/32208987&#34; target=&#34;_blank&#34;&gt;32208987&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Because the ACE2 (angiotensin-converting enzyme 2) protein is the receptor that facilitates coronavirus entry into cells, the notion has been popularized that treatment with renin-angiotensin system blockers might increase the risk of developing a severe and fatal severe acute respiratory syndrome coronavirus-2 infection. […] ACE2 in its full-length form is a membrane-bound enzyme, whereas its shorter (soluble) form circulates in blood at very low levels. […] As a mono-carboxypeptidase, ACE2 contributes to the degradation of several substrates including angiotensins I and II. […] ACE (angiotensin-converting enzyme) inhibitors do not inhibit ACE2 because ACE and ACE2 are different enzymes. […] Although angiotensin II type 1 receptor blockers have been shown to upregulate ACE2 in experimental animals, the evidence is not always consistent and differs among the diverse angiotensin II type 1 receptor blockers and differing organs. […] Moreover, there are no data to support the notion that ACE inhibitor or angiotensin II type 1 receptor blocker administration facilitates coronavirus entry by increasing ACE2 expression in either animals or humans. […] Indeed, animal data support elevated ACE2 expression as conferring potential protective pulmonary and cardiovascular effects.
@@ -716,7 +700,7 @@ Because the ACE2 (angiotensin-converting enzyme 2) protein is the receptor that 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32221983
+&lt;a href=&#34;/publication/32221983&#34; target=&#34;_blank&#34;&gt;32221983&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 This article reviews the correlation between angiotensin-converting enzyme 2 (ACE2) and severe risk factors for coronavirus disease 2019 (COVID-19) and the possible mechanisms. […] ACE2 is a crucial component of the renin-angiotensin system (RAS). […] The classical RAS ACE-Ang II-AT1R regulatory axis and the ACE2-Ang 1-7-MasR counter-regulatory axis play an essential role in maintaining homeostasis in humans. […] ACE2 is widely distributed in the heart, kidneys, lungs, and testes. […] ACE2 antagonizes the activation of the classical RAS system and protects against organ damage, protecting against hypertension, diabetes, and cardiovascular disease. […] Similar to SARS-CoV, SARS-CoV-2 also uses the ACE2 receptor to invade human alveolar epithelial cells. […] Acute respiratory distress syndrome (ARDS) is a clinical high-mortality disease, and ACE2 has a protective effect on this type of acute lung injury. […] Because of these protective effects of ACE2 on chronic underlying diseases and ARDS, the development of spike protein-based vaccine and drugs enhancing ACE2 activity may become one of the most promising approaches for the treatment of COVID-19 in the future.
@@ -724,7 +708,7 @@ This article reviews the correlation between angiotensin-converting enzyme 2 (AC
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32228252
+&lt;a href=&#34;/publication/32228252&#34; target=&#34;_blank&#34;&gt;32228252&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The mechanism for SARS-CoV-2 infection is the requisite binding of the virus to the membrane-bound form of angiotensin-converting enzyme 2 (ACE2) and internalization of the complex by the host cell. […] Recognition that ACE2 is the coreceptor for the coronavirus has prompted new therapeutic approaches to block the enzyme or reduce its expression to prevent the cellular entry and SARS-CoV-2 infection in tissues that express ACE2 including lung, heart, kidney, brain, and gut. […] ACE2, however, is a key enzymatic component of the renin-angiotensin-aldosterone system (RAAS); ACE2 degrades ANG II, a peptide with multiple actions that promote CVD, and generates Ang-(1-7), which antagonizes the effects of ANG II. […] Moreover, experimental evidence suggests that RAAS blockade by ACE inhibitors, ANG II type 1 receptor antagonists, and mineralocorticoid antagonists, as well as statins, enhance ACE2 which, in part, contributes to the benefit of these regimens. […] The current perspective critically examines the evidence for ACE2 regulation by RAAS blockade and statins, the cardiovascular benefits of ACE2, and whether ACE2 blockade is a viable approach to attenuate COVID-19.
@@ -732,7 +716,7 @@ The mechanism for SARS-CoV-2 infection is the requisite binding of the virus to 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32229706
+&lt;a href=&#34;/publication/32229706&#34; target=&#34;_blank&#34;&gt;32229706&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 One is CD26 and the other is ACE-2 (angiotensin-converting enzyme 2).
@@ -740,7 +724,7 @@ One is CD26 and the other is ACE-2 (angiotensin-converting enzyme 2).
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32232976
+&lt;a href=&#34;/publication/32232976&#34; target=&#34;_blank&#34;&gt;32232976&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 ACE2 is a metalloproteinase and a homolog of carboxypeptidase ACE. […] It hydrolyzes a variety of angiotensin peptides and is the main active peptide of the renin-angiotensin system (RAS).&lt;sup&gt;[3]&lt;/sup&gt; ACE2, which is made of 805 amino acids, is a type I transmembrane glycoprotein with a single extracellular catalytic domain.
@@ -748,7 +732,7 @@ ACE2 is a metalloproteinase and a homolog of carboxypeptidase ACE. […] It hydr
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32242182
+&lt;a href=&#34;/publication/32242182&#34; target=&#34;_blank&#34;&gt;32242182&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 There has been a lot of speculation that patients with coronavirus disease 2019 (COVID-19) who are receiving angiotensin-converting enzyme (ACE) inhibitors or angiotensin receptor blockers (ARBs) may be at increased risk for adverse outcomes.
@@ -756,7 +740,7 @@ There has been a lot of speculation that patients with coronavirus disease 2019 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32247213
+&lt;a href=&#34;/publication/32247213&#34; target=&#34;_blank&#34;&gt;32247213&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Search terms were, COVID-19, treatment of coronavirus, COVID 19 and following terms; chloroquine, hydroxychloroquine, ibuprofen, ACE-inhibitors or angiotensin receptor blockers, cardiovascular disease, diarrhoea, liver, testis and gastrointestinal disease.
@@ -764,7 +748,7 @@ Search terms were, COVID-19, treatment of coronavirus, COVID 19 and following te
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32250244
+&lt;a href=&#34;/publication/32250244&#34; target=&#34;_blank&#34;&gt;32250244&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The discovery that SARS-CoV-2 (Severe Acute Respiratory Syndrome Coronavirus 2) binds to the angiotensin converting enzyme (ACE)-2, which is highly expressed in the lower airways, explained why SARS-CoV-2 causes acute respiratory distress syndrome (ARDS) and respiratory failure. […] After this, news spread that ACEis and ARBs would be harmful in SARS-CoV-2-infected subjects. […] To the contrary, compelling evidence exists that the ACE-1/angiotensin(Ang)II/ATR-1 pathway is involved in SARS-CoV-2-induced ARDS, while the ACE-2/Ang(1-7)/ATR2/MasR pathway counteracts the harmful actions of AngII in the lung. […] A reduced ACE-1/ACE-2 ratio is, in fact, a feature of ARDS that can be rescued by human recombinant ACE-2 and Ang(1-7) administration, thus preventing SARS-CoV-2-induced damage to the lung. […] Based on the current clinical evidence treatment with ACE-inhibitors I (ACEis) or angiotensin receptor blockers (ARBs) continues to provide cardiovascular and renal protection in patients diagnosed with COVID-19.
@@ -772,7 +756,7 @@ The discovery that SARS-CoV-2 (Severe Acute Respiratory Syndrome Coronavirus 2) 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32251731
+&lt;a href=&#34;/publication/32251731&#34; target=&#34;_blank&#34;&gt;32251731&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The first step of the viral replication cycle [i.e. attachment to the surface of respiratory cells, mediated by the spike (S) viral protein] offers several potential therapeutic targets. […] The S protein uses the angiotension-converting enzyme-2 (ACE-2) receptor for entry, but also sialic acids linked to host cell surface gangliosides. […] This domain (111-158), which is fully conserved among clinical isolates worldwide, may improve attachment of the virus to lipid rafts and facilitate contact with the ACE-2 receptor.
@@ -780,7 +764,7 @@ The first step of the viral replication cycle [i.e. attachment to the surface o
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32255507
+&lt;a href=&#34;/publication/32255507&#34; target=&#34;_blank&#34;&gt;32255507&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Additionally, many adults with hypertension, diabetes, and chronic kidney disease are placed on angiotensin-converting enzyme (ACE) inhibitors and angiotensin II receptor blockers (ARBs). […] Studies have shown that these medications upregulate the ACE-2 receptor, the very receptor which the SARS-CoV-2 virus uses to enter host cells, which puts older adults at a further increased risk of infection.
@@ -788,7 +772,7 @@ Additionally, many adults with hypertension, diabetes, and chronic kidney diseas
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32266708
+&lt;a href=&#34;/publication/32266708&#34; target=&#34;_blank&#34;&gt;32266708&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Cardiovascular diseases, in particular hypertension, as well as the cardiovascular treatment with Renin-Angiotensin System inhibitors such as Angiotensin Converting Enzyme (ACE) inhibitors and Angiotensin Receptor Blockers (ARBs), are claimed once again as mechanisms of Severe Acute Respiratory Syndrome (SARS) during the COVID-19 outbreak due to Cov-2 epidemics. […] In vitro studies are available to support the eventual role of ACE inhibitors and ARBs in both the promotion and antagonism of the disease.
@@ -796,7 +780,7 @@ Cardiovascular diseases, in particular hypertension, as well as the cardiovascul
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32268343
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32268343&#34; target=&#34;_blank&#34;&gt;32268343&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The possible reason about non-susceptibility of children to coronavirus may lie in different angiotensin-converting enzyme (ACE) activity and immunity of children.The first possible reason is about ACE activity. […] A research revealed that children had higher ACE activities.
@@ -804,7 +788,7 @@ The possible reason about non-susceptibility of children to coronavirus may lie 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32269893
+&lt;a href=&#34;/publication/32269893&#34; target=&#34;_blank&#34;&gt;32269893&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Emphasis is placed on evidence-based medicine to evaluate the frequency of presentation of various symptoms to create a stratification system of the most important epidemiological risk factors for COVID-19. […] Lastly, the current scientific data and status of governing bodies such as the Center of Disease Control (CDC) and the WHO on the usage of controversial therapies such as angiotensin-converting enzyme (ACE) inhibitors, nonsteroidal anti-inflammatory drugs (NSAIDs) (Ibuprofen), and corticosteroids usage in COVID-19 are discussed.
@@ -812,7 +796,7 @@ Emphasis is placed on evidence-based medicine to evaluate the frequency of prese
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32274964
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32274964&#34; target=&#34;_blank&#34;&gt;32274964&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Angiotensin-converting enzyme-2 (ACE-2) is one of the most important receptors on the cell membrane of the host cells (HCs) which its interaction with spike protein (SP) with a furin-cleavage site results in the SARS-CoV-2 invasion. […] Hence, in this review, we presented an overview on the interaction of ACE-2 and furin with SP. […] Furthermore, we discussed that the small molecular inhibitors can limit the interaction of ACE-2 and furin with SP and can be used as potential therapeutic platforms to combat the spreading CoV epidemic.
@@ -820,7 +804,7 @@ Angiotensin-converting enzyme-2 (ACE-2) is one of the most important receptors o
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32277367
+&lt;a href=&#34;/publication/32277367&#34; target=&#34;_blank&#34;&gt;32277367&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Angiotensin converting enzyme 2 (ACE2) appears important for viral entry into pneumocytes; dysbalance in ACE2 as caused by ACE inhibitors or ibuprofen may predispose to severe disease.
@@ -828,14 +812,544 @@ Angiotensin converting enzyme 2 (ACE2) appears important for viral entry into pn
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32279064
+&lt;a href=&#34;/publication/32279064&#34; target=&#34;_blank&#34;&gt;32279064&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Similar to the respiratory mucosa, angiotensin converting enzyme-2 (ACE-2) receptor and transmembrane serine protease 2 TMPRSS2) co-express in the gastrointestinal tract, which facilitates viral entry into the tissue.
 &lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32297723&#34; target=&#34;_blank&#34;&gt;32297723&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Structural analysis of the receptor binding site has confirmed that 2019-nCoV binds with the same ACE 2 receptor protein as human SARS virus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32305401&#34; target=&#34;_blank&#34;&gt;32305401&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV2 host cell infection is mediated by the binding to angiotensin-converting enzyme 2 (ACE2). […] Systemic dysregulation observed in SARS-CoV was previously postulated to be due to ACE2/Ang1-7/Mas axis downregulation, increased ACE2 activity was shown to mediate disease protection. […] Since angiotensin II receptor blockers (ARBs), ACE inhibitors, and mineralocorticoid receptor antagonists (MRAs) increase ACE2 receptor expression, it has been tacitly believed that the use of these agents may facilitate viral disease, thus they should not be used in high-risk patients with cardiovascular disease. […] Based on the anti-inflammatory benefits of the upregulation of the ACE2/Ang1-7/Mas axis and previously demonstrated benefits of lung function improvement in SARS-CoV infections, we hypothesize that the benefits of treatment with renin-angiotensin system inhibitors in SARS-COV2 may outweigh the risks and at the very least should not be withheld.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32307955&#34; target=&#34;_blank&#34;&gt;32307955&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+COVID-19 enters the human cell using the ACE2, an enzyme abundant in renal tubular epithelial cells. […] Moreover, medications based on RAAS inhibition, such and ACE inhibitors and ARBs, upregulate the enzyme ACE2 and could therefore hypothetically explain the high prevalence of hypertension and diabetes reported as previous diagnoses in severe cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32310915&#34; target=&#34;_blank&#34;&gt;32310915&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Some Authors recently suggested that angiotensin-converting enzyme (ACE) inhibitors and angiotensin II receptor blockers (ARBs) should be discontinued, even temporarily, given the current pandemic of SARS-CoV-2 virus. […] The suggestion is based on the hypothesis that ACE-inhibitors and ARBs may favor the entry and diffusion of SARS-CoV-2 virus into the human cells. […] ACE-inhibitors and ARBs may increase the expression of ACE2 receptors, which are the sites of viral entry into the human organism. […] ACE2 receptors are ubiquitous, although they are extremely abundant on the cell surface of type 2 pneumocytes. […] The increased expression of ACE2 for effect of ACE-inhibitors and ARBs can be detected by increased production of angiotensin1-7 and mRNA related to ACE2. […] There is the fear that the increased expression of ACE2 induced by ACE-inhibitors and ARBs may ultimately facilitate the entry and diffusion of the SARS-CoV-2 virus. […] Indeed, studies conducted in different laboratories demonstrated that ACE2 receptors show a down-regulation (i.e. the opposite of what would happen with ACE-inhibitors and ARBs) for effect of their interaction with the virus. […] In animal studies, down-regulation of ACE2 has been found as prevalent in the pulmonary areas infected by virus, but not in the surrounding areas. […] In these studies, virus-induced ACE2 down-regulation would lead to a reduced formation of angiotensin1-7 (because ACE2 degrades angiotensin II into angiotensin1-7) with consequent accumulation of angiotensin II. […] In the light of the above considerations, it is reasonable to conclude that the suggestion to discontinue ACE-inhibitors or ARBs in all patients with the aim of preventing or limiting the diffusion of SARS-CoV-2 virus is not based on clinical evidence. […] This review discusses facts and theories on the potential impact of ACE-inhibitors and ARBs in the setting of the SARS-CoV-2 pandemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32314329&#34; target=&#34;_blank&#34;&gt;32314329&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The new SARS-CoV-2 virus enters cells via angiotensin-converting enzyme 2 (ACE2). […] ACE2 counteracts ACE and angiotensin II in the renin-angiotensin-aldosterone system (RAAS) and has critical functions in the lung and cardiovascular system. […] SARS-CoV was found to down-regulate ACE2, leaving angiotensin II unbalanced in affected organs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32320687&#34; target=&#34;_blank&#34;&gt;32320687&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Taxonomically, SARS-CoV-2 was shown to be a Betacoronavirus (lineage B) closely related to SARS-CoV and SARS-related bat coronaviruses, and it has been reported to share a common receptor with SARS-CoV (ACE-2). […] Compared to SARS-CoV and all other coronaviruses in Betacoronavirus lineage B, we identify an extended structural loop containing basic amino acids at the interface of the receptor binding (S1) and fusion (S2) domains.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32323279&#34; target=&#34;_blank&#34;&gt;32323279&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Twenty years ago, an enzyme homologous to the previously known angiotensin-converting enzyme (ACE) was identified, and subsequently named ACE2. […] In the renin-angiotensin system (RAS), ACE2 has counter-regulatory functions against the classical effector peptide angiotensin II, for example in blood pressure regulation and cardiovascular remodeling. […] However, ACE2 provides an initially unexpected interesting link between virology and cardiovascular medicine. […] That is, ACE2 represents the binding receptor for the cellular uptake of SARS-CoV and SARS-CoV-2 viruses. […] Thus, ACE2 is relevant for COVID-19. […] In this context, it was suspected that therapy with RAS blockers might promote transmission and complications of COVID-19 by upregulation of ACE2 expression. […] The aim of this short review is, to describe the link between the RAS, particularly ACE2, and COVID-19. […] Based on our analysis and evaluation of the available findings, we justify our conclusion: important drugs such as ACE inhibitors and angiotensin receptor blockers should continue to be prescribed according to guidelines to stable patients in the context of the COVID-19 pandemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32324352&#34; target=&#34;_blank&#34;&gt;32324352&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There is no preference for either ACE inhibitors or angiotensin II receptor inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32328850&#34; target=&#34;_blank&#34;&gt;32328850&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+More importantly, angiotensin-converting enzyme (ACE)-2, the SARS-CoV-2 receptor, has been proven highly increased during pregnancy, which may contribute to the susceptibility to SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32330817&#34; target=&#34;_blank&#34;&gt;32330817&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Of the 33 studied patients, 91% were male, median age 64; 88% were overweight or obese. 45% were hypertensive, 12% had been taking an ACE-inhibitor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32335337&#34; target=&#34;_blank&#34;&gt;32335337&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The angiotensin-converting enzyme (ACE) system is not uniformly expressed in all of the human races, and current differences could explain some of the geographical discrepancies in infection around the world. […] Furthermore, animal studies have shown that the ACE2 receptor is a potential pathway for host infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the causative agent of COVID-19. […] As two-thirds of hypertensive patients take ACE inhibitors/angiotensin receptor blockers, several concerns have been raised about the detrimental role of current antihypertensive drugs in COVID-19. […] This report summarizes the recent evidence for and against the administration of ACE blockade in the COVID-19 era.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32336586&#34; target=&#34;_blank&#34;&gt;32336586&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This narrative review was conducted to summarize the effectiveness of current therapy options for COVID-19 and address the controversial use of non-steroidal anti-inflammatory drugs (NSAIDs), angiotensin converting enzyme (ACE) inhibitors, and angiotensin receptor blockers (ARBs). […] ACE inhibitors and ARBs should not be discontinued at this time and ibuprofen may be used for fever.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32336612&#34; target=&#34;_blank&#34;&gt;32336612&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin converting enzyme-2 (ACE2) receptors mediate the entry into the cell of three strains of coronavirus: SARS-CoV, NL63 and SARS-CoV-2. […] ACE2 receptors are ubiquitous and widely expressed in the heart, vessels, gut, lung (particularly in type 2 pneumocytes and macrophages), kidney, testis and brain. […] ACE2 is mostly bound to cell membranes and only scarcely present in the circulation in a soluble form. […] An important salutary function of membrane-bound and soluble ACE2 is the degradation of angiotensin II to angiotensin&lt;sub&gt;1-7&lt;/sub&gt;. […] Consequently, ACE2 receptors limit several detrimental effects resulting from binding of angiotensin II to AT1 receptors, which include vasoconstriction, enhanced inflammation and thrombosis. […] Unfortunately, the entry of SARS-CoV2 into the cells through membrane fusion markedly down-regulates ACE2 receptors, with loss of the catalytic effect of these receptors at the external site of the membrane. […] Increased pulmonary inflammation and coagulation have been reported as unwanted effects of enhanced and unopposed angiotensin II effects via the ACE→Angiotensin II→AT1 receptor axis. […] Clinical reports of patients infected with SARS-CoV-2 show that several features associated with infection and severity of the disease (i.e., older age, hypertension, diabetes, cardiovascular disease) share a variable degree of ACE2 deficiency. […] We suggest that ACE2 down-regulation induced by viral invasion may be especially detrimental in people with baseline ACE2 deficiency associated with the above conditions. […] The additional ACE2 deficiency after viral invasion might amplify the dysregulation between the ‘adverse’ ACE→Angiotensin II→AT1 receptor axis and the ‘protective’ ACE2→Angiotensin&lt;sub&gt;1-7&lt;/sub&gt;→Mas receptor axis. […] In this setting, recombinant ACE2, angiotensin&lt;sub&gt;1-7&lt;/sub&gt; and angiotensin II type 1 receptor blockers could be promising therapeutic approaches in patients with SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32338224&#34; target=&#34;_blank&#34;&gt;32338224&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV binds to the angiotensin-converting enzyme (ACE)2 which is present on nonimmune cells, such as respiratory and intestinal epithelial cells, endothelial cells, kidney cells (renal tubules) and cerebral neurons and immune cells, such as alveolar monocytes/macrophages [4-6]. […] Evidence has been provided that SARSCoV proteins are cleaved into two subunits, S1 and S2, respectively, and the amino acids 318-510 of the S1 represent the receptor-binding domain (RBD) which binds to ACE2 [10, 11]. […] Quite importantly, in the context of RBD there is the receptor-binding motif (RBM) (amino acids 424- 494), which accounts for complete binding to ACE2 [11]. […] In this respect, the sequence of COVID-19 RBM is similar to that of SARSCoV, thus, implicating that ACE2 may represent the binding receptors for COVID-19. […] Furthermore, gln493 residue of COVID-19 RBM seems to allow interaction with human ACE2, thus, suggesting the ability of this virus to infect human cells. […] According, to Wan and associates structural analysis [14], COVID-19 binds to human ACE2 with a lesser efficiency than human SARS-CoV (2002) but with higher affinity than human SARS-CoV (2003). […] Furthermore, same authors predicted that a single mutation at the 501 position may enhance the COVID-19 RBD binding capacity to human ACE2 and this evolution should be monitored in infected patients [14]. […] From a pathogenic point of view, evidence has been provided that binding of S2 to ACE2 receptor leads to its down-regulation with subsequent lung damage in the course of SARS-CoV infection [17]. […] Down-regulation of ACE2 causes excessive production of angiotensin (ANG) II by the related enzyme ACE with stimulation of ANG type 1a receptor (AT1R) and enhanced lung vascular permeability [18]. […] In particular, same authors have reported that recombinant ACE2 could attenuate severe acute lung injury in mice [18]. […] Moreover, Battle and associates [19] also proposed to use already available recombinant ACE2 for intercepting COVID-19 and attenuating infection. […] In the previous paragraphs, the presence of ACE2 on immune cells has been pointed out and, by analogy to epithelial cells, this receptor may also be down-regulated following viral entry. […] Therefore, in CoV-infected animal models and in infected humans further investigations are required to clarify a possible reduced expression of ACE2 on immune cells. […] There is evidence that ACE2 protects from severe acute lung failure and operates as a negative regulator of the renin-angiotensin system (RAS) [18, 37]. […] ACE2 counterbalances the noxious effects exhibited by ANG II and AT1R via activation of AT2R which arrests cell growth, inflammation and fibrosis [39]. […] In fact, losartan as well as olmesartan, used for treating hypertension in patients, were able to increase ACE2 expression after 28 days treatment of rats with myocardial infarction [41]. […] However, the putative effects of ACE-2 down-regulation on the cardiovascular system in the course of COVID-19 pandemic need more intensive studies. […] Taken together, these evidences suggest that CoV-induced down-regulation of ACE2 activates RAS with collateral damage to organs, such as lungs, in the course of SARS-related pneumonia. […] Then, putative therapeutic measures aimed at increasing ACE2 levels on respiratory epithelial cells should be taken into serious consideration. […] In all these experimental models, RES led to an increase of ACE2 with reduction of organ damage, such as liver steatosis and aorta media thickness and decrease of adipose tissue mass, respectively. […] In turn, Sirt1 down-regulates AT1R expression via ACE2 up-regulation [43, 48]. […] The data above discussed strongly suggest, that RES, as an activators of ACE2, should be investigated in animal models of CoV-induced severe pneumonia, also taking into account the antioxidant, anti-inflammatory and immunomodulating effects exerted by polyphenols [49]. […] From a pharmacologic point of view, RAS inhibition leads to upregulation of ACE2, thus, attenuating acute respiratory syndrome and myocarditis in COVID-19-infected patients. […] Conversely, increase in ACE2 expression may facilitate the access into the host of COVID-19, thus, aggravating the clinical picture. […] In fact, there are no available data which support that ACE inhibitors or ANG II type I receptor blockers increase COVID-19 infection via its binding to ACE2. […] Finally, Kuster and associates [52] write that there are no data on the strict relationship between ACE2 activity and SARS-CoV2 mortality. […] Moreover, in the SARSCoV2, cells expressing ACE2 were not attacked by the virus, while cells lacking ACE2 were bound by the SARS-CoV2 virus [53]. […] These findings suggest that also in the case of RES effects on COVID-19 infection, the dual role of ACE2 should be taken into serious consideration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32340044&#34; target=&#34;_blank&#34;&gt;32340044&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The SARS-CoV-2 infects humans through the angiotensin converting enzyme (ACE-2) receptor. […] The ACE-2 receptor is a part of the dual system renin-angiotensin-system (RAS) consisting of ACE-Ang-II-AT&lt;sub&gt;1&lt;/sub&gt;R axis and ACE-2-Ang-(1-7)-Mas axis. […] In metabolic disorders and with increased age, it is known that there is an upregulation of ACE-Ang-II-AT&lt;sub&gt;1&lt;/sub&gt;R axis with a downregulation of ACE-2-Ang-(1-7)-Mas axis. […] The activated ACE-Ang-II-AT1R axis leads to pro-inflammatory and pro-fibrotic effects in respiratory system, vascular dysfunction, myocardial fibrosis, nephropathy, and insulin secretory defects with increased insulin resistance. […] On the other hand, the ACE-2-Ang-(1-7)-Mas axis has anti-inflammatory and antifibrotic effects on the respiratory system and anti-inflammatory, antioxidative stress, and protective effects on vascular function, protects against myocardial fibrosis, nephropathy, pancreatitis, and insulin resistance. […] The already strained ACE-2-Ang-(1-7)-Mas in metabolic disorders is further stressed due to the use of the ACE-2 by the virus for entry, which affects the prognosis in terms of respiratory compromise. […] Further evidence needs to be gathered on whether modulation of the renin angiotensin system would be advantageous due to upregulation of Mas activation or harmful due to the concomitant ACE-2 receptor upregulation in the acute management of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32341442&#34; target=&#34;_blank&#34;&gt;32341442&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recently, angiotensin-converting enzyme 2 (ACE2) has been shown to be a functional receptor for SARS-CoV-2 to enter host target cells. […] Given that angiotensin receptor blockers (ARBs) and an ACE inhibitor (ACEI) upregulated ACE2 expression in animal studies, the concern might arise regarding whether ARBs and ACEIs would increase the morbidity and mortality of COVID-19. […] Importantly, however, there is no clinical or experimental evidence supporting that ARBs and ACEIs either augment the susceptibility to SARS-CoV-2 or aggravate the severity and outcomes of COVID-19 at present. […] Until further data are available, it is recommended that ARB and ACEI medications be continued for the treatment of patients with cardiovascular disease and hypertension, especially those at high risk, according to guideline-directed medical therapy based on the currently available evidence.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32343593&#34; target=&#34;_blank&#34;&gt;32343593&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although SARS-CoV-2 may primarily enter the cells of the lungs, the small bowel may also be an important entry or interaction site, as the enterocytes are rich in angiotensin converting enzyme (ACE)-2 receptors. […] The separation of the S-spike into S1 and S2 is essential for the attachment of the virion to both the ACE receptor and the cell membrane.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32344526&#34; target=&#34;_blank&#34;&gt;32344526&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The scientific community has recently focused its attention on angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor 1 (AT1R) inhibitors and their possible benefit/harms for patients infected by Coronavirus disease (COVID-19) who experience pneumonia, but there are still some doubts about the effects of these drugs in this setting.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348052&#34; target=&#34;_blank&#34;&gt;32348052&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE inhibitors and sartans upregulate the expression of angiotensin-converting enzyme 2 (ACE2), the pulmonary receptor for SARS-CoV-2. […] Les AINS pourraient interférer avec le processus de défense face à une infection virale ; ils sont donc plutôt à éviter. […] Les IEC et les sartans modulent l’expression de l’enzyme de conversion de l’angiotensine 2 (ACE2), récepteur pulmonaire du SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32349031&#34; target=&#34;_blank&#34;&gt;32349031&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It’s reported that the entry receptor of SARS-CoV-2 has been confirmed to be angiotensin converting enzymes 2 (ACE2). […] Notably, whether the ACE-related inhibitors or drugs modulated ACE2 activity in affecting with viral activity and disease severity of SARS-CoV-2 is still an open question. […] In this article, we are focusing on the impact of ACE inhibitors (ACEI) and DPP4 inhibitors used on SARS-CoV-2 activity and discussions about those drugs that may be related to infectious condition of COVID-19 diseases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32352535&#34; target=&#34;_blank&#34;&gt;32352535&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mechanistically, SARS-CoV-2, following proteolytic cleavage of its S protein by a serine protease, binds to the transmembrane angiotensin-converting enzyme 2 (ACE2) -a homologue of ACE-to enter type 2 pneumocytes, macrophages, perivascular pericytes, and cardiomyocytes. […] While ACE2 is essential for viral invasion, there is no evidence that ACE inhibitors or angiotensin receptor blockers (ARBs) worsen prognosis. […] Cardiovascular considerations of therapies currently used, including remdesivir, chloroquine, hydroxychloroquine, tocilizumab, ribavirin, interferons, and lopinavir/ritonavir, as well as experimental therapies, such as human recombinant ACE2 (rhACE2), are discussed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32352944&#34; target=&#34;_blank&#34;&gt;32352944&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+S-proteins covering its surface, which bind to the cell receptor - angiotensin converting enzyme 2 (ACE-2) and transmembrane serine protease (TMPRSS2) are important in shaping virus activity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32356252&#34; target=&#34;_blank&#34;&gt;32356252&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE inhibitors and ibuprofen have been suggested to exacerbate the pathogenesis of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32356626&#34; target=&#34;_blank&#34;&gt;32356626&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Concern has been aroused regarding a potential harmful effect of angiotensin-converting-enzyme (ACE) inhibitors and angiotensin-receptor blockers (ARBs) in this clinical context. […] No increased risk of in-hospital death was found to be associated with the use of ACE inhibitors (2.1% vs. […] Our results did not confirm previous concerns regarding a potential harmful association of ACE inhibitors or ARBs with in-hospital death in this clinical context.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32356627&#34; target=&#34;_blank&#34;&gt;32356627&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A potential association between the use of angiotensin-receptor blockers (ARBs) and angiotensin-converting-enzyme (ACE) inhibitors and the risk of coronavirus disease 2019 (Covid-19) has not been well studied. […] The use of ACE inhibitors and ARBs was more common among case patients than among controls, as was the use of other antihypertensive and non-antihypertensive drugs, and case patients had a worse clinical profile. […] Use of ARBs or ACE inhibitors did not show any association with Covid-19 among case patients overall (adjusted odds ratio, 0.95 [95% confidence interval {CI}, 0.86 to 1.05] for ARBs and 0.96 [95% CI, 0.87 to 1.07] for ACE inhibitors) or among patients who had a severe or fatal course of the disease (adjusted odds ratio, 0.83 [95% CI, 0.63 to 1.10] for ARBs and 0.91 [95% CI, 0.69 to 1.21] for ACE inhibitors), and no association between these variables was found according to sex. […] In this large, population-based study, the use of ACE inhibitors and ARBs was more frequent among patients with Covid-19 than among controls because of their higher prevalence of cardiovascular disease. […] However, there was no evidence that ACE inhibitors or ARBs affected the risk of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32356628&#34; target=&#34;_blank&#34;&gt;32356628&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There is concern about the potential of an increased risk related to medications that act on the renin-angiotensin-aldosterone system in patients exposed to coronavirus disease 2019 (Covid-19), because the viral receptor is angiotensin-converting enzyme 2 (ACE2). […] We assessed the relation between previous treatment with ACE inhibitors, angiotensin-receptor blockers, beta-blockers, calcium-channel blockers, or thiazide diuretics and the likelihood of a positive or negative result on Covid-19 testing as well as the likelihood of severe illness (defined as intensive care, mechanical ventilation, or death) among patients who tested positive.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32360608&#34; target=&#34;_blank&#34;&gt;32360608&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The purpose of this article is to review and investigate further the molecular mechanism by which the SARS-CoV2 virus infection proceeds via the formation of a hetero-trimer between its protein S, the ACE2 receptor and the B0AT1 protein, which is the “entry receptor” for the infection process involving membrane fusion (Li et al., 2003). […] Then, using a logical evaluation of viral density that measures the rate at which the cells are hijacked by the virus (and they provide a place for the virus to replicate) and considering the “time delay” given by the interaction between cell and virus, the expected duration of the incubation period is predicted. […] The amino acid sequence of S proein and its interaction with the ACE-2 protein is mimicked with the aid of Hill function.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32364011&#34; target=&#34;_blank&#34;&gt;32364011&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although, captopril is shown to be a potential ligand of 3CL&lt;sup&gt;pro&lt;/sup&gt;, it is not recommended anti-COVID-19 therapy, due to the fact that it can induce the expression of the viral cellular receptor such as, angiotensin-converting enzyme ACE-2, and thus, making the patient potentially more susceptible to infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32364961&#34; target=&#34;_blank&#34;&gt;32364961&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To enter airway and lung epithelia, SARS-CoV-2 attaches to ACE2 receptors by spike (S) glycoproteins. […] Molecular mechanisms that promote interaction between SARS-CoV-2 virus and host with particular focus on virus cell entry receptor ACE2 are described. […] We further explore the impact of underlying medical conditions and therapies including renin-angiotensin inhibitors on modulating ACE 2, which is the major SARS-CoV-2 cell entry receptor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32365180&#34; target=&#34;_blank&#34;&gt;32365180&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The virus invades the target cell by binding to angiotensin-converting enzyme (ACE) 2 and modulates the expression of ACE2 in host cells. […] ACE2, a pivotal component of the renin-angiotensin system, exerts its physiological functions by modulating the levels of angiotensin II (Ang II) and Ang-(1-7). […] We reviewed the literature that reported the distribution and function of ACE2 in the female reproductive system, hoping to clarify the potential harm of 2019-nCoV to female fertility. […] The available evidence suggests that ACE2 is widely expressed in the ovary, uterus, vagina and placenta. […] Ang II, ACE2 and Ang-(1-7) regulate follicle development and ovulation, modulate luteal angiogenesis and degeneration, and also influence the regular changes in endometrial tissue and embryo development. […] Taking these functions into account, 2019-nCoV may disturb the female reproductive functions through regulating ACE2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32369211&#34; target=&#34;_blank&#34;&gt;32369211&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme 2 (ACE2) removes a single residue from Ang I to yield Ang (1-9) and cleaves a single residue from Ang II to generate Ang (1-7). […] Thus ACE2 counterbalances ACE function decreasing Ang II levels&lt;sup&gt;1&lt;/sup&gt; .
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32374416&#34; target=&#34;_blank&#34;&gt;32374416&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The relationship between Renin-Angiotensin system (RAS) and COVID-19 pandemic and, in particular, RAS as part of the CoV-2 infection process via Angiotensin Converting Enzyme 2 (ACE2), the entry point of SARS-CoV-2, has resulted in conflicting suggestions regarding how RAS and its role(s) should inform treating COVID-19. […] ACE inhibitors or angiotensin II (Ang)-type 1 receptor blockers (ARBs), in fact, have been suggested to be avoided as they potentially upregulate ACE2 &lt;sup&gt;1&lt;/sup&gt; and, conversely, there are suggestions that ARBs might be beneficial &lt;sup&gt;2&lt;/sup&gt; as SARS-CoV-2 causing ACE2 downregulation slows the Ang II conversion to the vasodilatory, anti-inflammatory, antioxidant and antiatherosclerotic Ang 1-7 &lt;sup&gt;3-5&lt;/sup&gt; , and the use of ARBs by blocking the excessive Ang II type-1 receptors activation, would be beneficial upregulating ACE2 activity and increasing Ang 1-7 levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32375574&#34; target=&#34;_blank&#34;&gt;32375574&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study demonstrated the putative inhibitory potential of lopinavir, remdesivir, oseltamir, azithromycin, ribavirin, and chloroquine towards V-ATPase, protein kinase A, SARS-CoV spike glycoprotein/ACE-2 complex and viral proteases. […] Lopinavir has the highest binding affinities to the pocket site of SARS-CoV spike glycoprotein/ACE-2 complex, cyclic AMP-dependent protein kinase A and 3-Chymotrypsin like protease while redemsivir has the highest binding affinities for vacuolar proton-translocating ATPase (V-ATPase) and papain-like proteins. […] The amino acids Asp269, Leu370, His374, and His345 were predicted as the key residues for lopinavir binding to human SARS-CoV spike glycoprotein/ACE-2 complex while His378, Tyr515, Leu73, Leu100, Phe32 and Phe40 for remdesivir and Tyr510, Phe504, Met62, Tyr50, and His378 were predicted for azithromycin as the key residues for binding to SARS-CoV spike glycoprotein/ACE-2 complex.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32380453&#34; target=&#34;_blank&#34;&gt;32380453&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since the ACE-2 was expressing on oral cavity mucosa, there is a potentially huge COVID-19 infectious vulnerability risk for oral cavity and brought up a proof for the future prevention procedure in dental practice and daily life.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32387238&#34; target=&#34;_blank&#34;&gt;32387238&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 has a major impact on the Renin Angiotensin Aldosterone System (RAAS), through its binding to the membrane cellular glycoprotein, Angiotensin Converting Enzyme-2 (ACE-2), then infecting cells for replication. […] This report hypothesizes the possible implication of an autoimmune response, induced by generation of allo- or autoantibodies to ACE-2, or to its complexes with viral spike protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32388565&#34; target=&#34;_blank&#34;&gt;32388565&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme 2 (ACE2) is a functional receptor for coronaviruses. […] Higher ACE2 concentrations might lead to increased vulnerability to SARS-CoV-2 in patients on RAAS inhibitors. […] We measured ACE2 concentrations in 1485 men and 537 women with heart failure (index cohort). […] The strongest predictor of elevated concentrations of ACE2 in both cohorts was male sex (estimate = 0.26, P &amp;lt; 0.001; and 0.19, P &amp;lt; 0.001, respectively). […] In the index cohort, use of ACE inhibitors, angiotensin receptor blockers (ARBs), or mineralocorticoid receptor antagonists (MRAs) was not an independent predictor of plasma ACE2. […] In the validation cohort, ACE inhibitor (estimate = -0.17, P = 0.002) and ARB use (estimate = -0.15, P = 0.03) were independent predictors of lower plasma ACE2, while use of an MRA (estimate = 0.11, P = 0.04) was an independent predictor of higher plasma ACE2 concentrations. […] In two independent cohorts of patients with heart failure, plasma concentrations of ACE2 were higher in men than in women, but use of neither an ACE inhibitor nor an ARB was associated with higher plasma ACE2 concentrations. […] These data might explain the higher incidence and fatality rate of COVID-19 in men, but do not support previous reports suggesting that ACE inhibitors or ARBs increase the vulnerability for COVID-19 through increased plasma ACE2 concentrations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32392562&#34; target=&#34;_blank&#34;&gt;32392562&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this review, we provide the latest insights into the roles of angiotensin-converting enzyme II (ACE2) and Ang II receptor-1 (AT1-R) in this disease. […] Novel therapeutic strategies, including recombinant ACE2, ACE inhibitors, AT1-R blockers, and Ang 1-7 peptides, may prevent or reduce viruses-induced pulmonary, cardiac, and renal injuries. […] Furthermore, considering the common role of the Janus kinase-signal transducer and activator of transcription (JAK-STAT) pathway in AT1-R expressed on peripheral tissues and cytokine receptors on the surface of immune cells, potential targeting of this pathway using JAK inhibitors (JAKinibs) is suggested as a promising approach in patients with COVID-19 who are admitted to hospitals. […] In addition to antiviral therapy, potential ACE2- and AT1-R-inhibiting strategies, and other supportive care, we suggest other potential JAKinibs and novel anti-inflammatory combination therapies that affect the JAK-STAT pathway in patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32395474&#34; target=&#34;_blank&#34;&gt;32395474&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme 2 (ACE2) was recently identified to functional receptor of SARS-CoV-2. […] Previous experimental data revealed ACE2 level was increased following treatment with ACE inhibitors (ACEIs) and angiotensin receptor blockers (ARBs). […] Currently doctors concern whether these commonly used renin-angiotensin system (RAS) blockers-ACEIs/ARBs may increase the severity of COVID-19. […] These data suggest ACEIs/ARBs may have few effects on increasing the clinical severe conditions of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32401442&#34; target=&#34;_blank&#34;&gt;32401442&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE2 is not only an enzyme that counters the effects of the renin-angiotensin-aldosterone system (RAAS) but is also the entry receptor for SARS-CoV-2, the virus of the Covid-19 pandemic. […] Some experimental data suggest that ACE inhibitors and ARBs increase ACE2 levels, thus raising concerns on their security in Covid-19 positive patients. […] L’enzyme de conversion de l’angiotensine ACE2 est le récepteur membranaire du virus SARS-CoV-2, permettant son entrée dans les cellules cibles. […] ACE2 est également une enzyme qui contrebalance les effets de l’axe classique angiotensine II et récepteur AT1 du système rénine-angiotensine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32401844&#34; target=&#34;_blank&#34;&gt;32401844&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition, the virus uses angiotensin-converting enzyme (ACE) receptors, more precisely ACE2, to penetrate the cell; therefore, the use of ACE inhibitor drugs and angiotensin receptor blockers could cause an increase in these receptors, thus facilitating the entry of the virus into the cell.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32404898&#34; target=&#34;_blank&#34;&gt;32404898&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Similarly, despite the recognition of angiotensin converting enzyme 2 (ACE2) as the receptor for severe acute respiratory syndrome coronavirus 2 (SARS CoV-2), and the role of ACE2 in lung injury; there are conflicting results with the use of angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARB) in these patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405156&#34; target=&#34;_blank&#34;&gt;32405156&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CLQ-OH molecules are shown to saturate virus attachment sites on gangliosides in the vicinity of the primary coronavirus receptor, angiotensin-converting enzyme-2 (ACE-2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405183&#34; target=&#34;_blank&#34;&gt;32405183&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These are postulated to be related to the virus’s use of ACE-2 receptors located on certain intestinal cells, cholangiocytes, and hepatocytes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405877&#34; target=&#34;_blank&#34;&gt;32405877&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme 2 (ACE2) is a co-receptor for SARS-CoV-2, and studies thus far have not concluded a benefit or risk associated with the use of either ACE-inhibitors or angiotensin receptor antagonists.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32409498&#34; target=&#34;_blank&#34;&gt;32409498&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Clinical outcomes of those who use an ACE inhibitor (ACEI) or angiotensin II type-I receptor blocker (ARB) were comparable with those of patients who do not use ACEI/ARB among patients with diabetes and hypertension who have COVID-19. […] ACEI/ARB use showed no significant impact on patients with diabetes and hypertension who have COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32410003&#34; target=&#34;_blank&#34;&gt;32410003&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The expression of primary target receptor for SARS-CoV-2, i.e. angiotensin converting enzyme-2 (ACE-2), decreases with age. […] ACE-2 has lung protective effects by limiting angiotensin-2 mediated pulmonary capillary leak and inflammation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32414711&#34; target=&#34;_blank&#34;&gt;32414711&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The SARS-CoV-2 virus enters the cell via ACE2. […] ACE2 is a component of the renin-angiotensin system (RAS) which has an important counterregulatory effect on the classical ACE-dependent pathway. […] Several antihypertensives increase ACE2 expression or activity, leading to concern that this may facilitate SARS-CoV-2 entry and worsen COVID-19 disease. […] However, ACE2 is protective against lung injury while ANG II (which is catabolised by ACE2) is associated with lung injury both in mice and humans. […] We propose that medications which inhibit the RAS ACE-dependent pathway may be beneficial in treating COVID-19 and should be explored in animal models and clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32417709&#34; target=&#34;_blank&#34;&gt;32417709&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This is a narrative mini-review with Pubmed search until April 23, 2020 using the keywords COVID-19, SARS-CoV-2, treatment of coronavirus and following terms: diabetes mellitus, obesity, arterial hypertension, ACE-inhibitors, cytokine storm, immune response and vitamin D. […] Hypertensive individuals, usually grouped with other conditions, are treated with drugs to reduce blood pressure mostly through ACEi and ARB, that leads to increased ACE2 expression, used by SARS-CoV-2 for human’s cell entry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32418199&#34; target=&#34;_blank&#34;&gt;32418199&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme-2 (ACE2) has been established as the functional host receptor for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus responsible for the current devastating worldwide pandemic of coronavirus disease 2019 (COVID-19). […] ACE2 is abundantly expressed in a variety of cells residing in many different human organs. […] In human physiology, ACE2 is a pivotal counter-regulatory enzyme to ACE by the breakdown of angiotensin II, the central player in the renin-angiotensin-aldosterone system (RAAS) and the main substrate of ACE2. […] Many factors have been associated with both altered ACE2 expression and COVID-19 severity and progression, including age, sex, ethnicity, medication and several co-morbidities, such as cardiovascular disease and metabolic syndrome. […] Although ACE2 is widely distributed in various human tissues and many of its determinants have been well recognised, ACE2-expressing organs do not equally participate in COVID-19 pathophysiology, implying that other mechanisms are involved in orchestrating cellular infection resulting in tissue damage. […] Reports of pathologic findings in tissue specimens of COVID-19 patients are rapidly emerging and confirm the established role of ACE2 expression and activity in disease pathogenesis. […] In this review, we describe the role of ACE2 in COVID-19 pathophysiology, including factors influencing ACE2 expression and activity in relation to COVID-19 severity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32418532&#34; target=&#34;_blank&#34;&gt;32418532&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recently, SARS-CoV-2 [8, 9], the causative agent of COVID-19, has been described to interfere with the RAS [2] by interacting -via its spike (S) glycoprotein- with the metallopeptidase Angiotensin-Converting Enzyme 2 (ACE2) receptor [9, 10] that is expressed at the surface of epithelial cells from blood vessels, lung, kidney (renal tubules), intestine, and heart, as well as on cerebral neurons and immune monocytes/macrophages [11-13]. […] The latter is cleaved by the Angiotensin-Converting Enzyme (ACE) to produce Angiotensin II (i.e. peptide DRVYIHPF), which is the substrate of ACE2 (SARS-CoV-2 receptor) and key player of the RAS. […] The cellular targets of Angiotensin II are the vasoconstrictor type 1 (AT1R) and vasodilatator type 2 (AT2R) Angiotensin II receptors (AT1R is expressed at the surface of monocytes/macrophages and T-cells indicating that RAS acts on innate immunity in host). […] When cleaved by ACE2, Angiotensin II gives Angiotensin 1-7 (i.e. peptide DRVYIHP), targeting the vasodilatator proto-oncogene Mas receptor (MasR). […] Angiotensin II can produce Angiotensin A (i.e. peptide ARVYIHPF) via an aspartate decarboxylase, and Alamandine via an additional ACE2 cleavage. […] ACE2 can also cleave Angiotensin I to form Angiotensin 1-9 (i.e. peptide DRVYIHPFH), which targets AT2R. […] Interestingly, it appears that a ‘counter-regulatory’ RAS does exist to modulate system homeostasis; it relies on Angiotensin 1-7, Angiotensin 1-9, Alamandine, Angiotensin A, and Angiotensin IV, which are targeting the MasR, AT2R, MRGD, ACE2 and AT4R vasodilatator receptors, respectively. […] It appears that COVID-19 disorders of SARS-CoV-2-infected humans depend on the RAS over-reacted by the (ACE2-dependent) viral infection and vitamin D deficiency. […] The proposed molecules are (so far) ACE inhibitors (to prevent the production of Angiotensin II from Angiotensin I), and blockers/antagonists of AT1R such as Losartan and derivatives. […] Recombinant ACE2 (under clinical trials) is also considered as a decoy for the recognition and competitive binding to the spike (S) glycoprotein of SARS-CoV-2 [9, 10]. […] The targeted receptors would thus be MasR, AT2R, MRGD, ACE2 and AT4R.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32423095&#34; target=&#34;_blank&#34;&gt;32423095&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;&lt;i&gt;Background&lt;/i&gt;: Combating viral disease outbreaks has doubtlessly been one of the major public health challenges for the 21st century. (2) &lt;i&gt;Methods&lt;/i&gt;: The host entry machinery required for COVID-19 (SARS-CoV-2) infection was examined for the gene expression profiles and polymorphism. (3) &lt;i&gt;Results&lt;/i&gt;: Lung, kidney, small intestine, and salivary glands were among the tissues which expressed the entry machinery coding genes &lt;i&gt;Ace&lt;/i&gt;2, &lt;i&gt;Tmprss&lt;/i&gt;2, &lt;i&gt;Cts&lt;/i&gt;B, and &lt;i&gt;Cts&lt;/i&gt;L. […] The four human population groups of Europeans, Africans, Asians, and Americans had specific and also a common pool of rare variants for the X-linked locus of ACE2 receptor. […] Several specific and common ACE2 variants including S19P, I21T/V, E23K, A25T, K26R, T27A, E35D/K, E37K, Y50F, N51D/S, M62V, N64K, K68E, F72V, E75G, M82I, T92I, Q102P, G220S, H239Q, G326E, E329G, G352V, D355N, H378R, Q388L, P389H, E467K, H505R, R514G/*, and Y515C were of the utmost importance to the viral entry and infection. […] Most interestingly, the analyses revealed that more than half of the variants can exist in males, i.e., as hemizygous. (4) &lt;i&gt;Conclusions&lt;/i&gt;: The rare variants of human ACE2 seem to be one of the determinant factors associated with fitness in the battle against SARS viruses. […] The hemizygous viral-entry booster variants of ACE2 describe the higher SARS-CoV-2 mortality rate in males.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32423553&#34; target=&#34;_blank&#34;&gt;32423553&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme (ACE) and its homologue, ACE2, have been mostly associated with hypertensive disorder. […] However, recent pandemia of SARS-CoV-2 has put these proteins at the center of attention, as this virus has been shown to exploit ACE2 protein to enter cells. […] Different levels of expression and function of ACE proteins, underlying disorders, consumption of certain medications and the existence of certain genomic variants within ACE genes are possible explanations for the observed difference in the response of individuals to the SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32428113&#34; target=&#34;_blank&#34;&gt;32428113&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Toward this, we raise two main &amp;lt;/mac_aq&amp;gt;points, i) increased ACE-2 expression in pulmonary and heart tissues in users of chronic angiotensin 1 &amp;lt;/mac_aq&amp;gt;receptor (AT1R) blockers; and ii) antibody-dependent enhancement (ADE) after previous exposure to other circulating coronaviruses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32430651&#34; target=&#34;_blank&#34;&gt;32430651&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 is characterized by a spike protein allowing viral binding to the angiotensin-converting enzyme (ACE)-2, which acts as a viral receptor and is expressed on the surface of several pulmonary and extra-pulmonary cell types, including cardiac, renal, intestinal and endothelial cells. […] In clinical practice, angiotensin-converting enzyme inhibitors (ACE-Is) and angiotensin II receptor blockers (ARBs) are extensively used for the treatment of hypertension and other cardiovascular diseases. […] In in vivo studies, ACE-Is and ARBs seem to paradoxically increase ACE-2 expression, which could favour SARS-CoV-2 infection of host’s cells and tissues. […] By contrast, in patients treated with ACE-Is and ARBs, ACE-2 shows a downregulation at the mRNA and protein levels in kidney and cardiac tissues. […] Yet, it has been claimed that both ARBs and ACE-Is could result potentially useful in the clinical course of SARS-CoV-2-infected patients. […] Older COVID-19-affected patients with cardiovascular comorbidities exhibit a more severe clinical course and a worse prognosis, with many of them being also treated with ARBs or ACE-Is. […] Another confounding factor is cigarette smoking, which has been reported to increase ACE-2 expression in both experimental models and humans. […] Sex also plays a role, with chromosome X harbouring the gene coding for ACE-2, which is one of the possible explanations of why mortality in female patients is lower. […] Despite the relevance of experimental animal studies, to comprehensively address the question of the potential hazards or benefits of ACE-Is and ARBs on the clinical course of COVID-19-affected patients treated by these anti-hypertensive drugs, we will need randomized human studies. […] We claim the need of adequately powered, prospective studies aimed at answering the following questions of paramount importance for cardiovascular, internal and emergency medicine: Do ACE-Is and ARBs exert similar or different effects on infection or disease course? […] Since ACE-Is and ARBs have different molecular targets, the clinical course of SARS-CoV-2 infection could be also different in patients treated by one or the other of these two drug classes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32435607&#34; target=&#34;_blank&#34;&gt;32435607&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We aim to explore the potential role of angiotensin-converting enzyme 2 (ACE2) in this regard through this literature review. […] As a crucial enzyme of renin-angiotensin-aldosterone system (RAAS), ACE2 not only mediates the virus entry but also affects the pathophysiological process of virus-induced acute lung injury (ALI), as well as other organs’ damage. […] As interaction of COVID-19 virus spike and ACE2 is essential for virus infection, COVID-19-specific vaccine based on spike protein, small molecule compound interrupting their interaction, human monoclonal antibody based on receptor-binding domain, and recombinant human ACE2 protein (rhuACE2) have aroused the interests of researchers. […] Meanwhile, ACE2 could catalyze angiotensin II (Ang II) to form angiotensin 1-7 (Ang 1-7), thus alleviates the harmful effect of Ang II and amplifies the protection effect of Ang1-7. […] ACE inhibitor and angiotensin II receptor blocker (ARB) have been shown to increase the level of expression of ACE2 and could be potential strategies in protecting lungs, heart, and kidneys. […] ACE2 plays a very important role in the pathogenesis and pathophysiology of COVID-19 infection. […] Strategies targeting ACE2 and its ligand, COVID-19 virus spike protein, may provide novel method in the prevention and management of novel coronavirus pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32442082&#34; target=&#34;_blank&#34;&gt;32442082&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 penetrates via human angiotensin-converting enzyme-2 receptor (ACE-2) that was also utilized by severe acute respiratory syndrome coronavirus (SARS CoV) [3]. […] Glial cells and neurons have been reported to express ACE-2 receptors, which make them a potential target of COVID-19. […] Thus, dementia researchers and pharmaceutical companies should determine an emergency action plan to exit the chaos of this pandemic. […] The closing of universities may lead to data loss, death of expensive transgenic animals, international researchers to be faced with visa problems, and be lost the laboratory staff whose contract has expired [7]. […] It is also known that movement restriction exacerbates AD symptoms [10]. […] Therefore, a collective action plan protecting dementia research during the COVID-19 outbreak should be prepared by a consortium of pharmaceutical companies, researchers, clinicians, and patients. […] For example, research funders and pharmaceutical companies can extend project deadlines and provide an additional promotion to the researchers who have completed their clinic trails.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32447007&#34; target=&#34;_blank&#34;&gt;32447007&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chronic exposure to air pollutants have been associated with lung ACE-2 over-expression which is known to be the main receptor for SARS-coV2. […] From the data available we propose a “double-hit hypothesis”: chronic exposure to PM 2.5 causes alveolar ACE-2 receptor overexpression. […] This may increase viral load in patients exposed to pollutants in turn depleting ACE-2 receptors and impairing host defences. […] High atmospheric NO2 may provide a second hit causing a severe form of SARS-CoV-19 in ACE-2 depleted lungs resulting in a worse outcome.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32447629&#34; target=&#34;_blank&#34;&gt;32447629&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Concern about the appropriate role of nonsteroidal anti-inflammatory drugs (NSAIDs) in COVID-19 speculate that NSAIDs, in particular ibuprofen, may upregulate the entry point for the virus, the angiotensin-converting enzyme (ACE) 2 receptors and increase susceptibility to the virus or worsen symptoms in existing disease. […] The Expert Working Group on the Commission of Human Medicines in the UK and other organizations have stated that there is insufficient evidence to establish a link between ibuprofen and susceptibility to or exacerbation of COVID-19. […] Paracetamol (acetaminophen) has been proposed as an alternative to NSAIDs but there are issues with liver toxicity at high doses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32447630&#34; target=&#34;_blank&#34;&gt;32447630&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The spike proteins of both viruses dictate tissue tropism using the angiotensin-converting enzyme type 2 (ACE-2) receptor to bind to cells. […] The ACE-2 receptor can be found in nervous system tissue and endothelial cells among the tissues of many other organs.Neurological complications have been observed with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32448098&#34; target=&#34;_blank&#34;&gt;32448098&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The binding of SARS-CoV (CoV) spike protein (S-Protein) Receptor Binding Domain (RBD) to Angiotensin converting enzyme 2 (ACE 2) receptor initiates the entry of corona virus into the host cells leading to the infection. […] The present study was designed to elucidate the structural changes, hot spot binding residues and their interactions between the nCoV S-protein RBD and ACE2 receptor through computational approaches. […] The nCoV RBD was found binding to ACE2 receptor with 11 hydrogen bonds and 1 salt bridge. […] The major hot spot amino acids involved in the binding identified by interaction analysis after simulations includes Glu 35, Tyr 83, Asp 38, Lys 31, Glu 37, His 34 amino acid residues of ACE2 receptor and Gln 493, Gln 498, Asn 487, Tyr 505 and Lys 417 residues in nCoV S-protein RBD. […] Based on the hydrogen bonding, RMSD and RMSF, total and potential energies, the nCoV was found binding to ACE 2 receptor with higher stability and rigidity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32449034&#34; target=&#34;_blank&#34;&gt;32449034&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, the expression of ACE-2 receptors in absorptive enterocytes from ileum and colon suggests that these organs should also be considered as a potential high risk for SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32450906&#34; target=&#34;_blank&#34;&gt;32450906&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We discuss potential sex-specific mechanisms modulating the course of disease, such as hormone-regulated expression of genes encoding for the severe acute respiratory syndrome coronavirus 2 (SARS-CoV2) entry receptors angiotensin converting enzyme (ACE) 2 receptor and TMPRSS2 as well as sex hormone-driven innate and adaptive immune responses and immunoaging.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32468052&#34; target=&#34;_blank&#34;&gt;32468052&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS‑CoV‑2 infection of host cells is facilitated by the angiotensin‑converting enzyme 2 (ACE‑2), and by transmembrane protease serine 2 (TMPRSS2) and other host cell proteases such as cathepsin L (CTSL). […] With the exception of ACE‑2, a systematic analysis of these two other SARS‑CoV2 infection mediators in malignancies is lacking.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32469114&#34; target=&#34;_blank&#34;&gt;32469114&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE-related carboxypeptidase (ACE2), a monocarboxypeptidase that had been discovered 20 years ago, is one of the catalytically most potent enzymes known to degrade Ang II to Ang-(1-7), a peptide that is increasingly accepted to have organ -protective properties that oppose and counterbalance those of Ang II. […] In addition to its role as a RAS enzyme ACE2 is the main receptor for SARS-CoV-2. […] In this review, we discuss various strategies that have been used to achieve amplification of ACE2 activity including the potential therapeutic potential of soluble recombinant ACE2 protein and novel shorter ACE2 variants.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32472989&#34; target=&#34;_blank&#34;&gt;32472989&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A great interest is currently directed towards the angiotensin 2 converting enzyme (ACE 2) which is the SARS-CoV-2 receptor and creates important connections between the virus replication pathway, the cardiovascular system and blood pressure. […] All cardiovascular conditions share an imbalance of the renin angiotensin system (RAAS) in which ACE 2 plays a central role. […] In the last few days, much confusion has appeared about the management of therapy with angiotensin converting enzyme inhibitors (ACE-i) and angiotensin receptor blockers (ARBs) in infected patients and in those at risk of critical illness in case of infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32472991&#34; target=&#34;_blank&#34;&gt;32472991&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, we highlight the relationship between the virus, enzyme ACE2 and ACE inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;/table&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr /&gt;
 &lt;/div&gt;
 </description>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/umifenovir/</link>
+      <atom:link href="/drugpanel/umifenovir/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/umifenovir/</link>
+    </image>
+    
+    <item>
+      <title>UMIFENOVIR</title>
+      <link>/drugpanel/umifenovir/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/umifenovir/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db13609&#39; target=&#39;_blank&#39;&gt;db13609&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
+Synonymous :umifenovir
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 80 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32297571&#34; target=&#34;_blank&#34;&gt;32297571&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Inaddition, remdesivir, which has been previously administered to Ebola virus patients, has alsoproven effective in the U.S. against coronavirus, while antimalarial chloroquine and hydroxy-chloroquine, favipiravir and co-administered darunavir and umifenovir (in patient therapies)were also recently recorded as having anti-SARS-CoV-2 effects.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32324898&#34; target=&#34;_blank&#34;&gt;32324898&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The ADR could be explained by the use of lopinavir/ ritonavir and umifenovir by 63.8% and 18.1%, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32344167&#34; target=&#34;_blank&#34;&gt;32344167&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Umifenovir (Arbidol®) is an antiviral drug being used to treat influenza in Russia and China. […] This study aimed to investigate the effectiveness and safety of umifenovir for COVID-19. […] The confirmed patients were divided into the umifenovir group and the control group according to the use of umifenovir. […] A total of 81 COVID-19 patients were included, with 45 in the umifenovir group and 36 in the control group. […] Thirty-three out of 45 (73%) patients in the umifenovir group tested negative for SARS-CoV-2 within 7 days after admission, the number was 28/36 (78%) in the control group (p 0.19). […] The median time from onset of symptoms to SARS-CoV-2 turning negative was 18 days (interquartile range (IQR) 12-21) in the umifenovir group and 16 days (IQR 11-21) in the control group (p 0.42). […] Patients in the umifenovir group had a longer hospital stay than patients in the control group (13 days (IQR 9-17) vs 11 days (IQR 9-14), p 0.04). […] Umifenovir might not improve the prognosis or accelerate SARS-CoV-2 clearance in non-ICU patients. […] A randomized control clinical trial is needed to assess the efficacy of umifenovir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32360231&#34; target=&#34;_blank&#34;&gt;32360231&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This article reports the potential drug target and mechanism of action of Arbidol (umifenovir) to treat coronavirus disease 2019 (COVID-19).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32393381&#34; target=&#34;_blank&#34;&gt;32393381&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Arbidol (Umifenovir; an anti-influza drug; 69.2%) was the drug most commonly used to target infection in mild and moderate symptoms.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32395418&#34; target=&#34;_blank&#34;&gt;32395418&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These drugs and therapeutic agents include antiviral agents (remdesivir, hydroxychloroquine, chloroquine, lopinavir, umifenovir, favipiravir, and oseltamivir), and supporting agents (Ascorbic acid, Azithromycin, Corticosteroids, Nitric oxide, IL-6 antagonists), among others.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405421&#34; target=&#34;_blank&#34;&gt;32405421&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Comparator drugs were oseltamivir, umifenovir, lopinavir/ritonavir or placebo.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

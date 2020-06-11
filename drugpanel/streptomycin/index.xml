@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01082&#39; target=&#39;_blank&#39;&gt;db01082&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=streptomycin&#34; target=&#34;_blank&#34;&gt;streptomycin&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=chloroquine&#34; target=&#34;_blank&#34;&gt;chloroquine&lt;/a&gt; &lt;br&gt;
 Synonymous :2,4-diguanidino-3,5,6-trihydroxycyclohexyl 5-deoxy-2-o-(2-deoxy-2-methylamino-alpha-l-glucopyranosyl)-3-c-formyl-beta-l-lyxopentanofuranoside | estreptomicina | streptomicina | streptomycin | streptomyzin
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :2,4-diguanidino-3,5,6-trihydroxycyclohexyl 5-deoxy-2-o-(2-deoxy-2-me
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;streptomycin&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;chloroquine&lt;/em&gt; gene in 158 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,10 +49,26 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32283308
+&lt;a href=&#34;/publication/32283308&#34; target=&#34;_blank&#34;&gt;32283308&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 To collect the SARS-CoV-2 particles, ten air samples were collected into the sterile standard midget impingers containing 20 mL DMEM with 100 μg/mL streptomycin, 100 U/mL penicillin and 1% antifoam reagent for 1 h.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32315171&#34; target=&#34;_blank&#34;&gt;32315171&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Streptomycin, another antibiotic and a charged molecule, also demonstrates some inhibitory effect, even though the predicted binding free energy of the charged form (-3.8 kcal/mol) is not nearly as low as that of the neutral form (-7.9 kcal/mol).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32361715&#34; target=&#34;_blank&#34;&gt;32361715&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+When during the Medical Research Council’s randomized trial of streptomycin, one senior physician contracted tuberculosis, the Medical Research Council obtained supplies for him outside the trial.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

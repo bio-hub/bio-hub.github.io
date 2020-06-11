@@ -5,12 +5,44 @@
     <link>/author/christian-drosten/</link>
       <atom:link href="/author/christian-drosten/index.xml" rel="self" type="application/rss+xml" />
     <description>Christian Drosten</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 08 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Christian Drosten</title>
       <link>/author/christian-drosten/</link>
     </image>
+    
+    <item>
+      <title>Comparative pathogenesis of COVID-19, MERS, and SARS in a nonhuman primate model.</title>
+      <link>/publication/32303590/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32303590/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 asymptomatic and symptomatic patients and risk for transfusion transmission.</title>
+      <link>/publication/32361996/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32361996/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of a COVID-19 outbreak in Germany resulting from a single travel-associated primary case: a case series.</title>
+      <link>/publication/32422201/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32422201/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid reconstruction of SARS-CoV-2 using a synthetic genomics platform.</title>
+      <link>/publication/32365353/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32365353/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Severe Acute Respiratory Syndrome Coronavirus 2-Specific Antibody Responses in Coronavirus Disease 2019 Patients.</title>

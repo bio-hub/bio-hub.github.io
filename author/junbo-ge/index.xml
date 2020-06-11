@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junbo Ge | PlatCOVID</title>
+    <link>/author/junbo-ge/</link>
+      <atom:link href="/author/junbo-ge/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junbo Ge</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Junbo Ge</title>
+      <link>/author/junbo-ge/</link>
+    </image>
+    
+    <item>
+      <title>The effect of RAS blockers on the clinical characteristics of COVID-19 patients with hypertension.</title>
+      <link>/publication/32395474/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32395474/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Consensus of Chinese experts on diagnosis and treatment processes of acute myocardial infarction in the context of prevention and control of COVID-19 (first edition)].</title>
+      <link>/publication/32376532/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32376532/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific research progress of COVID-19/SARS-CoV-2 in the first five months.</title>
+      <link>/publication/32320516/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32320516/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

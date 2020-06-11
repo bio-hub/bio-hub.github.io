@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jorge X Velasco-Hernandez | PlatCOVID</title>
+    <link>/author/jorge-x-velasco-hernandez/</link>
+      <atom:link href="/author/jorge-x-velasco-hernandez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jorge X Velasco-Hernandez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Jorge X Velasco-Hernandez</title>
+      <link>/author/jorge-x-velasco-hernandez/</link>
+    </image>
+    
+    <item>
+      <title>Modeling behavioral change and COVID-19 containment in Mexico: A trade-off between lockdown and compliance.</title>
+      <link>/publication/32387384/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32387384/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gerard Nau | PlatCOVID</title>
+    <link>/author/gerard-nau/</link>
+      <atom:link href="/author/gerard-nau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gerard Nau</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Gerard Nau</title>
+      <link>/author/gerard-nau/</link>
+    </image>
+    
+    <item>
+      <title>Androgen sensitivity gateway to COVID-19 disease severity.</title>
+      <link>/publication/32412125/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32412125/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

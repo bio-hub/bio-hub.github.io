@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00898&#39; target=&#39;_blank&#39;&gt;db00898&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ethanol&#34; target=&#34;_blank&#34;&gt;ethanol&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
 Synonymous :1-hydroxyethane | alcohol | alcohol (ethyl) | alcohol anhydrous | alcohol denatured | alcohol etílico | alcohol, denatured | alcool éthylique | alkohol | äthanol | äthylalkohol | dehydrated ethanol | etanol | éthanol | ethyl alcohol | grain alcohol | hydroxyethane | methylcarbinol | spiritus vini
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :1-hydroxyethane | alcohol | alcohol (ethyl) | alcohol anhydrous | al
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ethanol&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 80 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32035997
+&lt;a href=&#34;/publication/32035997&#34; target=&#34;_blank&#34;&gt;32035997&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The analysis of 22 studies reveals that human coronaviruses such as Severe Acute Respiratory Syndrome (SARS) coronavirus, Middle East Respiratory Syndrome (MERS) coronavirus or endemic human coronaviruses (HCoV) can persist on inanimate surfaces like metal, glass or plastic for up to 9 days, but can be efficiently inactivated by surface disinfection procedures with 62-71% ethanol, 0.5% hydrogen peroxide or 0.1% sodium hypochlorite within 1 minute.
@@ -57,10 +57,50 @@ The analysis of 22 studies reveals that human coronaviruses such as Severe Acute
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32116147
+&lt;a href=&#34;/publication/32116147&#34; target=&#34;_blank&#34;&gt;32116147&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Using data obtained from similar coronaviruses, e.g. severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS), experts are confident that 70% ethanol and 0.1% sodium hypochlorite should inactivate the virus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32376593&#34; target=&#34;_blank&#34;&gt;32376593&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We collected clinical blood samples from voriconazole-treated patients in heparinized tubes and sterilized the surface of the tubes with 75% ethanol. […] Heat inactivation of the samples was carried out at 56 ℃ for 30 min followed by protein precipitation with acetonitrile or ethanol. […] Sample preparation with acetonitrile or ethanol resulted in a high mean recovery (100.56% or 95.90%) with minimal mean matrix effect (102.85% or 93.62%). […] Heat inactivation at 56 ℃ for 30 min combined with ethanol sample preparation only has limited effects to affect LC-MS-based voriconazole concentration measurement in whole blood samples collected in heparinized tubes, and can be used for therapeutic drug monitoring of voriconazole during the ongoing COVID-19 pandemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32379368&#34; target=&#34;_blank&#34;&gt;32379368&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+During detailed inquiry the patient reported, she had intentionally taken 10 ml of Ethanol-containing hand disinfectant orally per diem for a period of over three weeks in fear of being infected with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32380210&#34; target=&#34;_blank&#34;&gt;32380210&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Collected samples of nasopharyngeal swabs from 2 patients diagnosed with COVID-19 at the First People’s Hospital of Zhaoqing City, each of sample was divided into 5 groups (groupA∼E): A:Non-inactivated raw sample; B:75 % ethanol inactivation; C:56 ℃ incubation for 30 min inactivation; D:65 ℃ incubation for 10 min inactivation; E:Pre-inactivation using RNA virus special preservation fluid added into the sampling tube to treated the nasopharyngeal swab sample separately, using real-time fluorescent RT-PCR to detect the N gene of COVID-19 and the ORF1ab gene simultaneously.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32400852&#34; target=&#34;_blank&#34;&gt;32400852&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In view of the increase in the use of ethanol-containing hand sanitizers throughout the world due to the current COVID-19 pandemic, we wished to review the possible risks to patients treated with disulfiram, following a case report in which an apparent DER (disulfiram-ethanol reaction) was attributed to the cutaneous absorption of alcohol from hand sanitizers as well as by inhalation of vapour.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32459621&#34; target=&#34;_blank&#34;&gt;32459621&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As a result of the coronavirus disease pandemic, commercial hand hygiene products have become scarce and World Health Organization (WHO) alcohol-based hand rub formulations containing ethanol or isopropanol are being produced for hospitals worldwide. […] Contrary to the originally proposed WHO hand rub formulations, both modified formulations are appropriate for surgical hand preparation after 3 minutes when alcohol concentrations of 80% wt/wt ethanol or 75% wt/wt isopropanol along with reduced glycerol concentration (0.5%) are used.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

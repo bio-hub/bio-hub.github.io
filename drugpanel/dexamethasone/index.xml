@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/dexamethasone/</link>
+      <atom:link href="/drugpanel/dexamethasone/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/dexamethasone/</link>
+    </image>
+    
+    <item>
+      <title>DEXAMETHASONE</title>
+      <link>/drugpanel/dexamethasone/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/dexamethasone/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01234&#39; target=&#39;_blank&#39;&gt;db01234&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
+Synonymous :1-dehydro-16alpha-methyl-9alpha-fluorohydrocortisone | 1-dehydro-16α-methyl-9α-fluorohydrocortisone | 16alpha-methyl-9alpha-fluoro-1-dehydrocortisol | 16α-methyl-9α-fluoro-1-dehydrocortisol | 9alpha-fluoro-16alpha-methylprednisolone | 9α-fluoro-16α-methylprednisolone | dexametasona | dexaméthasone | dexamethasone | dexamethasonum
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 343 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32305989&#34; target=&#34;_blank&#34;&gt;32305989&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For standard-risk patients, we recommend the following: ixazomib, lenalidomide, and dexamethasone (IRd) (preferred), cyclophosphamide lenalidomide and dexamethasone (CRd), daratumumab lenalidomide and dexamethasone (DRd), lenalidomide, bortezomib, and dexamethasone (RVd), or cyclophosphamide, bortezomib, and dexamethasone (CyBorD). […] For high-risk patients we recommend carfilzomib, lenalidomide, and dexamethasone (KRd) (preferred) or RVd. […] Decreasing the dose of dexamethasone to 20 mg and giving bortezomib subcutaneously once a week is recommended.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32444866&#34; target=&#34;_blank&#34;&gt;32444866&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Oral agent-based regimens should be considered, especially for the elderly and frail patients with standard risk disease, whereas de-intensified regimens for dexamethasone, bortezomib, carfilzomib and daratumumab should be used based on patient risk and response.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

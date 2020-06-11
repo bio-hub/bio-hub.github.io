@@ -26,7 +26,7 @@
 &lt;h2&gt;Cell Sentence Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;Leydig&lt;/em&gt; tissue in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;Leydig&lt;/em&gt; tissue in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -42,10 +42,18 @@ Senteces
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32283711
+&lt;a href=&#34;/publication/32283711&#34; target=&#34;_blank&#34;&gt;32283711&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The results indicate that ACE2 is predominantly enriched in spermatogonia and Leydig and Sertoli cells. […] Cell-cell junction and immunity-related GO terms are increased in ACE2-positive Leydig and Sertoli cells, but mitochondria and reproduction-related GO terms are decreased.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32436229&#34; target=&#34;_blank&#34;&gt;32436229&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It was found that ACE2, Angiotensin (1-7) and its MAS receptors are present, over in the lung, also in the testicles, in particular in Leydig and Sertoli cells. […] The inflammatory cells could interfere with the function of Leydig and Sertoli cells.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

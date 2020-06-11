@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/114548&#34; target=&#34;_blank&#34;&gt;114548&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=114548&#34; target=&#34;_blank&#34;&gt; 1q44&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/614521&#39; target=&#39;_blank&#39;&gt;614521&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/601626&#39; target=&#39;_blank&#39;&gt;601626&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/600880&#39; target=&#39;_blank&#39;&gt;600880&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/263300&#39; target=&#39;_blank&#39;&gt;263300&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/254450&#39; target=&#39;_blank&#39;&gt;254450&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/147796&#39; target=&#39;_blank&#39;&gt;147796&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/133100&#39; target=&#39;_blank&#39;&gt;133100&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/617772&#39; target=&#39;_blank&#39;&gt;617772&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/607115&#39; target=&#39;_blank&#39;&gt;607115&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/606416&#39; target=&#39;_blank&#39;&gt;606416&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/191900&#39; target=&#39;_blank&#39;&gt;191900&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/148200&#39; target=&#39;_blank&#39;&gt;148200&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/120100&#39; target=&#39;_blank&#39;&gt;120100&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -794,7 +794,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of NLRP3 gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of NLRP3 gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -810,10 +810,34 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32251729
+&lt;a href=&#34;/publication/32251729&#34; target=&#34;_blank&#34;&gt;32251729&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Among its potential mechanisms of action is the non-selective inhibition of NLRP3 inflammasome which is thought to be a major pathophysiologic component in the clinical course of patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32365944&#34; target=&#34;_blank&#34;&gt;32365944&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Moreover, SUD-MC actuated NOD-, LRR- and pyrin domain-containing protein 3 (NLRP3) inflammasome-dependent pulmonary inflammation, as confirmed by the NLRP3 inflammasome inhibitor and the NLRP3&lt;sup&gt;-/-&lt;/sup&gt; mouse model. […] This study demonstrated that SARS-CoV SUD modulated NLRP3 inflammasome-dependent CXCL10-mediated pulmonary inflammation, providing the potential therapeutic targets for developing the antiviral agents.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32430627&#34; target=&#34;_blank&#34;&gt;32430627&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We will focus on aging, cytokine storm, NLRP3/inflammasome, hypoxemia, and air pollution, which is an emerging cardiovascular risk factor associated with rapid urbanization and globalization.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32459524&#34; target=&#34;_blank&#34;&gt;32459524&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The production of increased amounts of cytokines such as TNF-α, IL-1, IL-6 and MCP-1 lead to oxidative stress and defective function of innate and adaptive immunity, while the activation of NLRP3 inflammasome seems to play a crucial role in the pathogenesis of the infection.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

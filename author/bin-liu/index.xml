@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bin Liu | PlatCOVID</title>
+    <link>/author/bin-liu/</link>
+      <atom:link href="/author/bin-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bin Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Bin Liu</title>
+      <link>/author/bin-liu/</link>
+    </image>
+    
+    <item>
+      <title>Liu Shen capsule shows antiviral and anti-inflammatory abilities against novel coronavirus SARS-CoV-2 via suppression of NF-κB signaling pathway.</title>
+      <link>/publication/32360580/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32360580/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coronavirus Disease 2019 Pneumonia in Immunosuppressed Renal Transplant Recipients: A Summary of 10 Confirmed Cases in Wuhan, China.</title>
+      <link>/publication/32317180/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32317180/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Free DNA, a reason for severe COVID-19 infection?</title>
+      <link>/publication/32416412/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32416412/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Management of Transplant Patients outside Hospital during COVID-19 Epidemic: a Chinese Experience.</title>
+      <link>/publication/32407003/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32407003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viral Shedding Prolongation in a Kidney Transplant Patient with COVID-19 Pneumonia.</title>
+      <link>/publication/32400931/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32400931/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

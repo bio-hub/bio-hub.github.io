@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db09065&#39; target=&#39;_blank&#39;&gt;db09065&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=cobicistat&#34; target=&#34;_blank&#34;&gt;cobicistat&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
 Synonymous :1,3-thiazol-5-ylmethyl [(2r,5r)-5-{[(2s)-2-({&lt;a href=&#34;methyl&#34;&gt;(2-isopropyl-1,3-thiazol-4-yl)methyl&lt;/a&gt;carbamoyl}amino)-4-(morpholin-4-yl)butanoyl]amino}-1,6-diphenylhexan-2-yl]carbamate | cobicistat
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :1,3-thiazol-5-ylmethyl [(2r,5r)-5-{[(2s)-2-({&lt;a href=&#34;methyl&
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cobicistat&lt;/em&gt; gene in 4 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32277836
+&lt;a href=&#34;/publication/32277836&#34; target=&#34;_blank&#34;&gt;32277836&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Both patients were treated with darunavir/cobicistat and hydroxychloroquine.
@@ -57,7 +57,7 @@ Both patients were treated with darunavir/cobicistat and hydroxychloroquine.
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32279418
+&lt;a href=&#34;/publication/32279418&#34; target=&#34;_blank&#34;&gt;32279418&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Hydroxychloroquine and lopinavir/ritonavir were started, and the antiviral drug was replaced with darunavir/cobicistat after two days for diarrhea.
@@ -65,10 +65,18 @@ Hydroxychloroquine and lopinavir/ritonavir were started, and the antiviral drug 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32292805
+&lt;a href=&#34;/publication/32292805&#34; target=&#34;_blank&#34;&gt;32292805&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In the absence of authorised pharmacological treatments, many antiretrovirals, including darunavir/cobicistat fixed combination, were used off-label in the hospital wards as life-treating medicines for COVID-19 patients. […] The data in this article indicate that darunavir/cobicistat suspensions compounded by pharmacists using as active ingredient a commercially available tablet can be stable at least for one week.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32306822&#34; target=&#34;_blank&#34;&gt;32306822&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cobicistat, ritonavir, lopinavir, and darunavir are in the top screened molecules from FDA approved drugs.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

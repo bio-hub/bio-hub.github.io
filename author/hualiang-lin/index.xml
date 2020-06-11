@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hualiang Lin | PlatCOVID</title>
+    <link>/author/hualiang-lin/</link>
+      <atom:link href="/author/hualiang-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hualiang Lin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Hualiang Lin</title>
+      <link>/author/hualiang-lin/</link>
+    </image>
+    
+    <item>
+      <title>Environmental contamination of SARS-CoV-2 in healthcare premises.</title>
+      <link>/publication/32360881/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32360881/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population movement, city closure in Wuhan and geographical expansion of the 2019-nCoV pneumonia infection in China in January 2020.</title>
+      <link>/publication/32302377/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32302377/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

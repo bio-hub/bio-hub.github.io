@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veerle De Herdt | PlatCOVID</title>
+    <link>/author/veerle-de-herdt/</link>
+      <atom:link href="/author/veerle-de-herdt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Veerle De Herdt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Veerle De Herdt</title>
+      <link>/author/veerle-de-herdt/</link>
+    </image>
+    
+    <item>
+      <title>Neurological manifestations and neuro-invasive mechanisms of the severe acute respiratory syndrome coronavirus type 2.</title>
+      <link>/publication/32416028/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32416028/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

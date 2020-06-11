@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giovanni Li Volti | PlatCOVID</title>
+    <link>/author/giovanni-li-volti/</link>
+      <atom:link href="/author/giovanni-li-volti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giovanni Li Volti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Giovanni Li Volti</title>
+      <link>/author/giovanni-li-volti/</link>
+    </image>
+    
+    <item>
+      <title>No Autopsies on COVID-19 Deaths: A Missed Opportunity and the Lockdown of Science.</title>
+      <link>/publication/32422983/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32422983/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Deaths: Are We Sure It Is Pneumonia? Please, Autopsy, Autopsy, Autopsy!</title>
+      <link>/publication/32357503/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32357503/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

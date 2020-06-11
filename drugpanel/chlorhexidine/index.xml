@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00878&#39; target=&#39;_blank&#39;&gt;db00878&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=chlorhexidine&#34; target=&#34;_blank&#34;&gt;chlorhexidine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
 Synonymous :1,1’-hexamethylene bis(5-(p-chlorophenyl)biguanide) | chlorhexidin | chlorhexidine | chlorhexidinum | cloresidina | clorhexidina | n,n’-bis(4-chlorophenyl)-3,12-diimino-2,4,11,13-tetraazatetradecanediimidamide
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :1,1’-hexamethylene bis(5-(p-chlorophenyl)biguanide) | chlorhexidin
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;chlorhexidine&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32035997
+&lt;a href=&#34;/publication/32035997&#34; target=&#34;_blank&#34;&gt;32035997&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Other biocidal agents such as 0.05-0.2% benzalkonium chloride or 0.02% chlorhexidine digluconate are less effective.
@@ -57,11 +57,27 @@ Other biocidal agents such as 0.05-0.2% benzalkonium chloride or 0.02% chlorhexi
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32217947
+&lt;a href=&#34;/publication/32217947&#34; target=&#34;_blank&#34;&gt;32217947&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 &lt;ol start=&#34;3&#34; style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;Decolonize patients using pre-procedural chlorhexidine wipes, 2 doses of nasal povidone iodine within one hour of incision, and chlorhexidine mouth rinse.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32326426&#34; target=&#34;_blank&#34;&gt;32326426&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+If chlorhexidine, a usual component of mouth rinse, is not efficient to kill SARS-CoV-2, the use of a mouth rinses and/or with local nasal applications that contain β-cyclodextrins combined with flavonoids agents, such as Citrox, could provide valuable adjunctive treatment to reduce the viral load of saliva and nasopharyngeal microbiota, including potential SARS-CoV-2 carriage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32449329&#34; target=&#34;_blank&#34;&gt;32449329&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additional samples of the saliva were taken at 1 hour, 2 hours, and 4 hours after using a chlorhexidine mouthwash. […] The viral load in the saliva decreased transiently for 2 hours after using the chlorhexidine mouthwash. […] Chlorhexidine mouthwash was effective in reducing the SARS-CoV-2 viral load in the saliva for a short-term period.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

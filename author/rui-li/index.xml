@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rui Li | PlatCOVID</title>
+    <link>/author/rui-li/</link>
+      <atom:link href="/author/rui-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rui Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Rui Li</title>
+      <link>/author/rui-li/</link>
+    </image>
+    
+    <item>
+      <title>High-resolution CT features of the COVID-19 infection in Nanchong City: Initial and follow-up changes among different clinical types.</title>
+      <link>/publication/32406420/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32406420/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -22,11 +22,11 @@
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;div id=&#34;tissue-context&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Tissue Context&lt;/h3&gt;
+&lt;div id=&#34;tissue-sentence-context&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tissue Sentence Context&lt;/h3&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lymph node&lt;/em&gt; tissue in 5 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lymph node&lt;/em&gt; tissue in 9 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -42,7 +42,7 @@ Senteces
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32088847
+&lt;a href=&#34;/publication/32088847&#34; target=&#34;_blank&#34;&gt;32088847&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Lung lesions were characterized by a high &lt;sup&gt;18&lt;/sup&gt;F-FDG uptake and there was evidence of lymph node involvement.
@@ -50,7 +50,7 @@ Lung lesions were characterized by a high &lt;sup&gt;18&lt;/sup&gt;F-FDG uptake 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32118615
+&lt;a href=&#34;/publication/32118615&#34; target=&#34;_blank&#34;&gt;32118615&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Besides, severe/critical patients showed higher incidences of lymph node enlargement, pericardial effusion and pleural effusion than the ordinary patients.
@@ -58,7 +58,7 @@ Besides, severe/critical patients showed higher incidences of lymph node enlarge
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32204990
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32204990&#34; target=&#34;_blank&#34;&gt;32204990&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Two chest radiologists independently evaluated the imaging in terms of distribution, ground-glass opacity (GGO), consolidation, air bronchogram, stripe, enlarged mediastinal lymph node, and pleural effusion. […] Neither enlarged mediastinal lymph nodes nor pleural effusion were present.
@@ -66,7 +66,7 @@ Two chest radiologists independently evaluated the imaging in terms of distribut
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32222433
+&lt;a href=&#34;/publication/32222433&#34; target=&#34;_blank&#34;&gt;32222433&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 For cervical cancer, the place of surgery must be re-evaluated in relation to radiotherapy and Radio-Chemotherapy-Concomitant and the value of lymph node staging surgeries must be reviewed on a case-by-case basis. […] For early stage endometrial cancer, in case of low and intermediate preoperative ESMO risk, hysterectomy with bilateral annexectomy associated with a sentinel lymph node procedure should be favored. […] For high ESMO risk, it ispossible to favor the MSKCC algorithm (combining PET-CT and sentinel lymph node biopsy) in order to omit pelvic and lumbar-aortic lymphadenectomies.
@@ -74,10 +74,42 @@ For cervical cancer, the place of surgery must be re-evaluated in relation to ra
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32247066
+&lt;a href=&#34;/publication/32247066&#34; target=&#34;_blank&#34;&gt;32247066&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 For cervical cancer, radiotherapy and concomitant radiochemotherapy could replace surgery as first-line treatment and the value of lymph node staging should be reviewed on a case-by-case basis. […] For patients with early stage endometrial cancer of low and intermediate preoperative ESMO risk, hysterectomy with bilateral adnexectomy combined with a sentinel lymph node procedure is recommended. […] For patients of high ESMO risk, the MSKCC algorithm (combining PET-CT and sentinel lymph node biopsy) should be applied to avoid pelvic and lumbar-aortic lymphadenectomy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32338224&#34; target=&#34;_blank&#34;&gt;32338224&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Of note, CD209L or liver/lymph node special intercellular adhesion molecule-3-grabbing non-integrin (SIGN) and dendritic cell (DC)-SIGN are alternative receptors for SARS-CoV but with lower affinity [7].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32386012&#34; target=&#34;_blank&#34;&gt;32386012&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A new classification and standardized imaging diagnosis report mode of viral pneumonia was established by studying and summarizing the imaging findings of various kinds of viral pneumonia, combining with lesion density, interstitial changes, pleural effusion, lymph nodes, and some special signs. […] The CT manifestation of COVID-19 was characterized by pure ground glass lesions or with a few solid components, predominant subpleural distribution, no lymph node enlargement and pleural effusion, and often with paving-way sign and air bronchus sign.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32394279&#34; target=&#34;_blank&#34;&gt;32394279&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Data on location, distribution, attenuation, maximum lesion range, lobe involvement, number of lesions, air bronchogram signs, Hilar and mediastinal lymph node enlargement, and pleural effusion were collected. […] Hilar and mediastinal lymph node enlargement was associated with a 2.79-fold risk of COVID-19 pneumonia. […] A peripheral distribution, a lesion range &amp;gt; 10 cm, involvement of 5 lobes, presence of hilar and mediastinal lymph node enlargement, and no pleural effusion were significantly associated with 2019-novel coronavirus pneumonia. […] • A peripheral distribution, a lesion range &amp;gt; 10 cm, involvement of 5 lobes, presence of hilar and mediastinal lymph node enlargement, and no pleural effusion were significantly associated with COVID-19 compared with other types of viral pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32437316&#34; target=&#34;_blank&#34;&gt;32437316&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 was detectable by immunohistochemistry and electron microscopy in conducting airways, pneumocytes, alveolar macrophages, and a hilar lymph node but was not identified in other extrapulmonary tissues.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

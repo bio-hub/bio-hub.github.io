@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db08877&#39; target=&#39;_blank&#39;&gt;db08877&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ruxolitinib&#34; target=&#34;_blank&#34;&gt;ruxolitinib&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
 Synonymous :ruxolitinib
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :ruxolitinib
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ruxolitinib&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,10 +49,34 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32276453
+&lt;a href=&#34;/publication/32276453&#34; target=&#34;_blank&#34;&gt;32276453&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Two of these senotherapeutics, azithromycin and ruxolitinib, are currently undergoing testing for their efficacy in treating COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32387301&#34; target=&#34;_blank&#34;&gt;32387301&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most promising drugs might be: Ruxolitinib, a JAK1/2 inhibitor, with a rapid and powerful anti-cytokine effect, tyrosine kinase inhibitors (TKIs), with their good anti-inflammatory properties, and perhaps the anti-Cd26 antibody Begelomab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32421092&#34; target=&#34;_blank&#34;&gt;32421092&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other possible IL-6 pathway inhibitors such as Ruxolitinib and Baricinitib are then analyzed, underlying how they lack the benefit of targeting only the pro-inflammatory pathway.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32470486&#34; target=&#34;_blank&#34;&gt;32470486&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study evaluated the efficacy and safety of ruxolitinib, a Janus-associated kinase (JAK1/2) inhibitor, for COVID-19. […] Forty-three patients were randomly assigned (1:1) to receive ruxolitinib plus SoC treatment (22 patients) or placebo based on SoC treatment (21 patients). […] After exclusion of 2 patients (1 ineligible, 1 consent withdrawn) from the ruxolitinib group, 20 patients in intervention group and 21 patients in control group were included in the study. […] Treatment with ruxolitinib plus SoC was not associated with significantly accelerated clinical improvement in severe patients with COVID-19, although ruxolitinib recipients had a numerically faster clinical improvement. […] Eighteen (90%) patients from the ruxolitinib group showed CT improvement at D&lt;sub&gt;14&lt;/sub&gt; compared with 13 (61.9%) patients from the control group (P = 0.0495). […] Three patients in the control group died of respiratory failure, with 14.3% overall mortality at D&lt;sub&gt;28&lt;/sub&gt;; no patients died in the ruxolitinib group. […] Ruxolitinib was well tolerated with low toxicities and no new safety signals. […] Levels of 7 cytokines were significantly decreased in the ruxolitinib group in comparison to the control group. […] Although no statistical difference was observed, ruxolitinib recipients had a numerically faster clinical improvement. […] Significant chest CT improvement, a faster recovery from lymphopenia and favorable side-effect profile in ruxolitinib group were encouraging and informative to future trials to test efficacy of ruxolitinib in a larger population.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -30,7 +30,7 @@ OMIM: &lt;a href=&#39;https://omim.org/entry/613949&#39; target=&#39;_blank&#39;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a membrane glycoprotein of T lymphocytes that interacts with major histocompatibility complex class II antigenes and is also a receptor for the human immunodeficiency virus. This gene is expressed not only in T lymphocytes, but also in B cells, macrophages, and granulocytes. It is also expressed in specific regions of the brain. The protein functions to initiate or augment the early phase of T-cell activation, and may function as an important mediator of indirect neuronal damage in infectious and immune-mediated diseases of the central nervous system. Multiple alternatively spliced transcript variants encoding different isoforms have been identified in this gene. [provided by RefSeq, Aug 2010] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes the CD4 membrane glycoprotein of T lymphocytes. The CD4 antigen acts as a coreceptor with the T-cell receptor on the T lymphocyte to recognize antigens displayed by an antigen presenting cell in the context of class II MHC molecules. The CD4 antigen is also a primary receptor for entry of the human immunodeficiency virus through interactions with the HIV Env gp120 subunit. This gene is expressed not only in T lymphocytes, but also in B cells, macrophages, granulocytes, as well as in various regions of the brain. The protein functions to initiate or augment the early phase of T-cell activation, and may function as an important mediator of indirect neuronal damage in infectious and immune-mediated diseases of the central nervous system. Multiple alternatively spliced transcript variants encoding different isoforms have been identified in this gene. [provided by RefSeq, May 2020] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
@@ -668,7 +668,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CD4 gene in 11 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CD4 gene in 59 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -684,7 +684,7 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32118639
+&lt;a href=&#34;/publication/32118639&#34; target=&#34;_blank&#34;&gt;32118639&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The effects of cluster of differentiation 4 (CD4)+ T lymphocytes, inflammatory indicators, and glucocorticoid treatment on viral nucleic acid clearance were analyzed. […] Using a multiple linear regression model (F = 2.669, P = 0.044, and adjusted R = 0.122), the analysis showed that the CD4+ T lymphocyte count may help predict the duration of viral RNA detection in patients’ stools (t = -2.699, P = 0.010).
@@ -692,7 +692,7 @@ The effects of cluster of differentiation 4 (CD4)+ T lymphocytes, inflammatory i
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32171869
+&lt;a href=&#34;/publication/32171869&#34; target=&#34;_blank&#34;&gt;32171869&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In multivariate logistical analysis, age (Odds ratio [OR] = 1.06) and CD4 T cell count (OR = 0.55 per 100 cells/ul increase) were independently associated with ICU admission.
@@ -700,7 +700,7 @@ In multivariate logistical analysis, age (Odds ratio [OR] = 1.06) and CD4 T cell
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32172546
+&lt;a href=&#34;/publication/32172546&#34; target=&#34;_blank&#34;&gt;32172546&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Most of infiltrated lymphocytes were CD4-positive T cells. […] 淋巴细胞主要为CD4阳性T细胞。
@@ -708,7 +708,7 @@ Most of infiltrated lymphocytes were CD4-positive T cells. […] 淋巴细胞主
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32193831
+&lt;a href=&#34;/publication/32193831&#34; target=&#34;_blank&#34;&gt;32193831&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Other findings included decreased CD16 + CD56 (4/8) and Th/Ts*(1/8), increased CD3 (2/8), CD4 (4/8) and CD8 (1/8), IL-6 (2/8), IL-10 (5/8) and IFN-γ (2/8).
@@ -716,7 +716,7 @@ Other findings included decreased CD16 + CD56 (4/8) and Th/Ts*(1/8), increased C
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32217834
+&lt;a href=&#34;/publication/32217834&#34; target=&#34;_blank&#34;&gt;32217834&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Increased cytokine levels (IL-6, IL-10, and TNF-α), lymphopenia (in CD4+ and CD8+ T cells), and decreased IFN-γ expression in CD4+ T cells are associated with severe COVID-19.
@@ -724,7 +724,7 @@ Increased cytokine levels (IL-6, IL-10, and TNF-α), lymphopenia (in CD4+ and CD
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32217835
+&lt;a href=&#34;/publication/32217835&#34; target=&#34;_blank&#34;&gt;32217835&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Absolute numbers of T lymphocytes, CD4+ T cells, and CD8+ T cells decreased in nearly all the patients, and were markedly lower in severe cases (294.0, 177.5, and 89.0 × 106/L, respectively) than moderate cases (640.5, 381.5, and 254.0 × 106/L, respectively). […] The expression of IFN-γ by CD4+ T cells tended to be lower in severe cases (14.1%) than in moderate cases (22.8%). […] CONCLUSIONThe SARS-CoV-2 infection may affect primarily T lymphocytes, particularly CD4+ and CD8+ T cells, resulting in a decrease in numbers as well as IFN-γ production by CD4+ T cells.
@@ -732,7 +732,7 @@ Absolute numbers of T lymphocytes, CD4+ T cells, and CD8+ T cells decreased in n
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32227123
+&lt;a href=&#34;/publication/32227123&#34; target=&#34;_blank&#34;&gt;32227123&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Total lymphocytes, CD4+ T cells, CD8+ T cells, B cells and natural killer (NK) cells decreased in COVID-19 patients, and severe cases had a lower level than mild cases. […] The subsets showed a significant association with the inflammatory status in COVID-19, especially CD8+ T cells and CD4+/CD8+ ratio. […] In multivariate analysis, post-treatment decrease of CD8+ T cells and B cells and increase of CD4+/CD8+ ratio were indicated as independent predictors for poor efficacy.
@@ -740,7 +740,7 @@ Total lymphocytes, CD4+ T cells, CD8+ T cells, B cells and natural killer (NK) c
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32233642
+&lt;a href=&#34;/publication/32233642&#34; target=&#34;_blank&#34;&gt;32233642&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Further analysis showed that the CD4+ T cell count but not the CD8+ T cell count of the aggravation group was significantly lower than that of the non-aggravation group. […] Correlation analysis indicated total lymphocyte count was positively correlated with CD4+ T cell count, and no significant differences were found between the 2 groups in other laboratory measurements, including those of white blood cell (WBC) count, C-reactive protein (CRP), albumin, lactate dehydrogenase (LDH), and D-dimer.
@@ -748,7 +748,7 @@ Further analysis showed that the CD4+ T cell count but not the CD8+ T cell count
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32253888
+&lt;a href=&#34;/publication/32253888&#34; target=&#34;_blank&#34;&gt;32253888&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The immune regulatory genes encoded by X chromosome in female gender causes lower viral load levels, and less inflammation than in man, while CD4+ T cells are higher with better immune response. […] The X chromosome influences the immune system by acting on many other proteins, including TLR8, CD40L and CXCR3 which can be over-expressed in women, and influence the response to viral infections and vaccinations.
@@ -756,7 +756,7 @@ The immune regulatory genes encoded by X chromosome in female gender causes lowe
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32257537
+&lt;a href=&#34;/publication/32257537&#34; target=&#34;_blank&#34;&gt;32257537&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 After treatment, the peripheral lymphocytes were increased, the C-reactive protein decreased, and the overactivated cytokine-secreting immune cells CXCR3+CD4+ T cells, CXCR3+CD8+ T cells, and CXCR3+ NK cells disappeared in 3-6 days.
@@ -764,10 +764,394 @@ After treatment, the peripheral lymphocytes were increased, the C-reactive prote
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32293910
+&lt;a href=&#34;/publication/32293910&#34; target=&#34;_blank&#34;&gt;32293910&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Lymphopenia occurs early and is prognostic, potentially associated with reduction of the CD4+ and some CD8+ T cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32297671&#34; target=&#34;_blank&#34;&gt;32297671&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There were significant differences in cluster of differentiation 4 (CD4&lt;sup&gt;+&lt;/sup&gt; T), cluster of differentiation 8 (CD8&lt;sup&gt;+&lt;/sup&gt; T), interleukin 6 (IL-6), interleukin 10 (IL-10) and PII between the two groups. […] There were significant positive correlations between CD4&lt;sup&gt;+&lt;/sup&gt; T and CD8&lt;sup&gt;+&lt;/sup&gt; T, IL-6 and IL-10 in the mild group (r&lt;sup&gt;2&lt;/sup&gt; = 0·694, r &lt;sup&gt;2&lt;/sup&gt; = 0·633, respectively; P &amp;lt; 0·01). […] CD4&lt;sup&gt;+&lt;/sup&gt; T, CD8&lt;sup&gt;+&lt;/sup&gt; T, IL-6, IL-10 and PII can be used as indicators of disease evolution, and the PII can be used as an independent indicator for disease progression of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32297828&#34; target=&#34;_blank&#34;&gt;32297828&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The lymphocyte, CD4&lt;sup&gt;+&lt;/sup&gt; T lymphocyte, and CD8&lt;sup&gt;+&lt;/sup&gt; T lymphocyte counts all differed significantly between the two groups (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001), as did differences in interleukin (IL)-2R, IL-6, and IL-8 levels (&lt;i&gt;p&lt;/i&gt; = 0.022, 0.026, and 0.012, respectively). […] SARS-CoV-2 RNA load and lymphocyte count, CD4&lt;sup&gt;+&lt;/sup&gt; T lymphocyte count, and CD8&lt;sup&gt;+&lt;/sup&gt; T lymphocyte count were linearly negatively correlated (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32302954&#34; target=&#34;_blank&#34;&gt;32302954&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We compared critically ill and noncritically ill patients: p-values for age, C-reactive protein, high-sensitivity troponin T, prothrombin time, fibrin degradation products, D-Dimer, and CD4+ count were p &amp;lt; 0.001; and p-values for hospital days, white blood cell, neutrophil, lymphocyte, creatine kinase isoenzyme, myoglobin, N-terminal brain natriuretic peptide, and CD8+ count were p &amp;lt; 0.05. […] Higher C-reactive protein levels, higher levels of myocardial damage, and higher brain natriuretic peptide levels; lower white blood cells, neutrophils, and lymphocytes; and lower CD4 and CD8 counts could be used for early detection and identification of critically ill patients, and dynamic Data observation was more important than at a single moment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32305025&#34; target=&#34;_blank&#34;&gt;32305025&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CD4+ lymphocyte counts were 61, 180, and 348 cells/uL in severe-type patients, respectively. […] Neutrophil-lymphocyte ratio (NLR) was also higher in severe-type patients CONCLUSIONS: Initial examination results of lower CD4+ lymphocyte counts and RT-PCR-CT values coupled with higher NLR may indicate the severity of COVID-19 infection for these family clusters.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32307550&#34; target=&#34;_blank&#34;&gt;32307550&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The decreased T cell proportions were observed in COVID-19 patients especially in severe cases, and all elevated to normal in mild patiens after initial treatment but only CD4+T cells return to normal in severe cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32308263&#34; target=&#34;_blank&#34;&gt;32308263&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In brief, notable T cytopoenia was recorded by flow cytometry in the CD4+ and the CD8+ populations, which were significantly yet inversely correlated with remarkably increased serum levels of the pro-inflammatory cytokines IL-6, IL-10 and TNF-a.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32312364&#34; target=&#34;_blank&#34;&gt;32312364&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All 13 children had normal levels of peripheral blood lymphocyte counts, immunoglobulins, CD4, CD8, and interleukin-6.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32315725&#34; target=&#34;_blank&#34;&gt;32315725&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As the severity of COVID-19 getting worse, the counts of T lymphocyte drop lower.28 patients died in hospital, the median lymphocyte, CD3+ T-cell, CD4+ T-cell, CD8+ T-cell and B-cell were significantly lower than other patients. […] Lower counts (/uL) of T lymphocyte subsets lymphocyte (&amp;lt;500), CD3+T-cell (&amp;lt;200), CD4+ T-cell (&amp;lt;100), CD8+ T-cell (&amp;lt;100) and B-cell (&amp;lt;50) were associated with higher risks of in-hospital death of CIVID-19. […] The warning values to predict in-hospital death of lymphocyte, CD3+ T-cell, CD4+ T-cell, CD8+ T-cell, and B-cell were 559, 235, 104, 85 and 82, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32320677&#34; target=&#34;_blank&#34;&gt;32320677&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients with SRF displayed either macrophage activation syndrome (MAS) or very low human leukocyte antigen D related (HLA-DR) expression accompanied by profound depletion of CD4 lymphocytes, CD19 lymphocytes, and natural killer (NK) cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32324595&#34; target=&#34;_blank&#34;&gt;32324595&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The absolute numbers of CD4+ T cells, CD8+ T cells, and B cells were gradually decreased with increased severity of illness. […] The activation markers such as HLA-DR and CD45RO expressed on CD4+ and CD8+ T cells were increased in severe and extremely severe patients compared with mild patients. […] The percentage of IFN-γ-producing CD4+ T cells was increased in extremely severe patients. […] The hyperfunction of CD4+ and CD8+ T cells is associated with the pathogenesis of extremely severe SARS-CoV-2 infection.FUNDINGThis work was funded by the National Mega Project on Major Infectious Disease Prevention (2017ZX10103005-007) and the Fundamental Research Funds for the Central Universities (2019kfyRCPY098).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32325421&#34; target=&#34;_blank&#34;&gt;32325421&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Therefore, in this study, we evaluated the ratio and expression of CD4 and CD8 markers in COVID-19 patients to clarify the immune characterizations of CD4 and CD8 T-cells in COVID-19 patients. […] White blood cells, platelets, and lymphocytes were counted and CD4 and CD8 T lymphocytes were evaluated by flow cytometry. […] The difference in CD4:CD8 ratio, CD4 T-cell frequency, CD8 T-cell frequency, and CD4 mean fluorescence intensity (MFI) was not significant between COVID-19 patients and healthy individuals (P &amp;gt; 0.05); however, the CD8 MFI increased significantly in COVID-19 infected patients (P &amp;lt; 0.05). […] Although, there is no significant difference in the ratio of CD4 to CD8 between two groups, the expression level of CD8 in COVID-19 patients was significantly higher than the normal individuals.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32339157&#34; target=&#34;_blank&#34;&gt;32339157&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The expression of ACE2 was positively correlated with the level of immune infiltration of macrophage in KIRP, B cell, CD4+T cell, neutrophil and dendritic cell immune infiltration levels in UCEC.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32340089&#34; target=&#34;_blank&#34;&gt;32340089&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CD3(+), CD4(+) and CD8(+) T cells were decreased. […] CD3(+)、CD4(+)及CD8(+)T细胞均减少。
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32344320&#34; target=&#34;_blank&#34;&gt;32344320&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lymphocyte subsets count, including CD3&lt;sup&gt;+&lt;/sup&gt; T cell, CD4&lt;sup&gt;+&lt;/sup&gt; T cell, CD8&lt;sup&gt;+&lt;/sup&gt; T cell, B cell (CD19&lt;sup&gt;+&lt;/sup&gt;) and NK cell (CD16&lt;sup&gt;+&lt;/sup&gt; 56&lt;sup&gt;+&lt;/sup&gt;), were significantly lower in severe group (P＜0.001). […] The cut-off value of the counts of CD3&lt;sup&gt;+&lt;/sup&gt; (576), CD4&lt;sup&gt;+&lt;/sup&gt; (391) and CD8&lt;sup&gt;+&lt;/sup&gt; (214) T cell were calculated and indicated significantly high sensitivity and specificity for severity of COVID-19. […] Our results shown that the decrease of CD3&lt;sup&gt;+&lt;/sup&gt;, CD4&lt;sup&gt;+&lt;/sup&gt; and CD8&lt;sup&gt;+&lt;/sup&gt; T lymphocyte correlated with the course of patients with COVID-19 pneumonia, especially in severe cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32359396&#34; target=&#34;_blank&#34;&gt;32359396&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Parallel analyses of CD4 and CD8 expression suggested that the pro-inflammatory response may be intertwined with T cell activation that could exacerbate disease or prolong the infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32364527&#34; target=&#34;_blank&#34;&gt;32364527&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Subsequent investigation of 463 patients with COVID-19 disease revealed the decreased amount of total lymphocytes, CD3+, CD4+, and CD8+ T lymphocytes in the severe type patients which indicated COVID-19 can impose hard blows on human lymphocyte resulting in lethal pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32372051&#34; target=&#34;_blank&#34;&gt;32372051&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Through a comprehensive bioinformatic screening of potential epitopes derived from the SARS-CoV-2 sequences for HLAs commonly present in the Japanese population, we identified 2013 and 1399 possible peptide epitopes that are likely to have the high affinity (&amp;lt;0.5%- and 2%-rank, respectively) to HLA class I and II molecules, respectively, that may induce CD8&lt;sup&gt;+&lt;/sup&gt; and CD4&lt;sup&gt;+&lt;/sup&gt; T-cell responses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32374419&#34; target=&#34;_blank&#34;&gt;32374419&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Immunohistochemical staining results showed that an abnormal accumulation of CD4+ helper T lymphocytes and CD163+ M2 macrophages in the lung tissue.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32377375&#34; target=&#34;_blank&#34;&gt;32377375&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CD4&lt;sup&gt;+&lt;/sup&gt; T cells and CD8&lt;sup&gt;+&lt;/sup&gt; T cells decreased significantly and expressed high levels of inflammatory genes in the ERS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32379199&#34; target=&#34;_blank&#34;&gt;32379199&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The infant had life-threatening clinical features including high fever, septic shock, recurrent apnea, petechiae and acute kidney injury and persistent declined CD3+, CD4+ and CD8+ T cells. […] The CD3+, CD4+ and CD8+ T cells was partially recovered 68 days post onset of the disease. […] Accumulating of effector memory CD4+ T cells (CD4+TEM) was observed among T-cell compartment. […] The persistent reduction of CD4+ and CD8+ T cells was the typical feature of critically ill infant with COVID-19. […] CD4+ and CD8+ T cells might play a key role in aggravating COVID-19 and predicts a more critical course in children.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32379887&#34; target=&#34;_blank&#34;&gt;32379887&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our results revealed that CD3+T, CD4+T, CD8+T cells and NK cells were significantly decreased in COVID-19 patients. […] COVID-19 patients had a relatively slight decrease in CD4+T cells but a severe decrease of CD8+T cells. […] The significantly elevated CD4/CD8 ratio was observed in COVID-19 patients. […] The counts of CD8+T and CD4+T cells can be used as diagnostic markers of COVID-19 and predictors of disease severity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32380908&#34; target=&#34;_blank&#34;&gt;32380908&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Laboratory values revealed significant improvements in absolute neutrophil count [mean reduction 32% (&lt;i&gt;P&lt;/i&gt; value &amp;lt;0.001)] and lymphopenia with average CD3&lt;sup&gt;+&lt;/sup&gt;, CD4&lt;sup&gt;+&lt;/sup&gt;, and CD8&lt;sup&gt;+&lt;/sup&gt; lymphocyte counts increasing by 46% (&lt;i&gt;P&lt;/i&gt; &amp;lt; 0.05), 45% (&lt;i&gt;P&lt;/i&gt; &amp;lt; 0.05), and 46% (&lt;i&gt;P&lt;/i&gt; &amp;lt; 0.001), respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32387756&#34; target=&#34;_blank&#34;&gt;32387756&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The immunological support to the hypothesis derives from recent studies about immunotherapy for malignancies, which propose the use of oncolytic vaccines combined with toxoids in order to exploit CD4 + memory T cell recall in supporting the ongoing anti-tumour response. […] The CD4 + memory exploiting could help immune system to recall immunity of already know antigens against coronaviruses, avoiding or limiting “lung crash” until virus specific immunity develops and making it faster and prolonged.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32389849&#34; target=&#34;_blank&#34;&gt;32389849&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The laboratory test data showed, the percentage of neutrophils and the level of LDH is higher, otherwise the number of CD4+ and CD8+T cells is decreased in children’s COVID-19 cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32391668&#34; target=&#34;_blank&#34;&gt;32391668&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The peripheral lymphocyte subsets (CD3&lt;sup&gt;+&lt;/sup&gt;T, CD4&lt;sup&gt;+&lt;/sup&gt; T, CD8&lt;sup&gt;+&lt;/sup&gt; T, NK cells, B cells), as well as serum levels of lymphocyte factors (IL-2, IL-4, IL-6, IL-10, TNF-α, IFN-γ) were dynamically monitored. […] On D1 of admission, the numbers of peripheral blood CD3&lt;sup&gt;+&lt;/sup&gt; T, CD4&lt;sup&gt;+&lt;/sup&gt; T, CD8&lt;sup&gt;+&lt;/sup&gt; T, and NK cells were significantly lower than the normal range. […] With the improvement of the disease, the numbers of CD3&lt;sup&gt;+&lt;/sup&gt; T, CD8&lt;sup&gt;+&lt;/sup&gt; T and CD4 &lt;sup&gt;+&lt;/sup&gt; T cells gradually recovered and showed a linear growth trend (linear fitting equation: &lt;i&gt;Y&lt;/i&gt;=18.59&lt;i&gt;X&lt;/i&gt;+109.4, &lt;i&gt;P&lt;/i&gt;&amp;lt;0.05).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32399213&#34; target=&#34;_blank&#34;&gt;32399213&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Initially, low levels of CD4&lt;sup&gt;+&lt;/sup&gt; T cells (from 120 to 528 μL&lt;sup&gt;-1&lt;/sup&gt;) and CD8&lt;sup&gt;+&lt;/sup&gt; T cells (from 68 to 362 μL&lt;sup&gt;-1&lt;/sup&gt;) gradually increased to normal levels. […] CD4&lt;sup&gt;+&lt;/sup&gt; and CD8&lt;sup&gt;+&lt;/sup&gt; T cells, cytokines and HLA-G&lt;sup&gt;+&lt;/sup&gt; immune cells are associated with the natural history of the critical COVID-19 patient; however, future studies are necessary.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32404786&#34; target=&#34;_blank&#34;&gt;32404786&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the 25 cases, on admission, 21 cases (84%) had normal white blood cell counts, while only 2 cases (8%) more than 10 × 10/L and 2 cases (8%) less than 4 × 10/L, respectively; 22 cases(88%) had normal CD4+ T lymphocyte counts, while in the remaining 3 cases(8%) this increased mildly; 23 cases had normal CD8+ T lymphocyte counts, while in the remaining 2 cases (8%) CD8+ T lymphocyte counts were mildly increased as well.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405080&#34; target=&#34;_blank&#34;&gt;32405080&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We observe changes of the main lymphocyte subsets (CD16&lt;sup&gt;+&lt;/sup&gt;CD56、CD19、CD3、CD4、and CD8) in COVID-19-infected patients and explore whether the changes are associated with disease severity. […] CD3&lt;sup&gt;+&lt;/sup&gt;, CD4&lt;sup&gt;+&lt;/sup&gt; and CD8 + T lymphocyte subsets were decreased in COVID-19-infected patients. […] Compared with the moderate group and the sever group, CD3&lt;sup&gt;+&lt;/sup&gt;, CD4&lt;sup&gt;+&lt;/sup&gt; and CD8&lt;sup&gt;+&lt;/sup&gt; T cells in the critical group decreased greatly (P &amp;lt; 0.001, P = 0.005 or P = 0.001). […] Reduced CD3&lt;sup&gt;+&lt;/sup&gt;, CD4&lt;sup&gt;+&lt;/sup&gt;, CD8&lt;sup&gt;+&lt;/sup&gt; T lymphocyte counts may reflect the severity of the COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32417210&#34; target=&#34;_blank&#34;&gt;32417210&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compared with patients in discharged group, the patients in un-discharged/died group suffered from decreased counts of total T lymphocytes, CD4 + T lymphocytes, CD8 + T lymphocytes, as well as NK cells at 2 weeks after treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32419646&#34; target=&#34;_blank&#34;&gt;32419646&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the present study, a novel multi-epitope vaccine is designed using &lt;i&gt;in silica&lt;/i&gt; tools that potentially trigger both CD4 and CD8 T-cell immune responses against the novel Coronavirus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32425950&#34; target=&#34;_blank&#34;&gt;32425950&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition, the expression of T cell exhaustion markers were measured in 14 COVID-19 cases. &lt;b&gt;Results:&lt;/b&gt; The number of total T cells, CD4&lt;sup&gt;+&lt;/sup&gt; and CD8&lt;sup&gt;+&lt;/sup&gt; T cells were dramatically reduced in COVID-19 patients, especially in patients requiring Intensive Care Unit (ICU) care. […] Counts of total T cells, CD8&lt;sup&gt;+&lt;/sup&gt; T cells or CD4&lt;sup&gt;+&lt;/sup&gt; T cells lower than 800, 300, or 400/μL, respectively, were negatively correlated with patient survival.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32427361&#34; target=&#34;_blank&#34;&gt;32427361&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These HIV infected patients were compliant with their HIV medication regimen and had robust CD4 T cell counts.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32427393&#34; target=&#34;_blank&#34;&gt;32427393&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The common thread linking these patients is lymphopenia, which largely reflects a decline in the numbers of CD4/CD8 T cells but not B cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32427582&#34; target=&#34;_blank&#34;&gt;32427582&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In severe cases, lymphopenia, neutrophilia, depletion of CD4+ and CD8+ T lymphocytes, and massive macrophage and neutrophil infiltrates were observed in both blood and lung tissues.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32434211&#34; target=&#34;_blank&#34;&gt;32434211&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lymphocytopenia, especially the reduced CD4&lt;sup&gt;+&lt;/sup&gt; and CD8&lt;sup&gt;+&lt;/sup&gt; T cell counts upon admission, was predictive of disease progression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32437000&#34; target=&#34;_blank&#34;&gt;32437000&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Her CD4 count was 965 cells/mm&lt;sup&gt;3&lt;/sup&gt; , the HIV viral load was undetectable (&amp;lt;1,000 cells/mm&lt;sup&gt;3&lt;/sup&gt; ) and other laboratory work up was normal.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32437740&#34; target=&#34;_blank&#34;&gt;32437740&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Except for the low level of CD16-CD56 cells, the count and proportion of lymphocytes, CD3, CD4, CD8, and CD19 were all in the normal range.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32437830&#34; target=&#34;_blank&#34;&gt;32437830&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The liver enzyme abnormality was associated with disease severity, as well as a series of laboratory tests including higher A-aDO2, higher GGT, lower albumin, decreased CD4+ T cells and B lymphocytes. […] Immunohistochemical results showed scanty CD4+ and CD8+ lymphocytes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32439209&#34; target=&#34;_blank&#34;&gt;32439209&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Peripheral CD4&lt;sup&gt;+&lt;/sup&gt;, CD8&lt;sup&gt;+&lt;/sup&gt; T lymphocytes, and B lymphocytes were significantly decreased in severe and critically ill patients, but there was only a non-statistically significant downward trend in NK cell numbers with severity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32440918&#34; target=&#34;_blank&#34;&gt;32440918&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The multivariable analysis identified age (OR = 1.061, p = 0.028), lactate dehydrogenase (LDH) (OR = 1.006, p = 0.037), and CD4 count (OR = 0.993, p = 0.006) as the independent predictors of COVID-19 progression. […] Consequently, the age-LDH-CD4 algorithm was derived as (age × LDH)/CD4 count. […] In the training set, the area under the ROC curve (AUROC) of age-LDH-CD4 model was significantly higher than that of single CD4 count, LDH, or age (0.92, 0.85, 0.80, and 0.75, respectively). […] In the prospective validation set, the AUROC of age-LDH-CD4 model was also significantly higher than that of single CD4 count, LDH, or age (0.92, 0.75, 0.81, and 0.82, respectively). […] The age-LDH-CD4 ≥ 82 has high sensitive (81%) and specific (93%) for the early identification of COVID-19 patients with severe progression tendency. […] The age-LDH-CD4 model is a simple algorithm for early identifying patients with severe progression tendency following SARS-CoV-2 infection, and warrants further validation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32442287&#34; target=&#34;_blank&#34;&gt;32442287&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tα1 timely enhances blood T cell numbers in COVID-19 patients with severe lymphocytopenia (the counts of CD8+ T cells or CD4+ T cells in circulation lower than 400/μL or 650/μL, respectively). […] Under such conditions, Tα1 also successfully restores CD8+ and CD4+ T cell numbers in aged patients. […] COVID-19 patients with the counts of CD8+ T cells or CD4+ T cells in circulation lower than 400/μL or 650/μL, respectively, gain more benefits from Tα1.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32460357&#34; target=&#34;_blank&#34;&gt;32460357&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our data indicate that patients with severe COVID-19 exhibited an overall decline of lymphocytes including CD4+ and CD8+ T cells, B cells, and NK cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32460839&#34; target=&#34;_blank&#34;&gt;32460839&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After treatment, the percentage and counts of lymphocyte subsets (CD3&lt;sup&gt;+&lt;/sup&gt;, CD4&lt;sup&gt;+&lt;/sup&gt;, and CD8&lt;sup&gt;+&lt;/sup&gt; T cell) were increased, and the level of IL-6, TNF-α, and C-reactive protein is significantly decreased after hWJC treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32463803&#34; target=&#34;_blank&#34;&gt;32463803&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In agreement, T CD4+, T CD8+ but also NK cells displayed reduced anti-viral cytokine production capability.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32469614&#34; target=&#34;_blank&#34;&gt;32469614&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All were taking antiretroviral therapy (ART) with CD4 count &amp;gt;200 cells/mm&lt;sup&gt;3&lt;/sup&gt; and suppressed HIV viral loads at the time of COVID-19 diagnosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32470153&#34; target=&#34;_blank&#34;&gt;32470153&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Analysis of lymphocyte subsets showed that CD4&lt;sup&gt;+&lt;/sup&gt; and particularly CD8&lt;sup&gt;+&lt;/sup&gt; T lymphocytes increased significantly after treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32470186&#34; target=&#34;_blank&#34;&gt;32470186&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Age, heart rate, chlorine, ALT, AST, procalcitonin, creatine kinase, pH, CD3 counts, and CD4 counts showed moderate distinguishing power (each AUC between 0.7-0.8).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32473127&#34; target=&#34;_blank&#34;&gt;32473127&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Using HLA class I and II predicted peptide “megapools,” circulating SARS-CoV-2-specific CD8&lt;sup&gt;+&lt;/sup&gt; and CD4&lt;sup&gt;+&lt;/sup&gt; T cells were identified in ∼70% and 100% of COVID-19 convalescent patients, respectively. […] CD4&lt;sup&gt;+&lt;/sup&gt; T cell responses to spike, the main target of most vaccine efforts, were robust and correlated with the magnitude of the anti-SARS-CoV-2 IgG and IgA titers. […] The M, spike, and N proteins each accounted for 11%-27% of the total CD4&lt;sup&gt;+&lt;/sup&gt; response, with additional responses commonly targeting nsp3, nsp4, ORF3a, and ORF8, among others. […] Importantly, we detected SARS-CoV-2-reactive CD4&lt;sup&gt;+&lt;/sup&gt; T cells in ∼40%-60% of unexposed individuals, suggesting cross-reactive T cell recognition between circulating “common cold” coronaviruses and SARS-CoV-2.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

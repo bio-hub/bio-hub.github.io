@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abid Haleem | PlatCOVID</title>
+    <link>/author/abid-haleem/</link>
+      <atom:link href="/author/abid-haleem/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abid Haleem</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Abid Haleem</title>
+      <link>/author/abid-haleem/</link>
+    </image>
+    
+    <item>
+      <title>Artificial Intelligence (AI) applications for COVID-19 pandemic.</title>
+      <link>/publication/32305024/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32305024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry 4.0 technologies and their applications in fighting COVID-19 pandemic.</title>
+      <link>/publication/32344370/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32344370/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet of things (IoT) applications to fight against COVID-19 pandemic.</title>
+      <link>/publication/32388333/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32388333/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet of Medical Things (IoMT) for orthopaedic in COVID-19 pandemic: Roles, challenges, and applications.</title>
+      <link>/publication/32425428/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32425428/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Areas of academic research with the impact of COVID-19.</title>
+      <link>/publication/32317202/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32317202/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -780,7 +780,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CPE gene in 2 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CPE gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -796,7 +796,7 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32120929
+&lt;a href=&#34;/publication/32120929&#34; target=&#34;_blank&#34;&gt;32120929&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The methanol extract of &lt;i&gt;S. cusia&lt;/i&gt; leaf effectively inhibited the cytopathic effect (CPE) and virus yield (IC&lt;sub&gt;50&lt;/sub&gt; = 0.64 μg/mL) in HCoV-NL63-infected cells. […] Among the six components identified in the methanol extract of &lt;i&gt;S. cusia&lt;/i&gt; leaf, tryptanthrin and indigodole B (5a&lt;i&gt;R&lt;/i&gt;-ethyltryptanthrin) exhibited potent antiviral activity in reducing the CPE and progeny virus production.
@@ -804,14 +804,32 @@ The methanol extract of &lt;i&gt;S. cusia&lt;/i&gt; leaf effectively inhibited t
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32205232
+&lt;a href=&#34;/publication/32205232&#34; target=&#34;_blank&#34;&gt;32205232&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The antiviral activity of LH against SARS-CoV-2 was assessed in Vero E6 cells using CPE and plaque reduction assay.
 &lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32325742&#34; target=&#34;_blank&#34;&gt;32325742&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;ol start=&#34;3&#34; style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Results: Our results showed that several extracts reduced the viral titer and cytopathogenic effects (CPE).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32360580&#34; target=&#34;_blank&#34;&gt;32360580&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The inhibitory effect of LS against SARS-CoV-2 replication in Vero E6 cells was evaluated by using the cytopathic effect (CPE) and plaque reduction assay.
+&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;/table&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr /&gt;
 &lt;/div&gt;
 </description>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hui Huang | PlatCOVID</title>
+    <link>/author/hui-huang/</link>
+      <atom:link href="/author/hui-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hui Huang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 23 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Hui Huang</title>
+      <link>/author/hui-huang/</link>
+    </image>
+    
+    <item>
+      <title>Pharmacological Therapeutics Targeting RNA-Dependent RNA Polymerase, Proteinase and Spike Protein: From Mechanistic Studies to Clinical Trials for COVID-19.</title>
+      <link>/publication/32326602/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32326602/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potential therapeutic effects of dipyridamole in the severely ill patients with COVID-19.</title>
+      <link>/publication/32318327/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32318327/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

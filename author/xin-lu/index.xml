@@ -5,12 +5,20 @@
     <link>/author/xin-lu/</link>
       <atom:link href="/author/xin-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Xin Lü</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Xin Lü</title>
       <link>/author/xin-lu/</link>
     </image>
+    
+    <item>
+      <title>Population flow drives spatio-temporal distribution of COVID-19 in China.</title>
+      <link>/publication/32349120/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32349120/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[Epidemiology, Treatment, and Epidemic Prevention and Control of the Coronavirus Disease 2019: a Review].</title>

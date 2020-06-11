@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/tissuepanel/salivary_gland/</link>
+      <atom:link href="/tissuepanel/salivary_gland/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/tissuepanel/salivary_gland/</link>
+    </image>
+    
+    <item>
+      <title>salivary gland</title>
+      <link>/tissuepanel/salivary_gland/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/tissuepanel/salivary_gland/info/</guid>
+      <description> 
+
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;tissue-sentence-context&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Tissue Sentence Context&lt;/h3&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;salivary gland&lt;/em&gt; tissue in 3 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Senteces
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32343454&#34; target=&#34;_blank&#34;&gt;32343454&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this communication, we present our approach to evaluation and triage of new patients with complaints concerning for salivary gland disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32361098&#34; target=&#34;_blank&#34;&gt;32361098&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE2 is present in the salivary gland duct epithelium, and thus it could be the target of 2019-nCoV and SARS-CoV. […] SARS-CoV-related animal model experiments show that it can infect the epithelial cells on the salivary gland duct in Chinese rhesus macaques by targeting ACE2. […] We hypothesize that the infection of 2019-nCoV and SARS-CoV will lead to inflammatory pathological lesions in patients’ target organs, and possibly inflammatory lesions in salivary glands. 2019-nCoV may cause acute sialoadenitis in the acute phase of infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32441816&#34; target=&#34;_blank&#34;&gt;32441816&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, researchers are yet to establish whether SARS-CoV-2 can directly enter the salivary glands. […] Therefore, this study aimed to assess the presence of ACE2/TMPRSS2 expression in salivary glands using publicly available databases. […] The distribution of ACE2 and TMPRSSs family in salivary gland tissue and other tissues was analyzed. […] The GTEx dataset was employed to explore the ACE2 and TMPRSS2 expression in various body organs and salivary glands in a healthy population. […] The single-cell sequencing data for salivary gland samples (including submandibular salivary gland and parotid gland) from mice were collected and analyzed. […] The components and proportions of salivary gland cells expressing the key protease TMPRSSs family were analyzed. […] Transcriptome data analysis showed that ACE2 and TMPRSS2 were expressed in salivary glands. […] Single-cell RNA sequence analysis indicated that TMPRSS2 was mainly expressed in salivary gland epithelial cells. […] We speculate that SARS-CoV-2 may be entered in salivary glands.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

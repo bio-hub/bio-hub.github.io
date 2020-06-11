@@ -5,12 +5,20 @@
     <link>/author/kailin-yang/</link>
       <atom:link href="/author/kailin-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Kailin Yang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Kailin Yang</title>
       <link>/author/kailin-yang/</link>
     </image>
+    
+    <item>
+      <title>Structural basis for the inhibition of SARS-CoV-2 main protease by antineoplastic drug carmofur.</title>
+      <link>/publication/32382072/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32382072/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Structure of M&lt;sup&gt;pro&lt;/sup&gt; from COVID-19 virus and discovery of its inhibitors.</title>

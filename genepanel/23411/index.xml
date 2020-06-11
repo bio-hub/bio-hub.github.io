@@ -780,7 +780,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of SIRT1 gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of SIRT1 gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -796,10 +796,18 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32267139
+&lt;a href=&#34;/publication/32267139&#34; target=&#34;_blank&#34;&gt;32267139&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Sirtuin 1 (SIRT1) and hsa-miR-217 has been identified to mediate the development of non-small cell lung cancer (NSCLC). […] We performed this study to investigate the roles of hsa-miR-217, its target SIRT1, as well as P53/KAI1 axis in the brain metastasis from NSCLC. […] Human pulmonary adenocarcinoma brain metastasis cell line PC-14/B were incubated and treated with constructed lentiviral plasmids expressing miR-217 and/or SIRT1. […] The targeted regulation of miR-217 to SIRT1 was examined using dual luciferase reporter assay. […] Cell proliferation, migration, invasion and the expression of relate proteins were detected to examine the effect of miR-217/SIRT1 expression on metastasis. […] PC-14/B cells expressed higher SIRT1 and lower p53 and KAI1 compared with BEAS-2B control cells (P&amp;lt;0.05). […] SIRT1 was a direct target of miR-217. […] MiR-217 expression suppressed PC-14/B cell invasion (P=0.004), migration (P=0.001) and proliferation (P&amp;lt;0.05), whereas SIRT1 overexpression reversed all processes. […] SIRT1 expression inhibited P53, KAI1/CD82, matrix metalloproteinase (MMP)-9 and β-catenin but upregulated E-cadherin protein. […] Hsa-miR-217 and its target SIRT1 acted as metastasis suppressor and promoter gene in NSCLC, respectively. […] The hsa-miR-217/SIRT1/P53/KAI1 metastasis regulatory pathway showed novel and crucial roles in brain metastasis from NSCLC.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32338224&#34; target=&#34;_blank&#34;&gt;32338224&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In turn, Sirt1 down-regulates AT1R expression via ACE2 up-regulation [43, 48].
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

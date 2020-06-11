@@ -5,12 +5,20 @@
     <link>/author/p-zhang/</link>
       <atom:link href="/author/p-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>P Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>P Zhang</title>
       <link>/author/p-zhang/</link>
     </image>
+    
+    <item>
+      <title>Recent advances of therapeutic targets and potential drugs of COVID-19.</title>
+      <link>/publication/32393419/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32393419/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clinical characteristics of COVID-19-infected cancer patients: A retrospective case study in three hospitals within Wuhan, China.</title>

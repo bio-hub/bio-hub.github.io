@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanjun Wang | PlatCOVID</title>
+    <link>/author/yanjun-wang/</link>
+      <atom:link href="/author/yanjun-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanjun Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Yanjun Wang</title>
+      <link>/author/yanjun-wang/</link>
+    </image>
+    
+    <item>
+      <title>Potent neutralizing antibodies against SARS-CoV-2 identified by high-throughput single-cell sequencing of convalescent patients&#39; B cells.</title>
+      <link>/publication/32425270/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32425270/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical and Autoimmune Characteristics of Severe and Critical Cases of COVID-19.</title>
+      <link>/publication/32315487/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32315487/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early detection of SARS-CoV-2 antibodies in COVID-19 patients as a serologic marker of infection.</title>
+      <link>/publication/32357209/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32357209/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

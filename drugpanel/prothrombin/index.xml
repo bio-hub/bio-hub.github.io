@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11311&#39; target=&#39;_blank&#39;&gt;db11311&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=prothrombin&#34; target=&#34;_blank&#34;&gt;prothrombin&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=zinc&#34; target=&#34;_blank&#34;&gt;zinc&lt;/a&gt; &lt;br&gt;
 Synonymous :coagulation factor ii (human) | coagulation factor ii human | factor ii | factor ii (prothrombin) | human coagulation factor ii
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :coagulation factor ii (human) | coagulation factor ii human | factor
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;prothrombin&lt;/em&gt; gene in 9 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;zinc&lt;/em&gt; gene in 15 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32031570
+&lt;a href=&#34;/publication/32031570&#34; target=&#34;_blank&#34;&gt;32031570&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Lymphopenia (lymphocyte count, 0.8 × 109/L [interquartile range {IQR}, 0.6-1.1]) occurred in 97 patients (70.3%), prolonged prothrombin time (13.0 seconds [IQR, 12.3-13.7]) in 80 patients (58%), and elevated lactate dehydrogenase (261 U/L [IQR, 182-403]) in 55 patients (39.9%).
@@ -57,7 +57,7 @@ Lymphopenia (lymphocyte count, 0.8 × 109/L [interquartile range {IQR}, 0.6-1.1]
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32073213
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32073213&#34; target=&#34;_blank&#34;&gt;32073213&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The overall mortality was 11.5%, the non-survivors revealed significantly higher D-dimer and fibrin degradation product (FDP) levels, longer prothrombin time and activated partial thromboplastin time compared to survivors on admission (P &amp;lt; .05); 71.4% of non-survivors and 0.6% survivors met the criteria of disseminated intravascular coagulation during their hospital stay.
@@ -65,7 +65,7 @@ The overall mortality was 11.5%, the non-survivors revealed significantly higher
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32153170
+&lt;a href=&#34;/publication/32153170&#34; target=&#34;_blank&#34;&gt;32153170&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Three cases had prothrombin activity (PTA) of ≤ 50%, 10 cases had elevated FDP, and 13 cases had elevated D-dimer, all of whom were severe or critically ill.
@@ -73,7 +73,7 @@ Three cases had prothrombin activity (PTA) of ≤ 50%, 10 cases had elevated FDP
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32164424
+&lt;a href=&#34;/publication/32164424&#34; target=&#34;_blank&#34;&gt;32164424&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Common presentations of confirmed cases include fever, fatigue, dry cough, upper airway congestion, sputum production, shortness of breath, myalgia/arthralgia with lymphopenia, prolonged prothrombin time, elevated C-reactive protein, and elevated lactate dehydrogenase.
@@ -81,7 +81,7 @@ Common presentations of confirmed cases include fever, fatigue, dry cough, upper
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32172226
+&lt;a href=&#34;/publication/32172226&#34; target=&#34;_blank&#34;&gt;32172226&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Compared with healthy controls, prothrombin time activity (PT-act) was lower in SARS-CoV-2 patients.
@@ -89,7 +89,7 @@ Compared with healthy controls, prothrombin time activity (PT-act) was lower in 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32220112
+&lt;a href=&#34;/publication/32220112&#34; target=&#34;_blank&#34;&gt;32220112&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The D-dimer, prothrombin time and age were positively, and platelet count was negatively, correlated with 28-day mortality in multivariate analysis.
@@ -97,7 +97,7 @@ The D-dimer, prothrombin time and age were positively, and platelet count was ne
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32220276
+&lt;a href=&#34;/publication/32220276&#34; target=&#34;_blank&#34;&gt;32220276&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Prothrombin time (PT) were prolonged in 4 patients.
@@ -105,7 +105,7 @@ Prothrombin time (PT) were prolonged in 4 patients.
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32287140
+&lt;a href=&#34;/publication/32287140&#34; target=&#34;_blank&#34;&gt;32287140&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Patients with digestive symptoms had higher mean liver enzyme levels, lower monocyte count, longer prothrombin time, and received more antimicrobial treatment than those without digestive symptoms.
@@ -113,10 +113,162 @@ Patients with digestive symptoms had higher mean liver enzyme levels, lower mono
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32291094
+&lt;a href=&#34;/publication/32291094&#34; target=&#34;_blank&#34;&gt;32291094&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Age (adjusted hazard ratio (aHR) 1.05/per year, 95%CI 1.004-1.01) and coagulopathy, defined as spontaneous prolongation of the prothrombin time &amp;gt; 3 s or activated partial thromboplastin time &amp;gt; 5 s (aHR 4.1, 95%CI 1.9-9.1), were independent predictors of thrombotic complications.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32297828&#34; target=&#34;_blank&#34;&gt;32297828&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Moreover, there were significant differences in prothrombin time, D-dimer, and fibrinogen levels between the mild group and the severe group (&lt;i&gt;p&lt;/i&gt; = 0.029, 0.006, and &amp;lt;0.001, respectively), and in lactate dehydrogenase and troponin (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001 and &lt;i&gt;p&lt;/i&gt; = 0.007, respectively). […] SARS-CoV-2 RNA load was positively correlated with IL-2R, prothrombin time, lactate dehydrogenase, and hypersensitive troponin T (&lt;i&gt;p&lt;/i&gt; = 0.002, &lt;i&gt;p&lt;/i&gt; = 0.009, and &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001, respectively).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32302438&#34; target=&#34;_blank&#34;&gt;32302438&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Platelet count was normal or increased, prothrombin time and activated partial thromboplastin time were near(normal).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32302459&#34; target=&#34;_blank&#34;&gt;32302459&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition to routine measurements of D-dimers, prothrombin time, and platelet count in all patients presenting with COVID-19 as per International Society on Thrombosis and Haemostasis (ISTH) guidance, monitoring of activated partial thromboplastin time (APTT) and fibrinogen levels should be considered in pregnancy, as highlighted in this report.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32302954&#34; target=&#34;_blank&#34;&gt;32302954&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We compared critically ill and noncritically ill patients: p-values for age, C-reactive protein, high-sensitivity troponin T, prothrombin time, fibrin degradation products, D-Dimer, and CD4+ count were p &amp;lt; 0.001; and p-values for hospital days, white blood cell, neutrophil, lymphocyte, creatine kinase isoenzyme, myoglobin, N-terminal brain natriuretic peptide, and CD8+ count were p &amp;lt; 0.05.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32305883&#34; target=&#34;_blank&#34;&gt;32305883&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Preliminary reports on COVID-19 patients’ clinical and laboratory findings include thrombocytopenia, elevated D-dimer, prolonged prothrombin time, and disseminated intravascular coagulation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32339221&#34; target=&#34;_blank&#34;&gt;32339221&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The initial coagulopathy of COVID-19 presents with prominent elevation of D-dimer and fibrin/fibrinogen degradation products, while abnormalities in prothrombin time, partial thromboplastin time, and platelet counts are relatively uncommon in initial presentations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32341519&#34; target=&#34;_blank&#34;&gt;32341519&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Prolongation of prothrombin times (PT) and elevation of fibrinogen degradation products (FDPs) and D-dimers (D-Ds) were detected in coagulation function tests, and more significant changes were observed in critical-type patients compared to severe-type patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32350161&#34; target=&#34;_blank&#34;&gt;32350161&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.01), prothrombin time (13.8 vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32391669&#34; target=&#34;_blank&#34;&gt;32391669&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The C-reactive protein (CRP) and IL-6 levels were significantly decreased and the lymphocyte and prothrombin time were improved in 3 patients after treatment with plasma exchange; while inflammation level was not significantly decreased, and lymphocyte and prothrombin time did not improve in 3 patients treated with tocilizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32392741&#34; target=&#34;_blank&#34;&gt;32392741&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For all patients, platelet count (PLT), prothrombin time (PT), activated thromboplastin time (aPTT), C-reactive protein (PCR), fibrinogen, and D-dimer were determined.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32394236&#34; target=&#34;_blank&#34;&gt;32394236&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+On ICU admission, prothrombin time was slightly reduced and it increased significantly at T10 (T0 = 65.1 ± 9.8 vs T10 = 85.7 ± 1.5, p = 0.002), while activated partial thromboplastin time and fibrinogen values were higher at T0 than T10 (32.2 ± 2.9 vs 27.2 ± 2.1, p = 0.017 and 895.1 ± 110 vs 332.5 ± 50, p = 0.002, respectively); moreover, whole blood thromboelastometry profiles were consistent with hypercoagulability characterized by an acceleration of the propagation phase of blood clot formation [i.e., CFT below the lower limit in INTEM 16/40 patients (40%) and EXTEM 20/40 patients (50%)] and significant higher clot strength [MCF above the upper limit in INTEM 20/40 patients (50%), in EXTEM 28/40 patients (70%) and in FIBTEM 29/40 patients (72.5%)]; however, this hypercoagulable state persists in the first five days, but it decreases ten day after, without returning to normal values.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32397915&#34; target=&#34;_blank&#34;&gt;32397915&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several studies have identified a link between severe COVID-19 patients and specific coagulation index, in particular, high D-dimer level, prolonged prothrombin time, and low PLT count.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32403255&#34; target=&#34;_blank&#34;&gt;32403255&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Liver anomalies were predominantly mild to moderately elevated transaminases, hypoalbuminemia and prolongation of prothrombin time.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32408391&#34; target=&#34;_blank&#34;&gt;32408391&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Most severe manifestations of COVID-19 cases, such as multiple organ failure and death, have been linked to coagulation dysfunction markers, such as platelet reduction and increases in prothrombin time, fibrin degradation products and, mainly, D-dimer [1].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32425003&#34; target=&#34;_blank&#34;&gt;32425003&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The prothrombin time was increased and the levels of platelet, hemoglobin, blood urea nitrogen (BUN), D-dimer, lactate dehydrogenase (LDH), and IL-6 were higher in IMV cases compared with NIV cases during hospitalization. […] Data showed that the rates of complications, dynamics of lymphocytopenia, and changes in levels of platelet, hemoglobin, BUN, D-dimer, LDH and IL-6, and prothrombin time in these ICU patients were significantly different between IMV and NIV cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32445489&#34; target=&#34;_blank&#34;&gt;32445489&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Meta-analysis of 20 retrospective studies (3428 patients), identified that patients with a severe manifestation of COVID-19 exhibited significantly higher levels of alanine aminotransferase, aspartate aminotransferase, and bilirubin values with prolonged prothrombin time.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32447934&#34; target=&#34;_blank&#34;&gt;32447934&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Prothrombin time was prolonged in 4 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32453702&#34; target=&#34;_blank&#34;&gt;32453702&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This condition is characterized by high levels of D-dimer and fibrinogen, prolonged prothrombin time and activated partial thromboplastin time.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32467443&#34; target=&#34;_blank&#34;&gt;32467443&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the initial phase of the infection, D-dimer and fibrinogen levels are increased, while activated partial prothrombin time, prothrombin time, and platelet counts are often relatively normal.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

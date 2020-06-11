@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Najmuj Sakib | PlatCOVID</title>
+    <link>/author/najmuj-sakib/</link>
+      <atom:link href="/author/najmuj-sakib/index.xml" rel="self" type="application/rss+xml" />
+    <description>Najmuj Sakib</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Najmuj Sakib</title>
+      <link>/author/najmuj-sakib/</link>
+    </image>
+    
+    <item>
+      <title>Psychometric Validation of the Bangla Fear of COVID-19 Scale: Confirmatory Factor Analysis and Rasch Analysis.</title>
+      <link>/publication/32395096/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32395096/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Abbott | PlatCOVID</title>
+    <link>/author/sam-abbott/</link>
+      <atom:link href="/author/sam-abbott/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sam Abbott</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Sam Abbott</title>
+      <link>/author/sam-abbott/</link>
+    </image>
+    
+    <item>
+      <title>The transmissibility of novel Coronavirus in the early stages of the 2019-20 outbreak in Wuhan: Exploring initial point-source exposure sizes and durations using scenario analysis.</title>
+      <link>/publication/32322691/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32322691/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

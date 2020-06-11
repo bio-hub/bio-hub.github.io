@@ -5,12 +5,36 @@
     <link>/author/jian-wang/</link>
       <atom:link href="/author/jian-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jian Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Jian Wang</title>
       <link>/author/jian-wang/</link>
     </image>
+    
+    <item>
+      <title>Clinical findings of patients with coronavirus disease 2019 in Jiangsu province, China: A retrospective, multi-center study.</title>
+      <link>/publication/32384078/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32384078/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal dynamics in viral shedding and transmissibility of COVID-19.</title>
+      <link>/publication/32296168/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32296168/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiological and clinical features of asymptomatic patients with SARS-CoV-2 infection.</title>
+      <link>/publication/32346873/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32346873/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clinical characteristics of a case series of children with coronavirus disease 2019.</title>

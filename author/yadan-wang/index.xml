@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yadan Wang | PlatCOVID</title>
+    <link>/author/yadan-wang/</link>
+      <atom:link href="/author/yadan-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yadan Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Yadan Wang</title>
+      <link>/author/yadan-wang/</link>
+    </image>
+    
+    <item>
+      <title>A Case of Coronavirus Disease 2019 With Concomitant Acute Cerebral Infarction and Deep Vein Thrombosis.</title>
+      <link>/publication/32390931/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32390931/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The duration of viral shedding of discharged patients with severe COVID-19.</title>
+      <link>/publication/32302000/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32302000/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

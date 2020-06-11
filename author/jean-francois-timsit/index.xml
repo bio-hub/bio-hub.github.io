@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean-François Timsit | PlatCOVID</title>
+    <link>/author/jean-francois-timsit/</link>
+      <atom:link href="/author/jean-francois-timsit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean-François Timsit</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Jean-François Timsit</title>
+      <link>/author/jean-francois-timsit/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of the QIAstat-Dx Respiratory SARS-CoV-2 Panel, the first rapid multiplex PCR commercial assay for SARS-CoV-2 detection.</title>
+      <link>/publication/32341142/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32341142/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hong Xu | PlatCOVID</title>
+    <link>/author/hong-xu/</link>
+      <atom:link href="/author/hong-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hong Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Hong Xu</title>
+      <link>/author/hong-xu/</link>
+    </image>
+    
+    <item>
+      <title>Consensus recommendations for the care of children receiving chronic dialysis in association with the COVID-19 epidemic.</title>
+      <link>/publication/32333285/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32333285/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiological characteristics and clinical features of 32 critical and 67 noncritical cases of COVID-19 in Chengdu.</title>
+      <link>/publication/32302954/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32302954/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Correlation between clinical classification of COVID-19 and imaging characteristics of MSCT volume scanning of the lungs].</title>
+      <link>/publication/32376573/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32376573/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quickly, effectively screening process of novel corona virus disease 2019 (COVID-19) in children in Shanghai, China.</title>
+      <link>/publication/32309388/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32309388/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

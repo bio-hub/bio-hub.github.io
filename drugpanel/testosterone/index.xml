@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/testosterone/</link>
+      <atom:link href="/drugpanel/testosterone/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/testosterone/</link>
+    </image>
+    
+    <item>
+      <title>TESTOSTERONE</title>
+      <link>/drugpanel/testosterone/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/testosterone/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00624&#39; target=&#39;_blank&#39;&gt;db00624&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
+Synonymous :17beta-hydroxy-4-androsten-3-one | 4-androsten-17β-ol-3-one | testosteron | testosterona | testosterone | testostérone | testosteronum | virosterone
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 80 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32331343&#34; target=&#34;_blank&#34;&gt;32331343&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition to this first aspect, the recent evidence of an increased frequency of venous thromboembolism in patients with COVID-19 (a clinical element associated with a worse prognosis) calls the attention on the safety of treatment with testosterone, in particular in hypogonadal men with greater genetic predisposition.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32340551&#34; target=&#34;_blank&#34;&gt;32340551&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results show high to a moderate binding affinity for the phytoestrogens (Diadiazin, Genistein, Formontein, and Biochanin A), chlorogenic acid, linolenic acid, palmitic acid, caffeic acid, caffeic acid phenethyl ester, hydroxytyrosol, cis-p-Coumaric acid, cinnamaldehyde, thymoquinone, and some physiological hormones such as estrogens, progesterone, testosterone, and cholesterol to the HSPA5 SBDβ.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32369678&#34; target=&#34;_blank&#34;&gt;32369678&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Therefore, we may speculate that the different hormonal milieu could have a more profound pathophysiological role in association with SARS-CoV-2, with endogenous testosterone leaving men more prone to develop more serious complications related to the SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32419720&#34; target=&#34;_blank&#34;&gt;32419720&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The relative lengths of the index (2D) and ring (4D) fingers (digit ratio; 2D:4D) is a sexually dimorphic (males &amp;lt; females) proxy of fetal sex steroids (low 2D:4D indicates high prenatal testosterone/low prenatal estrogen). […] At the national level, high mean 2D:4D (indicating low prenatal testosterone/high prenatal estrogen) is associated with high CFRs and percent male mortality.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32436355&#34; target=&#34;_blank&#34;&gt;32436355&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Epidemiological data showing a differential impact of SARS-CoV-2 infection on women and men has suggested a potential role for testosterone (T) in determining gender-disparity in the SARS-CoV-2 clinical outcomes. […] Several biochemical risk factors (i.e., blood count and leucocyte formula, C- Reactive Protein (CRP), procalcitonin (PCT), Lactic Dehydrogenase (LDH), Ferritin, D-Dimer, Fibrinogen, Interleukin 6 (IL-6)) as well as total testosterone (TT), calculated free T (cFT), Sex Hormone Binding Globulin (SHBG), and Luteinizing Hormone (LH) were determined.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32455629&#34; target=&#34;_blank&#34;&gt;32455629&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Discordant patterns of testosterone versus estradiol impacts on SARS-CoV-2 targets suggest a plausible molecular explanation of the apparently higher male mortality during the coronavirus pandemic. […] Estradiol, in contrast with testosterone, affects the expression of the majority of human genes (203 of 332; 61%) encoding SARS-CoV-2 targets, thus potentially interfering with functions of 26 of 27 SARS-CoV-2 viral proteins.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32470767&#34; target=&#34;_blank&#34;&gt;32470767&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The relative lengths of the index (2D) and ring (4D) fingers (digit ratio; 2D:4D) is a sexually dimorphic (males &amp;lt; females) proxy of fetal sex steroids (low 2D:4D indicates high prenatal testosterone/low prenatal estrogen). […] At the national level, high mean 2D:4D (indicating low prenatal testosterone/high prenatal estrogen) is associated with high CFRs and percent male mortality.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Saussez | PlatCOVID</title>
+    <link>/author/s-saussez/</link>
+      <atom:link href="/author/s-saussez/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Saussez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>S Saussez</title>
+      <link>/author/s-saussez/</link>
+    </image>
+    
+    <item>
+      <title>Sniffing out the evidence; It&#39;s now time for public health bodies recognize the link between COVID-19 and smell and taste disturbance.</title>
+      <link>/publication/32352450/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32352450/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acute urticaria with pyrexia as the first manifestations of a COVID-19 infection.</title>
+      <link>/publication/32329915/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32329915/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

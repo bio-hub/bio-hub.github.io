@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonio D&#39;Avolio | PlatCOVID</title>
+    <link>/author/antonio-davolio/</link>
+      <atom:link href="/author/antonio-davolio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antonio D&#39;Avolio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Antonio D&#39;Avolio</title>
+      <link>/author/antonio-davolio/</link>
+    </image>
+    
+    <item>
+      <title>25-Hydroxyvitamin D Concentrations Are Lower in Patients with Positive PCR for SARS-CoV-2.</title>
+      <link>/publication/32397511/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32397511/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and validation of a UHPLC-MS/MS method for quantification of the prodrug remdesivir and its metabolite GS-441524: a tool for clinical pharmacokinetics of SARS-CoV-2/COVID-19 and Ebola virus disease.</title>
+      <link>/publication/32361744/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32361744/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

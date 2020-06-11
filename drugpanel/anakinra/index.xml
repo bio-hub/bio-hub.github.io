@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00026&#39; target=&#39;_blank&#39;&gt;db00026&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=anakinra&#34; target=&#34;_blank&#34;&gt;anakinra&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=water&#34; target=&#34;_blank&#34;&gt;water&lt;/a&gt; &lt;br&gt;
 Synonymous :anakinra | il-1ra | interleukin-1 receptor antagonist anakinra
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :anakinra | il-1ra | interleukin-1 receptor antagonist anakinra
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;anakinra&lt;/em&gt; gene in 5 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;water&lt;/em&gt; gene in 60 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,10 +49,82 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32267081
+&lt;a href=&#34;/publication/32267081&#34; target=&#34;_blank&#34;&gt;32267081&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 To report the benefit of a therapeutic approach consisting of intravenous continuous anakinra (recombinant human interleukin-1 receptor antagonist) infusions in treating severely ill adult patients with secondary hemophagocytic lymphohistiocytosis/macrophage activation syndrome (sHLH/MAS). […] Continuous IV anakinra infusions up to 2400 mg/day resulted in rapid serologic, then clinical response in 4/5 severely ill patients who were refractory to all other therapies including subcutaneous anakinra. […] Subsequently, 3/5 have been maintained on anakinra or canakinumab with no recurrence of MAS. […] Continuous infusion of IV anakinra may result in rapid serologic and subsequent clinical improvement in adult patients with MAS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32410772&#34; target=&#34;_blank&#34;&gt;32410772&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thus, anti-proinflammatory cytokine drugs like Anakinra and Tocilizumab are undergoing multiple trials and some results are encouraging.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32411313&#34; target=&#34;_blank&#34;&gt;32411313&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we report on the treatment of eight severe COVID-19 pneumonia patients– seven hospitalized in intensive care units (ICUs) in Greece and one non-ICU patient in the Netherlands– with the interleukin-1 receptor antagonist Anakinra. […] These data suggest that administration of Anakinra may be beneficial for treating severe COVID-19 patients with sHLH as determined by the HScore and support the need for larger clinical studies to validate this concept.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32422376&#34; target=&#34;_blank&#34;&gt;32422376&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report the first successful treatment with the IL-1 receptor antagonist anakinra, in association with the most promising and available antiviral therapy, of a severe case of novel coronavirus disease 2019 (COVID-19). […] We describe the diagnosis, clinical course, and management of the case, including the respiratory failure at presentation, the progression to a scenario characterized by profound inflammatory dysregulation similar to that observed during macrophage activation syndrome, and the clinical improvement after treatment with the IL-1 receptor antagonist anakinra. […] This case highlights the high tolerability and the interesting immunomodulatory profile of the IL-1 receptor antagonist anakinra in the setting of severe COVID-19 associated with remdesivir therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32433778&#34; target=&#34;_blank&#34;&gt;32433778&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several drugs with anti-inflammatory properties (tocilizumab, siltuximab, sarilumab, anakinra, among others) have been suggested as adjuncts to supportive care in the management of COVID-19, and several clinical trials are underway (NCT04315298, NCT04317092, NCT04306705).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32437739&#34; target=&#34;_blank&#34;&gt;32437739&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This pilot study provides the first evidence of the safety of anti-IL-1 treatment with highdose IV anakinra in 5 patients, who experienced a positive outcome.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32437934&#34; target=&#34;_blank&#34;&gt;32437934&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We present here the case of a patient with critical COVID-19 successfully treated with IL-1 receptor antagonist (anakinra).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32438450&#34; target=&#34;_blank&#34;&gt;32438450&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+IL-1 blockage with anakinra has been shown to be safe and is associated with clinical improvement in patients with hyperinflammatory COVID-19 (Cavalli, et al 2020).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32441764&#34; target=&#34;_blank&#34;&gt;32441764&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PARPi’s may potentiate the effectiveness of Tocilizumab, Anakinra, Sarilumab, Adalimumab, Canakinumab or Siltuximab therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32470751&#34; target=&#34;_blank&#34;&gt;32470751&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thus, anti-proinflammatory cytokine drugs like Anakinra and Tocilizumab are undergoing multiple trials and some results are encouraging.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

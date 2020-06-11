@@ -220,7 +220,7 @@ Not detected
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of SI gene in 2 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of SI gene in 10 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -236,7 +236,7 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32007643
+&lt;a href=&#34;/publication/32007643&#34; target=&#34;_blank&#34;&gt;32007643&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We present estimates of the basic reproduction number, R&lt;sub&gt;0&lt;/sub&gt;, of 2019-nCoV in the early phase of the outbreak. […] With the estimated intrinsic growth rate (γ), we estimated R&lt;sub&gt;0&lt;/sub&gt; by using the serial intervals (SI) of two other well-known coronavirus diseases, MERS and SARS, as approximations for the true unknown SI. […] The mean estimate of R&lt;sub&gt;0&lt;/sub&gt; for the 2019-nCoV ranges from 2.24 to 3.58, and is significantly larger than 1.
@@ -244,10 +244,74 @@ We present estimates of the basic reproduction number, R&lt;sub&gt;0&lt;/sub&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32024089
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32024089&#34; target=&#34;_blank&#34;&gt;32024089&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The 2019-nCoV cases might have been under-reported roughly from 1 to 15 January 2020, and thus we estimated the number of unreported cases and the basic reproduction number, &lt;i&gt;R&lt;/i&gt;&lt;sub&gt;0&lt;/sub&gt;, of 2019-nCoV. […] We used the serial intervals (SI) of infection caused by two other well-known coronaviruses (CoV), Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS) CoVs, as approximations of the unknown SI for 2019-nCoV to estimate &lt;i&gt;R&lt;/i&gt;&lt;sub&gt;0&lt;/sub&gt;. […] The reporting rate after 17 January 2020 was likely to have increased 21-fold (95% CI: 18-25) in comparison to the situation from 1 to 17 January 2020 on average. […] The under-reporting was likely to have occurred during the first half of January 2020 and should be considered in future investigation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348050&#34; target=&#34;_blank&#34;&gt;32348050&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Consultations with patients with chronic diseases should ideally be done via telemedicine and treatments administered at home if possible. […] Les consultations avec les patients atteints de maladies chroniques devraient se faire idéalement par télémédecine et les traitements administrés à domicile si possible. […] En cas d’infection avérée, on aura tendance à diminuer voire interrompre les traitements immunomodulateurs ou biologiques sauf si la maladie est en phase sévèrement active.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348052&#34; target=&#34;_blank&#34;&gt;32348052&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The safety of NSAIDs, corticosteroids and renin-angiotensin inhibitors in COVID-19 is challenged. […] ACE inhibitors and sartans upregulate the expression of angiotensin-converting enzyme 2 (ACE2), the pulmonary receptor for SARS-CoV-2. […] Any possible clinical impact of these treatments on COVID-19 infection remains to be clarified; in the meantime, they should be continued. […] La sécurité des AINS, corticoïdes et antihypertenseurs agissant sur le système rénine-angiotensine lors d’infection à COVID-19 est mise en question. […] Les corticoïdes systémiques n’ont pas montré de bénéfice lors d’infections virales, y compris à d’autres coronavirus ; ils sont à éviter, sauf si prescrits pour une autre indication. […] Les IEC et les sartans modulent l’expression de l’enzyme de conversion de l’angiotensine 2 (ACE2), récepteur pulmonaire du SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348056&#34; target=&#34;_blank&#34;&gt;32348056&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The rapid progression of COVID-19 is an organizational challenge for all hospitals. […] To secure the patient overflow, the Department internal medicine of the University Hospital of Lausanne increased nurse and medical workforces as well as bed capacity by 65 %, with extraordinary help from other departments. […] The implemented crisis management stood upon three pillars : a crisis management team, steering documents and internal communication. […] In this new form, the Department had already taken care of 442 COVID-19 admissions by April 16, 2020. […] Alongside organizational challenges, clinical issues such as rapid respiratory distress, clinical suspicions with negative PCR and treatment uncertainties in the absence of sufficient evidence were overcome. […] La progression rapide du COVID-19 constitue un défi organisationnel pour tous les hôpitaux. […] Pour anticiper un afflux important de patients, le service de médecine interne du CHUV a ainsi augmenté ses forces de travail médico-soignantes et son nombre de lits de 65 % avec un soutien extraordinaire de toute l’institution. […] Si les enjeux organisationnels ont été majeurs, la gestion des situations complexes, comme les manifestations respiratoires et les multiples incertitudes cliniques diagnostiques et thérapeutiques, ont été également une gageure.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32399517&#34; target=&#34;_blank&#34;&gt;32399517&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this paper, we propose a SI(R) model in order to forecast the evolution of the epidemic under the hypothesis of not permanent immunity. […] This model offers an analytical solution to the problem of finding possible steady states, providing the following equilibrium values: Susceptible about 17%, Recovered (including deceased and healed) ranging from 79 to 81%, and Infected ranging from 2 to 4%. […] However, it is crucial to consider that the results concerning the recovered, which at first glance are particularly impressive, include the huge proportion of asymptomatic subjects. […] On the basis of these considerations, we analyse the situation in the province of Pesaro-Urbino, one of the main outbreaks of the epidemic in Italy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32432461&#34; target=&#34;_blank&#34;&gt;32432461&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since the outbreak of the severe respiratory disease caused by the novel coronavirus (COVID-19), the use of face masks has become ubiquitous worldwide to control the rapid spread of this pandemic. […] Although the surgical grade N95 mask provides the highest level of protection currently available, its filtration efficiency for sub-300 nm particles is around 85% due to its wider pore size (∼300 nm). […] We first developed a flexible nanoporous Si-based template on a silicon-on-insulator wafer using KOH etching and then used the template as a hard mask during a reactive ion etching process to transfer the patterns onto a flexible and lightweight (&amp;lt;0.12 g) polymeric membrane. […] Pores with sizes down to 5 nm were achieved with a narrow distribution. […] Theoretical calculations show that airflow rates above 85 L/min are possible through the mask, which confirms its breathability over a wide range of pore sizes, densities, membrane thicknesses, and pressure drops. […] Finally, the membrane is intrinsically hydrophobic, which contributes to antifouling and self-cleaning as a result of droplets rolling and sliding on the inclined mask area.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32442941&#34; target=&#34;_blank&#34;&gt;32442941&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We found an anti-inflammatory effect with reduction of longterm cardiovascular events, a very infrequent heart disease due to a lysosomal effect of the drug, and at the hemodynamic level hypotension, tachycardia, and QT interval prolongation, exacerbated when combined with azithromycin. […] Se realizó una revisión no sistemática en la literatura médica orientada a la búsqueda de información acerca de su seguridad y eficacia como antimaláricos y antivirales, así como en el tratamiento prolongado de enfermedades reumatológicas. […] Se halló un efecto antiinflamatorio con reducción de eventos cardiovasculares a largo plazo, una cardiopatía muy infrecuente por un efecto lisosomal del fármaco, y a nivel hemodinámico hipotensión, taquicardia, y prolongación del intervalo QT, exacerbado si se combina con azitromicina. […] Sin embargo, la tasa de eventos adversos cardíacos de la hidroxicloroquina y la cloroquina fue baja.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32452648&#34; target=&#34;_blank&#34;&gt;32452648&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Serial interval (SI), time between the symptom onsets of a primary case and a second case, is a key epidemiological parameter. […] We estimated SI of COVID-19 in Shenzhen, China based on 27 records of transmission chains. […] The three models were compared using the corrected Akaike information criterion (AICc). […] Using a Weibull distribution, we estimated mean SI at 5.9 days (95%CI: 3.9-9.6) and a standard deviation (SD) at 4.8 days (95%CI: 3.1-10.1). […] Using a logistic growth model, we estimated the basic reproduction number in Shenzhen at 2.6 (95%CI: 2.4-2.8). […] The SI of COVID-19 is relative shorter than that of SARS and MERS, other two beta coronavirus diseases, which suggests the iteration of the transmission was rapid.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32458823&#34; target=&#34;_blank&#34;&gt;32458823&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The new coronavirus disease is an infectious disease caused by the SARS-Cov-2 virus, considered by the World Health Organization (WHO) an international public health emergency that may have negative consequences during breastfeeding. […] The methodological quality of the articles has been assessed using the “Grading of Recommendations Assessment, Development and Evaluation” (GRADE). […] When direct breastfeeding is favoured, the appropriate respiratory hygiene measures always have to be considered. […] El nuevo coronavirus es una enfermedad infecciosa causada por el virus SARS-Cov-2, considerada por la Organización Mundial de la Salud (OMS) una emergencia de salud pública de interés internacional (ESPII), la cual podría tener consecuencias negativas durante la lactancia materna. […] Los estudios analizados afirmaron que lo mejor para el recién nacido es ser alimentado con la leche materna, ya que se analizaron muestras de leche de madres infectadas por coronavirus detectándose la presencia de anticuerpos del virus en las mismas, siendo un factor protector contra la infección del virus. […] La lactancia materna en recién paridas con SARS-CoV-2 es muy recomendable para el recién nacido, si el estado de salud de la madre y del neonato lo permiten, favoreciéndose el amamantamiento de forma directa y teniendo siempre las medidas adecuadas de higiene respiratoria. […] En el caso de que el estado de salud de la madre no permita el amamantamiento directo se debería alimentar con leche materna extraída previamente de su madre y sin pasteurizar, o procedente de un banco de leche.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

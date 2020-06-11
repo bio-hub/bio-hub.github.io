@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Campana | PlatCOVID</title>
+    <link>/author/andrea-campana/</link>
+      <atom:link href="/author/andrea-campana/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrea Campana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Andrea Campana</title>
+      <link>/author/andrea-campana/</link>
+    </image>
+    
+    <item>
+      <title>Lung Ultrasound in Children with COVID-19: Preliminary Findings.</title>
+      <link>/publication/32409232/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32409232/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

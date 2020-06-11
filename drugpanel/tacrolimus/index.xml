@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00864&#39; target=&#39;_blank&#39;&gt;db00864&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=tacrolimus&#34; target=&#34;_blank&#34;&gt;tacrolimus&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
 Synonymous :anhydrous tacrolimus | tacrolimus | tacrolimus anhydrous | tacrolimus, anhydrous
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :anhydrous tacrolimus | tacrolimus | tacrolimus anhydrous | tacrolimu
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;tacrolimus&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 80 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32256705
+&lt;a href=&#34;/publication/32256705&#34; target=&#34;_blank&#34;&gt;32256705&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Using Ovid MEDLINE, we reviewed current evidence for immune-suppressing or -stimulating drugs: cytotoxic chemotherapy, low-dose steroids, tumour necrosis factorα (TNFα) blockers, interlukin-6 (IL-6) blockade, Janus kinase (JAK) inhibitors, IL-1 blockade, mycophenolate, tacrolimus, anti-CD20 and CTLA4-Ig. 89 studies were included. […] Low-dose prednisolone and tacrolimus may have beneficial impacts on COVID-19.
@@ -57,10 +57,50 @@ Using Ovid MEDLINE, we reviewed current evidence for immune-suppressing or -stim
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32279418
+&lt;a href=&#34;/publication/32279418&#34; target=&#34;_blank&#34;&gt;32279418&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Immunosuppressant levels were closely monitored, and we observed very high tacrolimus trough levels despite initial dose reduction.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32337859&#34; target=&#34;_blank&#34;&gt;32337859&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, the unexpected fluctuations in tacrolimus trough levels needed to be managed because of drug-to-drug interaction.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32351040&#34; target=&#34;_blank&#34;&gt;32351040&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nine patients were on tacrolimus and a mycophenolic antimetabolite, and 70% were on prednisone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32362392&#34; target=&#34;_blank&#34;&gt;32362392&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Of these, 21.3% of recipients had pre-existing lymphopenia, and 87.2% of recipients had a therapeutic concentration of tacrolimus (5-12 ng/ml).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32400931&#34; target=&#34;_blank&#34;&gt;32400931&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+His maintenance immunosuppressive regime was consisted of tacrolimus (TAC, 1mg twice a day, orally), mycophenolate mofetil (MMF, 0.5g twice a day, orally) and prednisone (Pred, 5mg daily, orally) triple combination.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32471001&#34; target=&#34;_blank&#34;&gt;32471001&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tacrolimus was withdrawn in 70%.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

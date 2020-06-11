@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db13393&#39; target=&#39;_blank&#39;&gt;db13393&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=emetine&#34; target=&#34;_blank&#34;&gt;emetine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
 Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;emetine&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32245264
+&lt;a href=&#34;/publication/32245264&#34; target=&#34;_blank&#34;&gt;32245264&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 This article presents the rationale for potentially using old drugs (emetine, other ipecac alkaloids or analogues) that have been used to treat amoebiasis in the treatment of COVID-19. […] Emetine had amongst the lowest reported half-maximal effective concentration (EC&lt;sub&gt;50&lt;/sub&gt;) from over 290 agents screened for the Middle East respiratory syndrome (MERS) and severe acute respiratory syndrome (SARS) coronaviruses. […] While EC&lt;sub&gt;50&lt;/sub&gt; concentrations of emetine are achievable in the blood, studies show that concentrations of emetine can be almost 300 times higher in the lungs. […] Furthermore, based on the relative EC&lt;sub&gt;50&lt;/sub&gt;s of emetine towards the coronaviruses compared with &lt;i&gt;Entamoeba histolytica&lt;/i&gt;, emetine could be much more effective as an anti-coronavirus agent than it is against amoebiasis. […] This paper also discusses the known side effects of emetine and related compounds, how those side effects can be managed, and the optimal method of administration for the potential treatment of COVID-19. […] Given the serious and immediate threat that the COVID-19 coronavirus poses, our long history with emetine and the likely ability of emetine to reach therapeutic concentrations within the lungs, ipecac, emetine, and other analogues should be considered as potential treatment options, especially if in vitro studies confirm viral sensitivity.
@@ -57,10 +57,26 @@ This article presents the rationale for potentially using old drugs (emetine, ot
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32251767
+&lt;a href=&#34;/publication/32251767&#34; target=&#34;_blank&#34;&gt;32251767&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We report the antiviral effect of remdesivir, lopinavir, homorringtonine, and emetine against SARS-CoV-2 virus in Vero E6 cells with the estimated 50% effective concentration at 23.15 μM, 26.63 μM, 2.55 μM and 0.46 μM, respectively. […] Synergy between remdesivir and emetine was observed, and remdesivir at 6.25 μM in combination with emetine at 0.195 μM may achieve 64.9% inhibition in viral yield.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32362245&#34; target=&#34;_blank&#34;&gt;32362245&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All the studied molecules could bind to the active site of the SARS-CoV-2 protease (PDB: 6Y84), out of which rutin (a natural compound) has the highest inhibitor efficiency among the 33 molecules studied, followed by ritonavir (control drug), emetine (anti-protozoal), hesperidin (a natural compound), lopinavir (control drug) and indinavir (anti-viral drug).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32400323&#34; target=&#34;_blank&#34;&gt;32400323&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although in vitro studies are scarce, data regarding chloroquine and hydroxychloroquine, remdesivir, nitazoxanide, teicoplanin, ivermectin, lopinavir, homoharringtonine and emetine seem promising.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saeid Pashazadeh | PlatCOVID</title>
+    <link>/author/saeid-pashazadeh/</link>
+      <atom:link href="/author/saeid-pashazadeh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Saeid Pashazadeh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Saeid Pashazadeh</title>
+      <link>/author/saeid-pashazadeh/</link>
+    </image>
+    
+    <item>
+      <title>Comparative Global Epidemiological Investigation of SARS-CoV-2 and SARS-CoV Diseases Using Meta-MUMS Tool Through Incidence, Mortality, and Recovery Rates.</title>
+      <link>/publication/32331787/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32331787/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lara Gianesello | PlatCOVID</title>
+    <link>/author/lara-gianesello/</link>
+      <atom:link href="/author/lara-gianesello/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lara Gianesello</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Lara Gianesello</title>
+      <link>/author/lara-gianesello/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of coagulation function by rotation thromboelastometry in critically ill patients with severe COVID-19 pneumonia.</title>
+      <link>/publication/32394236/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32394236/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

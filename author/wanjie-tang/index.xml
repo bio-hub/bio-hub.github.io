@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wanjie Tang | PlatCOVID</title>
+    <link>/author/wanjie-tang/</link>
+      <atom:link href="/author/wanjie-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wanjie Tang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Wanjie Tang</title>
+      <link>/author/wanjie-tang/</link>
+    </image>
+    
+    <item>
+      <title>Prevalence and correlates of PTSD and depressive symptoms one month after the outbreak of the COVID-19 epidemic in a sample of home-quarantined Chinese university students.</title>
+      <link>/publication/32405111/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32405111/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

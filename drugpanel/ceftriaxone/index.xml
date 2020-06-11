@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01212&#39; target=&#39;_blank&#39;&gt;db01212&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ceftriaxone&#34; target=&#34;_blank&#34;&gt;ceftriaxone&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=remdesivir&#34; target=&#34;_blank&#34;&gt;remdesivir&lt;/a&gt; &lt;br&gt;
 Synonymous :ceftriaxona | ceftriaxone | ceftriaxonum | rocephin
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :ceftriaxona | ceftriaxone | ceftriaxonum | rocephin
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ceftriaxone&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;remdesivir&lt;/em&gt; gene in 116 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,10 +49,42 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32031570
+&lt;a href=&#34;/publication/32031570&#34; target=&#34;_blank&#34;&gt;32031570&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Most patients received antiviral therapy (oseltamivir, 124 [89.9%]), and many received antibacterial therapy (moxifloxacin, 89 [64.4%]; ceftriaxone, 34 [24.6%]; azithromycin, 25 [18.1%]) and glucocorticoid therapy (62 [44.9%]).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32329881&#34; target=&#34;_blank&#34;&gt;32329881&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients were also treated with anticoagulant therapy with Enoxaparin 4000 IU/day via subcutaneous injection, antiviral therapy with Lopinavir 800 mg/day + Ritonavir 200 mg/day, hydroxychloroquine 400 mg/day, ceftriaxone 2 g/day IV, vitamine C 6 g/day for 4 days, and were on Non-Invasive Ventilation (NIV).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32342677&#34; target=&#34;_blank&#34;&gt;32342677&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We experienced a case of severe thrombocytopenia with epistaxis and petechiae, while treating a COVID-19 patient with ceftriaxone, levofloxacin, and lopinavir/ritonavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32377468&#34; target=&#34;_blank&#34;&gt;32377468&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+She was treated with ceftriaxone and metronidazole.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32426242&#34; target=&#34;_blank&#34;&gt;32426242&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+She was treated with intravenous fluids, ceftriaxone, azithromycin, and hydroxychloroquine.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

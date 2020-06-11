@@ -5,12 +5,20 @@
     <link>/author/yan-liu/</link>
       <atom:link href="/author/yan-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yan Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Yan Liu</title>
       <link>/author/yan-liu/</link>
     </image>
+    
+    <item>
+      <title>Demographic science aids in understanding the spread and fatality rates of COVID-19.</title>
+      <link>/publication/32300018/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32300018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diagnostic utility of clinical laboratory data determinations for patients with the severe COVID-19.</title>

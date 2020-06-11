@@ -26,7 +26,7 @@
 &lt;h3&gt;Tissue Sentence Context&lt;/h3&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;breast&lt;/em&gt; tissue in 7 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;breast&lt;/em&gt; tissue in 32 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -42,7 +42,7 @@ Senteces
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32096395
+&lt;a href=&#34;/publication/32096395&#34; target=&#34;_blank&#34;&gt;32096395&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Breast dieases are clinical common diseases. […] In the central epidemic area of COVID-19, Hubei province, especially Wuhan, the clinical specialists of breast diseases should consider all of the following factors comprehensively: the prevention of COVID-19, the diagnosis and treatment of breast diseases and the accessibility of medical resources. […] Besides, we should select the appropriate therapy and optimize treatment process so as to prevent the propagation and cross infection of COVID-19 as well as manage the breast diseases without delay. […] Therefore, we carried out some management proposals of the patients with breast diseases in the central epidemic area during the epidemic of COVID-19 on the basis of conventional treatment guidelines and clinical experiences.
@@ -50,7 +50,7 @@ Breast dieases are clinical common diseases. […] In the central epidemic area 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32100979
+&lt;a href=&#34;/publication/32100979&#34; target=&#34;_blank&#34;&gt;32100979&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In order to prevent cluster outbreaks, the government strengthened the management and control of personnel mobility, which had a great impact on the examination and treatment of breast cancer patients. […] This paper discusses how to realize scientific health management of breast cancer patients outside the hospital based on the existing epidemic situation, characteristics of breast cancer patients and public health safety factors. […] The breast cancer patients should synthetically consider the epidemic prevention situation of inhabitance, the disease stage and previous therapeutic schedule to decide the next therapeutic schedule.
@@ -58,7 +58,7 @@ In order to prevent cluster outbreaks, the government strengthened the managemen
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32243068
+&lt;a href=&#34;/publication/32243068&#34; target=&#34;_blank&#34;&gt;32243068&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Besides the possible consequences of COVID-19 infection on a pregnant woman and the fetus, a major concern is related to the potential effect on neonatal outcome, the appropriate management of the mother-newborn dyad and finally the compatibility of maternal COVID-19 infection with breastfeeding. […] The Italian Society on Neonatology (SIN) after reviewing the limited scientific knowledge on the compatibility of breastfeeding in the COVID-19 mother and the available statements from Health Care Organizations, has issued the following indications that have been endorsed by the Union of European Neonatal &amp;amp; Perinatal Societies (UENPS). […] If a mother previously identified as COVID-19 positive or under investigation for COVID-19 is asymptomatic or paucisymptomatic at delivery, rooming-in is feasible and direct breastfeeding is advisable, under strict measures of infection control. […] On the contrary, when a mother with COVID-19 is too sick to care for the newborn, the neonate will be managed separately and fed fresh expressed breast milk, with no need to pasteurize it, as human milk is not believed to be a vehicle of COVID-19.
@@ -66,7 +66,7 @@ Besides the possible consequences of COVID-19 infection on a pregnant woman and 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32277836
+&lt;a href=&#34;/publication/32277836&#34; target=&#34;_blank&#34;&gt;32277836&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The wife (patient 1) was partially immunocompromised as a consequence of a recently started chemotherapy with fulvestrant and abemaciclid for recurring breast cancer, her husband (patient 2) had been healthy except for a history of controlled arterial hypertension.
@@ -74,7 +74,7 @@ The wife (patient 1) was partially immunocompromised as a consequence of a recen
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32285380
+&lt;a href=&#34;/publication/32285380&#34; target=&#34;_blank&#34;&gt;32285380&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 SARS-CoV-2 RT-PCR in breast milk and amniotic fluid was negative too.
@@ -82,7 +82,7 @@ SARS-CoV-2 RT-PCR in breast milk and amniotic fluid was negative too.
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32292842
+&lt;a href=&#34;/publication/32292842&#34; target=&#34;_blank&#34;&gt;32292842&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Breast radiotherapy accounts for a significant proportion of patient volume in contemporary radiation oncology practice. […] Here, we present evidence-based guidelines for omitting or abbreviating breast cancer radiotherapy, where appropriate, in an effort to mitigate risk to patients and optimize resource utilization. […] Multidisciplinary breast cancer experts at a high-volume comprehensive cancer center convened contingency planning meetings over the early days of the COVID-19 pandemic to review the relevant literature and establish recommendations for the application of hypofractionated and abbreviated breast radiation regimens. […] Substantial evidence exists to support omitting radiation among certain favorable risk subgroups of breast cancer patients and for abbreviating or accelerating regimens among others. […] For those who require either whole-breast or post-mastectomy radiation, with or without coverage of the regional lymph nodes, a growing body of literature supports various hypofractionated approaches that appear safe and effective. […] In the setting of a public health emergency with the potential to strain critical healthcare resources and place patients at infection risk, the parsimonious application of breast radiotherapy may alleviate a significant clinical burden without compromising long term oncologic outcomes.
@@ -90,10 +90,210 @@ Breast radiotherapy accounts for a significant proportion of patient volume in c
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32294229
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32294229&#34; target=&#34;_blank&#34;&gt;32294229&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Encouragement of breast feeding appears possible and safe when viral precautions are observed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32304265&#34; target=&#34;_blank&#34;&gt;32304265&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The working parties of TROG (head/neck/skin, genitourinary, breast and lung) were also sampled.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32305459&#34; target=&#34;_blank&#34;&gt;32305459&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The nucleic acid test from the mother’s amniotic fluid, vaginal secretions, cord blood, placenta, serum, anal swab, and breast milk were also negative.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32312717&#34; target=&#34;_blank&#34;&gt;32312717&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+During the emergency, the percentage of cytology samples reported as malignant increased (p&amp;lt;0.001), reflecting higher percentages of breast (p=0.002) and lymph nodes FNAs (p=0.008), effusions (p&amp;lt;0.001) and urine (p=0.005).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32333293&#34; target=&#34;_blank&#34;&gt;32333293&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The COVID-19 pandemic presents clinicians a unique set of challenges in managing breast cancer (BC) patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32334323&#34; target=&#34;_blank&#34;&gt;32334323&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this manuscript we provide guidance to prepare for the impact of COVID-19 pandemic on breast cancer patients and advise on how to triage, prioritize and organize diagnostic procedures, surgical, radiation and medical treatments.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32359937&#34; target=&#34;_blank&#34;&gt;32359937&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The purpose of this study was to highlight the importance of timely brachytherapy treatment for patients with gynecologic, breast, and prostate malignancies, and provide a framework for brachytherapy clinical practice and management in response to the COVID-19 pandemic. […] We review amassing evidence to help guide the management and timing of brachytherapy for gynecologic, breast, and prostate cancers. […] Delay of prostate or breast cancer treatment may also impact oncologic outcomes. […] Every effort should be made to ensure timely brachytherapy delivery for patients with gynecologic malignancies, and endocrine therapy may help temporize treatment delays for breast and prostate cancer patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32368252&#34; target=&#34;_blank&#34;&gt;32368252&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The epidemiological emergency caused by CoV-2 (COVID-19) has changed priorities in breast cancer management. […] In this scenario, neoadjuvant endocrine treatment could be an appropriate alternative treatment for hormone receptor positive breast cancer (luminal-like tumours) in order to minimise hospital admissions and to delay elective surgeries. […] Accordingly, we present a simple protocol that can be applied to most cases of luminal-like breast cancer and is appropriate for the majority of secondary or tertiary medical centres, or even primary care.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32369656&#34; target=&#34;_blank&#34;&gt;32369656&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To assess whether vaginal secretions and breast milk of women with coronavirus disease 2019 (COVID-19) contain severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). […] We collected clinical data, vaginal secretions, stool specimens and breast milk from SARS-CoV-2-infected women during different stages of pregnancy and collected neonatal throat and anal swabs. […] However, one of three samples of breast milk was positive by viral nucleic acid testing. […] However, additional research is urgently needed to examine breast milk and the potential risk for viral contamination. […] New evidence for the safety of vaginal delivery and breastfeeding in pregnant women infected with SARS-CoV-2, positive viral result in a breast-milk sample.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32376317&#34; target=&#34;_blank&#34;&gt;32376317&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sars-cov-2 could be recovered by real-time (RT) PCR from nasal and throat swabs, sputum and feces of symptomatic patients including neonates but not from vaginal swabs, amniotic fluid, placenta, cord blood, neonatal blood or breast milk.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32410141&#34; target=&#34;_blank&#34;&gt;32410141&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In normal tissues, ACE2 expression distributions were organ-specific, mainly in the kidney, male testis and female breast, and cardiovascular and gastrointestinal systems.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32412693&#34; target=&#34;_blank&#34;&gt;32412693&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this article, we attempt to estimate the individual risk-benefit balance to define personalized strategies for optimal breast cancer management, avoiding as much as possible a general untailored approach. […] We discuss and report the strategies our Breast Unit adopted from the beginning of the COVID-19 outbreak to ensure the continuum of the best possible cancer care for our patients while mitigating the risk of infection, despite limited health care resources. […] IMPLICATIONS FOR PRACTICE: Managing patients with breast cancer during the COVID-19 outbreak is challenging. […] The management of patients with breast cancer should be adapted and personalized according to the balance between COVID-19-related risk and the expected benefit of treatments.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32412811&#34; target=&#34;_blank&#34;&gt;32412811&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Delay requirements were statistically more frequent among patients with prostate or breast cancer compared with those with lung or pancreatic cancer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32417675&#34; target=&#34;_blank&#34;&gt;32417675&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Vertical transmission and virus shedding in breast milk are yet to be established.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32424589&#34; target=&#34;_blank&#34;&gt;32424589&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The COVID-19 pandemic has overlapped with the scheduled interview periods of over 20 surgical subspecialty fellowships, including the Complex General Surgical Oncology (CGSO) fellowships in the National Resident Matching Program and the Society of Surgical Oncology’s Breast Surgical Oncology fellowships.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32430459&#34; target=&#34;_blank&#34;&gt;32430459&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other diseases/traits having nominal significant associations with increased expression included inflammatory bowel disease, (estrogen receptor-positive) breast cancer, lung cancer, asthma, smoking, and elevated alanine aminotransferase.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32430957&#34; target=&#34;_blank&#34;&gt;32430957&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All six and 22 cases that had nucleic-acid testing in vaginal mucus and breast milk samples, respectively, were negative for SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32439716&#34; target=&#34;_blank&#34;&gt;32439716&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The prioritisation of high value cancer interventions must be embedded in the agenda for the pandemic response, ensuring that no inconsistency or discrepancy emerge in the health planning processes.The aim of this work is to organise health interventions for breast cancer management and research in a tiered framework (high, medium, low value), formulating a scheme of prioritisation per clinical cogency and intrinsic value or magnitude of benefit. […] Considerations for implementation and the essential link to pre-existing health services, especially primary healthcare, are addressed, outlining a framework for the development of effective and functional services, such as telemedicine.The discussion covers the theme of health systems strategising, and why oncology care, in particular breast cancer care, should be maintained in parallel to pandemic control measures, providing a pragmatic clinical model within the broader context of public healthcare schemes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32449757&#34; target=&#34;_blank&#34;&gt;32449757&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Caring for older patients with breast cancer presents unique clinical considerations due to preexisting and competing comorbidity, the potential for treatment-related toxicity, and the consequent impact on functional status. […] Herein, we propose multidisciplinary care considerations for the aging patient with breast cancer, with the goal to promote a team-based, multidisciplinary treatment approach during the COVID-19 pandemic and beyond. […] These considerations remain relevant as we navigate the ‘new normal’ for the approximately 30% of breast cancer patients age ≥70 years who are diagnosed in the U.S. annually and for the thousands of older patients living with recurrent and/or metastatic disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32452195&#34; target=&#34;_blank&#34;&gt;32452195&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As the virus is absent in breast milk, the experts encourage breastfeeding for neonatal acquisition of protective antibodies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32452700&#34; target=&#34;_blank&#34;&gt;32452700&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+During the COVID-19 pandemic, breast imaging must be performed using safe practices. […] Balancing the need to avoid delays in the diagnosis of breast cancer while avoiding infection requires careful attention to personal protective equipment and physical distancing and vigilance to maintain these practices. […] The Canadian Society of Breast Imaging/Canadian Association of Radiologists guideline for breast imaging during COVID-19 is provided based on priority according to risk of breast cancer and impact of delaying treatment. […] A review of the best practices is presented that allow breast imaging during COVID-19 to maximize protection of patients, technologists, residents, fellows, and radiologists and minimize spread of the infection. […] The collateral damage of delaying diagnosis of breast cancer due to COVID-19 should be avoided when possible.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32454807&#34; target=&#34;_blank&#34;&gt;32454807&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Studies that tested breast milk reported negative SARS-CoV-2 results. […] Current literature does not support abstaining from breastfeeding nor separating mothers and newborns.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32454808&#34; target=&#34;_blank&#34;&gt;32454808&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A rapid systematic review was carried out to evaluate the current evidence related to the presence of SARS-CoV-2 in breast milk from pregnant women with COVID-19. […] Eight studies analyzing the presence of SARS-CoV-2 RNA in the breast milk of 24 pregnant women with COVID-19 during the third trimester of pregnancy were found. […] No breast milk samples were positive for SARS-CoV-2 and, to date, there is no evidence on the presence of SARS-CoV-2 in breast milk of pregnant women with COVID-19. […] However, data are still limited and breastfeeding of women with COVID-19 remains a controversial issue. […] There are no restrictions on the use of milk from a human breast milk bank.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32458823&#34; target=&#34;_blank&#34;&gt;32458823&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The new coronavirus disease is an infectious disease caused by the SARS-Cov-2 virus, considered by the World Health Organization (WHO) an international public health emergency that may have negative consequences during breastfeeding. […] The objective of this work is to investigate the action plan on breastfeeding in postpartum women with SARS-CoV-2 and her newborn. […] The analyzed investigations state that it is best for the newborn to be breastfed; given that mother’s milk samples were analyzed, detecting the presence of antibodies of the coronavirus in them, being a protective factor against infection. […] Breastfeeding in postpartum women with SARS-CoV-2 is highly recommended for the newborn, if the health of the mother and newborn allow it. […] When direct breastfeeding is favoured, the appropriate respiratory hygiene measures always have to be considered. […] Whether the mother’s health does not permit direct breastfeeding, her breast milk should be previously extracted and kept unpasteurized.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32460829&#34; target=&#34;_blank&#34;&gt;32460829&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report the characteristics and outcome of patients diagnosed with COVID-19 during breast cancer treatment at Institut Curie hospitals (ICH, Paris area, France). […] An IRB-approved prospective registry was set up at ICH on March 13, 2020, for all breast cancer patients with COVID-19 symptoms or radiologic signs. […] Among 15,600 patients actively treated for early or metastatic breast cancer during the last 4 months at ICH, 76 patients with suspected COVID-19 infection were included in the registry and followed. […] Fifty-nine of these patients were diagnosed with COVID-19 based on viral RNA testing (N = 41) or typical radiologic signs: 37/59 (63%) COVID-19 patients were treated for metastatic breast cancer, and 13/59 (22%) of them were taking corticosteroids daily. […] This prospective registry analysis suggests that the COVID-19 mortality rate in breast cancer patients depends more on comorbidities than prior radiation therapy or current anti-cancer treatment. […] Special attention must be paid to comorbidities when estimating the risk of severe COVID-19 in breast cancer patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32471115&#34; target=&#34;_blank&#34;&gt;32471115&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is now accepted that all the components of the RAS endocrine system are expressed in cancer, including cancer of the breast. […] Breast cancer (BC) is a multifactorial pathology for which there is a continuous need to identify novel drugs.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlotte Kiekens | PlatCOVID</title>
+    <link>/author/carlotte-kiekens/</link>
+      <atom:link href="/author/carlotte-kiekens/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carlotte Kiekens</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Carlotte Kiekens</title>
+      <link>/author/carlotte-kiekens/</link>
+    </image>
+    
+    <item>
+      <title>Living with a disability during the pandemic. Instant paper from the field on rehabilitation answers to the COVID-19 emergency.</title>
+      <link>/publication/32406226/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32406226/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Up to 2.2 million people experiencing disability suffer collateral damage each day of Covid-19 lockdown in Europe.</title>
+      <link>/publication/32383576/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32383576/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

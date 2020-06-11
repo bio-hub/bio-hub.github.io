@@ -30,7 +30,7 @@ OMIM: &lt;a href=&#39;https://omim.org/entry/151530&#39; target=&#39;_blank&#39;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;Aminopeptidase N is located in the small-intestinal and renal microvillar membrane, and also in other plasma membranes. In the small intestine aminopeptidase N plays a role in the final digestion of peptides generated from hydrolysis of proteins by gastric and pancreatic proteases. Its function in proximal tubular epithelial cells and other cell types is less clear. The large extracellular carboxyterminal domain contains a pentapeptide consensus sequence characteristic of members of the zinc-binding metalloproteinase superfamily. Sequence comparisons with known enzymes of this class showed that CD13 and aminopeptidase N are identical. The latter enzyme was thought to be involved in the metabolism of regulatory peptides by diverse cell types, including small intestinal and renal tubular epithelial cells, macrophages, granulocytes, and synaptic membranes from the CNS. Human aminopeptidase N is a receptor for one strain of human coronavirus that is an important cause of upper respiratory tract infections. Defects in this gene appear to be a cause of various types of leukemia or lymphoma. [provided by RefSeq, Jul 2008] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;Aminopeptidase N is located in the small-intestinal and renal microvillar membrane, and also in other plasma membranes. In the small intestine aminopeptidase N plays a role in the final digestion of peptides generated from hydrolysis of proteins by gastric and pancreatic proteases. Its function in proximal tubular epithelial cells and other cell types is less clear. The large extracellular carboxyterminal domain contains a pentapeptide consensus sequence characteristic of members of the zinc-binding metalloproteinase superfamily. Sequence comparisons with known enzymes of this class showed that CD13 and aminopeptidase N are identical. The latter enzyme was thought to be involved in the metabolism of regulatory peptides by diverse cell types, including small intestinal and renal tubular epithelial cells, macrophages, granulocytes, and synaptic membranes from the CNS. This membrane-bound zinc metalloprotease is known to serve as a receptor for the HCoV-229E alphacoronavirus as well as other non-human coronaviruses. This gene has also been shown to promote angiogenesis, tumor growth, and metastasis and defects in this gene are associated with various types of leukemia and lymphoma. [provided by RefSeq, Apr 2020] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
@@ -682,7 +682,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of ANPEP gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of ANPEP gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -698,10 +698,26 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32199615
+&lt;a href=&#34;/publication/32199615&#34; target=&#34;_blank&#34;&gt;32199615&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Intriguingly, we found that the candidate co-receptors, manifesting the most similar expression patterns with ACE2 across 13 human tissues, are all peptidases, including ANPEP, DPP4 and ENPEP. […] Among them, ANPEP and DPP4 are the known receptors for human CoVs, suggesting ENPEP as another potential receptor for human CoVs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32374427&#34; target=&#34;_blank&#34;&gt;32374427&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, a total of 38 conjunctival samples from 38 patients, including 12 healthy conjunctiva, 12 melanoma, 7 squamous cell carcinoma and 7 papilloma samples, were analyzed using high-throughput RNA sequencing to assess mRNA expression of the SARS-CoV-2 receptor ACE2 and its cofactors including TMPRSS2, ANPEP, DPP4, and ENPEP.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32463365&#34; target=&#34;_blank&#34;&gt;32463365&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We find the gut as the putative hotspot of COVID-19, where a maturation correlated transcriptional signature is shared in small intestine enterocytes among coronavirus receptors(ACE2, DPP4, ANPEP).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

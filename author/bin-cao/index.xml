@@ -5,12 +5,36 @@
     <link>/author/bin-cao/</link>
       <atom:link href="/author/bin-cao/index.xml" rel="self" type="application/rss+xml" />
     <description>Bin Cao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Bin Cao</title>
       <link>/author/bin-cao/</link>
     </image>
+    
+    <item>
+      <title>Remdesivir in adults with severe COVID-19: a randomised, double-blind, placebo-controlled, multicentre trial.</title>
+      <link>/publication/32423584/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32423584/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 and viral sepsis: observations and hypotheses.</title>
+      <link>/publication/32311318/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32311318/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guidance for the management of adult patients with coronavirus disease 2019.</title>
+      <link>/publication/32366746/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32366746/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Trial of Lopinavir-Ritonavir in Adults Hospitalized with Severe Covid-19.</title>

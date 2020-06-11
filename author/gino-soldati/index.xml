@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gino Soldati | PlatCOVID</title>
+    <link>/author/gino-soldati/</link>
+      <atom:link href="/author/gino-soldati/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gino Soldati</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Gino Soldati</title>
+      <link>/author/gino-soldati/</link>
+    </image>
+    
+    <item>
+      <title>Contrast-Enhanced Ultrasound in Patients With COVID-19: Pneumonia, Acute Respiratory Distress Syndrome, or Something Else?</title>
+      <link>/publication/32395910/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32395910/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning for classification and localization of COVID-19 markers in point-of-care lung ultrasound.</title>
+      <link>/publication/32406829/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32406829/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Diagnosis of Pneumonia in a Pregnant Woman with COVID-19 Using Maternal Lung Ultrasound.</title>
+      <link>/publication/32360111/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32360111/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00916&#39; target=&#39;_blank&#39;&gt;db00916&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=metronidazole&#34; target=&#34;_blank&#34;&gt;metronidazole&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=chloroquine&#34; target=&#34;_blank&#34;&gt;chloroquine&lt;/a&gt; &lt;br&gt;
 Synonymous :1-(2-hydroxy-1-ethyl)-2-methyl-5-nitroimidazole | 1-(2-hydroxyethyl)-2-methyl-5-nitroimidazole | 1-(β-ethylol)-2-methyl-5-nitro-3-azapyrrole | 1-(β-hydroxyethyl)-2-methyl-5-nitroimidazole | 1-(β-oxyethyl)-2-methyl-5-nitroimidazole | 2-methyl-1-(2-hydroxyethyl)-5-nitroimidazole | 2-methyl-3-(2-hydroxyethyl)-4-nitroimidazole | 2-methyl-5-nitroimidazole-1-ethanol | metronidazol | métronidazole | metronidazole | metronidazolum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :1-(2-hydroxy-1-ethyl)-2-methyl-5-nitroimidazole | 1-(2-hydroxyethyl)
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;metronidazole&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;chloroquine&lt;/em&gt; gene in 158 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,10 +49,26 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32259129
+&lt;a href=&#34;/publication/32259129&#34; target=&#34;_blank&#34;&gt;32259129&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In this context, both &lt;i&gt;in vitro&lt;/i&gt; and &lt;i&gt;in vivo&lt;/i&gt; studies have revealed that metronidazole could decrease the levels of several cytokines, which are known to increase during the COVID-19 infection, including interleukin (IL)8, IL6, IL1B, tumor necrosis factor (TNF)α, IL12, IL1α, and interferon (IFN)γ, as well as the levels of C-reactive protein (CRP) and neutrophil count. […] Metronidazole could counteract majority of the immunopathological manifestations of the COVID-19 infection. […] Therefore, studies with a large sample size are required to determine the efficacy of metronidazole in the treatment of COVID-19 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32377468&#34; target=&#34;_blank&#34;&gt;32377468&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+She was treated with ceftriaxone and metronidazole.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32400349&#34; target=&#34;_blank&#34;&gt;32400349&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Subsequent investigation by liquid chromatography and mass spectrometry in Germany proved the absence of detectable amounts of chloroquine and the presence of undeclared active pharmaceutical ingredients, that is, paracetamol and metronidazole, in four of the samples.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

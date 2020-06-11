@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/diazepam/</link>
+      <atom:link href="/drugpanel/diazepam/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/diazepam/</link>
+    </image>
+    
+    <item>
+      <title>DIAZEPAM</title>
+      <link>/drugpanel/diazepam/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/diazepam/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00829&#39; target=&#39;_blank&#39;&gt;db00829&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
+Synonymous :7-chloro-1,3-dihydro-1-methyl-5-phenyl-2h-1,4-benzodiazepin-2-one | diazepam | methyl diazepinone
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32356252&#34; target=&#34;_blank&#34;&gt;32356252&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These two medications may precipitate ventricular dysrhythmias, necessitating cardiac and electrolyte monitoring, and in severe cases, treatment with epinephrine and high-doses of diazepam.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32387575&#34; target=&#34;_blank&#34;&gt;32387575&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Section 2 of the 2019 World Health Organization (WHO) Model List of Essential Medicines includes opioid analgesics formulations commonly used for the control of pain and respiratory distress, as well as sedative and anxiolytic substances such as midazolam and diazepam.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32415690&#34; target=&#34;_blank&#34;&gt;32415690&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Protocols for the management of poisoning recommend diazepam, although there are uncertainties in its pharmacology and efficacy in this context. […] The aim was to assess the effects of diazepam in experimental models of chloroquine cardiotoxicity. […] In vitro experiments involved cardiac tissues isolated from rats and incubated with chloroquine, alone, or in combination with diazepam. […] Randomised, controlled interventional studies in rats assessed diazepam, clonazepam and Ro5-4864 administered: (i) prior, (ii) during, and (iii) after chloroquine; and the effects of diazepam: (iv) at high dose, (v) in urethane-anaesthetised rats, and (vi) co-administered with adrenaline. […] Diazepam increased heart rate in study (iv) and, as with clonazepam, also prolonged the QTc interval in study (iii). […] Combined administration of diazepam and adrenaline in study (vi) improved cardiac contractility but caused hypokalaemia. […] Neither diazepam, nor other ligands for benzodiazepine binding sites, protect against or attenuate chloroquine cardiotoxicity. […] However, diazepam may augment the effe cts of positive inotropes in reducing chloroquine cardiotoxicity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32457932&#34; target=&#34;_blank&#34;&gt;32457932&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The treatment of CQ/HCQ poisoning includes high-dose intravenous diazepam postulated to have positive ionotropic and antidysrhythmic properties that may antagonize the cardiotoxic effects of CQ.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

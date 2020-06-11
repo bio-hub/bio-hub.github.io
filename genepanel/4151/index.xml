@@ -30,7 +30,7 @@ OMIM: &lt;a href=&#39;https://omim.org/entry/160000&#39; target=&#39;_blank&#39;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a member of the globin superfamily and is expressed in skeletal and cardiac muscles. The encoded protein is a haemoprotein contributing to intracellular oxygen storage and transcellular facilitated diffusion of oxygen. At least three alternatively spliced transcript variants encoding the same protein have been reported. [provided by RefSeq, Jul 2008] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a member of the globin superfamily and is predominantly expressed in skeletal and cardiac muscles. The encoded protein forms a monomeric globular haemoprotein that is primarily responsible for the storage and facilitated transfer of oxygen from the cell membrane to the mitochondria. This protein also plays a role in regulating physiological levels of nitric oxide. Multiple transcript variants encoding distinct isoforms exist for this gene. [provided by RefSeq, May 2020] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
@@ -542,7 +542,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of MB gene in 3 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of MB gene in 9 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -558,7 +558,7 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32220650
+&lt;a href=&#34;/publication/32220650&#34; target=&#34;_blank&#34;&gt;32220650&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Since December, 2019, an outbreak of coronavirus disease 2019 (COVID-19) has spread globally. […] The route of transmission was by close contact with family members (32 [89%]) or a history of exposure to the epidemic area (12 [33%]); eight (22%) patients had both exposures. 19 (53%) patients had moderate clinical type with pneumonia; 17 (47%) had mild clinical type and either were asymptomatic (ten [28%]) or had acute upper respiratory symptoms (seven [19%]). […] Typical abnormal laboratory findings were elevated creatine kinase MB (11 [31%]), decreased lymphocytes (11 [31%]), leucopenia (seven [19%]), and elevated procalcitonin (six [17%]). […] Besides radiographic presentations, variables that were associated significantly with severity of COVID-19 were decreased lymphocytes, elevated body temperature, and high levels of procalcitonin, D-dimer, and creatine kinase MB.
@@ -566,7 +566,7 @@ Since December, 2019, an outbreak of coronavirus disease 2019 (COVID-19) has spr
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32232979
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32232979&#34; target=&#34;_blank&#34;&gt;32232979&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In this study, we detected and analyzed the main laboratory indicators related to heart injury, creatine kinase isoenzyme-MB (CK-MB), myohemoglobin (MYO), cardiac troponin I (ultra-TnI), and N-terminal pro-brain natriuretic peptide (NT-proBNP), in 273 patients with COVID-19 and investigated the correlation between heart injury and severity of the disease. […] It was found that higher concentration in venous blood of CK-MB, MYO, ultra-TnI, and NT-proBNP were associated with the severity and case fatality rate of COVID-19.
@@ -574,10 +574,58 @@ In this study, we detected and analyzed the main laboratory indicators related t
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32267000
+&lt;a href=&#34;/publication/32267000&#34; target=&#34;_blank&#34;&gt;32267000&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In this retrospective, single center study authors have discussed the role of acute cardiovascular injury marker including CK-MB, Myoglobulin, cardiac troponin I (cTnI) and NT- proBNP on the outcome of 273 patients with COVID-19 disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32305557&#34; target=&#34;_blank&#34;&gt;32305557&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed a systematic literature search across Pubmed, Embase and pre-print from December 1, 2019 to March 27, 2020, to identify all observational studies that reported cardiac specific biomarkers (troponin, creatine kinase-MB fraction, myoglobin, or NT-proBNP) during COVID-19 infection. […] More severe COVID-19 infection is associated with higher mean troponin (SMD 0.53, 95% CI 0.30 to 0.75, p &amp;lt; 0.001), with a similar trend for creatine kinase-MB, myoglobin, and NT-proBNP.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32312363&#34; target=&#34;_blank&#34;&gt;32312363&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+An increase in alanine aminotransferase was observed in 11 children (9.6%) and an increase in CK-MB was found in 34 children (29.6%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32418216&#34; target=&#34;_blank&#34;&gt;32418216&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+With the rapid increase in the number of infections, children with COVID-19 appear to be rising. […] Moreover, elevated creatine kinase MB isoenzyme (CK-MB) was much more commonly observed in children (27.0%) than that in adults, suggesting that heart injury would be more likely to happen in pediatric patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32446795&#34; target=&#34;_blank&#34;&gt;32446795&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with diabetes had significantly higher leucocyte and neutrophil counts, and higher levels of fasting blood glucose, serum creatinine, urea nitrogen and creatine kinase isoenzyme MB at admission compared with those without diabetes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32449224&#34; target=&#34;_blank&#34;&gt;32449224&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since the December 2019 discovery of several cases of coronavirus disease 2019 (COVID-19) in Wuhan, China, the infection has spread worldwide. […] Compared with those in the M group, lymphocyte count (LYM) decreased significantly in the SC group, while the serum levels of C-reactive protein (CRP), procalcitonin (PCT), creatinine (Cre), D-dimer, lactic dehydrogenase (LDH), myoglobin (MB) and troponin I (cTnl) increased significantly in the SC group (P &amp;lt; .05). […] The combined use of three or more antiviral drugs is to be avoided. […] The combination of broad-spectrum antibacterial drugs is not recommended and the risk of drug-induced liver injury should be monitored.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32473151&#34; target=&#34;_blank&#34;&gt;32473151&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In mild disease, creatine kinase-MB (CK-MB) was frequently elevated, with a PPE of 33%. […] Finally, elevated CK-MB in mild pediatric COVID-19 cases is indicative of possible cardiac injury.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

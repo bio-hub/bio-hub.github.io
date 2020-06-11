@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marek Widera | PlatCOVID</title>
+    <link>/author/marek-widera/</link>
+      <atom:link href="/author/marek-widera/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marek Widera</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Marek Widera</title>
+      <link>/author/marek-widera/</link>
+    </image>
+    
+    <item>
+      <title>Ad hoc laboratory-based surveillance of SARS-CoV-2 by real-time RT-PCR using minipools of RNA prepared from routine respiratory samples.</title>
+      <link>/publication/32344319/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32344319/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proteomics of SARS-CoV-2-infected host cells reveals therapy targets.</title>
+      <link>/publication/32408336/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32408336/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

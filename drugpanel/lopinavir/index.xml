@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01601&#39; target=&#39;_blank&#39;&gt;db01601&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=lopinavir&#34; target=&#34;_blank&#34;&gt;lopinavir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=nivolumab&#34; target=&#34;_blank&#34;&gt;nivolumab&lt;/a&gt; &lt;br&gt;
 Synonymous :lopinavir
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :lopinavir
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lopinavir&lt;/em&gt; gene in 35 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;nivolumab&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -49,7 +49,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31996494
+&lt;a href=&#34;/publication/31996494&#34; target=&#34;_blank&#34;&gt;31996494&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Lopinavir /Ritonavir, Nucleoside analogues, Neuraminidase inhibitors, Remdesivir, peptide (EK1), abidol, RNA synthesis inhibitors (such as TDF, 3TC), anti-inflammatory drugs (such as hormones and other molecules), Chinese traditional medicine, such ShuFengJieDu Capsules and Lianhuaqingwen Capsule, could be the drug treatment options for 2019-nCoV.
@@ -57,7 +57,7 @@ Lopinavir /Ritonavir, Nucleoside analogues, Neuraminidase inhibitors, Remdesivir
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32023685
+&lt;a href=&#34;/publication/32023685&#34; target=&#34;_blank&#34;&gt;32023685&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Drugs are possibly effective for 2019-nCoV include: remdesivir, lopinavir / ritonavir, lopinavir / ritonavir combined with interferon-β, convalescent plasma, and monoclonal antibodies.
@@ -65,7 +65,7 @@ Drugs are possibly effective for 2019-nCoV include: remdesivir, lopinavir / rito
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32037389
+&lt;a href=&#34;/publication/32037389&#34; target=&#34;_blank&#34;&gt;32037389&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 All the patients were given antiviral treatment including lopinavir/ritonavir (Kaletra&lt;sup&gt;®&lt;/sup&gt;), arbidol, and Shufeng Jiedu Capsule (SFJDC, a traditional Chinese medicine) and other necessary support care. […] The efficacy of antiviral treatment including lopinavir/ritonavir, arbidol, and SFJDC warrants further verification in future study.
@@ -73,7 +73,7 @@ All the patients were given antiviral treatment including lopinavir/ritonavir (K
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32056407
+&lt;a href=&#34;/publication/32056407&#34; target=&#34;_blank&#34;&gt;32056407&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Interestingly, after lopinavir/ritonavir (Kaletra, AbbVie) was administered, β-coronavirus viral loads significantly decreased and no or little coronavirus titers were observed.
@@ -81,7 +81,7 @@ Interestingly, after lopinavir/ritonavir (Kaletra, AbbVie) was administered, β-
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32057209
+&lt;a href=&#34;/publication/32057209&#34; target=&#34;_blank&#34;&gt;32057209&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Combination of Ribavirin and Interferon-α is recommended by the 5(th) edition National Health Commission’s Regimen (Revised Edition) because of the effect on MERS (Middle East Respiratory Syndrome), and the effectiveness of Lopinavir/Ritonavir and Remdisivir needs to be confirmed by randomized controlled trial (RCT), given the situation of no specific antivirus drug on NCP is unavailable.
@@ -89,7 +89,7 @@ Combination of Ribavirin and Interferon-α is recommended by the 5(th) edition N
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32062875
+&lt;a href=&#34;/publication/32062875&#34; target=&#34;_blank&#34;&gt;32062875&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Twenty patients were treated with lopinavir and ritonavir.
@@ -97,7 +97,7 @@ Twenty patients were treated with lopinavir and ritonavir.
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32096367
+&lt;a href=&#34;/publication/32096367&#34; target=&#34;_blank&#34;&gt;32096367&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Early antiviral treatment could alleviate disease severity and prevent illness progression, and we found lopinavir/ritonavir combined with abidol showed antiviraleffects in COVID-19.
@@ -105,7 +105,7 @@ Early antiviral treatment could alleviate disease severity and prevent illness p
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32104907
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32104907&#34; target=&#34;_blank&#34;&gt;32104907&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Lopinavir (LPV) is an effective agent that inhibits the protease activity of coronavirus.
@@ -113,7 +113,7 @@ Lopinavir (LPV) is an effective agent that inhibits the protease activity of cor
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32125362
+&lt;a href=&#34;/publication/32125362&#34; target=&#34;_blank&#34;&gt;32125362&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Clinical course was summarized, including requirement for supplemental oxygen and intensive care and use of empirical treatment with lopinavir-ritonavir. […] Five individuals requiring supplemental oxygen were treated with lopinavir-ritonavir. […] Four of the 5 patients treated with lopinavir-ritonavir developed nausea, vomiting, and/or diarrhea, and 3 developed abnormal liver function test results.
@@ -121,7 +121,7 @@ Clinical course was summarized, including requirement for supplemental oxygen an
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32138488
+&lt;a href=&#34;/publication/32138488&#34; target=&#34;_blank&#34;&gt;32138488&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Management is primarily supportive, with newer antivirals (lopinavir ritonavir and Remdesivir) under investigation.
@@ -129,7 +129,7 @@ Management is primarily supportive, with newer antivirals (lopinavir ritonavir a
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32152082
+&lt;a href=&#34;/publication/32152082&#34; target=&#34;_blank&#34;&gt;32152082&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In addition, a combination of the human immunodeficiency virus type 1 (HIV-1) protease inhibitors, lopinavir/ritonavir, and interferon beta (LPV/RTV-INFb) were shown to be effective in patients infected with SARS-CoV.
@@ -137,7 +137,7 @@ In addition, a combination of the human immunodeficiency virus type 1 (HIV-1) pr
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32164424
+&lt;a href=&#34;/publication/32164424&#34; target=&#34;_blank&#34;&gt;32164424&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Similar to outbreaks of other newly identified virus, there is no proven regimen from conventional medicine and most reports managed the patients with lopinavir/ritonavir, ribavirin, beta-interferon, glucocorticoid and supportive treatment with remdesivir undergoing clinical trial.
@@ -145,7 +145,7 @@ Similar to outbreaks of other newly identified virus, there is no proven regimen
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32171866
+&lt;a href=&#34;/publication/32171866&#34; target=&#34;_blank&#34;&gt;32171866&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The Lopinavir and Ritonavir Tablets, Chinese medicine, oxygen therapy, and mechanical ventilation were statistically different in the elderly group and the young and middle-aged group, and the P values were all &amp;lt;0.05.
@@ -153,7 +153,7 @@ The Lopinavir and Ritonavir Tablets, Chinese medicine, oxygen therapy, and mecha
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32171872
+&lt;a href=&#34;/publication/32171872&#34; target=&#34;_blank&#34;&gt;32171872&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We aimed to compare arbidol and lopinavir/ritonavir(LPV/r) treatment for patients with COVID-19 with LPV/r only.
@@ -161,7 +161,7 @@ We aimed to compare arbidol and lopinavir/ritonavir(LPV/r) treatment for patient
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32173576
+&lt;a href=&#34;/publication/32173576&#34; target=&#34;_blank&#34;&gt;32173576&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 To explore the epidemiological information, clinical characteristics, therapeutic outcomes and temporal progression of laboratory findings in 2019-coronavirus disease (COVID-19) patients exposed to lopinavir. […] All cases (three transferred, seven discharged) exposed to lopinavir on initial hospitalization. […] Three patients stopped lopinavir using because of adverse effect, two of them deteriorated, one hospitalized longer than others who with sustained lopinavir using. […] The COVID-19 patients may benefit from sustained lopinavir using.
@@ -169,7 +169,7 @@ To explore the epidemiological information, clinical characteristics, therapeuti
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32179150
+&lt;a href=&#34;/publication/32179150&#34; target=&#34;_blank&#34;&gt;32179150&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Chloroquine, remdesivir, lopinavir, ribavirin and ritonavir have shown efficacy to inhibit coronavirus in vitro.
@@ -177,7 +177,7 @@ Chloroquine, remdesivir, lopinavir, ribavirin and ritonavir have shown efficacy 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32187464
+&lt;a href=&#34;/publication/32187464&#34; target=&#34;_blank&#34;&gt;32187464&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Patients were randomly assigned in a 1:1 ratio to receive either lopinavir-ritonavir (400 mg and 100 mg, respectively) twice a day for 14 days, in addition to standard care, or standard care alone. […] A total of 199 patients with laboratory-confirmed SARS-CoV-2 infection underwent randomization; 99 were assigned to the lopinavir-ritonavir group, and 100 to the standard-care group. […] Treatment with lopinavir-ritonavir was not associated with a difference from standard care in the time to clinical improvement (hazard ratio for clinical improvement, 1.24; 95% confidence interval [CI], 0.90 to 1.72). […] Mortality at 28 days was similar in the lopinavir-ritonavir group and the standard-care group (19.2% vs. […] In a modified intention-to-treat analysis, lopinavir-ritonavir led to a median time to clinical improvement that was shorter by 1 day than that observed with standard care (hazard ratio, 1.39; 95% CI, 1.00 to 1.91). […] Gastrointestinal adverse events were more common in the lopinavir-ritonavir group, but serious adverse events were more common in the standard-care group. […] Lopinavir-ritonavir treatment was stopped early in 13 patients (13.8%) because of adverse events. […] In hospitalized adult patients with severe Covid-19, no benefit was observed with lopinavir-ritonavir treatment beyond standard care.
@@ -185,7 +185,7 @@ Patients were randomly assigned in a 1:1 ratio to receive either lopinavir-riton
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32202256
+&lt;a href=&#34;/publication/32202256&#34; target=&#34;_blank&#34;&gt;32202256&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In view of the earlier evidence about effectiveness of repurposed lopinavir/ritonavir against severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS) coronavirus (CoV), as well as preliminary docking studies conducted by the ICMR-National Institute of Virology, Pune, the Central Drugs Standard Control Organization approved the restricted public health use of lopinavir/ritonavir combination amongst symptomatic COVID-19 patients detected in the country. […] Hospitalized adult patients with laboratory-confirmed SARS-CoV-2 infection with any one of the following criteria will be eligible to receive lopinavir/ritonavir for 14 days after obtaining written informed consent: (i) respiratory distress with respiratory rate ≥22/min or SpO2 of &amp;lt;94 per cent; (ii) lung parenchymal infiltrates on chest X-ray; (iii) hypotension defined as systolic blood pressure &amp;lt;90 mmHg or need for vasopressor/inotropic medication; (iv) new-onset organ dysfunction; and (v) high-risk groups - age &amp;gt;60 yr, diabetes mellitus, renal failure, chronic lung disease and immunocompromised persons.
@@ -193,7 +193,7 @@ In view of the earlier evidence about effectiveness of repurposed lopinavir/rito
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32210741
+&lt;a href=&#34;/publication/32210741&#34; target=&#34;_blank&#34;&gt;32210741&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Our results showed that several HIV inhibitors such as lopinavir, ritonavir, and saquinavir produce strong interaction with the active site of SARS-CoV-2 main protease.
@@ -201,7 +201,7 @@ Our results showed that several HIV inhibitors such as lopinavir, ritonavir, and
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32219357
+&lt;a href=&#34;/publication/32219357&#34; target=&#34;_blank&#34;&gt;32219357&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 She was treated with dobutamine, antiviral drugs (lopinavir/ritonavir), steroids, chloroquine, and medical treatment for heart failure, with progressive clinical and instrumental stabilization.
@@ -209,7 +209,7 @@ She was treated with dobutamine, antiviral drugs (lopinavir/ritonavir), steroids
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32220650
+&lt;a href=&#34;/publication/32220650&#34; target=&#34;_blank&#34;&gt;32220650&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 All children received interferon alfa by aerosolisation twice a day, 14 (39%) received lopinavir-ritonavir syrup twice a day, and six (17%) needed oxygen inhalation.
@@ -217,7 +217,7 @@ All children received interferon alfa by aerosolisation twice a day, 14 (39%) re
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32227274
+&lt;a href=&#34;/publication/32227274&#34; target=&#34;_blank&#34;&gt;32227274&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Furthermore, COVID-19 mRNA clearance time was positively correlated with the length of hospital stay in patients treated with either IFN-α + lopinavir/ritonavir or IFN-α + lopinavir/ritonavir + ribavirin. […] Therapeutic regimens of IFN-α + lopinavir/ritonavir and IFN-α + lopinavir/ritonavir + ribavirin might be beneficial for treatment of COVID-19.
@@ -225,7 +225,7 @@ Furthermore, COVID-19 mRNA clearance time was positively correlated with the len
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32243270
+&lt;a href=&#34;/publication/32243270&#34; target=&#34;_blank&#34;&gt;32243270&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 This review summarizes the current evidence of potential therapeutic agents, such as lopinavir/ritonavir, remdesivir, favipiravir, chloroquine, hydroxychloroquine, interferon, ribavirin, tocilizumab and sarilumab.
@@ -233,7 +233,7 @@ This review summarizes the current evidence of potential therapeutic agents, suc
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32246834
+&lt;a href=&#34;/publication/32246834&#34; target=&#34;_blank&#34;&gt;32246834&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In addition to the recommended antiviral drugs such as interferon-ɑ, lopinavir/ritonavir, ribavirin, and chloroquine phosphate, some clinical trials focusing on virus RNA dependent RNA polymerase (RdRp) inhibitors have been registered and initiated.
@@ -241,7 +241,7 @@ In addition to the recommended antiviral drugs such as interferon-ɑ, lopinavir/
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32251767
+&lt;a href=&#34;/publication/32251767&#34; target=&#34;_blank&#34;&gt;32251767&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We report the antiviral effect of remdesivir, lopinavir, homorringtonine, and emetine against SARS-CoV-2 virus in Vero E6 cells with the estimated 50% effective concentration at 23.15 μM, 26.63 μM, 2.55 μM and 0.46 μM, respectively.
@@ -249,7 +249,7 @@ We report the antiviral effect of remdesivir, lopinavir, homorringtonine, and em
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32256547
+&lt;a href=&#34;/publication/32256547&#34; target=&#34;_blank&#34;&gt;32256547&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We identified 24 clinical trials, involving more than 20 medicines, such as human immunoglobulin, interferons, chloroquine, hydroxychloroquine, arbidol, remdesivir, favipiravir, lopinavir, ritonavir, oseltamivir, methylprednisolone, bevacizumab, and traditional Chinese medicines (TCM). […] Se identificaron 24 ensayos clínicos relacionados con más de 20 medicamentos, como inmunoglobulina humana, interferones, cloroquina, hidroxicloroquina, arbidol, remdesivir, favipiravir, lopinavir, ritonavir, oseltamivir, metilprednisolona, bevacizumab y medicina tradicional china. […] Foram identificados 24 ensaios clínicos envolvendo mais de 20 medicamentos, tais como imunoglobulina humana, interferons, cloroquina, hidroxicloroquina, arbidol, remdesivir, favipiravir, lopinavir, ritonavir, oseltamivir, metilprednisolona, bevacizumabe e medicamentos chineses tradicionais.
@@ -257,7 +257,7 @@ We identified 24 clinical trials, involving more than 20 medicines, such as huma
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32271456
+&lt;a href=&#34;/publication/32271456&#34; target=&#34;_blank&#34;&gt;32271456&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The study aimed to investigate whether lopinavir/ritonavir (LPV/r) in combination with other pneumonia-associated adjuvant drugs has a better therapeutic effect on COVID-19.
@@ -265,7 +265,7 @@ The study aimed to investigate whether lopinavir/ritonavir (LPV/r) in combinatio
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32277367
+&lt;a href=&#34;/publication/32277367&#34; target=&#34;_blank&#34;&gt;32277367&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Antiviral drugs like lopinavir/ritonavir, favipiravir and remdesivir are also being explored.
@@ -273,7 +273,7 @@ Antiviral drugs like lopinavir/ritonavir, favipiravir and remdesivir are also be
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32277555
+&lt;a href=&#34;/publication/32277555&#34; target=&#34;_blank&#34;&gt;32277555&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 This case states the importance of close monitoring of the concentration of ciclosporin in patients treated with lopinavir/ritonavir, routine treatment of corticosteroid can be continued.
@@ -281,7 +281,7 @@ This case states the importance of close monitoring of the concentration of cicl
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32279418
+&lt;a href=&#34;/publication/32279418&#34; target=&#34;_blank&#34;&gt;32279418&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Hydroxychloroquine and lopinavir/ritonavir were started, and the antiviral drug was replaced with darunavir/cobicistat after two days for diarrhea.
@@ -289,7 +289,7 @@ Hydroxychloroquine and lopinavir/ritonavir were started, and the antiviral drug 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32280433
+&lt;a href=&#34;/publication/32280433&#34; target=&#34;_blank&#34;&gt;32280433&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Interestingly, lopinavir, ritonavir, and darunavir are all designed to target viral proteinases. […] In addition, we also found that several antiviral agents, such as Kaletra (lopinavir/ritonavir), could be used for the treatment of SARS-CoV-2.
@@ -297,7 +297,7 @@ Interestingly, lopinavir, ritonavir, and darunavir are all designed to target vi
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32283143
+&lt;a href=&#34;/publication/32283143&#34; target=&#34;_blank&#34;&gt;32283143&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Lopinavir/ritonavir and arbidol have been previously used to treat acute respiratory syndrome- coronavirus 2 (SARS-CoV-2) replication in clinical practice; nevertheless, their effectiveness remains controversial. […] In this study, we evaluated the antiviral effects and safety of lopinavir/ritonavir and arbidol in patients with the 2019-nCoV disease (COVID-19). […] Fifty patients with laboratory-confirmed COVID-19 were divided into two groups: including lopinavir/ritonavir group (34 cases) and arbidol group (16 cases). […] Lopinavir/ritonavir group received 400mg/100mg of Lopinavir/ritonavir, twice a day for a week, while the arbidol group was given 0.2g arbidol, three times a day. […] On day 14 after the admission, no viral load was detected in arbidol group, but the viral load was found in 15(44.1%) patients treated with lopinavir/ritonavir. […] Patients in the arbidol group had a shorter duration of positive RNA test compared to those in the lopinavir/ritonavir group (P&amp;lt;0.01). […] In conclusion, our data indicate that arbidol monotherapy may be superior to lopinavir/ritonavir in treating COVID-19.
@@ -305,7 +305,7 @@ Lopinavir/ritonavir and arbidol have been previously used to treat acute respira
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32283325
+&lt;a href=&#34;/publication/32283325&#34; target=&#34;_blank&#34;&gt;32283325&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 There was no statistical difference between groups in medications taken before hospitalization; a significantly higher proportion of patients with abnormal liver function (57.8%) had received lopinavir/ritonavir after admission compared to patients with normal liver function (31.3%). […] A significantly higher proportion of patients with abnormal liver function had received lopinavir/ritonavir after admission; these drugs should be given with caution.
@@ -313,7 +313,7 @@ There was no statistical difference between groups in medications taken before h
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32293834
+&lt;a href=&#34;/publication/32293834&#34; target=&#34;_blank&#34;&gt;32293834&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The most frequently used agents both in Turkey and all over the world including chloroquine, hydroxychloroquine, lopinavir/ritonavir, favipiravir and remdesivir will be reviewed here .
@@ -321,10 +321,794 @@ The most frequently used agents both in Turkey and all over the world including 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32293875
+&lt;a href=&#34;/publication/32293875&#34; target=&#34;_blank&#34;&gt;32293875&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 However, a combination of two HIV-1 protease inhibitors lopinavir and ritonavir has been found to be effective against SARS-CoV, and both drugs could bind well to the SARS-CoV 3C-like protease (SARS-CoV 3CL&lt;sup&gt;pro&lt;/sup&gt;). […] Ritonavir showed somewhat higher atomic contacts, binding efficiency and key binding residues than that of lopinavir in correspondence with slightly less water accessibility at the 3CL&lt;sup&gt;pro&lt;/sup&gt; active site.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32297571&#34; target=&#34;_blank&#34;&gt;32297571&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In particular, several cases of recovered patients havebeen reported after being treated with lopinavir/ritonavir (which is widely used to treat humanimmunodeficiency virus (HIV) infection) in combination with the anti-flu drug oseltamivir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32298767&#34; target=&#34;_blank&#34;&gt;32298767&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The use of lopinavir/ritonavir was also found to lead to increased odds of liver injury (OR from 4.44 to 5.03, both p &amp;lt;0.01).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32299753&#34; target=&#34;_blank&#34;&gt;32299753&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This document attempts to provide reasonable guidance for the use of antimicrobials which have uncertain benefit but may increase risk of QT interval prolongation and ventricular proarrhythmia, notably, chloroquine, hydroxychloroquine, azithromycin, and lopinavir/ritonavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32301155&#34; target=&#34;_blank&#34;&gt;32301155&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lopinavir/ritonavir (usually associated with hydroxychloroquine) was used in 50.0% of patients and had to be prematurely discontinued in 2 of them.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32303672&#34; target=&#34;_blank&#34;&gt;32303672&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 was detected and antiviral therapy with Lopinavir/Ritonavir, associated with hydroxychloroquine, was promptly started.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32306822&#34; target=&#34;_blank&#34;&gt;32306822&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cobicistat, ritonavir, lopinavir, and darunavir are in the top screened molecules from FDA approved drugs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32307245&#34; target=&#34;_blank&#34;&gt;32307245&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The protease inhibitor lopinavir/ritonavir (LPV/RTV) alone is not shown to provide better antiviral efficacy than standard care.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32309622&#34; target=&#34;_blank&#34;&gt;32309622&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Potential therapeutic strategies, including remdesivir, chloroquine phosphate, abidol, lopinavir/ritonavir, plasma, antibody, vaccine and stem cells are discussed in this review.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32309809&#34; target=&#34;_blank&#34;&gt;32309809&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results depicted that adding Lopinavir-Ritonavir to the standard treatment regimen of patients with severe COVID-19 has no benefits.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32313662&#34; target=&#34;_blank&#34;&gt;32313662&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lopinavir/ritonavir was given; continuous renal replacement therapy was also introduced.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32314010&#34; target=&#34;_blank&#34;&gt;32314010&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient was treated with antiviral agents (lopinavir/ritonavir), and treatment with cDMARDs was discontinued except hydroxychloroquine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32315171&#34; target=&#34;_blank&#34;&gt;32315171&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several promising known drugs stand out as potential inhibitors of SARS-CoV-2 main protease, including carfilzomib, eravacycline, valrubicin, lopinavir, and elbasvir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32317225&#34; target=&#34;_blank&#34;&gt;32317225&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+He was successfully treated in the intensive care unit with mechanical ventilation and extracorporeal membrane oxygenation for respiratory support; and antiretroviral treatment with lopinavir/ritonavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32324352&#34; target=&#34;_blank&#34;&gt;32324352&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lopinavir/ritonavir is not effective.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32324898&#34; target=&#34;_blank&#34;&gt;32324898&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The ADR could be explained by the use of lopinavir/ ritonavir and umifenovir by 63.8% and 18.1%, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32329231&#34; target=&#34;_blank&#34;&gt;32329231&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All consecutive patients on DOACs were candidates for administration of antiviral agents (lopinavir, ritonavir, or darunavir).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32329520&#34; target=&#34;_blank&#34;&gt;32329520&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Drug repositioning may offer a strategy and a number of drugs have been repurposed, including lopinavir/ritonavir, remdesivir, favipiravir and tocilizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32329879&#34; target=&#34;_blank&#34;&gt;32329879&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, the current treatment options include hydroxychloroquine, tocilizumab, remdesivir, lopinavir-ritonavir (Kaletra®), and nitazoxanide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32329881&#34; target=&#34;_blank&#34;&gt;32329881&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients were also treated with anticoagulant therapy with Enoxaparin 4000 IU/day via subcutaneous injection, antiviral therapy with Lopinavir 800 mg/day + Ritonavir 200 mg/day, hydroxychloroquine 400 mg/day, ceftriaxone 2 g/day IV, vitamine C 6 g/day for 4 days, and were on Non-Invasive Ventilation (NIV).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32331982&#34; target=&#34;_blank&#34;&gt;32331982&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+An increase of Ct values was 0.9 per day in 2 cases of COVID-19 treated with lopinavir/ritonavir (LPV/r), an increase was 1.0 per day in 3 cases without LPV/r through illness day 1-10, indicating that LPV/r did not shorten the duration of SARS CoV-2 shedding.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32337790&#34; target=&#34;_blank&#34;&gt;32337790&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The clinical course was complicated by extreme overexposure to the mammalian target of rapamycin inhibitor everolimus, following coadministration of chloroquine and lopinavir/ritonavir therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32337859&#34; target=&#34;_blank&#34;&gt;32337859&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Following administration of lopinavir/ritonavir and hydroxychloroquine with reduced immunosuppressant, he recovered from COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32338347&#34; target=&#34;_blank&#34;&gt;32338347&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In severe pneumonia and critically ill children, trial of hydroxychloroquine or lopinavir/ritonavir should be considered.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32339832&#34; target=&#34;_blank&#34;&gt;32339832&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Without much experience, currently, the medicines that are clinically being evaluated for COVID-19 include chloroquine, hydroxychloroquine, azithromycin, tocilizumab, lopinavir, ritonavir, tocilizumab and corticosteroids.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32340389&#34; target=&#34;_blank&#34;&gt;32340389&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Currently, some HIV protease inhibitors (i.e., Lopinavir) are proposed for the treatment of COVID-19, although their effectiveness has not yet been assessed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32342677&#34; target=&#34;_blank&#34;&gt;32342677&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We experienced a case of severe thrombocytopenia with epistaxis and petechiae, while treating a COVID-19 patient with ceftriaxone, levofloxacin, and lopinavir/ritonavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32343413&#34; target=&#34;_blank&#34;&gt;32343413&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Both patients were already on lopinavir/ritonavir before tocilizumab (added day 9 and day 13) was added.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32346491&#34; target=&#34;_blank&#34;&gt;32346491&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Herein, we examine the effects of Favipiravir (FPV) versus Lopinavir (LPV)/ritonavir (RTV) for the treatment of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348232&#34; target=&#34;_blank&#34;&gt;32348232&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient was hospitalized and treated with Oseltamivir 75 mg every 12 hours, Lopinavir/Ritonavir (Kaletra) 400/100 mg every 12 hours and hydroxychloroquine 400 mg stat.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32350686&#34; target=&#34;_blank&#34;&gt;32350686&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+According to the CDC and Chinese treatment guidelines for COVID-19, chloroquine, hydroxychloroquine, lopinavir/ritonavir, and one of the investigational agents (remdesivir) are recommended in critically ill older patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32352535&#34; target=&#34;_blank&#34;&gt;32352535&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cardiovascular considerations of therapies currently used, including remdesivir, chloroquine, hydroxychloroquine, tocilizumab, ribavirin, interferons, and lopinavir/ritonavir, as well as experimental therapies, such as human recombinant ACE2 (rhACE2), are discussed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32352944&#34; target=&#34;_blank&#34;&gt;32352944&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Interferon-alpha (5 million U twice daily by inhalation), lopinavir/ritonavir (400/100 mg twice daily orally), as well as chloroquine (500 mg twice daily orally for 10 days) and azithromycin (500 mg twice per day) cause a milder course of the disease and reduce the duration of treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32354369&#34; target=&#34;_blank&#34;&gt;32354369&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient received combination of interferonalfa-1b and ribavirin, lopinavir and ritonavir for antiviral treatment at different stages.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32357553&#34; target=&#34;_blank&#34;&gt;32357553&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Currently, antiviral drugs, including chloroquine/hydroxychloroquine, remdesivir, and lopinavir/ritonavir, have shown effective inhibition of SARS-CoV-2 in vitro.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32358890&#34; target=&#34;_blank&#34;&gt;32358890&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A variety of repurposed drugs and investigational drugs such as remdesivir, chloroquine, hydroxychloroquine, ritonavir, lopinavir, interferon-beta, and other potential drugs have been studied for COVID19 treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32359771&#34; target=&#34;_blank&#34;&gt;32359771&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As the coronavirus disease 19 (COVID-19) global pandemic rages across the globe, the race to prevent and treat this deadly disease has led to the “off-label” repurposing of drugs such as hydroxychloroquine and lopinavir/ritonavir, which have the potential for unwanted QT-interval prolongation and a risk of drug-induced sudden cardiac death.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32360480&#34; target=&#34;_blank&#34;&gt;32360480&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Further, chloroquine and hydroxychloroquine, and off-label antiviral drugs, such as the nucleotide analogue remdesivir, HIV protease inhibitors lopinavir and ritonavir, broad-spectrum antiviral drugs arbidol and favipiravir as well as antiviral phytochemicals available to date may limit spread of SARS-CoV-2 and morbidity and mortality of COVID-19 pandemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32360583&#34; target=&#34;_blank&#34;&gt;32360583&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We searched PubMed, EMBASE, Cochrane Library, China National Knowledge Infrastructure (CNKI), China Science and Technology Journal Database (VIP), and WANFANG DATA for randomized controlled trials (RCTs), prospective cohort, and retrospective cohort studies that evaluated therapies (hydroxychloroquine, lopinavir/ritonavir-based therapy, and ribavirin-based therapy, etc.) for SARS, MERS, and COVID-19. […] The lopinavir/ritonavir-based combination showed superior virological eradication and radiographical improvement with reduced rate of ARDS. […] Lopinavir/ritonavir combinations might observe better virological eradication capability than other anti-coronavirus agents.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32362193&#34; target=&#34;_blank&#34;&gt;32362193&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patients were treated with four combinations of lopinavir/ritonavir tablets, arbidol tablets, Lianhuaqingwen granules, and recombinant human interferon-α2b (IFN-α2b) injection via aerosol. […] It should be noted that lopinavir/ritonavir tablets have many drug interactions and are the most likely drugs to cause hyperlipidemia and hyperglycemia in these two patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32362245&#34; target=&#34;_blank&#34;&gt;32362245&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All the studied molecules could bind to the active site of the SARS-CoV-2 protease (PDB: 6Y84), out of which rutin (a natural compound) has the highest inhibitor efficiency among the 33 molecules studied, followed by ritonavir (control drug), emetine (anti-protozoal), hesperidin (a natural compound), lopinavir (control drug) and indinavir (anti-viral drug).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32362644&#34; target=&#34;_blank&#34;&gt;32362644&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In view of the earlier evidence about effectiveness of repurposed lopinavir/ritonavir against severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS) coronavirus (CoV), as well as preliminary docking studies conducted by the ICMR-National Institute of Virology, Pune, the Central Drugs Standard Control Organization approved the restricted public health use of lopinavir/ritonavir combination amongst symptomatic COVID-19 patients detected in the country. […] Hospitalized adult patients with laboratory-confirmed SARS-CoV-2 infection with any one of the following criteria will be eligible to receive lopinavir/ritonavir for 14 days after obtaining written informed consent: (i) respiratory distress with respiratory rate ≥22/min or SpO&lt;sub&gt;2&lt;/sub&gt;of &amp;lt;94 per cent; (ii) lung parenchymal infiltrates on chest X-ray; (iii) hypotension defined as systolic blood pressure &amp;lt;90 mmHg or need for vasopressor/inotropic medication; (iv) new-onset organ dysfunction; and (v) high-risk groups - age &amp;gt;60 yr, diabetes mellitus, renal failure, chronic lung disease and immunocompromised persons.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32363219&#34; target=&#34;_blank&#34;&gt;32363219&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The current study, aims to predict theoretical structure for protease of COVID-19 and to explore further whether this protein can serve as a target for protease inhibitor drugs such as remdesivir, nelfinavir, lopinavir, ritonavir and α-ketoamide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32363963&#34; target=&#34;_blank&#34;&gt;32363963&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This is a report of a case with mucous membrane pemphigoid (MMP) with severe eye involvement and concurrent COVID-19 treated successfully using simultaneous high dose intravenous immunoglobulin (IVIg) and anti-viral treatment as hydroxychloroquine, lopinavir/ritonavir, and ribavirin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32367767&#34; target=&#34;_blank&#34;&gt;32367767&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The docking scores were compared with 3CL&lt;sup&gt;pro&lt;/sup&gt;-referenced inhibitors (Lopinavir and Ritonavir). […] This ligand-protein interaction study revealed that more than half of the top twenty alkaloids and terpenoids interacted favourably with the coronaviruses 3CL&lt;sup&gt;pro&lt;/sup&gt;, and had binding affinities that surpassed that of lopinavir and ritonavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32372695&#34; target=&#34;_blank&#34;&gt;32372695&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Similarly, other investigational drugs such as favipiravir and lopinavir/ritonavir can prolong QT interval and cause Torsade de Pointes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32373997&#34; target=&#34;_blank&#34;&gt;32373997&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No sufficient results have been reached by the use of interferon (IFN), lopinavir/ritonavir, orbidol, and oseltamivir in the treatment of the coronaviruses infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32375574&#34; target=&#34;_blank&#34;&gt;32375574&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study demonstrated the putative inhibitory potential of lopinavir, remdesivir, oseltamir, azithromycin, ribavirin, and chloroquine towards V-ATPase, protein kinase A, SARS-CoV spike glycoprotein/ACE-2 complex and viral proteases. […] Lopinavir has the highest binding affinities to the pocket site of SARS-CoV spike glycoprotein/ACE-2 complex, cyclic AMP-dependent protein kinase A and 3-Chymotrypsin like protease while redemsivir has the highest binding affinities for vacuolar proton-translocating ATPase (V-ATPase) and papain-like proteins. […] The amino acids Asp269, Leu370, His374, and His345 were predicted as the key residues for lopinavir binding to human SARS-CoV spike glycoprotein/ACE-2 complex while His378, Tyr515, Leu73, Leu100, Phe32 and Phe40 for remdesivir and Tyr510, Phe504, Met62, Tyr50, and His378 were predicted for azithromycin as the key residues for binding to SARS-CoV spike glycoprotein/ACE-2 complex.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32378314&#34; target=&#34;_blank&#34;&gt;32378314&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Despite reduction in immunosuppression and treatment with tocilizumab, intravenous immunoglobulin, hydroxychloroquine, lopinavir/ritonavir, and broad-spectrum antibiotics, she ultimately died from multiorgan failure.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32379199&#34; target=&#34;_blank&#34;&gt;32379199&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The duration of nasopharyngeal virus shedding lasted for 49 days even with the administration of lopinavir/ritonavir for 8 days.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32386448&#34; target=&#34;_blank&#34;&gt;32386448&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The antimalarials, Chloroquine and Hydroxychloroquine (HCQ), and the antivirals Lopinavir/Ritonavir have been recently recorded as having anti-severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) effects.&lt;sup&gt;1&lt;/sup&gt; In particular, regarding Italy, one of the countries most affected by the pandemic, the Italian Society of Infectious and Tropical disease (Lombardy section) has recommended the use of HCQ for treatment of coronavirus disease 2019 (COVID-19).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32388331&#34; target=&#34;_blank&#34;&gt;32388331&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+On the contrary, direct β-cell damage, cytokine-induced insulin resistance, hypokalemia and drugs used in the treatment of COVID-19 (like corticosteroids, lopinavir/ritonavir) can contribute to worsening of glucose control in people with diabetes mellitus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32388937&#34; target=&#34;_blank&#34;&gt;32388937&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; To evaluate the efficacy and safety of lopinavir/ritonavir (LPV/r) and arbidol in the treatment of COVID-19 in the real world. &lt;b&gt;Methods:&lt;/b&gt; The clinical data of 178 patients diagnosed with COVID-19 admitted to Guangzhou Eighth People’s Hospital were retrospectively analyzed from January 21 to February 9, 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32389518&#34; target=&#34;_blank&#34;&gt;32389518&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most used treatments were hydroxychloroquine, lopinavir-ritonavir, and steroids. […] Mortality is high and reaches 23%; deceased patients were more frequently on ICH, developed pneumonia more frequently, and received less frequently lopinavir-ritonavir and steroids.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32390367&#34; target=&#34;_blank&#34;&gt;32390367&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients received antibiotic therapy, and most (97/98 patients; 99.0%) received antiviral therapy (lopinavir/ritonavir).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32391234&#34; target=&#34;_blank&#34;&gt;32391234&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+He positively responded to a 14-day course of Lopinavir-Ritonavir, Ribavirin, Azithromycin, and Hydroxychloroquine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32391658&#34; target=&#34;_blank&#34;&gt;32391658&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Early antiviral treatment could alleviate disease severity and prevent illness progression, and we found lopinavir/ritonavir combined with abidol showed antiviral effects in COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32391999&#34; target=&#34;_blank&#34;&gt;32391999&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recently, the Dutch National Institute for Public Health and the Environment published treatment options for antiviral treatment for COVID-19 where chloroquine was suggested as first choice for off-label treatment, beside remdesivir en lopinavir/ritonavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32394467&#34; target=&#34;_blank&#34;&gt;32394467&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Neuraminidase inhibitors such as oseltamivir, peramivir, and zanamivir are invalid for 2019-nCoV and are not recommended for treatment but protease inhibitors such as lopinavir/ritonavir (LPV/r) inhibit the progression of MERS-CoV disease and can be useful for patients of COVID-19 and, in combination with Arbidol, has a direct antiviral effect on early replication of SARS-CoV.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32395418&#34; target=&#34;_blank&#34;&gt;32395418&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These drugs and therapeutic agents include antiviral agents (remdesivir, hydroxychloroquine, chloroquine, lopinavir, umifenovir, favipiravir, and oseltamivir), and supporting agents (Ascorbic acid, Azithromycin, Corticosteroids, Nitric oxide, IL-6 antagonists), among others.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32395606&#34; target=&#34;_blank&#34;&gt;32395606&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Out of 62 screened compounds, the best docking scores with the targets were found for compounds: lopinavir, amodiaquine, and theaflavin digallate (TFDG).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32396767&#34; target=&#34;_blank&#34;&gt;32396767&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Finally, we have compared ΔG&lt;sub&gt;bind&lt;/sub&gt; of these two inhibitors with the anti-HIV retroviral drugs, such as lopinavir and darunavir. […] It is observed that α-ketoamide is more potent compared to lopinavir and darunavir. […] In the case of lopinavir, a decrease in van der Waals interactions is responsible for the lower binding affinity compared to α-ketoamide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32397940&#34; target=&#34;_blank&#34;&gt;32397940&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Top three bioactive molecules (Oolonghomobisflavan-A, Theasinensin-D, and Theaflavin-3-O-gallate) were selected by comparing their docking scores with repurposed drugs (Atazanavir, Darunavir, and Lopinavir) against SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32399094&#34; target=&#34;_blank&#34;&gt;32399094&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 Mpro was docked with all statins, while antiviral and antiretroviral drugs - favipiravir, nelfinavir, and lopinavir - were used as standards for comparison. […] The binding energies obtained from the docking of 6LU7 with native ligand favipiravir, nelfinavir, lopinavir, simvastatin, rosuvastatin, pravastatin, pitavastatin, lovastatin, fluvastatin, and atorvastatin were -6.8, -5.8, -7.9, -7.9, -7.0, -7.7, -6.6, -8.2, -7.4, -7.7, and -6.8 kcal/mol, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32400323&#34; target=&#34;_blank&#34;&gt;32400323&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although in vitro studies are scarce, data regarding chloroquine and hydroxychloroquine, remdesivir, nitazoxanide, teicoplanin, ivermectin, lopinavir, homoharringtonine and emetine seem promising.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32400965&#34; target=&#34;_blank&#34;&gt;32400965&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Faced with this novel coronavirus, scientists have been trying to use drugs that have not been validated by rigorous clinical trials, such as lopinavir/ritonavir (LPV/r) and hydroxychloroquine (HCQ).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32401715&#34; target=&#34;_blank&#34;&gt;32401715&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We assessed the efficacy and safety of combined interferon beta-1b, lopinavir-ritonavir, and ribavirin for treating patients with COVID-19. […] Patients were randomly assigned (2:1) to a 14-day combination of lopinavir 400 mg and ritonavir 100 mg every 12 h, ribavirin 400 mg every 12 h, and three doses of 8 million international units of interferon beta-1b on alternate days (combination group) or to 14 days of lopinavir 400 mg and ritonavir 100 mg every 12 h (control group). […] One patient in the control group discontinued lopinavir-ritonavir because of biochemical hepatitis. […] Early triple antiviral therapy was safe and superior to lopinavir-ritonavir alone in alleviating symptoms and shortening the duration of viral shedding and hospital stay in patients with mild to moderate COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32404786&#34; target=&#34;_blank&#34;&gt;32404786&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients were treated with interferon, 6 cases combined with Ribavirin, and 12 cases combined with lopinavir or ritonavir. […] There was no significant difference of RNA turning negative between the groups of interferon, interferon plus ribavirin and interferon plus lopinavir or ritonavir treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405160&#34; target=&#34;_blank&#34;&gt;32405160&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients admitted before March 13th (n=23) were prescribed the standard therapy (hydroxychloroquine, lopinavir and ritonavir) and were considered controls.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405245&#34; target=&#34;_blank&#34;&gt;32405245&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients were administered neuraminidase inhibitors (20%), lopinavir/ritonavir (32.9%), and ciclesonide inhalation (11.4%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405421&#34; target=&#34;_blank&#34;&gt;32405421&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Comparator drugs were oseltamivir, umifenovir, lopinavir/ritonavir or placebo.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405423&#34; target=&#34;_blank&#34;&gt;32405423&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Minimum estimated costs of production were US $0.93/day for remdesivir, $1.45/day for favipiravir, $0.08/day for hydroxychloroquine, $0.02/day for chloroquine, $0.10/day for azithromycin, $0.28/day for lopinavir/ritonavir, $0.39/day for sofosbuvir/daclatasvir and $1.09/day for pirfenidone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405454&#34; target=&#34;_blank&#34;&gt;32405454&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lopinavir/ritonavir (200mg/50mg) two tablet tow times, Ribavirin 200mg every six hours, and Oseltamivir 75mg tow times were given for the treatment of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32406317&#34; target=&#34;_blank&#34;&gt;32406317&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is noteworthy that Viomycin showed higher -CDocker energy as compared to the drugs currently under clinical trial for SARS-CoV-2 treatment &lt;i&gt;viz.&lt;/i&gt; Ritonavir and Lopinavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32406606&#34; target=&#34;_blank&#34;&gt;32406606&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The gene detection for drug use guidance showed the genetic locus ABCB1 (3435T&amp;gt;C) rs1045642 belonged to type CC and it mean the efficiency of lopinavir-ritonavir would be significantly decreased.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32407459&#34; target=&#34;_blank&#34;&gt;32407459&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Treatment with lopinavir-ritonavir showed no significant benefit in mortality and ARDS rates.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32410206&#34; target=&#34;_blank&#34;&gt;32410206&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pharmacotherapy included recombinant human interferon α2b, lopinavir/ritonavir, novaferon, antibiotics, systematic corticosteroids and traditional Chinese medicine prescription.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32410772&#34; target=&#34;_blank&#34;&gt;32410772&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As per SOLIDARITY trial by WHO, some of the most promising candidates include chloroquine phosphate and hydroxychloroquine which are anti-malarial medications, Remdesivir, Lopinavir-Ritonavir combination with or without interferon which are anti-HIV drugs and convalescent plasma therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32411770&#34; target=&#34;_blank&#34;&gt;32411770&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients received combined antiviral treatment on admission, including β-interferon, lopinavir/tonavir, Abidol and oseltamivir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32412509&#34; target=&#34;_blank&#34;&gt;32412509&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For others such as lopinavir/ritonavir, neither significant virological nor clinical benefit has been shown.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32418730&#34; target=&#34;_blank&#34;&gt;32418730&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several publicized drugs are being used with not much evidence of their efficacy such as hydroxychloroquine, azithromycin or lopinavir-ritonavir. […] Since March 27th, 2020, the French Pharmacovigilance Network directed all cardiac adverse drug reactions associated with “off-label” use of hydroxychloroquine, azithromycin and lopinavir-ritonavir in COVID-19 to the Nice Regional Center of Pharmacovigilance. […] Lopinavir-ritonavir came third with 17 reports (14%) and chloroquine fourth with 3 reports (2.5%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32423027&#34; target=&#34;_blank&#34;&gt;32423027&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Whereas plasma therapy attracts much interest, the European project Discovery focuses on the potentialities of small molecules like remdesivir, the combination of lopinavir/ritonavir, hydroxychloroquine, and chloroquine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32423584&#34; target=&#34;_blank&#34;&gt;32423584&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients were permitted concomitant use of lopinavir-ritonavir, interferons, and corticosteroids.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32425199&#34; target=&#34;_blank&#34;&gt;32425199&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chloroquine/hydroxychloroquine, azithromycin, remdesivir and lopinavir/ritonavir are currently being studied in trials and show some promise.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32425246&#34; target=&#34;_blank&#34;&gt;32425246&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The only FDA approved drug to treat COVID-19 is remdesivir, and other off-label medications used include chloroquine and hydroxychloroquine, tocilizumab, lopinavir/ritonavir, favipiravir, convalescent plasma therapy, azithromycin, vitamin C, corticosteroids, interferon and colchicine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32430428&#34; target=&#34;_blank&#34;&gt;32430428&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, studies regarding the risk factors associated with prolonged SARS-CoV-2 shedding and the impact of Lopinavir/Ritonavir (LPV/r) treatment on viral shedding remain scarce.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32434337&#34; target=&#34;_blank&#34;&gt;32434337&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Current potential treatment options include hydroxychloroquine, remdesivir, lopinavir/ritonavir and convalescent plasma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32436445&#34; target=&#34;_blank&#34;&gt;32436445&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The use of lopinavir-ritonavir did not prove beneficial in a large RCT.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32438446&#34; target=&#34;_blank&#34;&gt;32438446&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hydroxychloroquine, chloroquine, mefloquine, atazanavir (ritonavir-boosted), tipranavir (ritonavir-boosted), ivermectin, azithromycin and lopinavir (ritonavir-boosted) were all predicted to achieve lung concentrations over 10-fold higher than their reported EC&lt;sub&gt;50&lt;/sub&gt; .
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32444382&#34; target=&#34;_blank&#34;&gt;32444382&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To this end, the antiviral efficacies of lopinavir-ritonavir, hydroxychloroquine sulfate, and emtricitabine-tenofovir for SARS-CoV-2 infection were assessed in the ferret infection model. […] While the lopinavir-ritonavir-, hydroxychloroquine sulfate-, or emtricitabine-tenofovir-treated group exhibited lower overall clinical scores than the phosphate-buffered saline (PBS)-treated control group, the virus titers in nasal washes, stool specimens, and respiratory tissues were similar between all three antiviral-candidate-treated groups and the PBS-treated control group. […] In this study, we tested the FDA-approved drugs lopinavir-ritonavir, hydroxychloroquine sulfate, and emtricitabine-tenofovir against SARS-CoV-2 infection in a highly susceptible ferret infection model.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32445484&#34; target=&#34;_blank&#34;&gt;32445484&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several drugs are being repurposed into clinical trials in COVID-19 patients, ranging from drugs already well established in other diseases, such as chloroquine/hydroxychloroquine, lopinavir+ ritonavir, azithromycin and tocilizumab/sarilumab, to those such as remdesivir still in development for their initial indication (1).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32448818&#34; target=&#34;_blank&#34;&gt;32448818&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The additive effects of interferons on the inhibitory effects of other candidate drugs to treat SARS-CoV-2 infection, such as lopinavir, ritonavir and favipiravir, have also been studied.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32449022&#34; target=&#34;_blank&#34;&gt;32449022&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Twenty-nine patients were enrolled and divided into two groups: group 1 (14 patients) was composed of patients treated with off-label hydroxychloroquine and lopinavir/ritonavir, whereas group 2 (15 patients) was composed of patients treated with hydroxychloroquine only, combined with the inhalation of acetic acid disinfectant at a 0.34% concentration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32449235&#34; target=&#34;_blank&#34;&gt;32449235&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report a case of the successful recovery from severe COVID-19 of a kidney-transplanted patient treated with hydroxychloroquine, lopinavir/ritonavir, steroid and tocilizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32458149&#34; target=&#34;_blank&#34;&gt;32458149&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A number of anti-viral drugs such as ribavirin, remdesivir, lopinavir/ritonavir, antibiotics such as azithromycin and doxycycline, and anti-parasite such as ivermectin have been recommended for COVID-19 treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32460458&#34; target=&#34;_blank&#34;&gt;32460458&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We examined the in vitro activity of lopinavir/ritonavir and hydroxychloroquine on SARS-CoV-2, at concentrations which can be used to treat coronavirus-19 patients with little concern of toxicity. […] Lopinavir/ritonavir (7/1.75 μg/mL), hydroxychloroquine base (1 or 2 μg/mL), or a combination thereof were administered 1 hour after the inoculation of SARS-CoV-2 to Vero cells at a multiplicity of infection of 0.05. […] The severity of cytopathic effects was lower in lopinavir/ritonavir-treated cells, and viral load was significantly reduced in this group compared with the control group (p &amp;lt; 0.001). […] Lopinavir/ritonavir showed significant inhibitory effects on SARS-CoV-2 in vitro at its usual plasma concentration. […] However, the in vitro antiviral activity of hydroxychloroquine at concentrations commonly used in humans was minimal, whether used alone or in combination with lopinavir/ritonavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32462545&#34; target=&#34;_blank&#34;&gt;32462545&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most frequently administered drug classes were antivirals, antibiotics, and corticosteroids, and of the 115 reported drugs, the most frequently administered was combination lopinavir/ritonavir, which was associated with a time to clinically meaningful response (complete symptom resolution or hospital discharge) of 11.7 (1.09) days.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32470751&#34; target=&#34;_blank&#34;&gt;32470751&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As per SOLIDARITY trial by WHO, some of the most promising candidates include chloroquine phosphate and hydroxychloroquine which are anti-malarial medications, Remdesivir, Lopinavir-Ritonavir combination with or without interferon which are anti-HIV drugs and convalescent plasma therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32473230&#34; target=&#34;_blank&#34;&gt;32473230&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No specific treatment against SARS-CoV-2 is available after 6 months of COVID-19 worldwide outbreak Antivirals could decrease the viral load and reduce direct and indirect damages of SARSCoV-2 infection Ritonavir-bosted lopinavir is effective against SARS-CoV-2 in vitro Sequential virological and pharmacological monitoring helped to understand the efficacy of ritonavir-boosted lopinavir in a SARS-CoV-2 infected patient Ritonavir-boosted lopinavir could be proposed as early treatment for SARS-CoV-2 infection.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diyu Lu | PlatCOVID</title>
+    <link>/author/diyu-lu/</link>
+      <atom:link href="/author/diyu-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Diyu Lu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Diyu Lu</title>
+      <link>/author/diyu-lu/</link>
+    </image>
+    
+    <item>
+      <title>18F-FDG PET/CT and Serial Chest CT Findings in a COVID-19 Patient With Dynamic Clinical Characteristics in Different Period.</title>
+      <link>/publication/32332319/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32332319/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

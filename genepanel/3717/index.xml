@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/3717&#34; target=&#34;_blank&#34;&gt;3717&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=3717&#34; target=&#34;_blank&#34;&gt; 9p24.1&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/615319&#39; target=&#39;_blank&#39;&gt;615319&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/602055&#39; target=&#39;_blank&#39;&gt;602055&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -892,7 +892,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of JAK2 gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of JAK2 gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -908,10 +908,18 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32205092
+&lt;a href=&#34;/publication/32205092&#34; target=&#34;_blank&#34;&gt;32205092&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We reviewed TH17 responses in patients with SARS-CoV-2 and proposed an FDA approved JAK2 inhibitor Fedratinib for reducing mortality of patients with TH17 type immune profiles.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32473600&#34; target=&#34;_blank&#34;&gt;32473600&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Baricitinib, is an oral Janus kinase (JAK)1/JAK2 inhibitor approved for the treatment of rheumatoid arthritis (RA) that was independently predicted, using artificial intelligence (AI)-algorithms, to be useful for COVID-19 infection via a proposed anti-cytokine effects and as an inhibitor of host cell viral propagation.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

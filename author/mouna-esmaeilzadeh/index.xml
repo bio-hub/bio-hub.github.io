@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mouna Esmaeilzadeh | PlatCOVID</title>
+    <link>/author/mouna-esmaeilzadeh/</link>
+      <atom:link href="/author/mouna-esmaeilzadeh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mouna Esmaeilzadeh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Mouna Esmaeilzadeh</title>
+      <link>/author/mouna-esmaeilzadeh/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of a COVID-19 IgM and IgG rapid test; an efficient tool for assessment of past exposure to SARS-CoV-2.</title>
+      <link>/publication/32363011/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32363011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

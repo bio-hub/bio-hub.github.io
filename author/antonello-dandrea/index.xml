@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonello D&#39;Andrea | PlatCOVID</title>
+    <link>/author/antonello-dandrea/</link>
+      <atom:link href="/author/antonello-dandrea/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antonello D&#39;Andrea</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Antonello D&#39;Andrea</title>
+      <link>/author/antonello-dandrea/</link>
+    </image>
+    
+    <item>
+      <title>The role of echocardiography in SARS-CoV-2 pandemic: a compromise among appropriateness, safety and clinical impact.</title>
+      <link>/publication/32425014/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32425014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[The role of multimodality imaging in COVID-19 patients: from diagnosis to clinical monitoring and prognosis].</title>
+      <link>/publication/32310920/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32310920/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Borghesi | PlatCOVID</title>
+    <link>/author/andrea-borghesi/</link>
+      <atom:link href="/author/andrea-borghesi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrea Borghesi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Andrea Borghesi</title>
+      <link>/author/andrea-borghesi/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 outbreak in Italy: experimental chest X-ray scoring system for quantifying and monitoring disease progression.</title>
+      <link>/publication/32358689/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32358689/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiographic severity index in COVID-19 pneumonia: relationship to age and sex in 783 Italian patients.</title>
+      <link>/publication/32358691/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32358691/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

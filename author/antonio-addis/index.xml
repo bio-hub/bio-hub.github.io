@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonio Addis | PlatCOVID</title>
+    <link>/author/antonio-addis/</link>
+      <atom:link href="/author/antonio-addis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antonio Addis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Antonio Addis</title>
+      <link>/author/antonio-addis/</link>
+    </image>
+    
+    <item>
+      <title>[CoViD-19: we knew everything but we didn&#39;t understand anything.]</title>
+      <link>/publication/32319433/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32319433/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

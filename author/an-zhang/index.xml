@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>An Zhang | PlatCOVID</title>
+    <link>/author/an-zhang/</link>
+      <atom:link href="/author/an-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>An Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>An Zhang</title>
+      <link>/author/an-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Early forecasting of the potential risk zones of COVID-19 in China&#39;s megacities.</title>
+      <link>/publication/32353723/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32353723/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A retrospective study on the epidemiological characteristics and establishment of early warning system of severe COVID-19 patients.</title>
+      <link>/publication/32410285/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32410285/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

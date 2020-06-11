@@ -752,7 +752,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of BID gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of BID gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -768,10 +768,18 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32285930
+&lt;a href=&#34;/publication/32285930&#34; target=&#34;_blank&#34;&gt;32285930&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 HCQ doses &amp;gt; 400 mg BID for ≥5 days were predicted to rapidly decrease viral loads, reduce the proportion of patients with detectable SARS-CoV-2 infection, and shorten treatment courses, compared to lower dose (≤400 mg daily) regimens. […] However, HCQ doses &amp;gt;600 mg BID were also predicted to prolong QTc intervals.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32371057&#34; target=&#34;_blank&#34;&gt;32371057&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There is a massive international effort underway to develop diagnostic reagents, vaccines, and antiviral drugs in a bid to slow down the spread of the disease and save lives.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F A Klok | PlatCOVID</title>
+    <link>/author/f-a-klok/</link>
+      <atom:link href="/author/f-a-klok/index.xml" rel="self" type="application/rss+xml" />
+    <description>F A Klok</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>F A Klok</title>
+      <link>/author/f-a-klok/</link>
+    </image>
+    
+    <item>
+      <title>Confirmation of the high cumulative incidence of thrombotic complications in critically ill ICU patients with COVID-19: An updated analysis.</title>
+      <link>/publication/32381264/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32381264/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

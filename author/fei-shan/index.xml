@@ -5,12 +5,36 @@
     <link>/author/fei-shan/</link>
       <atom:link href="/author/fei-shan/index.xml" rel="self" type="application/rss+xml" />
     <description>Fei Shan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Fei Shan</title>
       <link>/author/fei-shan/</link>
     </image>
+    
+    <item>
+      <title>Deep learning for detecting corona virus disease 2019 (COVID-19) on high-resolution computed tomography: a pilot study.</title>
+      <link>/publication/32395494/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32395494/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CT quantification of pneumonia lesions in early days predicts progression to severe illness in a cohort of COVID-19 patients.</title>
+      <link>/publication/32373235/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32373235/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Antiviral Therapies for Coronavirus Disease 2019 (COVID-19) Pneumonia in Shanghai, China.</title>
+      <link>/publication/32297985/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32297985/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Emerging 2019 Novel Coronavirus (2019-nCoV) Pneumonia.</title>

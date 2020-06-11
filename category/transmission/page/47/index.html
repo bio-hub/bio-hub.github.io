@@ -1,0 +1,881 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/category/transmission/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166873339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166873339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+  <link rel="alternate" href="/category/transmission/index.xml" type="application/rss+xml" title="PlatCOVID">
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="/category/transmission/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="PlatCOVID">
+  <meta property="og:url" content="/category/transmission/">
+  <meta property="og:title" content="transmission | PlatCOVID">
+  <meta property="og:description" content="Web platform to analyze, discuss, cluster, classify COVID-19 scientific literature."><meta property="og:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  
+    <meta property="og:updated_time" content="2020-05-31T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>transmission | PlatCOVID</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">PlatCOVID</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">PlatCOVID</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax/"><span>Syntax</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/genepanel/"><span>Gene Panel</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/drugpanel/"><span>Drug Panel</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/tissuepanel/"><span>Tissue Panel</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/syntax_summary/"><span>Literature Consensus</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+<div class="universal-wrapper pt-3">
+  <p style="font-size:25px" align="justify">transmission</p>
+
+  
+
+  
+</div>
+
+
+
+<div class="universal-wrapper">
+  
+
+  
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32366173/" >Clinical Recommendations for Epistaxis Management During the COVID-19 Pandemic.</a></h2>
+      <div class="article-style">
+        
+          Journal: Otolaryngol Head Neck Surg | PMID: 32366173 | doi: 10.1177/0194599820926497 | Type: Journal Article. Epistaxis is a common complaint in the general population, and its treatment is a common procedure in emergency departme (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32355837/" >Comprehensive update on current outbreak of novel coronavirus infection (2019-nCoV).</a></h2>
+      <div class="article-style">
+        
+          Journal: Ann Transl Med | PMID: 32355837 | doi: 10.21037/atm.2020.02.92 | Type: Letter. Recently, a new coronavirus disease (COVID-19) has emerged as a respiratory infection with significant concern for globa (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32362270/" >COVID-19, Australia: Epidemiology Report 13 (Reporting week to 23:59 AEST 26 April 2020).</a></h2>
+      <div class="article-style">
+        
+          Journal: Commun Dis Intell (2018) | PMID: 32362270 | doi: 10.33321/cdi.2020.44.35 | Type: Letter. Confirmed cases in Australia notified up to 26 April 2020: notifications = 6,711; deaths = 77. The reduction in internat (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32359479/" >COVID-19: Epidemiology, Evolution, and Cross-Disciplinary Perspectives.</a></h2>
+      <div class="article-style">
+        
+          Journal: Trends Mol Med | PMID: 32359479 | doi: 10.1016/j.molmed.2020.02.008 | Type: Journal Article. The recent outbreak of COVID-19 in Wuhan turned into a public health emergency of international concern. With no antivir (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32353347/" >Epidemiology and transmission of COVID-19 in 391 cases and 1286 of their close contacts in Shenzhen, China: a retrospective cohort study.</a></h2>
+      <div class="article-style">
+        
+          Journal: Lancet Infect Dis | PMID: 32353347 | doi: 10.1016/S1473-3099(20)30287-5 | Type: Journal Article. Rapid spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in Wuhan, China, prompted heightened survei (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32351807/" >Gastrointestinal Infection Could Be New Focus for Coronavirus Diagnosis.</a></h2>
+      <div class="article-style">
+        
+          Journal: Cureus | PMID: 32351807 | doi: 10.7759/cureus.7422 | Type: Review. It's not news to tell you that the coronavirus, known as COVID-19, is a worldwide pandemic. The initial outbreak of this (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32367847/" >Nasopharyngeal wash in preventing and treating upper respiratory tract infections: Could it prevent COVID-19?</a></h2>
+      <div class="article-style">
+        
+          Journal: Lung India | PMID: 32367847 | doi: 10.4103/lungindia.lungindia_241_20 | Type: Journal Article. Rapid transmission of the severe acute respiratory syndrome coronavirus 2 has led to the novel coronavirus disease 2019 (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32366488/" >Nosocomial Outbreak of 2019 Novel Coronavirus Pneumonia in Wuhan, China.</a></h2>
+      <div class="article-style">
+        
+          Journal: Eur. Respir. J. | PMID: 32366488 | doi: 10.1183/13993003.00544-2020 | Type: Journal Article. The novel coronavirus (SARS-CoV-2) infected over 3300 health-care-workers (HCWs) in early 2020 in China. Little informat (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32343300/" >Pediatric Microlaryngoscopy and Bronchoscopy in the COVID-19 Era.</a></h2>
+      <div class="article-style">
+        
+          Journal: JAMA Otolaryngol Head Neck Surg | PMID: 32343300 | doi: 10.1001/jamaoto.2020.1191 | Type: Review. As an aerosol-generating procedure, traditional pediatric microlaryngoscopy and bronchoscopy techniques must be adapted (...)
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/32348594/" >Procedural precautions and personal protective equipment during head and neck instrumentation in the COVID-19 era.</a></h2>
+      <div class="article-style">
+        
+          Journal: Head Neck | PMID: 32348594 | doi: 10.1002/hed.26220 | Type: Journal Article. Otolaryngologists represent a subset of health care workers uniquely vulnerable to COVID-19 transmission. Given the segm (...)
+        
+      </div>
+    </div>
+  
+
+  
+<nav>
+  <ul class="pagination justify-content-center">
+    
+    <li class="page-item"><a class="page-link" href="/category/transmission/page/46/">&laquo;</a></li>
+    
+    
+    <li class="page-item"><a class="page-link" href="/category/transmission/page/48/">&raquo;</a></li>
+    
+  </ul>
+</nav>
+
+
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    <script id="dsq-count-scr" src="https://procovid19.disqus.com/count.js" async></script>
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/privacy/">Privacy Policy</a>
+    
+    
+        &middot; 
+      <a href="/terms/">Terms</a>
+    
+    
+        &middot; 
+      <a href="/supp/faq/">FAQ</a>
+    
+  </p>
+  
+
+  <p class="powered-by">
+    BioHub - UFPE &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

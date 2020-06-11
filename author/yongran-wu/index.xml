@@ -5,12 +5,20 @@
     <link>/author/yongran-wu/</link>
       <atom:link href="/author/yongran-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yongran Wu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Yongran Wu</title>
       <link>/author/yongran-wu/</link>
     </image>
+    
+    <item>
+      <title>Patients with COVID-19 in 19 ICUs in Wuhan, China: a cross-sectional study.</title>
+      <link>/publication/32410714/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32410714/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study.</title>

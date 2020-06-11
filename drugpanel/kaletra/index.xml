@@ -23,7 +23,7 @@
 
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=kaletra&#34; target=&#34;_blank&#34;&gt;kaletra&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
 Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -32,7 +32,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;kaletra&lt;/em&gt; gene in 3 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 80 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -48,7 +48,7 @@ sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32037389
+&lt;a href=&#34;/publication/32037389&#34; target=&#34;_blank&#34;&gt;32037389&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 All the patients were given antiviral treatment including lopinavir/ritonavir (Kaletra&lt;sup&gt;®&lt;/sup&gt;), arbidol, and Shufeng Jiedu Capsule (SFJDC, a traditional Chinese medicine) and other necessary support care.
@@ -56,7 +56,7 @@ All the patients were given antiviral treatment including lopinavir/ritonavir (K
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32056407
+&lt;a href=&#34;/publication/32056407&#34; target=&#34;_blank&#34;&gt;32056407&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Interestingly, after lopinavir/ritonavir (Kaletra, AbbVie) was administered, β-coronavirus viral loads significantly decreased and no or little coronavirus titers were observed.
@@ -64,7 +64,7 @@ Interestingly, after lopinavir/ritonavir (Kaletra, AbbVie) was administered, β-
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32198776
+&lt;a href=&#34;/publication/32198776&#34; target=&#34;_blank&#34;&gt;32198776&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 All patients received antiviral therapy (135 [100%]) (Kaletra and interferon were both used), antibacterial therapy (59 [43.7%]), and corticosteroids (36 [26.7%]). […] It is suggested that patients should receive Kaletra early and should be treated by a combination of Western and Chinese medicines. […] Kaletra and TCM played an important role in the treatment of the viral pneumonia. […] Further studies are required to explore the role of Kaletra and TCM in the treatment of COVID-19.
@@ -72,10 +72,34 @@ All patients received antiviral therapy (135 [100%]) (Kaletra and interferon wer
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32280433
+&lt;a href=&#34;/publication/32280433&#34; target=&#34;_blank&#34;&gt;32280433&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In addition, we also found that several antiviral agents, such as Kaletra (lopinavir/ritonavir), could be used for the treatment of SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32329879&#34; target=&#34;_blank&#34;&gt;32329879&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, the current treatment options include hydroxychloroquine, tocilizumab, remdesivir, lopinavir-ritonavir (Kaletra®), and nitazoxanide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348232&#34; target=&#34;_blank&#34;&gt;32348232&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient was hospitalized and treated with Oseltamivir 75 mg every 12 hours, Lopinavir/Ritonavir (Kaletra) 400/100 mg every 12 hours and hydroxychloroquine 400 mg stat.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405418&#34; target=&#34;_blank&#34;&gt;32405418&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+None of the infected nurses were hospitalized and all of them preferred to be quarantine at home and receive the necessary care and treatment (Oseltamivir, Azithromycin and Kaletra.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -5,12 +5,20 @@
     <link>/author/david-gurwitz/</link>
       <atom:link href="/author/david-gurwitz/index.xml" rel="self" type="application/rss+xml" />
     <description>David Gurwitz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>David Gurwitz</title>
       <link>/author/david-gurwitz/</link>
     </image>
+    
+    <item>
+      <title>Repurposing current therapeutics for treating COVID-19: A vital role of prescription records data mining.</title>
+      <link>/publication/32420637/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32420637/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Angiotensin receptor blockers as tentative SARS-CoV-2 therapeutics.</title>

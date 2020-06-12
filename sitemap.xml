@@ -13,6 +13,16 @@
   </url>
   
   <url>
+    <loc>/collaboration/sentimental_analysis/conclusion/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/collaboration/sentimental_analysis/context/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/syntax_summary/diagnsosis/info/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -3239,6 +3249,11 @@
   
   <url>
     <loc>/tissuepanel/white_pulp/info/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/collaboration/sentimental_analysis/all/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -6488,6 +6503,11 @@
   </url>
   
   <url>
+    <loc>/collaboration/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/syntax_summary/diagnsosis/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
@@ -6509,6 +6529,11 @@
   
   <url>
     <loc>/syntax_summary/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/collaboration/sentimental_analysis/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   

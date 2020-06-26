@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | PlatCOVID</title>
+    <link>/collaboration/machine_learning/</link>
+      <atom:link href="/collaboration/machine_learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Machine Learning</title>
+      <link>/collaboration/machine_learning/</link>
+    </image>
+    
+    <item>
+      <title>DataSet for Machine Learning</title>
+      <link>/collaboration/machine_learning/home/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/collaboration/machine_learning/home/</guid>
+      <description>&lt;h3 id=&#34;dataset-as-a-template-to-machine-learn-how-to-categorize-new-articles-and-creates-subcluster-of-each-categories-&#34;&gt;Dataset as a template to machine learn how to categorize new articles and creates subcluster of each categories :&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;../../../files/sentimental/dataset_machine_learn.xlsx&#34;&gt; Dataset (xlsx) &lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p style=&#34;font-size:12px&#34;&gt; 
+**Comments:** In .xlsx file there are five categories: Diagnosis, Treatment, Epidemiology, Transmission and Signs. I added six collums to includ this info.
+&lt;p&gt;dataSet Legend&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 = No category&lt;/li&gt;
+&lt;li&gt;1 = Automatic Categoryzed  (not curated)&lt;/li&gt;
+&lt;li&gt;2 = Categoryzed (human curated &lt;em&gt;after automatic process&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

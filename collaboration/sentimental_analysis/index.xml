@@ -18,11 +18,16 @@
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/collaboration/sentimental_analysis/conclusion/</guid>
       <description>&lt;h2 id=&#34;abstract-conclusion-in-each-to-categories&#34;&gt;Abstract conclusion in each to categories:&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;../../../files/sentimental/g1_conclusion_sentences.csv&#34;&gt; Diagnosis Conclusion Sentences &lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../../files/sentimental/g2_conclusion_sentences.csv&#34;&gt; Treatment Conclusion Sentences &lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../../files/sentimental/g3_conclusion_sentences.csv&#34;&gt; Epidemology Conclusion Sentences &lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../../files/sentimental/g4_conclusion_sentences.csv&#34;&gt; Transmission Conclusion Sentences &lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../../files/sentimental/g5_conclusion_sentences.csv&#34;&gt; Signs Conclusion Sentences &lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../../files/sentimental/g1_conclusion_sentences.csv&#34;&gt; Diagnosis Conclusion Sentences (csv)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/g2_conclusion_sentences.csv&#34;&gt; Treatment Conclusion Sentences (csv)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/g3_conclusion_sentences.csv&#34;&gt; Epidemology Conclusion Sentences (csv)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/g4_conclusion_sentences.csv&#34;&gt; Transmission Conclusion Sentences (csv)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/g5_conclusion_sentences.csv&#34;&gt; Signs Conclusion Sentences (csv)&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../../files/sentimental/g1_conclusion_sentences.xlsx&#34;&gt; Diagnosis Conclusion Sentences (xlsx)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/g2_conclusion_sentences.xlsx&#34;&gt; Treatment Conclusion Sentences (xlsx)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/g3_conclusion_sentences.xlsx&#34;&gt; Epidemology Conclusion Sentences (xlsx)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/g4_conclusion_sentences.xlsx&#34;&gt; Transmission Conclusion Sentences (xlsx)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/g5_conclusion_sentences.xlsx&#34;&gt; Signs Conclusion Sentences (xlsx)&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -32,12 +37,18 @@
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/collaboration/sentimental_analysis/context/</guid>
       <description>&lt;h2 id=&#34;abstract-context-according-to-categories&#34;&gt;Abstract context according to categories:&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;../../../files/sentimental/diagnosis_context_sentences.csv&#34;&gt; Diagnosis Context Sentences &lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../../files/sentimental/treatment_context_sentences.csv&#34;&gt; Treatment Context Sentences &lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../../files/sentimental/epidemiology_context_sentences.csv&#34;&gt; Epidemology Context Sentences &lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../../files/sentimental/transmission_context_sentences.csv&#34;&gt; Transmission Context Sentences &lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../../files/sentimental/signs_context_sentences.csv&#34;&gt; Signs Context Sentences &lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../../files/sentimental/diagnosis_context_sentences.csv&#34;&gt; Diagnosis Context Sentences (csv)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/treatment_context_sentences.csv&#34;&gt; Treatment Context Sentences (csv)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/epidemiology_context_sentences.csv&#34;&gt; Epidemology Context Sentences (csv)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/transmission_context_sentences.csv&#34;&gt; Transmission Context Sentences (csv)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/signs_context_sentences.csv&#34;&gt; Signs Context Sentences (csv)&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
 &lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;../../../files/sentimental/diagnosis_context_sentences.xlsx&#34;&gt; Diagnosis Context Sentences (xlsx)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/treatment_context_sentences.xlsx&#34;&gt; Treatment Context Sentences (xlsx)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/epidemiology_context_sentences.xlsx&#34;&gt; Epidemology Context Sentences (xlsx)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/transmission_context_sentences.xlsx&#34;&gt; Transmission Context Sentences (xlsx)&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/signs_context_sentences.xlsx&#34;&gt; Signs Context Sentences (xlsx)&lt;/a&gt; &lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Access here the terms used to create the categories: &lt;a href=&#34;supp/terms/term/#categoric-terms-1&#34;&gt; link &lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -47,14 +58,23 @@
       <link>/collaboration/sentimental_analysis/all/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/collaboration/sentimental_analysis/all/</guid>
-      <description>&lt;h2 id=&#34;all-abstract-senteces&#34;&gt;All abstract senteces:&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;../../../files/sentimental/all_sentences.csv&#34;&gt; All Sentences &lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+      <description>&lt;h2 id=&#34;dataset-for-sentimental-analysis&#34;&gt;Dataset for sentimental Analysis:&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;../../../files/sentimental/database_sentimental.csv&#34;&gt; All Sentences (csv) &lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/dataset_sentimental.xlsx&#34;&gt; All Sentences (xlsx) &lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;all-abstract-senteces&#34;&gt;All abstract senteces:&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;../../../files/sentimental/all_sentences.csv&#34;&gt; All Sentences (csv) &lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/all_sentences.xlsx&#34;&gt; All Sentences (xlxs) &lt;/a&gt; &lt;br&gt;&lt;/p&gt;
 &lt;h2 id=&#34;abstract-senteces-according-to-categories&#34;&gt;Abstract senteces according to categories:&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;../../../files/sentimental/diagnosis_all_sentences.csv&#34;&gt; Diagnosis Sentences &lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../../files/sentimental/treatment_all_sentences.csv&#34;&gt; Treatment Sentences &lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../../files/sentimental/epidemiology_all_sentences.csv&#34;&gt; Epidemology Sentences &lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../../files/sentimental/transmission_all_sentences.csv&#34;&gt; Transmission Sentences &lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;../../../files/sentimental/signs_all_sentences.csv&#34;&gt; Signs Sentences &lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../../files/sentimental/diagnosis_all_sentences.csv&#34;&gt; Diagnosis Sentences (csv) &lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/treatment_all_sentences.csv&#34;&gt; Treatment Sentences (csv) &lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/epidemiology_all_sentences.csv&#34;&gt; Epidemology Sentences (csv) &lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/transmission_all_sentences.csv&#34;&gt; Transmission Sentences (csv) &lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/signs_all_sentences.csv&#34;&gt; Signs Sentences (csv)&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../../files/sentimental/diagnosis_all_sentences.xlsx&#34;&gt; Diagnosis Sentences (xlsx) &lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/treatment_all_sentences.xlsx&#34;&gt; Treatment Sentences (xlsx) &lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/epidemiology_all_sentences.xlsx&#34;&gt; Epidemology Sentences (xlsx) &lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/transmission_all_sentences.xlsx&#34;&gt; Transmission Sentences (xlsx) &lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;../../../files/sentimental/signs_all_sentences.xlsx&#34;&gt; Signs Sentences (xlsx)&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     

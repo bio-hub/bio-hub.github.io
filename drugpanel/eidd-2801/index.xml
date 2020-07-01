@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db15661&#39; target=&#39;_blank&#39;&gt;db15661&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=eidd-2801&#34; target=&#34;_blank&#34;&gt;eidd-2801&lt;/a&gt; &lt;br&gt;
 Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;eidd-2801&lt;/em&gt; gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In mice infected with SARS-CoV or MERS-CoV, both prophylactic and therapeutic administration of EIDD-2801, an orally bioavailable NHC-prodrug (β-D-N&lt;sup&gt;4&lt;/sup&gt;-hydroxycytidine-5’-isopropyl ester), improved pulmonary function, and reduced virus titer and body weight loss. […] The potency of NHC/EIDD-2801 against multiple coronaviruses and oral bioavailability highlight its potential utility as an effective antiviral against SARS-CoV-2 and other future zoonotic coronaviruses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32503814&#34; target=&#34;_blank&#34;&gt;32503814&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results support the combination of copper, N-acetylcysteine (NAC), colchicine and nitric oxide (NO) with candidate antiviral agents, remdesivir or EIDD-2801, as a treatment for patients positive for SARS-CoV-2. […] The authors propose to study the effects of the combination of copper, NAC, colchicine, NO and currently used experimental antiviral agents, remdesivir or EIDD-2801, as a potential treatment scheme for SARS-COV-2.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

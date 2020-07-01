@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00441&#39; target=&#39;_blank&#39;&gt;db00441&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=chloroquine&#34; target=&#34;_blank&#34;&gt;chloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=gemcitabine&#34; target=&#34;_blank&#34;&gt;gemcitabine&lt;/a&gt; &lt;br&gt;
 Synonymous :2’-deoxy-2’,2’-difluorocytidine | 2’,2’-difluorodeoxycytidine | 4-amino-1-((2r,4r,5r)-3,3-difluoro-4-hydroxy-5-(hydroxymethyl)-tetrahydrofuran-2-yl)pyrimidin-2(1h)-one | gemcitabin | gemcitabina | gemcitabine | gemcitabinum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :2’-deoxy-2’,2’-difluorocytidine | 2’,2’-difluorodeoxycytid
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;chloroquine&lt;/em&gt; gene in 158 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;gemcitabine&lt;/em&gt; gene in 6 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -69,6 +69,14 @@ Here we examined the antiviral abilities of three broad-spectrum antiviral compo
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In addition to taking standard precautions for minimizing COVID-19 risk of exposure for those entering a healthcare facility (screening all personnel upon entry and donning facemasks at all times), we suggest the following three measures: (1) delay post-treatment surveillance visits until there is a decrease in local COVID-19 cases, (2) continue curative intent treatments for localized bladder cancer with COVID-19 precautions (i.e., choosing gemcitabine/cisplatin (GC) over dose-dense methotrexate, vinblastine, doxorubicin, cisplatin (ddMVAC) neoadjuvant chemotherapy), and (3) increase the off-treatment period between cycles of palliative systemic therapy in metastatic urothelial carcinoma patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32563698&#34; target=&#34;_blank&#34;&gt;32563698&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+They are all old drugs as follows, anisomycin, antimycin A, atovaquone, chloroquine, conivaptan, emetine, gemcitabine, homoharringtonine, niclosamide, nitazoxanide, oligomycin, salinomycin, tilorone, valinomycin, and vismodegib.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

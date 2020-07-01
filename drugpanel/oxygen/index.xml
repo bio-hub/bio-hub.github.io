@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db09140&#39; target=&#39;_blank&#39;&gt;db09140&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=vapreotide&#34; target=&#34;_blank&#34;&gt;vapreotide&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
 Synonymous :dioxygen | molecular oxygen | oxigeno gaseoso | oxygen usp | pure oxygen
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :dioxygen | molecular oxygen | oxigeno gaseoso | oxygen usp | pure ox
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;vapreotide&lt;/em&gt; gene in 3 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 309 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -1457,8 +1457,1074 @@ The role of percentage saturation of hemoglobin with oxygen (oxygen saturation),
 In multivariable logistic regression analysis, risk factors for severe infection included pre-existing renal disease (odds ratio [OR], 7.4; 95% CI 2.5-22.0), oxygen requirement at hospitalization (OR, 2.9; 95% CI, 1.3-6.7), acute renal injury (OR, 2.7; 95% CI 1.3-5.6) and initial CRP (OR,1.006; 95% CI, 1.001-1.01). […] Acute or pre-existing renal disease, supplemental oxygen at the time of hospitalization and initial CRP were independent predictors for the development of severe COVID-19 infections.
 &lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32470515&#34; target=&#34;_blank&#34;&gt;32470515&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Admission and oxygen supply was required in 4.9% (2 patients in the Ramipril and 3 in control), and 4 of them died (two in each randomized group).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32470602&#34; target=&#34;_blank&#34;&gt;32470602&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report three cases of COVID-19 pneumonia who progressed while using antiviral drugs and needed supplementary oxygen therapy, improved after treatment with nafamostat. […] These preliminary findings show the possibility that Nafamostat can be considered to be used in elderly patients with COVID-19 pneumonia who need oxygen therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32473964&#34; target=&#34;_blank&#34;&gt;32473964&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+While the best option in terms of non-invasive systems of oxygen delivery is still a matter of debate, it also remains unclear as to whether or not the optimal in-bed positioning of patients might also help to improve their oxygen saturation levels. […] On the basis of three representative cases, it is possible to propose the following hypotheses: (i) how patients are positioned has a strong influence on their oxygen saturation levels; (ii) saturation-optimalised positions are patient-specific; (iii) prone positions require ergonomic devices; and (iv) saturation-optimalised positions should aim to place the most affected part(s) of the lung(s) on top.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32475761&#34; target=&#34;_blank&#34;&gt;32475761&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+If dexmedetomidine can improve compliance with non-invasive oxygen support (the current recommended first-line therapy) while promoting better oxygenation, it may also decrease the need for mechanical ventilation and thus improve mortality.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32476080&#34; target=&#34;_blank&#34;&gt;32476080&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The following variables were extracted for this study: age, gender, temperature, and saturation of oxygen on admission, treatment with heparin, hydroxychloroquine, azithromycin, steroids, tocilizumab, a combination of lopinavir with ritonavir, and oseltamivir, together with data on mortality. […] This association remained significant when saturation of oxygen &amp;lt; 90%, and temperature &amp;gt; 37 °C were added to de model with OR 0.54 (0.36-0.82) p = 0.003, and also when all the other drugs were included as covariates OR 0.42 (0.26-0.66) p &amp;lt; 0.001.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32479771&#34; target=&#34;_blank&#34;&gt;32479771&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A risk score was developed incorporating twelve characteristics: age&amp;gt;40, male, non-white ethnicity, oxygen saturations&amp;lt;93%, radiological severity score&amp;gt;3, neutrophil count&amp;gt;8.0 x10&lt;sup&gt;9&lt;/sup&gt;/L, CRP&amp;gt;40 mg/L, albumin&amp;lt;34 g/L, creatinine&amp;gt;100 µmol/L, diabetes mellitus, hypertension and chronic lung disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32481322&#34; target=&#34;_blank&#34;&gt;32481322&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Frequency of requiring supplemental oxygen or non-invasive ventilation; 5.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32481340&#34; target=&#34;_blank&#34;&gt;32481340&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients had oxygen treatment with HFNC, as well as regular treatment of antivirals and traditional Chinese medicine. […] HFNC treatment has its advantages in providing oxygen therapy in COVID-19, but healthcare professionals should still pay close attention to changes in patients’ oxygenation rates and respiratory frequency.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32481381&#34; target=&#34;_blank&#34;&gt;32481381&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After the operation, we routinely give symptomatic treatments such as anti-infection, nebulization and oxygen inhalation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32482597&#34; target=&#34;_blank&#34;&gt;32482597&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+At baseline, all patients were on high-flow supplemental oxygen and most (78% of TCZ patients and 61% of standard treatment patients) were on non-invasive ventilation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32484930&#34; target=&#34;_blank&#34;&gt;32484930&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+While arterial oxygen saturations (87.58±3.12%) dropped in room air in the pre-tocilizumab period, post-tocilizumab they normalized in all patients (94.42±1%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32489666&#34; target=&#34;_blank&#34;&gt;32489666&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 55-year-old male COVID-19-positive patient with obstructive sleep apnoea (OSA), diabetes, and obesity presented with cough and shortness of breath, escalating to requiring high-flow oxygen therapy by high-velocity nasal insufflation. […] The patient’s flow rate and oxygen fraction remained labile throughout much of the hospitalization. […] The patient was alert and oriented and was instructed on the operation of the high-flow system, specifically the adjustment of both flow rate and oxygen percentage. […] The patient was instructed to modify oxygen to maintain an SpO&lt;sub&gt;2&lt;/sub&gt; (peripheral capillary oxygen saturation) target range, and flow rate to address dyspnoea as well as reduction of flow as tolerated when other staff entered the room.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32492530&#34; target=&#34;_blank&#34;&gt;32492530&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Severe pneumonia was defined as an oxygen saturation ≤ 93% at room air.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32493441&#34; target=&#34;_blank&#34;&gt;32493441&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Only adult (≥18y old) patients will be recruited with recent (≤16 days) COVID-19 infection and acute hypoxia (defined as PaO2/FiO2 below 350mmHg or PaO2/FiO2 below 280 on supplemental oxygen and immediately requiring high flow oxygen device or mechanical ventilation) and signs of systemic cytokine release syndrome characterized by high serum ferritin, or high D-dimers, or high LDH or deep lymphopenia or a combination of those, who have not been on mechanical ventilation for more than 24 hours before randomisation. […] This ordinal scale is composed of (1) Death; (2) Hospitalized, on invasive mechanical ventilation or ECMO; (3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; (4) Hospitalized, requiring supplemental oxygen; (5) Hospitalized, not requiring supplemental oxygen; (6) Not hospitalized.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32493468&#34; target=&#34;_blank&#34;&gt;32493468&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients will be randomly assigned to the intervention groups or the control group with the following eligibility criteria: ≥ 18 years of age AND (oxygen saturation (SPO2) ≤ 93% OR respiratory rate ≥ 24) AND at least one of the following: Contactless infrared forehead thermometer temperature of ≥37.8, cough, sputum production, nasal discharge, myalgia, headache or fatigue on admission, and time of onset of the symptoms should be acute (Days ≤ 14).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32495226&#34; target=&#34;_blank&#34;&gt;32495226&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the absence of a vaccine and specifically designed antivirals, the medical community has proposed the use of various previously available medications in order to reduce the number of patients requiring prolonged hospitalizations, oxygen therapy, and mechanical ventilation and to decrease mortality from coronavirus disease 2019 (COVID-19).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32498065&#34; target=&#34;_blank&#34;&gt;32498065&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All 3 had ill contacts in the home or had been to the pediatrician and presented with mild to moderate symptoms including fever, rhinorrhea, and hypoxia, requiring supplemental oxygen during their hospital stay.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32499303&#34; target=&#34;_blank&#34;&gt;32499303&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Data on demographics, COVID-19 diagnosis, famotidine use, drug-related side effects, temperature measurements, oxygen saturations and symptom scores were obtained using questionnaires and telephone interviews. […] The combined symptom score improved significantly within 24 hours of starting famotidine and peripheral oxygen saturation (n=2) and device recorded activity (n=1) increased.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32500773&#34; target=&#34;_blank&#34;&gt;32500773&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+On computed tomography scans, she had extensive interstitial lung fibrosis in addition to a positive COVID-19 polymerase chain reaction test requiring 6 L of oxygen via nasal cannula on admission. […] After administration of methylprednisolone, the patient improved and was weaned off her oxygen requirements and was discharged home.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32503620&#34; target=&#34;_blank&#34;&gt;32503620&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Secondary: 14 days after treatment - C-Reactive Protein test x Neutrophil to Lymphocyte Ratio , Interleukin-6, malondialdehyde (MDA) levels reduction - Percentage of patients who require supplemental Oxygen - Mean hospital stay length RANDOMISATION: Patients will be allocated to each group (ratio 1:1) by using an online randomization tool: &lt;a href=&#34;http://www.graphpad.com/quickcalcs/index.cfm&#34; class=&#34;uri&#34;&gt;http://www.graphpad.com/quickcalcs/index.cfm&lt;/a&gt; BLINDING (MASKING): This will be a double-blind study in which participants and those assessing the final outcomes will be blinded to group assignment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32503657&#34; target=&#34;_blank&#34;&gt;32503657&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Routine treatment for patients with the corona virus will be administered, this includes oxygen therapy, drugs that reduced phlegm and relieve cough, including thymosin, proprietary Chinese medicine, etc.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32503662&#34; target=&#34;_blank&#34;&gt;32503662&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Secondary endpoints include change in NEWS2 at 96 hours after randomisation, admission to intensive care unit, mortality (in-hospital, and at 30 and 90 days), duration of hospital admission, clinical status on a 7-point ordinal scale 14 days after randomization ([1] Death [2] Hospitalised, on invasive mechanical ventilation or extracorporeal membrane oxygenation [3] Hospitalised, on non-invasive ventilation or high flow oxygen devices [4] Hospitalized, requiring supplemental oxygen [5] Hospitalised, not requiring supplemental oxygen [6] Not hospitalized, but unable to resume normal activities [7] Not hospitalised, with resumption of normal activities), and improvement in protein biomarker profiles (C-reactive protein, markers of renal and hepatic injury, and established cardiac biomarkers like cardiac troponin and B-type natriuretic peptide) at 96 hours after randomization.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32503663&#34; target=&#34;_blank&#34;&gt;32503663&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients aged 18-80 years admitted to specialized COVID-19 wards in 5 Belgian hospitals with recent (&amp;lt; 2 weeks prior to randomization) confirmed COVID-19 infection and acute respiratory failure defined as a PaO2/FiO2 below 350 mmHg or SpO2 below 93% on minimal 2 L/min supplemental oxygen. […] The primary endpoint of this intervention is measuring oxygenation after 5 days of inhaled (and intravenous) treatment through assessment of a change in pretreatment and post-treatment ratio of PaO2/FiO2 and through measurement of the P(A-a)O2 gradient (PAO2= Partial alveolar pressure of oxygen, PaO2=Partial arterial pressure of oxygen; FiO2= Fraction of inspired oxygen).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32503877&#34; target=&#34;_blank&#34;&gt;32503877&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Acalabrutinib, a selective BTK inhibitor, was administered off-label to 19 patients hospitalized with severe COVID-19 (11 on supplemental oxygen; 8 on mechanical ventilation), 18 of whom had increasing oxygen requirements at baseline. […] At the end of acalabrutinib treatment, 8/11 (72.7%) patients in the supplemental oxygen cohort had been discharged on room air, and 4/8 (50%) patients in the mechanical ventilation cohort had been successfully extubated, with 2/8 (25%) discharged on room air.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32505805&#34; target=&#34;_blank&#34;&gt;32505805&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The primary outcome measures were COVID-19 requiring oxygen (oxygen therapy or noninvasive ventilation) and critical COVID-19 (requiring invasive mechanical ventilation or extracorporeal membrane oxygenation, ECMO). […] By April 14, among the 617 pregnant women with COVID-19, 93 women (15.1 %; 95 %CI 12.3-18.1) had required oxygen therapy and 35 others (5.7 %; 95 %CI 4.0-7.8) had had a critical form of COVID-19. […] Among the women who gave birth, rates of preterm birth in women with non-severe, oxygen-requiring, and critical COVID-19 were 13/123 (10.6 %), 14/29 (48.3 %), and 23/29 (79.3 %) before 37 weeks and 3/123 (2.4 %), 4/29 (13.8 %), and 14/29 (48.3 %) before 32 weeks, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32506055&#34; target=&#34;_blank&#34;&gt;32506055&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Close monitoring for temperature and oxygen saturation during hemodialysis sessions may be reasonable.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32507619&#34; target=&#34;_blank&#34;&gt;32507619&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Most participants referred absence of training on the use of personal protective equipment, oxygen ventilation systems and COVID-19 therapies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32508022&#34; target=&#34;_blank&#34;&gt;32508022&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although no effective treatment is formally approved for COVID-19 infection, support of ventilation with oxygen therapy and sometimes mechanical ventilation is often required.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32509258&#34; target=&#34;_blank&#34;&gt;32509258&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We speculated that in COVID-19, beyond the classical pulmonary immune-inflammation view, the occurrence of an oxygen-deprived blood disease, with iron metabolism dysregulation, should be taken in consideration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32510978&#34; target=&#34;_blank&#34;&gt;32510978&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+While the majority of patients mount an appropriate antiviral response and recover at home, others progress to respiratory distress requiring hospital admission for supplemental oxygen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32511678&#34; target=&#34;_blank&#34;&gt;32511678&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There was no statistical difference between ACEIs and ARBs groups in terms of hospital admission rate, oxygen therapy and need for non-invasive ventilation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32512089&#34; target=&#34;_blank&#34;&gt;32512089&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Currently, approved treatment modalities consist of only supportive care and oxygen supplementation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32512491&#34; target=&#34;_blank&#34;&gt;32512491&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This little-known information should be deemed as crucial as the SARS-CoV-2 relationships with oxygen saturation and the Renine Angiotensin System but it currently remains unexploited. […] We theorized that the Angiotensin II clearance by the red blood cells could trigger the release of its oxygen content in the bloodstream.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32512988&#34; target=&#34;_blank&#34;&gt;32512988&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We hereby report a case of a 44-year-old COVID-19 positive male patient suffering from hypoxic respiratory failure that was successfully treated with high flow nasal cannula oxygen therapy in a negative pressure intensive care room.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32513308&#34; target=&#34;_blank&#34;&gt;32513308&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eligible participants include adults (≥ 18 years) with evidence of SARS-CoV-2 infection by PCR test of nasopharyngeal or oropharyngeal swab within 14 days of randomization, evidence of infiltrates on chest radiography, peripheral capillary oxygen saturation (SpO2) ≤ 94% on room air, and/or need for supplemental oxygen, non-invasive mechanical ventilation, or invasive mechanical ventilation, who are willing and able to provide written informed consent prior to performing study procedures or who have a legally authorized representative available to do so. […] Hospitalized, not requiring supplemental oxygen 4. […] Hospitalized, requiring supplemental oxygen 5. […] Hospitalized, requiring high-flow oxygen therapy or non-invasive mechanical ventilation 6.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32513515&#34; target=&#34;_blank&#34;&gt;32513515&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These measures include the addition of long-acting inhaler therapies, pulmonary rehabilitation, oral therapies, oxygen and lung transplantation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32513808&#34; target=&#34;_blank&#34;&gt;32513808&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Approaches to procedural sedation can be modified to reduce the risk of droplet or aerosol transmission by decreasing nasal cannula oxygen supplementation flows. […] Decreasing the need for oxygen supplement can be accomplished by opioid and sedative sparing strategies, including the use of multimodal analgesia and non-pharmacologic analgesic and anxiolytic interventions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32515699&#34; target=&#34;_blank&#34;&gt;32515699&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thus, hemoglobin loses the capability for transporting oxygen, which aggravates hypoxia and worsens the prognosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32516107&#34; target=&#34;_blank&#34;&gt;32516107&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Dyspnea was the patient’s main complaint at the time of admission in this center and the oxygen saturation was 84%. […] The patient’s felt relieved immediately after the procedure; however, the oxygen saturation did not raise above 85% despite the oxygen therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32516861&#34; target=&#34;_blank&#34;&gt;32516861&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Severe COVID-19, as expressed by elevated lactate dehydrogenase and low oxygen saturation at emergency department admission, is associated with a rapid progression to death in these patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32519786&#34; target=&#34;_blank&#34;&gt;32519786&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our patients were treated by oxygen via face mask in one case and mechanical ventilation as supportive treatment in the other patient.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32519842&#34; target=&#34;_blank&#34;&gt;32519842&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+First, nanoparticles (NPs) can offer alternative methods to classical disinfection protocols used in healthcare settings, thanks to their intrinsic antipathogenic properties and/or their ability to inactivate viruses, bacteria, fungi, or yeasts either photothermally or &lt;i&gt;via&lt;/i&gt; photocatalysis-induced reactive oxygen species (ROS) generation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32519944&#34; target=&#34;_blank&#34;&gt;32519944&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A comparative presentation of the clinical features of the first 50 COVID-19 patients with and without acute respiratory distress syndrome (ARDS) who were hospitalized in the University Hospital Aachen. 24 intubated patients were treated in the intensive care unit for ARDS of varying degrees of severity, while 26 patients who were breathing spontaneously without ARDS, but nevertheless needed supplemental oxygen, were treated in a separate isolation ward. […] Patients without ARDS had persistently elevated inflammatory parameters and fever for at least one week, with an accompanying need for supplemental oxygen. […] COVID-19 patients without ARDS may likewise require prolonged hospitalization because of persistently elevated inflammatory values with a simultaneous need for supplemental oxygen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32521167&#34; target=&#34;_blank&#34;&gt;32521167&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recognition of these issues and careful counseling of patients about the proper means for measuring their oxygen saturation and when to seek assistance can help ensure successful implementation of needed monitoring programs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32522574&#34; target=&#34;_blank&#34;&gt;32522574&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This article compares the symptoms of acute mountain sickness (AMS) with those of SARS-CoV-2 infection and explores overlapping patho-physiological mechanisms of the respiratory system including impaired oxygen transport, pulmonary gas exchange and brainstem circuits controlling respiration. […] In this context, we also discuss the potential impact of SARS-CoV-2 infection on oxygen sensing in the carotid body.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32523928&#34; target=&#34;_blank&#34;&gt;32523928&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The diagnosis of pulmonary embolism is challenging in symptomatic COVID-19 patients since shortness of breath, chest pain, tachycardia, tachypnoea, fever, oxygen desaturation and high D-dimer blood levels might be features of both diseases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32526061&#34; target=&#34;_blank&#34;&gt;32526061&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PDE5 inhibition favors an anti-inflammatory response by modulating activated T cells, reducing cytokine release, lowering fibrosis, increasing oxygen diffusion, stimulating vascular repair.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32527136&#34; target=&#34;_blank&#34;&gt;32527136&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient received antiviral therapy, antibacterial therapy, recombinant human interferon-α2a, vitamin C and oxygen inhalation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32527341&#34; target=&#34;_blank&#34;&gt;32527341&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Compared with normal group, patients in severe group were older, and with higher proportion of basic diseases, higher body mass index (BMI), higher incidence of tachypnea, persistent high fever, peripheral blood oxygen saturation (SpO&lt;sub&gt;2&lt;/sub&gt;) &amp;lt; 0.95, while the white blood cell count (WBC), CD4&lt;sup&gt;+&lt;/sup&gt;T lymphocyte, CD8&lt;sup&gt;+&lt;/sup&gt;T lymphocyte, lymphocyte count (LYM) were decreased obviously, the levels of interleukin-6 (IL-6), C-reactive protein (CRP) and serum amyloid a protein (SAA), and CT showed higher incidence of multi-pulmonary lobe lesions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32527347&#34; target=&#34;_blank&#34;&gt;32527347&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Clinical data of patients with severe H1N1 influenza virus pneumonia implemented by ECMO in the First Affiliated Hospital of Wannan Medical College from October 2018 to December 2019 were retrospective analyzed, including general information, ECMO transport distance, time, clinical parameters before and after ECMO, including the patients’ oxygenation index (PaO&lt;sub&gt;2&lt;/sub&gt;/FiO&lt;sub&gt;2&lt;/sub&gt;), respiratory rate (RR), pulse blood oxygen saturation (SpO&lt;sub&gt;2&lt;/sub&gt;), arterial blood carbon dioxide partial pressure (PaCO&lt;sub&gt;2&lt;/sub&gt;), and pH value, various complications during transport, mechanical ventilation time, patients’ prognosis and other indicators.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32530822&#34; target=&#34;_blank&#34;&gt;32530822&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Oxygen saturation values taken before and after the 4-hour wear test confirmed that well-fitted facial protection did not compromise the mask seal, but rather improved it.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32531257&#34; target=&#34;_blank&#34;&gt;32531257&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results were correlated with patients’ respiratory function evaluated by the partial pressure of arterial oxygen to fraction of inspired oxygen ratio (PaO2/FiO2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532356&#34; target=&#34;_blank&#34;&gt;32532356&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Twenty serious COVID-19 cases will be enrolled in the trial from April 6th to December 31st 2020. hospitalised patients at Renmin Hospital of Wuhan University satisfy all criteria as below: 1)Adults aged 18-65 years;2)Voluntarily participate in this clinical trial and sign the “informed consent form” or have consent from a legal representative.3)Diagnosed with severe pneumonia of COVID-19: nucleic acid test SARS-CoV-2 positive; respiratory distress (respiratory rate &amp;gt; 30 times / min); hypoxia (resting oxygen saturation &amp;lt; 93% or arterial partial pressure of oxygen / oxygen concentration &amp;lt; 300 mmHg).4)COVID-19 featured lung lesions in chest X-ray image. […] Six grades of ordered variables: GradeDescriptionGrade 1:Discharged of patient;Grade 2:Hospitalized without oxygen supplement;Grade 3:Hospitalized, oxygen supplement is required, but NIV / HFNC is not required;Grade 4:Hospitalized in intensive care unit, and NIV / HFNC treatment is required;Grade 5:Hospitalized in intensive care unit, requiring ECMO and/or IMV;Grade 6:Death.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532449&#34; target=&#34;_blank&#34;&gt;32532449&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This respiratory tract infection is nefarious in how it targets the most distal and highly vulnerable aspect of the human bronchopulmonary tree, specifically, the delicate yet irreplaceable alveoli that are responsible for the loading of oxygen upon red cell hemoglobin for use by all of the body’s tissues.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532948&#34; target=&#34;_blank&#34;&gt;32532948&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 71-year old gentleman with history of arterial hypertension treated with valsartan presented on was hospitalized at the Infectious Diseases Unit, University of Bologna (Italy) for severe acute respiratory syndrome- coronavirus-2 (SARS-CoV-2) and received treatment with hydroxychloroquine 200mg bid (400 mg bid the first day), azithromycin 400 mg qd, thrombotic prophylaxis with enoxaparin 4000 UI qd and Venturi mask oxygen delivering FiO2 of 31%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534175&#34; target=&#34;_blank&#34;&gt;32534175&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The use of acetazolamide with or without sildenafil also needs to be explored with or without heparin, since increased oxygen delivery to vital organs through prevention of thrombosis/pulmonary emboli along with carbonic anhydrase inhibition may help increase oxygenation and prevent adverse clinical outcomes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534848&#34; target=&#34;_blank&#34;&gt;32534848&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+OB group showed a worse pulmonary clinical picture, with lower PaO2 (57 ± 15 vs. 68 ± 14 mmHg, p = 0.042), and SaO2 (88 ± 6 vs. 92 ± 5%, p = 0.049) at admission consequently requiring higher volumes of oxygen (Fi02: 38 ± 15 vs. 29 ± 19%, p = 0.047) and a longer period to achieve oxygen weaning (10 ± 6 vs. 15 ± 7 days, p = 0.03). […] Subjects with obesity affected by COVID-19 require longer hospitalization, more intensive and longer oxygen treatment, and they may have longer SARS-COV-2 shedding.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32535147&#34; target=&#34;_blank&#34;&gt;32535147&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Primary outcomes were mortality and the need for respiratory support, including oxygen administration and mechanical ventilation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32535188&#34; target=&#34;_blank&#34;&gt;32535188&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Median oxygen saturation (SpO2) was 93% (range 60-99), with median PaO&lt;sub&gt;2&lt;/sub&gt;/FiO&lt;sub&gt;2&lt;/sub&gt; ratio, 267 (IQR 184-314).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32536150&#34; target=&#34;_blank&#34;&gt;32536150&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The median duration of symptoms before treatment was 7 days and 26 patients (40%) required oxygen support at baseline.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32537954&#34; target=&#34;_blank&#34;&gt;32537954&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Diabetes mellitus (odds ratio [OR], 19.15; 95% confidence interval [CI], 1.90-193.42; &lt;i&gt;P&lt;/i&gt; = 0.012), body temperature ≥ 37.8°C (OR, 10.91; 95% CI, 1.35-88.36; &lt;i&gt;P&lt;/i&gt; = 0.025), peripheral oxygen saturation &amp;lt; 92% (OR, 33.31; 95% CI, 2.45-452.22; &lt;i&gt;P&lt;/i&gt; = 0.008), and creatine kinase-MB (CK-MB) &amp;gt; 6.3 (OR, 56.84; 95% CI, 2.64-1,223.78, &lt;i&gt;P&lt;/i&gt; = 0.010) at admission were associated with higher risk of severe COVID-19. […] In conclusion, we found that diabetes mellitus, body temperature ≥ 37.8°C, peripheral oxygen saturation &amp;lt; 92%, and CK-MB &amp;gt; 6.3 are independent predictors of severe disease in hospitalized COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32538995&#34; target=&#34;_blank&#34;&gt;32538995&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Non-invasive mechanical ventilation and high-flow oxygen therapy are not recommended due to the generation of aerosol (associated with risk of viral spread among health personnel), and neither is extracorporeal membrane oxygenation or the use of steroids.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32539257&#34; target=&#34;_blank&#34;&gt;32539257&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The recommendations mainly cover the following aspects: (1) lung ultrasound in patients with COVID-19 is mainly manifested by thickened and irregular pleural lines, different types of B-lines, shred signs, and other consolidation like dynamic air bronchogram; (2) Echocardiography may show right heart dysfunction, diffuse cardiac function enhancement, stress cardiomyopathy, diffuse cardiac depression and other multiple abnormalities; (3) Critical ultrasonography helps with initiating early treatment in the suspect patient, screening confirmed patients after intensive care unit admission, early assessment of sudden critical events, rapid grading assessment and treatment based on it; (4) Critical ultrasonography helps to quickly screen for the etiology of respiratory failure in patients with COVID-19, make oxygen therapeutic strategy, guide the implementation of lung protective ventilation, graded management and precise off-ventilator; (5) Critical ultrasonography is helpful for assessing the circulatory status of patients with COVID-19, finding chronic cardiopulmonary diseases and guiding extracorporeal membrane oxygenation management; (6) Critical ultrasonography Contributes to the management of organs besides based on cardiopulmonary oxygen transport; (7) Critical ultrasonography can help to improve the success of operation; (8) Critical ultrasonography can help to improve the safety and quality of nursing; (9) When performing critical ultrasonography for patients with COVID-19, it needs to implement three-level protection standard, pay attention to disinfect the machine and strictly obey the rules from nosocomial infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32539273&#34; target=&#34;_blank&#34;&gt;32539273&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Second, cardiorespiratory variables (heart rate, peripheral oxygen saturation, end-tidal carbon dioxide tension, and inspired fraction of carbon dioxide) were measured at rest and during moderate exercise.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32539537&#34; target=&#34;_blank&#34;&gt;32539537&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with COVID-19 are described as exhibiting oxygen levels incompatible with life without dyspnea. […] It is possible that coronavirus has an idiosyncratic action on receptors involved in chemosensitivity to oxygen, but well-established pathophysiological mechanisms can account for most, if not all, cases of silent hypoxemia. […] These mechanisms include how dyspnea and the respiratory centers respond to low levels of oxygen, how prevailing carbon dioxide tensions (PaCO2) blunt the brain’s response to hypoxia, effects of disease and age on control of breathing, inaccuracy of pulse oximetry at low oxygen saturations, and temperature-induced shifts in the oxygen dissociation curve.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32539988&#34; target=&#34;_blank&#34;&gt;32539988&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We defined asymptomatic infection as SARS-CoV-2 infection with no history of clinical signs and symptoms, severe COVID-19 as clinical symptoms of pneumonia (dyspnoea, tachypnoea, peripheral capillary oxygen saturation &amp;lt;93%, and need for oxygen therapy), and mild COVID-19 as all other symptoms.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32541352&#34; target=&#34;_blank&#34;&gt;32541352&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pulmonary rehabilitation during the acute management of COVID-19 should be considered when possible and safe and may include nutrition, airway, posture, clearance technique, oxygen supplementation, breathing exercises, stretching, manual therapy, and physical activity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32541972&#34; target=&#34;_blank&#34;&gt;32541972&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Univariate logistic regression analysis showed that the risk factors for death were old age, low non oxygen saturation, low lymphocyte count, myocardial injury, abnormal increase of IL 2R, IL-6, and IL-10. […] Multivariate regression showed that old age (&lt;i&gt;OR&lt;/i&gt;=1.11, 95%&lt;i&gt;CI&lt;/i&gt;=1.03-1.19, &lt;i&gt;P&lt;/i&gt;=0.026), low non oxygen saturation(&lt;i&gt;OR&lt;/i&gt;=0.85, 95%&lt;i&gt;CI&lt;/i&gt;=0.72-0.99, &lt;i&gt;P&lt;/i&gt;=0.041), and abnormal increase of IL-10(＞9.1 ng/L, &lt;i&gt;OR&lt;/i&gt;=101.93, 95%&lt;i&gt;CI&lt;/i&gt;=4.74-2190.71, &lt;i&gt;P&lt;/i&gt;=0.003)were independent risk factors for COVID-19 patients combined with hypertension, coronary heart disease or diabetes. […] In COVID-19 patients combined with hypertension, coronary heart disease or diabetes, the risk factors for death were old age, low non oxygen saturation, low lymphocyte count, myocardial injury, and abnormal increase of IL-2R, IL-6, and IL-10. […] Old age, low non oxygen saturation and abnormal increase of IL-10 were independent risk factors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32542464&#34; target=&#34;_blank&#34;&gt;32542464&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Review 1: we synthesized results from randomized-controlled trials (RCTs) comparing HFNC to conventional oxygen therapy (COT) in critically ill patients with acute hypoxemic respiratory failure. […] Review 1: 12 RCTs (n = 1,989 patients) provided low-certainty evidence that HFNC may reduce invasive ventilation (relative risk [RR], 0.85; 95% confidence interval [CI], 0.74 to 0.99) and escalation of oxygen therapy (RR, 0.71; 95% CI, 0.51 to 0.98) in patients with respiratory failure.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32544034&#34; target=&#34;_blank&#34;&gt;32544034&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Inclusion criteria were: (i) positive nasopharyngeal or lower respiratory tract reverse transcriptase-polymerase chain reaction assays; (ii) severe COVID infection defined as requirement for hospitalization and oxygen therapy; (iii) neurologic manifestations; (iv) abnormal brain MRI.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32545714&#34; target=&#34;_blank&#34;&gt;32545714&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This paper addresses several key biological processes of reactive oxygen, halogen and nitrogen species (ROS, RHS and RNS) that play crucial physiological roles in organisms from plants to humans.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32548163&#34; target=&#34;_blank&#34;&gt;32548163&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+On the 8&lt;sup&gt;th&lt;/sup&gt; d of admission, the patient’s highest temperature was 40.7 °C, and oxygen saturation was 83% despite high-flow oxygen inhalation. […] In addition to nasal catheter oxygen inhalation and symptomatic support, antiviral drugs were used throughout the treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32549025&#34; target=&#34;_blank&#34;&gt;32549025&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+He had hypoxic respiratory failure and required oxygen therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32549692&#34; target=&#34;_blank&#34;&gt;32549692&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Five out of the 10 patients - including the patients who presented with hypoxia - subsequently required supplemental oxygen postoperatively. […] Two patients had persistently elevated oxygen demands requiring prolonged administration of supplemental oxygen therapy beyond postoperative day 3. […] Our findings suggest that hip fracture patients who present with asymptomatic or mild COVID-19 infection may have temporarily increased oxygen demands postoperatively, but they can safely undergo early surgical intervention after appropriate medical optimization.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32550056&#34; target=&#34;_blank&#34;&gt;32550056&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Supportive treatment such as oxygen therapy, extracorporeal membrane oxygenation, and ventilator support can also be used.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32553536&#34; target=&#34;_blank&#34;&gt;32553536&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Survival and mechanical ventilation (MV) outcomes were reported for 14 days and stratified by disease severity designated at admission (severe, ≥3L supplemental oxygen to maintain oxygen saturation &amp;gt;93%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32553908&#34; target=&#34;_blank&#34;&gt;32553908&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Oxygen support was required for 24.1% (13/54), including high flow oxygen (n=2), noninvasive (n=1) and invasive (n=3) mechanical ventilation, and extracorporeal membrane oxygenation (n=1).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32554029&#34; target=&#34;_blank&#34;&gt;32554029&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Moreover, some other disrupting factors such as patient distance from the sampler, using protective or oxygen masks by patients, patient activities, coughing and sneezing during sampling time, air movement, air conditioning, sampler type, sampling conditions, storage and transferring conditions, can affect the results.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32554861&#34; target=&#34;_blank&#34;&gt;32554861&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Severe and critical patients received glucocorticoid, Gamma-globulin and oxygen inhalation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32555674&#34; target=&#34;_blank&#34;&gt;32555674&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The systolic blood pressure (median, 130 mmHg vs 120 mmHg) was higher and the oxygen saturation (median, 98.3% vs 92.0%) was significantly lower in severe patients than nonsevere patients. […] Our study revealed that older patients with high levels of C-reactive protein, myoglobin, troponin I, and neutrophil and high systolic blood pressure as well as low levels of lymphocytes, and albumin and a low creatinine clearance rate and oxygen saturation were more likely to have severe disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32557889&#34; target=&#34;_blank&#34;&gt;32557889&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+His temperature was 38°C, he was dyspneic despite oxygen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32559309&#34; target=&#34;_blank&#34;&gt;32559309&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Resting energy expenditure (REE), carbon dioxide production (VCO2) and oxygen consumption (VO2) were measured by indirect calorimetry on seven critically ill patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32560658&#34; target=&#34;_blank&#34;&gt;32560658&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Four levels of thromboembolic risk were defined according to the severity of COVID-19 reflected by oxygen requirement and treatment, the body mass index, and other risk factors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32560744&#34; target=&#34;_blank&#34;&gt;32560744&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We will include both severe and mild-moderate patients defined as follows: Group A (severe disease) - patients with WHO Working Group on the Clinical Characteristics of COVID-19 infection 9-point ordinal scale of Grades 4 (hospitalised, oxygen by mask or nasal prongs), 5 (hospitalised, non-invasive ventilation or high flow oxygen), 6 (hospitalised, intubation and mechanical ventilation) or 7 (hospitalised, ventilation and additional organ support); Group B (mild-moderate disease) - ambulant or hospitalised patients with peripheral capillary oxygen saturation (SpO&lt;sub&gt;2&lt;/sub&gt;) &amp;gt;94% RA. […] But may include; time to clinical improvement of at least 2 points on the WHO 9-point category ordinal scale [measured up to 29 days from randomisation], progression of disease (oxygen saturation (SaO&lt;sub&gt;2)&lt;/sub&gt; &amp;lt;92%) or hospitalization or death, or change in time-weighted viral load [measured up to 29 days from randomisation].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32560745&#34; target=&#34;_blank&#34;&gt;32560745&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+They will be hospitalized patients with severe COVID-19 who have positive RT-PCR test and have blood oxygen saturation levels (SpO&lt;sub&gt;2&lt;/sub&gt;) less than 90% and respiratory rate higher than 24 per minute or have involvement of more than 50% of their lung when viewed using computed tomography (CT)-scan.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562159&#34; target=&#34;_blank&#34;&gt;32562159&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The oxygen saturation (SpO2) and temperature were positively changed in patients receiving regimen I compared to regimen II (P = 0.013 and P = 0.012, respectively).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562915&#34; target=&#34;_blank&#34;&gt;32562915&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the absence of a therapy of proven efficacy, current management consists of off-label or compassionate use therapies based on antivirals, antiparasitic agents in both oral and parenteral formulation, anti-inflammatory drugs, oxygen therapy and heparin support and convalescent plasma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32563584&#34; target=&#34;_blank&#34;&gt;32563584&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Within 24 hours, he showed significant improvement in symptoms, oxygen requirements, radiological findings, and inflammatory markers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32563601&#34; target=&#34;_blank&#34;&gt;32563601&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Testing positive for SARS-CoV-2 and lower oxygen saturations were associated with need for ICU and invasive mechanical ventilation, and with death. […] For every 100 admitted persons under investigation, 9 will require ICU stay, invasive mechanical ventilation, or both on arrival and another 12 within 2 to 3 days of hospital admission, especially persons under investigation with lower oxygen saturations and positive SARS-CoV-2 swab results.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32564028&#34; target=&#34;_blank&#34;&gt;32564028&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The assessment of the extent of ARF should be based on arterial or capillary blood gas analysis under room air conditions, and it needs to include the calculation of oxygen supply (measured from the variables of oxygen saturation, hemoglobin level, the corrected values of Hüfner’s factor, and cardiac output). […] A significant proportion of patients with ARF present with relevant hypoxemia, which often cannot be fully corrected, even with a high inspired oxygen fraction (FiO2) under NHF. […] In this situation, the oxygen therapy can be escalated to CPAP or NIV when the criteria for endotracheal intubation are not met.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32565097&#34; target=&#34;_blank&#34;&gt;32565097&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+More SARS patients required oxygen supplementation than COVID-19 patients (18.6 vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32565364&#34; target=&#34;_blank&#34;&gt;32565364&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Similarly, the role of oxygen therapy as an anti-inflammatory strategy is evident and access to oxygen therapy should be prioritized to avoid the aggravation of COVID-19 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32565512&#34; target=&#34;_blank&#34;&gt;32565512&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+KL-6 was also found to be significantly correlated with oxygenation index and oxygen partial pressure difference of alveolar artery (PA-aDO&lt;sub&gt;2&lt;/sub&gt;) (Both P &amp;lt; 0.01).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32569363&#34; target=&#34;_blank&#34;&gt;32569363&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Disease severity was defined based on the amount of oxygen supplementation required.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32569585&#34; target=&#34;_blank&#34;&gt;32569585&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this prospective, feasibility, cohort study, patients aged 18-75 years with a confirmed diagnosis of COVID-19-related pneumonia receiving supplemental oxygen or non-invasive continuous positive airway pressure were recruited from San Gerardo Hospital, Monza, Italy. […] The main study outcome was the variation in oxygenation (partial pressure of oxygen [PaO&lt;sub&gt;2&lt;/sub&gt;]/fractional concentration of oxygen in inspired air [FiO&lt;sub&gt;2&lt;/sub&gt;]) between baseline and resupination, as an index of pulmonary recruitment. […] Prone positioning was feasible and effective in rapidly ameliorating blood oxygenation in awake patients with COVID-19-related pneumonia requiring oxygen supplementation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32570265&#34; target=&#34;_blank&#34;&gt;32570265&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+LUS score was significantly correlated with CT visual scoring (r = 0.65, p &amp;lt; 0.001) and oxygen saturation in room air (r = -0.66, p &amp;lt; 0.001).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32572707&#34; target=&#34;_blank&#34;&gt;32572707&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Past medical history of diabetes and hypertension, initial oxygen saturation, COVID-19 testing results, intubation, and outcome were also collected. […] Oxygen saturation and X-ray grade were both significantly associated with the length of stay in hospital, the hazard ratio (HR) of discharge was 1.05 (95% CI [1.01, 1.09], p = 0.017) and 0.61 (95% CI [0.51, 0.73], p &amp;lt; 0.001), respectively. […] In addition, oxygen saturation and X-ray grade were significant predictors of intubation (odds ratio (OR) of intubation is 0.88 (95% CI [0.81, 0.96], p = 0.004) and 3.69 (95% CI [2.25, 6.07], p &amp;lt; 0.001).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32572809&#34; target=&#34;_blank&#34;&gt;32572809&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The correct sentence should be “In this retrospective study, we included 550 critically ill COVID-19 patients who need mechanical ventilation (63.5%) and oxygen therapy (35.6%) in Tongji Hospital, Wuhan, from February 1, 2020 to April 4, 2020.” 2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32573353&#34; target=&#34;_blank&#34;&gt;32573353&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Half required oxygen therapy and 7.1% high-flow nasal oxygen (HFNO); median time from onset to oxygen therapy and HFNO was 7 and 9 days. […] The case fatality rate was 0.92% with median time from onset to death of 16 days. &lt;b&gt;Conclusion&lt;/b&gt; COVID-19 cases in Shanghai were imported, presenting as viral pneumonia with half of cases needing oxygen therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32573724&#34; target=&#34;_blank&#34;&gt;32573724&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.4% and 5.1% of patients in the CPT and the standard-treatment group have been admitted to ICU eventually. 70% of the patients who had severe respiratory symptoms got improved and removed oxygen supports within 7 days after CPT.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32573895&#34; target=&#34;_blank&#34;&gt;32573895&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The critical evaluation of all cases suggests that the timing of the administration of tocilizumab, an interleukin-6 receptor antagonist, could be associated with a better efficacy when administered in concomitance to the drop of the oxygen saturation. […] Thus, in SARS-CoV-2 affected KTRs a close biochemical and clinical monitoring should be set up to allow physicians to hit the virus in the right moment such as a sudden reduction of the oxygen saturation and/or a significant increase of the laboratory values such as D-Dimer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574235&#34; target=&#34;_blank&#34;&gt;32574235&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The COS included clinical outcomes (recovery/improvement/progression/death), etiology (SARS-CoV-2 nucleic-acid tests, viral load), inflammatory factor (C-reactive protein), vital signs (temperature, respiration), blood and lymphatic-system parameters (lymphocytes, virus antibody), respiratory outcomes (pulmonary imaging, blood oxygen saturation, PaO2/FiO2 ratio, arterial blood gas analysis, mechanical ventilation, oxygen intake, pneumonia severity index), clinical efficacy (prevalence of preventing patients with mild-to-moderate disease progressing to severe disease), and symptoms (clinical symptom score).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574262&#34; target=&#34;_blank&#34;&gt;32574262&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Serial SARS-CoV-2 testing along with hematological measurements, including cell counts, blood biochemistry and serum cytokine levels, and temperature and blood oxygen saturation levels, were recorded for each patient during their hospital stay.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574309&#34; target=&#34;_blank&#34;&gt;32574309&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The percentage of patients in which the partial pressure of oxygen (PaO&lt;sub&gt;2&lt;/sub&gt;)/fraction of inspired O&lt;sub&gt;2&lt;/sub&gt;(FiO&lt;sub&gt;2&lt;/sub&gt;) ratio exceeded 200 was 60%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574337&#34; target=&#34;_blank&#34;&gt;32574337&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After comprehensive treatment including high-flow nasal cannula oxygen therapy, plasma exchange, antiviral and anti-infection therapies, immune regulation, liquid volume management, glucocorticoid, enteral nutrition support, analgesia and sedation, blood glucose control, anticoagulation and thrombus prevention, and electrolyte balance maintenance, the patient was finally cured, and discharged.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574432&#34; target=&#34;_blank&#34;&gt;32574432&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recently the internet has been abuzz with new ideas to treat COVID-19, including hyperbaric oxygen (HBO2) therapy, undoubtedly driven by the fact that until recently there have been few therapeutic options for this highly contagious and often lethal infection. . . . […] Refractory hypoxemia is certainly treatable with hyperbaric oxygen due to the obvious effect of increasing inspired oxygen partial pressure (PO2), the major reason for using HBO2 for its established indications. […] However, the length of time during which patients can safely be administered HBO2 inside a chamber is limited, due to practical issues of confinement and isolation from other necessary medical interventions, but also because of oxygen toxicity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574433&#34; target=&#34;_blank&#34;&gt;32574433&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To determine whether hyperbaric oxygen (HBO2) therapy be effective to improve hypoxemia for severe COVID-19 pneumonia patients. […] Each met at least one of the following criteria: shortness of breath; respiratory rate (RR) ≥30 breaths/minute; finger pulse oxygen saturation (SpO2) ≤93% at rest; and oxygen index (P/F ratio: PaO2/FiO2 ≤300 mmHg). […] Patients were treated with 1.5 atmospheres absolute HBO2 with an oxygen concentration of more than 95% for 60 minutes per treatment, once a day for one week.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574446&#34; target=&#34;_blank&#34;&gt;32574446&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There have been numerous recent inquiries regarding use of hyperbaric oxygen (HBO2) for patients with COVID-19. […] The UHMS Hyperbaric Oxygen Therapy Committee, UHMS Executive Committee, with collaborative input from multiple senior UHMS members and researchers have drafted this position statement.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32574708&#34; target=&#34;_blank&#34;&gt;32574708&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Iron dysregulation induces reactive oxygen species (ROS) production and promotes oxidative stress.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574789&#34; target=&#34;_blank&#34;&gt;32574789&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mean age was 75.3, mean oxygen (O&lt;sub&gt;2&lt;/sub&gt;) requirements 10.4 l/min.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32575124&#34; target=&#34;_blank&#34;&gt;32575124&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients had confirmed SARS-CoV-2 pneumonia and oxygen saturations &amp;lt;90% on oxygen support with most intubated. […] We examined clinical and laboratory parameters including oxygen and vasopressor requirements, cytokine profiles, and C-reactive protein (CRP) levels pre- and post-tocilizumab treatment. […] Oxygen and vasopressor requirements diminished over the first week post-tocilizumab. […] Compared to published reports on the morbidity and mortality associated with SARS-CoV-2, tocilizumab appears to offer benefits in reducing inflammation, oxygen requirements, vasopressor support, and mortality.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32575366&#34; target=&#34;_blank&#34;&gt;32575366&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Respiratory safety was evaluated by measuring end-tidal CO&lt;sub&gt;2&lt;/sub&gt; and oxygen saturation while wearing the masks in rest and during physical exercise.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32576347&#34; target=&#34;_blank&#34;&gt;32576347&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Linear regression analysis showed that D-dimer level was negatively related with pulse oxygen saturation (SpO&lt;sub&gt;2&lt;/sub&gt;), oxygenation index (PaO&lt;sub&gt;2&lt;/sub&gt;/FiO&lt;sub&gt;2&lt;/sub&gt;) and platelet count (PLT) with β values of -0.493, -11.615, and -0.018, respectively (all P &amp;lt; 0.05).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32578070&#34; target=&#34;_blank&#34;&gt;32578070&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+They include self-monitoring of oxygen saturation (SpO&lt;sub&gt;2&lt;/sub&gt;) from home, continuous wireless SpO&lt;sub&gt;2&lt;/sub&gt; monitoring on hospital wards, and the integration of SpO&lt;sub&gt;2&lt;/sub&gt; as the input variable for closed-loop oxygen administration systems.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32578324&#34; target=&#34;_blank&#34;&gt;32578324&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+More than half of these patients presented with hypoxia requiring supplemental oxygen, 39% were intubated within 48 hours and 53% developed acute kidney injury but did not require dialysis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32578747&#34; target=&#34;_blank&#34;&gt;32578747&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although the lungs are one of the target organs, the hypoxia mechanism is systemic and other organs begin to suffer both through lack of oxygen and through deregulation of inflammation control mechanisms.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32578785&#34; target=&#34;_blank&#34;&gt;32578785&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Approximately 5% of the patients will require intensive care unit treatment with oxygen therapy and mechanical ventilation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32578825&#34; target=&#34;_blank&#34;&gt;32578825&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+On the basis of the opinions of front-line experts and a review of the relevant literature on several topics, we proposed clinical practice recommendations on the following aspects for physiotherapists facing challenges in treating patients and containing virus spread: 1. personal protective equipment, 2. conventional chest physiotherapy, 3. exercise and early mobilization, 4. oxygen therapy, 5. nebulizer treatment, 6. non-invasive ventilation and high-flow nasal oxygen, 7. endotracheal intubation, 8. protective mechanical ventilation, 9. management of mechanical ventilation in severe and refractory cases of hypoxemia, 10. prone positioning, 11. cuff pressure, 12. tube and nasotracheal suction, 13. humidifier use for ventilated patients, 14. methods of weaning ventilated patients and extubation, and 15. equipment and hand hygiene.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32579049&#34; target=&#34;_blank&#34;&gt;32579049&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+According to the theory of electron excitation in photosensitive molecules, similar to hemoglobin heme, after the photon absorption there would be an increase in the stability of the iron ion bond with the center of the pyrrole ring, preventing the losses of heme function oxygen transport (HbO&lt;sub&gt;2&lt;/sub&gt;). […] The light is also absorbed by cytochrome c oxidase in the R-NIR region, with a consequent increase in electron transport, regulating enzyme activity and resulting in a significant increase of oxygen rate consumption by mitochondria, increasing ATP production. &lt;b&gt; &lt;i&gt;Conclusions:&lt;/i&gt; &lt;/b&gt; The most favorable range of optical radiation to operate in this system is between R-NIR region, in which cytochrome c oxidase and porphyrin present absorption peaks centered at 640 nm and HbO&lt;sub&gt;2&lt;/sub&gt; with absorption peak centered at 900 nm.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32582740&#34; target=&#34;_blank&#34;&gt;32582740&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Most patients (23/29; 79.8%) received supplemental oxygen therapy and antibiotics (23/29; 79.8%) in addition to traditional Chinese medicines (26/29; 89.7%). […] Need of oxygen therapy, mechanical ventilation, intravascular immunoglobulin, and duration of antibiotic therapy were increased in those with severe disease. &lt;b&gt;Conclusions:&lt;/b&gt; Significant differences in demographical and clinical characteristics were observed in patients with moderate and severe COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32583671&#34; target=&#34;_blank&#34;&gt;32583671&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, dedicated devices and repeated tracheal toilettes may be needed to deal with oxygen-therapy-related tracheal crusting.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32584326&#34; target=&#34;_blank&#34;&gt;32584326&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ICU patients had higher BMIs, higher respiratory rates, and lower room-air capillary oxygen saturations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32585765&#34; target=&#34;_blank&#34;&gt;32585765&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High-flow nasal cannula oxygen therapy was required on day 4-5 of hospitalization. […] Symptoms of pneumonia were improved which no oxygen treatment required from day 10 of hospitalization.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32586394&#34; target=&#34;_blank&#34;&gt;32586394&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Need of either: a.Continuous Positive Airway Pressure (Cpap) or Non-Invasive Ventilation (NIV) orb.IMV in patients who at randomisation were receiving standard oxygen therapy5. […] Severe pneumonia defined by the presence of at least one of the following criteria: a.Respiratory Rate ≥25 breaths /minb.Arterial oxygen saturation≤93% at rest on ambient airc.PaO2/FiO2 ≤300 mmHg 4. […] Need of either: a.Continuous Positive Airway Pressure (Cpap) or Non-Invasive Ventilation (NIV) orb.IMV in patients who at randomisation were in standard oxygen therapy by delivery interfaces5. […] Need of either: a.Continuous Positive Airway Pressure (Cpap) or Non-Invasive Ventilation (NIV) orb.IMV in patients who at randomisation were in standard oxygen therapy by delivery interfaces5.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32586395&#34; target=&#34;_blank&#34;&gt;32586395&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Secondary Objectives: • To evaluate cytokine trends / Prevent cytokine storms • To evaluate supplemental oxygen requirements • To decrease mortality of CoViD-19 patients • Delay onset of ventilation TRIAL DESIGN: The study is a single centre, 2-arm, prospective, randomized (ratio 1:1), controlled trial with parallel groups design to compare the reduction of respiratory distress in a CoViD-19 population, using the intervention of the gammaCore®-Sapphire device plus standard of care (active) vs. standard of care alone (SoC) - the control group. […] On home/therapy oxygen (i.e. for patients with Chronic Obstructive Pulmonary Disease) at baseline prior to development of CoViD-193. […] Max doses per day is 9 or 18 stimulations.Plus standard of care Control: Standard of care: oxygen therapy, antibiotics and ventilatory support if necessary depending on the clinic MAIN OUTCOMES: Primary Endpoint: Initiation of mechanical ventilation, from randomization until ICU admission or hospital discharge, whatever occurs first Secondary Endpoints: Safety; ascertainment of Adverse Effects/Serious Adverse Events, from randomisation to ICU admission or hospital discharge, whatever occurs firstCytokine Storm measured by: Tumor necrosis factor α, Interleukin 6, Interleukin 1β. […] Days 1,3,5,10,15 and/or at hospital dischargeMortality and/or need for Critical Care admission, from randomisation until ICU admission or hospital discharge, whatever occurs first,O2 saturation levels , from randomization until ICU admission or hospital discharge, whatever occurs firstNeed for supplemental oxygen, from randomisation until ICU admission or hospital discharge, whatever occurs first RANDOMISATION: The patients are classified according to their oxygen levels as mild, moderate and severe and randomized according to their classification to the intervention and control in a ratio of 1:1.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32589189&#34; target=&#34;_blank&#34;&gt;32589189&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The main outcome was COVID-19 severity assessed on a 7-point ordinal scale (ranging from 1 [not hospitalized with no limitations on activities] to 7 [death]) with a cutoff at 3 (hospitalized and not requiring supplemental oxygen).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32589691&#34; target=&#34;_blank&#34;&gt;32589691&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additionally, patients who underwent at least one of the following treatments were assigned to the severe group: continuous renal replacement therapy, high-flow oxygen absorption, noninvasive and invasive mechanical ventilation, or extracorporeal membrane oxygenation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32590322&#34; target=&#34;_blank&#34;&gt;32590322&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Exercising with facemasks may reduce available Oxygen and increase air trapping preventing substantial carbon dioxide exchange.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32590779&#34; target=&#34;_blank&#34;&gt;32590779&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results of blood gas analysis indicated that the partial pressure of oxygen was 84 mm Hg with oxygen 8 L/min, and the oxygenation index was less than 200 mm Hg.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32590819&#34; target=&#34;_blank&#34;&gt;32590819&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nine patients required high flow oxygen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32591667&#34; target=&#34;_blank&#34;&gt;32591667&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The following sequence was also suggested as early supportive therapy and monitoring: intravenous fluid administration, oxygen therapy, and application of corticosteroids.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32593060&#34; target=&#34;_blank&#34;&gt;32593060&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the patient side, prioritisation is performed using a contracted patient decision matrix constructed between ‘serological/protein biomarkers and the ratio of the partial pressure of oxygen in arterial blood to fractional inspired oxygen criteria’ and ‘patient list based on novel MCDM method known as subjective and objective decision by opinion score method’.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32593202&#34; target=&#34;_blank&#34;&gt;32593202&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+On admission, he was tachypnoeic and in severe hypoxic respiratory failure with dangerously low peripheral oxygen saturations (SpO&lt;sub&gt;2&lt;/sub&gt; ) 83% on 15L oxygen.
+&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
 &lt;/ol&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;

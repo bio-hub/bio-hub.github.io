@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11817&#39; target=&#39;_blank&#39;&gt;db11817&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=remdesivir&#34; target=&#34;_blank&#34;&gt;remdesivir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=baricitinib&#34; target=&#34;_blank&#34;&gt;baricitinib&lt;/a&gt; &lt;br&gt;
 Synonymous :baricitinib
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :baricitinib
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;remdesivir&lt;/em&gt; gene in 116 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;baricitinib&lt;/em&gt; gene in 9 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -85,6 +85,30 @@ The paper reviews aspects of COVID-19 that pertain to rheumatology, including sy
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Baricitinib, is an oral Janus kinase (JAK)1/JAK2 inhibitor approved for the treatment of rheumatoid arthritis (RA) that was independently predicted, using artificial intelligence (AI)-algorithms, to be useful for COVID-19 infection via a proposed anti-cytokine effects and as an inhibitor of host cell viral propagation. […] We evaluated the in vitro pharmacology of baricitinib across relevant leukocyte subpopulations coupled to its in vivo pharmacokinetics and showed it inhibited signaling of cytokines implicated in COVID-19 infection. […] We validated the AI-predicted biochemical inhibitory effects of baricitinib on human numb-associated kinase (hNAK) members measuring nanomolar affinities for AAK1, BIKE, and GAK. […] Inhibition of NAKs led to reduced viral infectivity with baricitinib using human primary liver spheroids. […] In a case series of patients with bilateral COVID-19 pneumonia, baricitinib treatment was associated with clinical and radiologic recovery, a rapid decline in SARS-CoV-2 viral load, inflammatory markers, and IL-6 levels. […] Collectively, these data support further evaluation of the anti-cytokine and anti-viral activity of baricitinib and supports its assessment in randomized trials in hospitalized COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32542785&#34; target=&#34;_blank&#34;&gt;32542785&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Baricitinib is a reversible Janus-associated kinase (JAK)-inhibitor that interrupts the signaling of multiple cytokines implicated in COVID-19 immunopathology. […] However, baricitinib’s immunosuppressive effects may be detrimental during acute viral infections by delaying viral clearance and increasing vulnerability to secondary opportunistic infections. […] The lack of reliable biomarkers to monitor patients’ immune status as illness evolves complicates deployment of immunosuppressive drugs like baricitinib. […] Furthermore, baricitinib carries the risk of increased thromboembolic events which is concerning given the proclivity towards a hyper-coagulable state in COVID-19 patients. […] In this article we review available data on baricitinib with an emphasis on immunosuppressive and antiviral pharmacology, pharmacokinetics, safety and current progress in COVID-19 clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32569708&#34; target=&#34;_blank&#34;&gt;32569708&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The inflammatory phase includes therapeutic options like Tocilizumab, Anakinra, Baricitinib, Eculizumab, Emapalumab and Heparin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32591667&#34; target=&#34;_blank&#34;&gt;32591667&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additionally, this study suggested oseltamivir, iopinavir, remdesivir, chloroquine, baricitinib, ruxolitinib, and fedratinib as possible drugs to help manage COVID-19.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

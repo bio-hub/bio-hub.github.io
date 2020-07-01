@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00829&#39; target=&#39;_blank&#39;&gt;db00829&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=diazepam&#34; target=&#34;_blank&#34;&gt;diazepam&lt;/a&gt; &lt;br&gt;
 Synonymous :7-chloro-1,3-dihydro-1-methyl-5-phenyl-2h-1,4-benzodiazepin-2-one | diazepam | methyl diazepinone
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :7-chloro-1,3-dihydro-1-methyl-5-phenyl-2h-1,4-benzodiazepin-2-one | 
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;diazepam&lt;/em&gt; gene in 9 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -77,6 +77,14 @@ Protocols for the management of poisoning recommend diazepam, although there are
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The treatment of CQ/HCQ poisoning includes high-dose intravenous diazepam postulated to have positive ionotropic and antidysrhythmic properties that may antagonize the cardiotoxic effects of CQ.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32514696&#34; target=&#34;_blank&#34;&gt;32514696&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+He was treated with early orotracheal intubation and intravenous diazepam boluses. […] Due to difficulties formulating continuous diazepam infusions, we opted to utilize an intermitted intravenous bolus strategy that achieved similar effects that a continuous infusion would.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00151&#39; target=&#39;_blank&#39;&gt;db00151&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=lopinavir&#34; target=&#34;_blank&#34;&gt;lopinavir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=cysteine&#34; target=&#34;_blank&#34;&gt;cysteine&lt;/a&gt; &lt;br&gt;
 Synonymous :(2r)-2-amino-3-mercaptopropanoic acid | (2r)-2-amino-3-sulfanylpropanoic acid | (r)-2-amino-3-mercaptopropanoic acid | cisteina | cisteinum | cys | cysteine | cysteinum | free cysteine | l-2-amino-3-mercaptopropionic acid | l-cys | l-cystein | l-zystein
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(2r)-2-amino-3-mercaptopropanoic acid | (2r)-2-amino-3-sulfanylpropa
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lopinavir&lt;/em&gt; gene in 133 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cysteine&lt;/em&gt; gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -93,6 +93,38 @@ An attractive therapeutic target for CoVs is the main protease (M&lt;sup&gt;pro&
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 First, PLP is one of the two viral cysteine proteases, along with 3-chymotripsin-like protease, that is responsible for the production of the replicase proteins required for viral replication.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32470470&#34; target=&#34;_blank&#34;&gt;32470470&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cathepsin L (CatL) is an endosomal cysteine protease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534175&#34; target=&#34;_blank&#34;&gt;32534175&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A randomized controlled trial of blocking NF-κB and cytokine formation using glutathione precursors (N-acetyl-cysteine [NAC] and alpha lipoic acid) and PO/IV glutathione with associated anti-viral effects should be performed, along with an evaluation of Nrf2 activators (curcumin, sulforaphane glucosinolate) which have been scientifically proven to lower inflammation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32551639&#34; target=&#34;_blank&#34;&gt;32551639&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The crystal structure for the main protease (M&lt;sup&gt;pro&lt;/sup&gt;) of SARS-CoV-2, 3-chymotrypsin-like cysteine protease (3CL&lt;sup&gt;pro&lt;/sup&gt;), was recently made available and is considerably similar to the previously reported SARS-CoV. […] Molecular docking of 13 antivirals against the 3-chymotrypsin-like cysteine protease (3CL&lt;sup&gt;pro&lt;/sup&gt;) enzyme was accomplished, and indinavir was described as a lead drug with a docking score of -8.824 and a XP Gscore of -9.466 kcal/mol.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32561291&#34; target=&#34;_blank&#34;&gt;32561291&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 enters the cells through endocytosis process, which is possibly facilitated, via a pH dependent endosomal cysteine protease cathepsins.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

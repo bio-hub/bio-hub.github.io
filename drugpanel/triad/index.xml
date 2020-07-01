@@ -23,7 +23,7 @@
 
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=triad&#34; target=&#34;_blank&#34;&gt;triad&lt;/a&gt; &lt;br&gt;
 Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -32,7 +32,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;triad&lt;/em&gt; gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -76,6 +76,14 @@ This binding site shared by ATM and GM1 displays a conserved amino acid triad Q-
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 It is characterized by a triad of ophthalmoplegia, ataxia, and areflexia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32565591&#34; target=&#34;_blank&#34;&gt;32565591&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study (&lt;i&gt;N&lt;/i&gt; = 263), we examined the role of personality traits (i.e., Big Five and Dark Triad) and individual differences in perceptions of the COVID-19 pandemic situation (the situational eight: Duty, Intellect, Adversity, Mating, Positivity, Negativity, Deception, and Sociality) in accounting for individual differences in compliance with the governmental restrictions in Poland. […] Moreover, people scoring low on agreeableness and high on aspects of the Dark Triad traits (i.e., Machiavellianism, psychopathy Factor 1, and narcissistic rivalry) were less likely to comply with the restrictions.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

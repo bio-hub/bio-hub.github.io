@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00795&#39; target=&#39;_blank&#39;&gt;db00795&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=sulfasalazine&#34; target=&#34;_blank&#34;&gt;sulfasalazine&lt;/a&gt; &lt;br&gt;
 Synonymous :2-hydroxy-5-((4-((2-pyridinylamino)sulfonyl)phenyl)azo)benzoic acid | 2-hydroxy-5-[4-(pyridin-2-ylsulfamoyl)-phenylazo]-benzoic acid | 4-(pyridyl-2-amidosulfonyl)-3’-carboxy-4’-hydroxyazobenzene | 5-((p-(2-pyridylsulfamoyl)phenyl)azo)salicylic acid | 5-(4-(2-pyridylsulfamoyl)phenylazo)-2-hydroxybenzoic acid | 5-(p-(2-pyridylsulfamyl)phenylazo)salicylic acid | azopyrin | salazosulfapiridina | salazosulfapyridine | salazosulfapyridinum | salicylazosulfapyridine | sulfasalazin | sulfasalazina | sulfasalazine | sulfasalazinum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :2-hydroxy-5-((4-((2-pyridinylamino)sulfonyl)phenyl)azo)benzoic acid 
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 343 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;sulfasalazine&lt;/em&gt; gene in 9 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,14 @@ In case of SARS-CoV-2 infection, immunosuppressive drugs should be temporarily s
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Risk factors for severe COVID-19 among IBD patients included increasing age (adjusted odds ratio [aOR] 1.04, 95% CI 1.01-1.02), ≥2 comorbidities (aOR 2.9, 95% CI 1.1-7.8), systemic corticosteroids (aOR 6.9, 95% CI 2.3-20.5), and sulfasalazine or 5-aminosalicylate use (aOR 3.1, 95% CI 1.3-7.7).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32493514&#34; target=&#34;_blank&#34;&gt;32493514&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Immunosuppressive therapy (e.g. mycophenolate, azathioprine, methotrexate, biologicals, prednisolone &amp;gt;10mg/d; exceptions are: prednisolone ≤ 10mg/d, sulfasalazine or hydroxychloroquine)9.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

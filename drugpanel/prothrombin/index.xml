@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11311&#39; target=&#39;_blank&#39;&gt;db11311&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=zinc&#34; target=&#34;_blank&#34;&gt;zinc&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=prothrombin&#34; target=&#34;_blank&#34;&gt;prothrombin&lt;/a&gt; &lt;br&gt;
 Synonymous :coagulation factor ii (human) | coagulation factor ii human | factor ii | factor ii (prothrombin) | human coagulation factor ii
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :coagulation factor ii (human) | coagulation factor ii human | factor
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;zinc&lt;/em&gt; gene in 15 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;prothrombin&lt;/em&gt; gene in 41 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -269,6 +269,110 @@ This condition is characterized by high levels of D-dimer and fibrinogen, prolon
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In the initial phase of the infection, D-dimer and fibrinogen levels are increased, while activated partial prothrombin time, prothrombin time, and platelet counts are often relatively normal.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32474561&#34; target=&#34;_blank&#34;&gt;32474561&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The median prothrombin time (PT) and the activated partial thromboplastin time (APTT) were longer in old-old patients than young-old patients (PT median 12.3 vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32490891&#34; target=&#34;_blank&#34;&gt;32490891&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, as the disease spread globally and the number of hospitalizations increased exponentially, it was noted that most serious patients hospitalized by COVID-19 have laboratory changes worthy of attention, such as lymphopenia, neutrophilia, increased time of prothrombin and increased levels of D-dimer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32495027&#34; target=&#34;_blank&#34;&gt;32495027&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The activation of monocyte-macrophage system aggravates the immune damage of lung and other tissues, which leads to the increase of D-dimer, prothrombin time, and platelet consumption.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32513290&#34; target=&#34;_blank&#34;&gt;32513290&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Plasma is replaced with albumin 5% or fresh frozen plasma in patients with coagulopathy (prothrombin time &amp;gt;37 seconds; international normalized ratio &amp;gt;3; activated partial thromboplastin time &amp;gt;100 or fibrinogen level &amp;lt;100 mg/d).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32522278&#34; target=&#34;_blank&#34;&gt;32522278&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additionally, elevations in ferritin, high-sensitivity C-reactive protein, erythrocyte sedimentation rate, procalcitonin, prothrombin time, interleukin-2 (IL-2) receptor, and interleukin-6 (IL-6) were observed in cancer patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32526252&#34; target=&#34;_blank&#34;&gt;32526252&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Serum albumin significantly decreased, while bilirubin, creatinine and prothrombin time significantly increased at COVID-19 diagnosis compared to last available data.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32536672&#34; target=&#34;_blank&#34;&gt;32536672&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High-sensitivity cardiac troponin I (hs-cTnI), creatinine, high-density lipoprotein-cholesterol, interleukin-6, C-reactive protein, prothrombin time, and D-dimer levels in the severe COVID-19 with CVD group were higher than in the non-severe COVID-19 with CVD group (P&amp;lt;0.05).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32552865&#34; target=&#34;_blank&#34;&gt;32552865&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, the characteristics of COVID-19-associated coagulopathy (CAC) are distinct from those seen with bacterial sepsis-induced coagulopathy (SIC) and disseminated intravascular coagulation (DIC), with CAC usually showing increased D-dimer and fibrinogen levels but initially minimal abnormalities in prothrombin time and platelet count.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32558075&#34; target=&#34;_blank&#34;&gt;32558075&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In comparison with bacterial-sepsis-associated coagulopathy/DIC, prolongation of prothrombin time, and activated partial thromboplastin time, and decrease in antithrombin activity is less frequent and thrombocytopenia is relatively uncommon in COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32573995&#34; target=&#34;_blank&#34;&gt;32573995&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Results Compared to patients who could be finally discharged, those who died during hospital stay displayed significantly higher values of serum glucose, aspartate aminotransferase (AST), creatine kinase (CK), lactate dehydrogenase (LDH), urea, creatinine, high-sensitivity cardiac troponin I (hscTnI), prothrombin time/international normalized ratio (PT/INR), activated partial thromboplastin time (APTT), D-dimer, C reactive protein (CRP), ferritin and leukocytes (especially neutrophils), whilst values of albumin, hemoglobin and lymphocytes were significantly decreased.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32576359&#34; target=&#34;_blank&#34;&gt;32576359&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+According to Western medicine, the increase of D-dimer is related to the hyperactivity of fibrinolytic system and the shortening of prothrombin time (PT), resulting in excessive production and degradation of plasma fibrin and hypercoagulable state of blood, while traditional Chinese medicine (TCM) believes that the above syndromes belong to the pathogenesis of “blood stasis” according to TCM theories.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32581015&#34; target=&#34;_blank&#34;&gt;32581015&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thrombin Time (TT), Prothrombin Time (PT), Fibrinogen (FIB), Activated Partial Thromboplastin Time (APPT), and D-Dimer have been detected as parameters to study in every COVID-19 patient.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32582749&#34; target=&#34;_blank&#34;&gt;32582749&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compared with the short-term group, patients in the long-term group had significantly higher levels of C-reactive protein (&lt;i&gt;P&lt;/i&gt; = 0.000), troponin I (&lt;i&gt;P&lt;/i&gt; = 0.002), myoglobin (&lt;i&gt;P&lt;/i&gt; = 0.037), aspartate aminotransferase (&lt;i&gt;P&lt;/i&gt; = 0.005), lactic dehydrogenase (&lt;i&gt;P&lt;/i&gt; = 0.000), prothrombin time (&lt;i&gt;P&lt;/i&gt; = 0.030), fibrinogen (&lt;i&gt;P&lt;/i&gt; = 0.000), and D-dimer (&lt;i&gt;P&lt;/i&gt; = 0.006), but had significantly lower levels of lymphocyte count (&lt;i&gt;P&lt;/i&gt; = 0.001), platelet count (&lt;i&gt;P&lt;/i&gt; = 0.017), albumin (&lt;i&gt;P&lt;/i&gt; = 0.001), and calcium (&lt;i&gt;P&lt;/i&gt; = 0.000).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

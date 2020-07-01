@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00760&#39; target=&#39;_blank&#39;&gt;db00760&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=meropenem&#34; target=&#34;_blank&#34;&gt;meropenem&lt;/a&gt; &lt;br&gt;
 Synonymous :(4r,5s,6s)-3-{[(3s,5s)-5-(dimethylcarbamoyl)pyrrolidin-3-yl]thio}-6-[(1r)-1-hydroxyethyl]-4-methyl-7-oxo-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylic acid | meropenem | meropenem anhydrous | meropenemum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(4r,5s,6s)-3-{[(3s,5s)-5-(dimethylcarbamoyl)pyrrolidin-3-yl]thio}-6-
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;meropenem&lt;/em&gt; gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,54 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The medications used for treatment of pneumonia were Meropenem, Ciprofloxacin, Vancomycin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32476594&#34; target=&#34;_blank&#34;&gt;32476594&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We observed that protease complexed with Cyclocytidine hydrochloride (anti-viral and anti-cancer), Trifluridine (anti-viral), Adonitol, and Meropenem (anti-bacterial), and Penciclovir (anti-viral) bound with a good docking score ranging from -6.8 to -5.1 (Kcal/mol).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32531119&#34; target=&#34;_blank&#34;&gt;32531119&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+During his hospital stay, he received multiple empirical broad spectrum antibiotics (cefepime, piperacillin/tazobactam, linezolid, gentamicin and meropenem plus amikacin).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32556649&#34; target=&#34;_blank&#34;&gt;32556649&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+His respiratory function deteriorated despite treatments with lopinavir/ritonavir, oseltamivir, azithromycin and meropenem at a regional hospital.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562159&#34; target=&#34;_blank&#34;&gt;32562159&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+According to the drug regimen, the patients were divided into two groups; group I who received regimen I consisting azithromycin, prednisolone, naproxen, and lopinavir/ritonavir and group II who received regimen II including meropenem, levofloxacin, vancomycin, hydroxychloroquine, and oseltamivir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32565199&#34; target=&#34;_blank&#34;&gt;32565199&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cefepime was replaced by meropenem.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32566556&#34; target=&#34;_blank&#34;&gt;32566556&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most commonly used antibiotics in adults were quinolones, cephalosporins and macrolides and in children meropenem and linezolid.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

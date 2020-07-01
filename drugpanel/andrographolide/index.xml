@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db05767&#39; target=&#39;_blank&#39;&gt;db05767&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=andrographolide&#34; target=&#34;_blank&#34;&gt;andrographolide&lt;/a&gt; &lt;br&gt;
 Synonymous :3α,14,15,18-tetrahydroxy-5b,9bh,10a-labda-8(20),12-dien-16-oic acid γ-lactone
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :3α,14,15,18-tetrahydroxy-5b,9bh,10a-labda-8(20),12-dien-16-oic acid
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 343 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;andrographolide&lt;/em&gt; gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,22 @@ This paper evaluates the compound Andrographolide from &lt;i&gt;Andrographis pan
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Andrographolide, isolated from Andrographis paniculata, has versatile biological activities including immunomodulation and determining SARS-CoV-2 binding site. […] Considering the properties of both compounds in terms of anti-inflammatory, antioxidant, anti-pyrogenic, anti-viral and ER stress modulation and computational approaches revealing andrographolide docks with the SARS-CoV2 binding site, we predict that this combination therapy may have potential utility against COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32543978&#34; target=&#34;_blank&#34;&gt;32543978&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here using molecular docking approach, and combined molecular dynamics and MM-GBSA based free energy calculations approach, we study the potency of the four selected phytochemicals namely andrographolide (AGP1), 14-deoxy 11,12-didehydro andrographolide (AGP2), neoandrographolide (AGP3) and 14-deoxy andrographolide (AGP4) from &lt;i&gt;A. paniculata&lt;/i&gt; plant against the four key targets including three non-structural proteins (3 L main protease (3CLpro), Papain-like proteinase (PLpro) and RNA-directed RNA polymerase (RdRp)) and a structural protein (spike protein (S)) of the virus which are responsible for replication, transcription and host cell recognition.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32573351&#34; target=&#34;_blank&#34;&gt;32573351&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The bioactive ligands such as Cucurbitacin E, Orientin, Bis-andrographolide, Cucurbitacin B, Isocucurbitacin B, Vitexin, Berberine, Bryonolic acid, Piperine and Magnoflorine targeted the hotspot residues of SARS-CoV-2 main protease.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

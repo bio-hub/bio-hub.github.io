@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00758&#39; target=&#39;_blank&#39;&gt;db00758&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=clopidogrel&#34; target=&#34;_blank&#34;&gt;clopidogrel&lt;/a&gt; &lt;br&gt;
 Synonymous :(+)-clopidogrel | clopidogrel | clopidogrelum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(+)-clopidogrel | clopidogrel | clopidogrelum
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 343 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;clopidogrel&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,14 @@ Ten patients were followed in the subsequent 7 days, after increasing the dose o
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Before tirofiban, patients received acetylsalicylic acid 250 mg infusion and oral clopidogrel 300 mg; both were continued at a dose of 75 mg daily for 30 days.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32556875&#34; target=&#34;_blank&#34;&gt;32556875&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These studies all included different interventions (thromboprophylaxis with unfractionated heparin (UFH) or low molecular-weight heparin (LMWH); an intensive thromboprophylaxis protocol with LMWH, antithrombin, and clopidogrel; and salvage therapy with tissue plasminogen activator and heparin).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

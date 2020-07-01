@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00171&#39; target=&#39;_blank&#39;&gt;db00171&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=remdesivir&#34; target=&#34;_blank&#34;&gt;remdesivir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=atp&#34; target=&#34;_blank&#34;&gt;atp&lt;/a&gt; &lt;br&gt;
 Synonymous :adenosine 5’-triphosphate | adenosine triphosphate | adenosine-5’-triphosphate | atp
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :adenosine 5’-triphosphate | adenosine triphosphate | adenosine-5�
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;remdesivir&lt;/em&gt; gene in 116 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;atp&lt;/em&gt; gene in 9 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -85,6 +85,38 @@ In this article, we provide a novel hypothesis to describe how an increase in ce
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 PEDV nsp14 can efficiently methylate RNA substrates with various lengths in both neutral and alkaline pH environment, and can methylate cap analogs (GpppA and GpppG) and single nucleotide GTP but not ATP, CTP, or UTP.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32519892&#34; target=&#34;_blank&#34;&gt;32519892&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PANX1 channels passively flux ATP (predominantly), multiple metabolites, and likely other small anions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32521159&#34; target=&#34;_blank&#34;&gt;32521159&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We then built a putative preinsertion binding structure by aligning the remdesivir + RdRp complex to the ATP bound poliovirus RdRp without the RNA template. […] The relative binding free energy between remdesivir and ATP was calculated to be -2.80 ± 0.84 kcal/mol, where remdesivir bound much stronger to SARS-CoV-2 RdRp than the natural substrate ATP. […] The ∼100-fold improvement in the &lt;i&gt;K&lt;/i&gt;&lt;sub&gt;d&lt;/sub&gt; from remdesivir over ATP indicates an effective replacement of ATP in blocking of the RdRp preinsertion site.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32579049&#34; target=&#34;_blank&#34;&gt;32579049&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This characteristic can represent an important differential to change this process in the event of an imbalance in this system, through the photobiomodulation to increase the production of adenosine triphosphate (ATP) using red and near-infrared radiation (R-NIR) and vitamin D using ultraviolet B (UVB) radiation. […] The light is also absorbed by cytochrome c oxidase in the R-NIR region, with a consequent increase in electron transport, regulating enzyme activity and resulting in a significant increase of oxygen rate consumption by mitochondria, increasing ATP production. &lt;b&gt; &lt;i&gt;Conclusions:&lt;/i&gt; &lt;/b&gt; The most favorable range of optical radiation to operate in this system is between R-NIR region, in which cytochrome c oxidase and porphyrin present absorption peaks centered at 640 nm and HbO&lt;sub&gt;2&lt;/sub&gt; with absorption peak centered at 900 nm.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32590324&#34; target=&#34;_blank&#34;&gt;32590324&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Upon infection or cell damage, high amounts of adenosine triphosphate (ATP) are released from damaged cells, which serve as mediators of inflammation through purinergic cell surface receptor signaling. […] As a protective mechanism to prevent excessive damage to host tissue, adenosine counteracts ATP’s effects by adenosine receptor stimulation to suppress the pro-inflammatory response.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

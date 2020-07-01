@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/dv/</link>
+      <atom:link href="/drugpanel/dv/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/dv/</link>
+    </image>
+    
+    <item>
+      <title>DV</title>
+      <link>/drugpanel/dv/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/dv/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=dv&#34; target=&#34;_blank&#34;&gt;dv&lt;/a&gt; &lt;br&gt;
+Synonymous : &lt;em&gt;None&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;dv&lt;/em&gt; gene in 4 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32478558&#34; target=&#34;_blank&#34;&gt;32478558&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Due to sweeping stay-at-home orders across the United States and internationally, many victims and survivors of domestic violence (DV), now forced to be isolated with their abusers, run the risk of new or escalating violence. […] In this commentary, we delineate some of the recent events leading up to the reported spike in DV; review literature on previously documented disaster-related DV surges; and discuss some of the unique challenges, dilemmas, and risks victims and survivors face during this pandemic. […] We conclude with recommendations to allocate resources to DV front-liners and utilize existing DV guidelines for disaster preparedness, response, and recovery.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32546463&#34; target=&#34;_blank&#34;&gt;32546463&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the absence of a systematic database examining the details of the impact, this comment synthesises existing opinions, reviews and the limited available data to show how, not only the outbreak, but particularly our response to it, are increasing the incidence of domestic violence (DV) across the globe, including in India. […] Despite tackling a much higher Covid caseload and mortality rate than India has, countries such as France and Spain have prioritised responding to DV in their respective societies, working out contingent mitigation mechanisms. […] Admittedly, low resource settings (LRS) such as India, have a bevy of additional infrastructure and budgetary challenges; but would that imply we do not respond to DV? […] It builds on the author’s observations in the course of working on DV in an LRS context in India, and concludes with a set of recommendations on better responding to DV during Covid/lockdown times.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574896&#34; target=&#34;_blank&#34;&gt;32574896&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For each patient we evaluated the short version of the Questionnaire of Olfactory Disorders-Negative Statements (sQOD-NS), the Summated Xerostomia Inventory-Dutch Version (SXI-DV), The Standardized Patient Evaluation of Eye Dryness (SPEED), Schirmer test I, the Hearing Handicap Inventory For Adults (HHIA) and the Tinnitus Handicap Inventory (THI). […] There was a statistically significant difference (p &amp;lt; 0,001) in sQOD-NS, SXI-DV, SPEED, Schirmer test, HHIA and THI between Condition A and Condition B.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

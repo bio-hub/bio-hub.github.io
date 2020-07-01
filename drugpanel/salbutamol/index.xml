@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01001&#39; target=&#39;_blank&#39;&gt;db01001&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=salbutamol&#34; target=&#34;_blank&#34;&gt;salbutamol&lt;/a&gt; &lt;br&gt;
 Synonymous :albuterol | salbutamol | salbutamolum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :albuterol | salbutamol | salbutamolum
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;salbutamol&lt;/em&gt; gene in 53 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 As the coronavirus continues to spread, hospitals are turning to use more salbutamol MDI. […] Salbutamol MDI has become the line of defence for physicians in the emergency room who are treating patients with Corona Virus Disease 2019 (COVID-19) and have respiratory distress .[ […] As the coronavirus continues to spread, hospitals are turning to use more salbutamol Metered Dose inhaler (MDI). […] Salbutamol MDI is now on short supply as the COVID-19 continues to spread. […] Salbutamol MDI has become the line of defence for physicians in the emergency room who are treating patients with COVID-19 and have respiratory distress. […] The current shortage of salbutamol MDI could be a result of stockpiling and hoarding of this life-saving inhaler. […] That had led to a critical shortage of Salbutamol MDI, and even the case shortage continues with some other alternatives such as Ipratropium MDI and even with long-acting B-agonists such as Salmeterol and Formoterol which also starting to have a limitation on ordering these agents. […] We have also got elderly patients with COPD who may need Ventolin MDI and also premature babies who may have caught Respiratory Syncytial Virus (RSV) and need salbutamol MDI to support their lungs have since been compromised, and they rely heavily on Asthma inhalers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32507556&#34; target=&#34;_blank&#34;&gt;32507556&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For instance, in the case of salbutamol prescription, which might be overly used in patients with anxiety disorders and COVID-19, or in patients presenting with diarrhea and vomiting.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db15584&#39; target=&#39;_blank&#39;&gt;db15584&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=luteolin&#34; target=&#34;_blank&#34;&gt;luteolin&lt;/a&gt; &lt;br&gt;
 Synonymous :digitoflavone | flacitran | luteoline | luteolol | salifazide
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :digitoflavone | flacitran | luteoline | luteolol | salifazide
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;luteolin&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -77,6 +77,14 @@ Quercetin, kaempferol, luteolin, isorhamnetin, baicalein, naringenin, and wogoni
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Quercetin has been identified as one of top-scoring candidate therapeutics in the supercomputer SUMMIT drug-docking screen and Gene Set Enrichment Analyses (GSEA) of expression profiling experiments (EPEs), indicating that highly structurally similar quercetin, luteolin, and eriodictyol could serve as scaffolds for the development of efficient inhibitors of SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32551464&#34; target=&#34;_blank&#34;&gt;32551464&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These corticosteroids could be given together with the natural flavonoid luteolin because of its antiviral and anti-inflammatory properties, especially its ability to inhibit mast cells, which are the main source of cytokines in the lungs.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

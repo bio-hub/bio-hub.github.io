@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00993&#39; target=&#39;_blank&#39;&gt;db00993&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azathioprine&#34; target=&#34;_blank&#34;&gt;azathioprine&lt;/a&gt; &lt;br&gt;
 Synonymous :6-((1-methyl-4-nitro-1h-imidazol-5-yl)thio)-1h-purine | 6-(1’-methyl-4’-nitro-5’-imidazolyl)-mercaptopurine | azamun | azathioprine | azathioprinum | azatioprina
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :6-((1-methyl-4-nitro-1h-imidazol-5-yl)thio)-1h-purine | 6-(1’-meth
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azathioprine&lt;/em&gt; gene in 9 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -77,6 +77,46 @@ To further explore the effect of immune suppression on viral infection and clini
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Among the conventional therapies, methotrexate, azathioprine and mycophenolate mofetil increase the risk of infection, and thus their use is recommended only when necessary and at low doses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32493514&#34; target=&#34;_blank&#34;&gt;32493514&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Immunosuppressive therapy (e.g. mycophenolate, azathioprine, methotrexate, biologicals, prednisolone &amp;gt;10mg/d; exceptions are: prednisolone ≤ 10mg/d, sulfasalazine or hydroxychloroquine)9.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32513299&#34; target=&#34;_blank&#34;&gt;32513299&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Have used other anti-pulmonary fibrosis drugs in the past 14 days, such as nintedanib, pirfenidone, penicillamine, colchicine, tumor necrosis factor alpha blocker, imatinib, glucocorticoid hormones, morphomycodyl esters, azathioprine, cyclophosphamide, interferon-γ, and traditional Chinese medicine;6.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32513653&#34; target=&#34;_blank&#34;&gt;32513653&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Post-ASUC maintenance therapy was dependent on SARS-CoV-2 status but, in general, biologics were more likely to be deemed appropriate than azathioprine or tofacitinib.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32518172&#34; target=&#34;_blank&#34;&gt;32518172&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Concerns for modifications-if any-of chronic immunotherapies with steroids, mycophenolate, azathioprine, IVIg, and anti-B-cell agents were addressed; the role of complement in innate immunity to viral responses and anti-complement therapeutics (i.e. eculizumab) were reviewed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32541245&#34; target=&#34;_blank&#34;&gt;32541245&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We hypothesize that continuing with low level of prednisolone without azathioprine may have abrogated activated Tregs, Bregs and IL-6 production and therefore permitting the activation of CD8 T cells, clearing the virus.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

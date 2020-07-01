@@ -416,7 +416,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of ACE2 gene in 312 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of ACE2 gene in 498 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -2924,6 +2924,1494 @@ Vitamin D in particular may perturb viral cellular infection via interacting wit
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Furthermore, we highlight the relationship between the virus, enzyme ACE2 and ACE inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32469255&#34; target=&#34;_blank&#34;&gt;32469255&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme 2 (ACE2), belonging to the RAS family, has received much attention during this COVID-19 pandemic, owing to the fact that SARS-CoV-2 uses ACE2 as a receptor for cellular entry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32475223&#34; target=&#34;_blank&#34;&gt;32475223&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The virus exerts its pathogenic activity through by mechanism and gains the entry via spike proteins (S) and Angiotensin-Converting Enzyme 2 (ACE2) receptor proteins on host cells. […] The present work is an effort for a computational target to block the residual binding protein (RBP) on spike proteins (S), Angiotensin-Converting Enzyme 2 (ACE2) receptor proteins by probiotics namely Plantaricin BN, Plantaricin JLA-9, Plantaricin W, Plantaricin D along with RNA-dependent RNA polymerase (RdRp). […] The binding energies for Plantaricin W were -14.64, -11.1 and -12.68 for polymerase, RBD and ACE2 respectively comparatively very high with other compounds. […] Molecular dynamics studies further strengthen stability of the complexes of plantaricin w and SARS-CoV-2 RdRp enzyme, RBD of spike protein, and human ACE2 receptor. […] The present study present multi-way options either by blocking RBD on S proteins or interaction of S protein with ACE2 receptor proteins or inhibiting RdRp to counter any effect of COVID-19 by Plantaricin molecules paving a way that can be useful in the treatment of COVID-19 until some better option will be available.Communicated by Ramaswamy H.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32476472&#34; target=&#34;_blank&#34;&gt;32476472&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 binds to ACE2 receptors and entries into the cell through the fusion of its membrane with that of the cell. […] The loss of ACE2 receptor activity from the external site of the membrane will lead to less angiotensin II inactivation and less generation of antiotensin&lt;sub&gt;1-7&lt;/sub&gt;. […] According to this line of thinking, some therapeutic approaches including recombinant ACE2, exogenous angiotensin&lt;sub&gt;1-7&lt;/sub&gt; and angiotensin receptor blockers appear particularly promising and are being actively tested.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32478523&#34; target=&#34;_blank&#34;&gt;32478523&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Some of these studies showed that the mutations in the SARS-CoV spike (S) protein might be responsible for its higher affinity to the ACE2 human cell receptor. […] In this work, we used molecular dynamics simulations and Monte Carlo sampling to compare the binding affinities of the S proteins of SARS-CoV and SARS-CoV-2 to the ACE2. […] Our results show that the protein surface of the ACE2 at the receptor binding domain (RBD) exhibits negative electrostatic potential, while a positive potential is observed for the S proteins of SARS-CoV/SARS-CoV-2. […] The major contributions to the electrostatic binding energies result from the salt bridges forming between R426 and ACE-2-E329 in the case of SARS-CoV and K417 and ACE2-D30 in the SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32482249&#34; target=&#34;_blank&#34;&gt;32482249&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To describe detection of severe acute respiratory syndrome (SARS)-coronavirus 2 (CoV-2) in seminal fluid of patients recovering from coronavirus disease 2019 (COVID-19) and to describe the expression profile of angiotensin-converting enzyme 2 (ACE2) and Transmembrane Serine Protease 2 (TMPRSS2) within the testicle. […] Expression patterns of ACE2 and TMPRSS2 in the human testis are explored through previously published single-cell transcriptome datasets. […] Single-cell transcriptome analysis demonstrates sparse expression of ACE2 and TMPRSS2, with almost no overlapping gene expression. […] Angiotensin-converting enzyme 2-mediated viral entry of SARS-CoV-2 into target host cells is unlikely to occur within the human testicle based on ACE2 and TMPRSS2 expression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32482250&#34; target=&#34;_blank&#34;&gt;32482250&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Coronavirus binding to cells involves the S1 domain of the spike protein to receptors present in reproductive tissues, including angiotensin-converting enzyme-2 (ACE2), CD26, Ezrin, and cyclophilins. […] Gonadotropin-dependent expression of ACE2 was found in human ovaries, but it is unclear whether SARS-Coronavirus 2 (CoV-2) adversely affects female gametogenesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32485101&#34; target=&#34;_blank&#34;&gt;32485101&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Also, Ang II is considered as the products of SARS-CoV-2-attacking target, angiotensin-converting enzyme 2 (ACE2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32485164&#34; target=&#34;_blank&#34;&gt;32485164&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Human angiotensin-converting enzyme II (ACE2) has been identified as a functional receptor for SARS-CoV-2. […] In this study, we generated a mouse model expressing human ACE2 (hACE2) by using CRISPR/Cas9 knockin technology. […] In comparison with wild-type C57BL/6 mice, both young and aged hACE2 mice sustained high viral loads in lung, trachea, and brain upon intranasal infection. […] Although fatalities were not observed, interstitial pneumonia and elevated cytokines were seen in SARS-CoV-2 infected-aged hACE2 mice. […] Interestingly, intragastric inoculation of SARS-CoV-2 was seen to cause productive infection and lead to pulmonary pathological changes in hACE2 mice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32486188&#34; target=&#34;_blank&#34;&gt;32486188&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 enters cells via ACE2 receptors which are abundant throughout the respiratory tract.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32486196&#34; target=&#34;_blank&#34;&gt;32486196&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although the pathophysiology of the SARS-CoV-2 virus affecting the cerebrovascular system has not been elucidated yet, researchers have identified several pathogenic mechanisms, including a role for the ACE2 receptor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32487714&#34; target=&#34;_blank&#34;&gt;32487714&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Like its predecessors, SARS-CoV and Middle East respiratory syndrome coronavirus (MERS-CoV), COVID-19 binds to angiotension converting enzyme 2 (ACE2) receptors to facilitate tissue invasion, and potentially gain entry into the nervous system.&lt;sup&gt;1&lt;/sup&gt; This single-stranded RNA virus shares 75-80% identical genome sequence with MERS-CoV and SARS-CoV, but has increased virulence, persistence, and lethality.&lt;sup&gt;2&lt;/sup&gt; Amid catastrophic human suffering, severe neurological complications of COVID-19 have been identified; yet, subtle neurological manifestations have likely been under-reported.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32491073&#34; target=&#34;_blank&#34;&gt;32491073&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+COVID-19 acts through the angiotensin-converting enzyme 2 (ACE2) receptor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32491829&#34; target=&#34;_blank&#34;&gt;32491829&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It infects epithelial cells expressing angiotensin converting enzyme 2 (ACE2) receptor, which is crucial for viral entry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32491949&#34; target=&#34;_blank&#34;&gt;32491949&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Specifically, decreased expression of proteins, including angiotensin-converting enzyme 2 (&lt;i&gt;ACE2&lt;/i&gt;) and Transmembrane Serine Protease 2 (&lt;i&gt;TMPRSS2&lt;/i&gt;) in the airway epithelium in children may prevent viral entry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32492193&#34; target=&#34;_blank&#34;&gt;32492193&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Human organs known for Angiotensin-Converting Enzyme 2 (ACE2) expression including the gastrointestinal tract, kidneys, heart, adrenals, brain, and testicles are examples of extra-pulmonary tissues with confirmed invasion by SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32492195&#34; target=&#34;_blank&#34;&gt;32492195&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hussain et al.&lt;sup&gt;1&lt;/sup&gt; identified 17 natural coding variants for human angiotensin-converting enzyme 2 (ACE2) that were found at important positions for binding of ACE2 with SARS-CoV-2 spike protein&lt;sup&gt;1&lt;/sup&gt; . […] They suggested that positive prognosis of COVID-19 may be due to the existence of ACE2 variants like rs73635825 and rs143936283 in some individuals, and to screen frequencies of candidate alleles in different populations to predict the prognosis of COVID-19&lt;sup&gt;1&lt;/sup&gt; . […] We contributed with further data for these 17 ACE2 variants using other function prediction tools. […] Moreover, we searched for the minor allele frequency (MAF) for these ACE2 variants as reported in different populations and debated regarding their use in population genetic studies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32492203&#34; target=&#34;_blank&#34;&gt;32492203&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Genetic confirmation of the hypotheses regarding gene expression and mutation pattern of target genes, including angiotensin-converting enzyme-2 (ACE2), transmembrane serine protease 2 (TMPRSS2), basigin (CD147/BSG) and paired basic amino acid cleaving enzyme (FURIN/PCSK3), as well as correlation analysis, was done in relation to lung adenocarcinoma (LUAD) and lung squamous carcinoma (LUSC) using in silico analysis. […] Not only were gene expression and mutation patterns detected, but also there were correlation and survival analysis between ACE2 and other target genes expression levels. […] The total genetic anomaly carrying rate of target genes, including ACE2, TMPRSS2, CD147/BSG, and FURIN/PCSK3, was determined as 8.1% and 21 mutations were detected, with 7 of these mutations having pathogenic features. p.H34N on the RBD binding residues for SARS-CoV-2 was determined in our LUAD patient group. […] According to gene expression analysis results, though the TMPRSS2 level was statistically significantly decreased in the LUSC patient group compared to healthy control, the ACE2 level was determined to be high in LUAD and LUSC groups.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32492292&#34; target=&#34;_blank&#34;&gt;32492292&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The spike glycoprotein on the virion surface docking onto the angiotensin-converting enzyme (ACE) 2 dimer is an essential step in the process of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection in human cells-involves downregulation of ACE2 expression with systemic renin-angiotensin system (RAS) imbalance and promotion of multi-organ damage. […] In general, the RAS induces vasoconstriction, hypertension, inflammation, fibrosis, and proliferation via the ACE/Ang II/Ang II type 1 receptor (AT1R) axis and induces the opposite effects via the ACE2/Ang (1-7)/Mas axis. […] SARS-CoV-2 induces the ACE2 internalization and shedding, leading to the inactivation of the ACE2/Ang (1-7)/Mas axis. […] In brief, the first hit originates from chronic inflammation activating the ACE/Ang II/AT1R axis, and the second originates from the COVID-19 infection inactivating the ACE2/Ang (1-7)/Mas axis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32493030&#34; target=&#34;_blank&#34;&gt;32493030&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The devastating third phase is in the gas exchange units of the lung, where ACE2 expressing alveolar type II cells and perhaps type I cells are infected.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32493627&#34; target=&#34;_blank&#34;&gt;32493627&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The S1 subunit of S protein facilitates ACE2 mediated virus attachment while S2 subunit promotes membrane fusion. […] The presence of glutamine, asparagine, leucine, phenylalanine and serine amino acids in SARS-CoV-2 enhances ACE2 binding.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32495299&#34; target=&#34;_blank&#34;&gt;32495299&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) binds to the angiotensin-converting enzyme 2 (ACE2), a ubiquitous trans-membrane carboxypeptidase, to enter the cells. […] Preclinical studies have reported that angiotensin receptor blockers (ARBs) and ACE inhibitors might increase ACE2 expression in several cell types. […] Other pharmacological agents are thought to increase ACE2 expression, including statins and proliferator-activated receptor gamma (PPAR-γ) agonists. […] Besides ACE2, other unknown co-factors might be involved in cell infection. […] It has been recently observed that dipeptidyl peptidase-4 (DPP4), the receptor for MERS-CoV (Middle East respiratory syndrome-related coronavirus) and ACE2 have similar expression profiles in the lung.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32496364&#34; target=&#34;_blank&#34;&gt;32496364&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Animal data and human studies have shown that angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs) increase the expression of ACE2. […] ACE2 is an enzyme found in the heart, kidney, gastrointestinal tract, and lung and is a coreceptor for severe acute respiratory syndrome-related coronavirus-2 (SARS-CoV2), the virus responsible for COVID-19. […] Therefore, one can speculate that discontinuing ACE inhibitor or ARB therapy may lead to decreased ACE2 expression, thereby attenuating the infectivity of SARS-CoV-2, and mitigating the disease progression of COVID-19. […] However, several studies have also shown that ACE2 exhibits reno- and cardioprotection and preserves lung function in acute respiratory distress syndrome, which would favor ACE inhibitor or ARB therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32496587&#34; target=&#34;_blank&#34;&gt;32496587&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed RNA sequencing and explored available RNA-Seq databases to study gene expression and co-expression of ACE2, CD147 (BSG), CD26 (DPP4) and their direct and indirect molecular partners in primary human bronchial epithelial cells, bronchial and skin biopsies, bronchoalveolar lavage fluid, whole blood, peripheral blood mononuclear cells (PBMCs), monocytes, neutrophils, DCs, NK cells, ILC1, ILC2, ILC3, CD4&lt;sup&gt;+&lt;/sup&gt; and CD8&lt;sup&gt;+&lt;/sup&gt; T cells, B cells and plasmablasts. […] ACE2 and TMPRSS2 were coexpressed at the epithelial sites of the lung and skin, whereas CD147 (BSG), cyclophilins (PPIA and PPIB), CD26 (DPP4) and related molecules were expressed in both, epithelium and in immune cells. […] Asthma, COPD, hypertension, smoking, obesity, and male gender status generally led to the higher expression of ACE2- and CD147-related genes in the bronchial biopsy, BAL or blood. […] Interestingly, we also observed higher expression of ACE2- and CD147-related genes in the lesional skin of patients with atopic dermatitis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32497257&#34; target=&#34;_blank&#34;&gt;32497257&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the attempt to understand how the virus spreads and how to pharmacologically abolish it, it was highlighted that SARS-CoV-2 infects human cells by means of angiotensin converting enzyme 2 (ACE2), transmembrane protease serine 2 (TMPRSS2) and SARS-CoV-2 main protease (M&lt;sup&gt;pro&lt;/sup&gt; ). […] Once bound to its receptor ACE2, the other two proteases, in concert with the receptor-mediated signaling, allow virus replication and spread throughout the body. […] Our attention has been focused on the role of ACE2 in that its blockade by the virus increases Bradykinin and its metabolites, well known to facilitate inflammation in the lung (responsible for cough and fever), facilitate both the coagulation and complement system, three mechanisms that are typical of angioedema, cardiovascular dysfunction and sepsis, pathologies which symptoms occur in COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32497323&#34; target=&#34;_blank&#34;&gt;32497323&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The spike (S) proteins of SARS-CoV-1 and SARS-CoV-2 may use the same host cellular receptor, angiotensin-converting enzyme 2 (ACE2), for entering into host cells. […] The affinity between ACE2 and the SARS-CoV-2 S protein is much higher than that of ACE2 binding to the SARS-CoV S protein, explaining why SARS-CoV-2 seems to be more readily transmitted from the human to human. […] Here, we report that ACE2 can be significantly upregulated after infection of various viruses, including SARS-CoV-1 and SARS-CoV-2, or by the stimulation with inflammatory cytokines such as interferons. […] We propose that SARS-CoV-2 may positively induce its cellular entry receptor, ACE2, to accelerate its replication and spread; high inflammatory cytokine levels increase ACE2 expression and act as high-risk factors for developing COVID-19, and the infection of other viruses may increase the risk of SARS-CoV-2 infection. […] Therefore, drugs targeting ACE2 may be developed for the future emerging infectious diseases caused by this cluster of coronaviruses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32498696&#34; target=&#34;_blank&#34;&gt;32498696&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), the pathogen of COVID-19, infects the human body using angiotensin-converting enzyme 2 (ACE2) as a receptor identical to the severe acute respiratory syndrome (SARS) pandemic that occurred in 2002-2003. […] SARS-CoV-2 has a higher binding affinity to human ACE2 than to that of other species. […] Here, we review transgenic mice that express human ACE2 in the airway and other epithelia and have shown to develop a rapidly lethal infection after intranasal inoculation with SARS-CoV, the pathogen of SARS. […] This literature review aims to present the importance of utilizing the human ACE2 transgenic mouse model to better understand the pathogenesis of COVID-19 and develop both therapeutics and vaccines.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32499236&#34; target=&#34;_blank&#34;&gt;32499236&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The initial mechanism for severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) infection is the binding of the virus to the membrane-bound form of ACE2, which is mainly expressed in the lung. […] Since the heart and the vessels also express ACE2, they both could become targets of the virus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32499909&#34; target=&#34;_blank&#34;&gt;32499909&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among the many possible areas of research, it might be important to understand diet and angiotensin-converting enzyme-2 (ACE2) levels in populations with different COVID-19 death rates since dietary interventions may be of great benefit.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32499983&#34; target=&#34;_blank&#34;&gt;32499983&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Upon inoculation, the surface enzyme angiotensin-converting enzyme 2 (ACE2) acts as a receptor protein for viral entry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32500793&#34; target=&#34;_blank&#34;&gt;32500793&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One of the human membrane proteins known to be docked by the virus is angiotensin-converting enzyme 2 (ACE2), proposed to be responsible for viral entry in target cells. […] Recently, the 3D structure of ACE2 has been obtained, showing its physical interaction with B0AT1 (SLC6A19), a plasma membrane transporter involved in the trafficking of amino acids in cells. […] The receptor targeted by SARS-CoV-2 is a supercomplex formed by a dimer of ACE2-B0AT1, in which ACE2 binds the viral protein and B0AT1 stabilizes the heterodimer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32501190&#34; target=&#34;_blank&#34;&gt;32501190&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+COVID-19 utilizes the angiotensin-converting enzyme-2 (ACE2) pathway as a means of infection. […] Demographic and clinical comorbidities associated with the severity of infection suggest that possible variants known to influence the renin-angiotensin-aldosterone system pathway (particularly those that influence ACE2) may contribute to the heterogenous infection response. […] ACE2 and angiotensin(1-7) (the product of ACE2) seem to have a protective effect on the pulmonary and cardiac systems. […] Hypertension medication modulation, may alter ACE2 and angiotensin(1-7), particularly in variants that have been shown to influence renin-angiotensin-aldosterone system function, which could be clinically useful in patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32501810&#34; target=&#34;_blank&#34;&gt;32501810&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hence, we searched for possible genetic components of COVID-19 severity among Italians by looking at expression levels and variants in &lt;i&gt;ACE2&lt;/i&gt; and &lt;i&gt;TMPRSS2&lt;/i&gt; genes, crucial for viral infection.Exome and SNP-array data from a large Italian cohort were used to compare the rare-variants burden and polymorphisms frequency with Europeans and East Asians. […] Moreover, we looked into gene expression databases to check for sex-unbalanced expression.While we found no significant evidence that &lt;i&gt;ACE2&lt;/i&gt; is associated with disease severity/sex bias, &lt;i&gt;TMPRSS2&lt;/i&gt; levels and genetic variants proved to be possible candidate disease modulators, prompting for rapid experimental validations on large patient cohorts.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32501876&#34; target=&#34;_blank&#34;&gt;32501876&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This coronavirus mainly spreads through the respiratory tract and enters cells through angiotensin-converting enzyme 2 (ACE2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32502616&#34; target=&#34;_blank&#34;&gt;32502616&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The co-expression of ACE2 receptor and entry protease TMPRSS2 was detected in the human adult conjunctival, limbal and corneal epithelium, but not in the embryonic and fetal ocular surface up to 21 post conception weeks. […] These expression patterns were corroborated by the single cell ATAC-Seq data, which revealed a permissive chromatin in ACE2 and TMPRSS2 loci in the adult conjunctival, limbal and corneal epithelium. […] Co-expression of ACE2 and TMPRSS2 was strongly detected in the superficial limbal, corneal and conjunctival epithelium, implicating these as target entry cells for SARS-CoV-2 in the ocular surface. […] Strikingly, we also identified the key pro-inflammatory signals TNF, NFKβ and IFNG as upstream regulators of the transcriptional profile of ACE2&lt;sup&gt;+&lt;/sup&gt;TMPRSS2&lt;sup&gt;+&lt;/sup&gt; cells in the superficial conjunctival epithelium, suggesting that SARS-CoV-2 may utilise inflammatory driven upregulation of ACE2 and TMPRSS2 expression to enhance infection in ocular surface. […] Together our data indicate that the human ocular surface epithelium provides an additional entry portal for SARS-CoV-2, which may exploit inflammatory driven upregulation of ACE2 and TMPRSS2 entry factors to enhance infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32502733&#34; target=&#34;_blank&#34;&gt;32502733&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among the 26 variations detected in S, 12 variations were located at the N-terminal domain (NTD) and 6 variations at the receptor-binding domain (RBD) which might alter the interaction of S protein with the host receptor angiotensin-converting enzyme 2 (ACE2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32502882&#34; target=&#34;_blank&#34;&gt;32502882&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme-2 (ACE2) expression may increase due to upregulation in patients using angiotensin-converting enzyme inhibitors (ACEI) and angiotensin receptor blockers (ARBs). […] Because renin-angiotensin system blockers increase levels of ACE2, a protein that facilitates coronavirus entry into cells, there is concern that these drugs could increase the risk of developing a severe and fatal form of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32503822&#34; target=&#34;_blank&#34;&gt;32503822&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The mechanism for SARS-CoV-2 infection is the binding of the virus spike protein to the membrane-bound form of angiotensin-converting enzyme 2 (ACE2) and internalization of the complex by the host cell.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32503918&#34; target=&#34;_blank&#34;&gt;32503918&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Molecular dynamics and free energy simulations have been carried out to elucidate the structural origin of differential protein-protein interactions between the common receptor protein angiotensin converting enzyme 2 (ACE2) and the receptor binding domains of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) [A.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32504450&#34; target=&#34;_blank&#34;&gt;32504450&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Human angiotensin-converting enzyme 2 (ACE2) widely expressing in arterial and venous endothelial cells and arterial smooth muscle cells has been identified as a functional receptor for SARS-CoV-2. […] Dysfunction of ACE2 leads to abnormal activation of the renin-angiotensin system and a systemic endotheliitis that may relate to abnormal coagulation and sepsis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32504757&#34; target=&#34;_blank&#34;&gt;32504757&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE2 plays an important physiological role, practically in all the organs and systems. […] Also, ACE2 exerts protective functions in various models of pathologies with acute and chronic inflammation. […] While ACE2 downregulation by SARS-CoV-2 spike protein leads to an overactivation of Angiotensin (Ang) II/AT1R axis and the deleterious effects of Ang II may explain the multiorgan dysfunction seen in patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32504925&#34; target=&#34;_blank&#34;&gt;32504925&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 enter into the host cells using the angiotensin-converting enzyme 2 (ACE2) as receptor, like its ancestor SARS-CoV. […] ACE2 is then downregulated in lung tissues with augmented serum levels of ACE2 in SARS-CoV-2 patients. […] Interestingly, ACE2&lt;sup&gt;+&lt;/sup&gt; organs reveal the symptomatic repercussions, which are signals of the infection such as dry cough, shortness of breath, heart failure, liver and kidney damage, anosmia or hyposmia, and diarrhea. […] ACE2 exerts a chief role in the renin-angiotensin system (RAS) by converting angiotensin II to angiotensin-(1-7) that activates Mas receptor, inhibits ACE1, and modulates bradykinin (BK) receptor sensitivity, especially the BK type 2 receptor (BKB2R). […] ACE2 also hydrolizes des-Arg&lt;sup&gt;9&lt;/sup&gt;-bradykinin (DABK), an active BK metabolite, agonist at BK type 1 receptors (BKB1R), which is upregulated by inflammation. […] In this opinion article, we conjecture a dialogue by the figure of Sérgio Ferreira which brought together basic science of classical pharmacology and clinical repercussions in COVID-19, then we propose that in the course of SARS-CoV-2 infection: i) downregulation of ACE2 impairs the angiotensin II and DABK inactivation; ii) BK and its metabolite DABK seems to be in elevated levels in tissues by interferences in kallikrein/kinin system; iii) BK1 receptor contributes to the outbreak and maintenance of the inflammatory response; iv) kallikrein/kinin system crosstalks to RAS and coagulation system, linking inflammation to thrombosis and organ injury.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32505821&#34; target=&#34;_blank&#34;&gt;32505821&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PDL might prevent the entrance of SARS-CoV-2 entry into cells by blocking the angiotensin-converting enzyme 2 (ACE2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32506195&#34; target=&#34;_blank&#34;&gt;32506195&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Virus binds to the cell surface receptor ACE2; indeed, recent evidences suggested that SARS-CoV-2 may be using as co-receptor, when entering the cells, the same one used by MERS-Co-V, namely the DPP4/CD26 receptor. […] The aforementioned observation underlined that mechanism of cell entry is supposedly similar among different coronavirus, that the co-expression of ACE2 and DPP4/CD26 could identify those cells targeted by different human coronaviruses and that clinical complications may be similar.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32506743&#34; target=&#34;_blank&#34;&gt;32506743&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 is a novel RNA virus that infects cells expressing the angiotensin-converting enzyme (ACE2) receptor and is associated with an acute respiratory disease named COVID-19. […] It has been hypothesized that ACE2 expression can be increased by Ibuprofen leading to a higher risk for severe COVID-19 (1).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32507883&#34; target=&#34;_blank&#34;&gt;32507883&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After transmembrane angiotensin-converting enzyme 2 (ACE2) has been found to be SARS-CoV-2 receptor, we hypothesized an immune-hematological mechanism for Covid-19 based on renin-angiotensin system (RAS) imbalance to explain clinical, laboratory and imaging findings on disease course. […] We believe that exaggerated activation of ACE/Angiotensin II (Ang II)/Angiotensin Type 1 (AT1) receptor RAS axis in line with reduction of ACE2/Angiotensin-(1-7)/Mas receptor may exert a pivotal role in the pathogenesis of Covid-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32508311&#34; target=&#34;_blank&#34;&gt;32508311&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Early reports have confirmed that transmembrane serine protease 2 (TMPRSS2) and angiotensin converting enzyme 2 (ACE2) are critical targets of SARS-CoV-2 that facilitate viral entry into host cells. […] TMPRSS2 and ACE2 are expressed in multiple human tissues beyond the lung including the testes where predisposition to SARS-CoV-2 infection may exist. […] In this review, we highlight the growing evidence in support of androgen regulation of TMPRSS2 and ACE2 and the potential clinical implications of using androgen suppression to downregulate TMPRSS2 to target SARS-CoV-2. […] We also discuss the future directions and controversies that need to be addressed in order to establish the viability of targeting TMPRSS2 and/or ACE2 through androgen signaling regulation for COVID-19 treatment, particularly its relevance in the context of prostate cancer management.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32510598&#34; target=&#34;_blank&#34;&gt;32510598&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent studies have found that the pathogen of COVID-19, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), shares the same cell receptor angiotensin converting enzyme II (ACE2) as SARS-CoV. […] Here, we performed an unbiased evaluation of cell-type-specific expression of ACE2 in healthy and fibrotic lungs, as well as in normal and failed adult human hearts, using published single-cell RNA-seq data. […] We found that ACE2 expression in fibrotic lungs mainly locates in arterial vascular cells, which might provide a route for bloodstream spreading of SARS-CoV-2. […] Failed human hearts have a higher percentage of ACE2-expressing cardiomyocytes, and SARS-CoV-2 might attack cardiomyocytes through the bloodstream in patients with heart failure. […] Moreover, ACE2 was highly expressed in cells infected by respiratory syncytial virus or Middle East respiratory syndrome coronavirus and in mice treated by lipopolysaccharide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32510973&#34; target=&#34;_blank&#34;&gt;32510973&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 may manipulate mitochondrial function indirectly, first by ACE2 regulation of mitochondrial function, and once it enters the host cell, ORFS such as ORF-9b can directly manipulate mitochondrial function to evade host cell immunity and facilitate virus replication and COVID-19 disease. […] We argue that a decline in ACE2 function in aged individuals, coupled with the age-associated decline in mitochondrial functions resulting in chronic metabolic disorders like diabetes or cancer, may make the host more vulnerable to infection and health complications to mortality.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32510978&#34; target=&#34;_blank&#34;&gt;32510978&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Notably, the disease course is worse in individuals with preexisting comorbidities that involve endothelial dysfunction and may be linked to elevated ACE2 (angiotensin-converting enzyme 2) expression, such as diabetes mellitus, hypertension, and cardiovascular disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32512122&#34; target=&#34;_blank&#34;&gt;32512122&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The plausible mechanisms of myocardial injury include, 1) hyperinflammation and cytokine storm mediated through pathologic T-cells and monocytes leading to myocarditis, 2) respiratory failure and hypoxemia resulting in damage to cardiac myocytes, 3) down regulation of ACE2 expression and subsequent protective signaling pathways in cardiac myocytes, 4) hypercoagulability and development of coronary microvascular thrombosis, 5) diffuse endothelial injury and ‘endotheliitis’ in several organs including heart, and, 6) inflammation and/or stress causing coronary plaque rupture or supply-demand mismatch leading to myocardial ischemia/infarction.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32512673&#34; target=&#34;_blank&#34;&gt;32512673&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The pathogenesis of COVID-19 starts with the bonding of the virus to ACE2 receptors expressed in many tissues, and the triggered excessive immune response plays a critical role in the course of the disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32513532&#34; target=&#34;_blank&#34;&gt;32513532&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent studies have reported that COVID-19 has angiotensin-converting enzyme 2 (ACE2) as a functional receptor, which may lead to the development of severe cerebrovascular diseases (CVD), including strokes, in patients with risk factors for CVD such as diabetes and smoking. […] Here, we observed ACE2 expression in the brain of rat middle cerebral artery occlusion (MCAO) model and evaluated the effects of cigarette smoke extract (CSE) and diabetes on ACE2 expression in vessels. […] We showed that the levels of ACE2 expression was increased in the cortex penumbra after ischemic injuries. […] CSE treatment significantly elevated ACE2 expression in human brain vessels. […] We found that ACE2 expression was upregulated in primary cultured human blood vessels with diabetes compared to healthy controls. […] This study demonstrates that ACE2 expression is increased in ischemic brains and vessels exposed to diabetes or smoking, makes them vulnerable to COVID-19 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32514935&#34; target=&#34;_blank&#34;&gt;32514935&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A number of studies, mainly in animals and not involving the lungs, have indicated that these drugs can increase expression of angiotensin-converting enzyme 2 (ACE2). […] ACE2 is the cell entry receptor of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the causative agent of coronavirus disease 2019 (COVID-19) that is currently battering the globe.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32515982&#34; target=&#34;_blank&#34;&gt;32515982&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The cell entry of SARS-CoV-2 depends on two host proteins angiotensin-converting enzyme 2 (ACE2) and TMPRSS2. […] It is suggested that H&lt;sub&gt;2&lt;/sub&gt;S may block SARS-CoV-2 entry into host cells by interfering with ACE2 and TMPRSS2, inhibit SARS-CoV-2 replication by attenuating virus assembly/release, and protect SARS-CoV-2-induced lung damage by suppressing immune response and inflammation development.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32519842&#34; target=&#34;_blank&#34;&gt;32519842&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this case, nanomaterials could be used to deliver drugs to the pulmonary system to inhibit interaction between angiotensin-converting enzyme 2 (ACE2) receptors and viral S protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32520981&#34; target=&#34;_blank&#34;&gt;32520981&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The recent emergence of SARS-CoV-2 is responsible for the current pandemic of COVID-19, which uses the human membrane protein ACE2 as a gateway to host-cell infection. […] We performed a comparative genomic analysis of 70 ACE2 placental mammal orthologues to identify variations and contribute to the understanding of evolutionary dynamics behind this successful adaptation to infect humans. […] Our results reveal that 4% of the ACE2 sites are under positive selection, all located in the catalytic domain, suggesting possibly taxon-specific adaptations related to the ACE2 function, such as cardiovascular physiology. […] Considering all variable sites, we selected 30 of them located at the critical ACE2 binding sites to the SARS-CoV-like viruses for analysis in more detail. […] Our results reveal a relatively high diversity of ACE2 between placental mammal species, while showing no polymorphism within human populations, at least considering the 30 inter-species variable sites.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32522067&#34; target=&#34;_blank&#34;&gt;32522067&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this short perspective, we discuss the roles of CQ/HCQ in the treatment of COVID-19 patients and propose new ways of possible treatment for SARS-CoV-2 infection based on the molecules that selectivity target autophagy.&lt;b&gt;Abbreviation:&lt;/b&gt; ACE2: angiotensin I converting enzyme 2; CoV: coronavirus; CQ: chloroquine; ER: endoplasmic reticulum; HCQ: hydroxychloroquine; MERS-CoV: Middle East respiratory syndrome coronavirus; SARS-CoV: severe acute respiratory syndrome coronavirus; SARS-CoV-2: severe acute respiratory syndrome coronavirus 2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32522207&#34; target=&#34;_blank&#34;&gt;32522207&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although the amino acid sequences of the S-glycoprotein were found to be different between the various HCoV, the structures showed high similarity, but the best 3D structural overlap shared by SARS-CoV and SARS-CoV-2, consistent with the shared ACE2 predicted receptor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32522617&#34; target=&#34;_blank&#34;&gt;32522617&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Like SARS-CoV, ACE2 as a functional receptor for SARS-CoV2 is essential for virus to entry to the cell. […] ACE2 is a part of RAS which is expressed in several organs that opposes the AngII functions by converting Ang II to Ang (1-7), the one with vasodilation effects. […] In addition, cardiovascular involvement by SARS-CoV2 could be direct through either ACE2 receptors which are expressed tremendously in heart, or by the surge of different cytokines or by ARDS-induced hypoxia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32522846&#34; target=&#34;_blank&#34;&gt;32522846&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This article reviews the correlation between ACE2 and COVID-19 and the resulting acute respiratory distress syndrome (ARDS). […] ACE2 is a crucial component of the renin-angiotensin system (RAS). […] The classical ACE-angiotensin Ⅱ (Ang II)-angiotensin type 1 receptor (AT1R) axis and the ACE2-Ang(1-7)-Mas counter-regulatory axis play an essential role in RAS system. […] ACE2 antagonises the activation of the classical RAS ACE-Ang II-AT1R axis and protects against lung injury. […] Similar to severe acute respiratory syndrome-related coronavirus, 2019 novel coronavirus (2019-nCoV) also uses ACE2 for cell entry. […] ARDS is a clinical high-mortality disease which is probably due to the excessive activation of RAS caused by 2019-nCoV infection, and ACE2 has a protective effect on ARDS caused by COVID-19. […] Because of these protective effects of ACE2 on ARDS, the development of drugs enhancing ACE2 activity may become one of the most promising approaches for the treatment of COVID-19 in the near future.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32523925&#34; target=&#34;_blank&#34;&gt;32523925&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pancreatic exocrine tissue and endocrine islets both express angiotensin-converting enzyme 2 (ACE2), the proven receptor for SARS-CoV-2 cell internalization.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32525600&#34; target=&#34;_blank&#34;&gt;32525600&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The variations within Angiotensin-converting enzyme 2 (ACE2) gene might constitute the first genetic gateway, influencing the spatial transmission dynamics of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32526012&#34; target=&#34;_blank&#34;&gt;32526012&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although angiotensin-converting enzyme 2 (ACE2) is crucial for SARS-CoV2 to bind and enter host cells, no study has systematically assessed the ACE2 expression in the lungs of patients with these diseases. […] Here, we analyzed over 700 lung transcriptome samples of patients with comorbidities associated with severe COVID-19 and found that ACE2 was highly expressed in these patients, compared to control individuals. […] Correlation and network analyses revealed many potential regulators of ACE2 in the human lung, including genes related to histone modifications, such as HAT1, HDAC2, and KDM5B.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32526206&#34; target=&#34;_blank&#34;&gt;32526206&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High-sensitivity RNA in situ mapping revealed the highest angiotensin-converting enzyme 2 (ACE2) expression in the nose with decreasing expression throughout the lower respiratory tract, paralleled by a striking gradient of SARS-CoV-2 infection in proximal (high) versus distal (low) pulmonary epithelial cultures.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32528233&#34; target=&#34;_blank&#34;&gt;32528233&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Evidences suggest that the S1 domain of the SARS-CoV-2 (causative agent of COVID-19) membrane spike has a high affinity towards the &lt;i&gt;angiotensin-converting enzyme 2&lt;/i&gt; (ACE2) receptor found on the host’s lung epithelium.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32528815&#34; target=&#34;_blank&#34;&gt;32528815&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the receptor-binding domain (RBD) of the S gene, 11 non-synonymous mutations were observed in the region adjacent to the angiotensin converting enzyme 2 (ACE2) binding site.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32529477&#34; target=&#34;_blank&#34;&gt;32529477&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A systematic search in the literature was performed in PubMed, Scopus, Embase, Cochrane Library, Web of Science, as well as Google Scholar pre-print database using all available MeSH terms for COVID-19, Coronavirus, SARS-CoV-2, senescent cell, cytokine storm, inflame-aging, ACE2 receptor, autophagy, and Vitamin D.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32531235&#34; target=&#34;_blank&#34;&gt;32531235&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Given the severity and the wide and rapid spread of the SARS-CoV-2 infection, it is very likely that the virus recognizes other receptors/co-receptors besides the ACE2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32531372&#34; target=&#34;_blank&#34;&gt;32531372&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Participants from 2 large asthma cohorts were stratified using clinically relevant parameters to identify factors related to ACE2 expression within bronchial epithelium. […] Stratifying by Type 2 inflammatory biomarkers, we identified subjects who demonstrated low peripheral blood eosinophils accompanied by increased expression of the SARS-CoV-2 receptor ACE2 in bronchial epithelium. […] Genes highly correlated with ACE2 overlapped with Type 1 and 2 interferon signatures, normally induced by viral infections. […] T cell recruitment and activation within bronchoalveolar lavage cells of ACE2-high subjects was reciprocally increased. […] ACE2 expression is linked to upregulation of viral response genes in a subset of Type-2 low asthmatics with characteristics resembling known risk factors for severe COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32531538&#34; target=&#34;_blank&#34;&gt;32531538&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hesperidin can block coronavirus from entering host cells through ACE2 receptors which can prevent the infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532094&#34; target=&#34;_blank&#34;&gt;32532094&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here we established a quantitative fusion assay dependent on severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) S protein, angiotensin I converting enzyme 2 (ACE2) and TMPRSS2, and found that nafamostat mesylate potently inhibited the fusion while camostat mesylate was about 10-fold less active.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532805&#34; target=&#34;_blank&#34;&gt;32532805&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The high rate of thrombotic complications associated with COVID-19 seems likely to reflect viral infection of vascular endothelial cells, which express the ACE2 protein that enables SARS-CoV-2 to invade cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32533197&#34; target=&#34;_blank&#34;&gt;32533197&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The pathophysiology of COVID-19 associated AKI could be related to unspecific mechanisms but also to COVID-specific mechanisms such as direct cellular injury resulting from viral entry through the receptor (ACE2) which is highly expressed in the kidney, an imbalanced renin-angotensin-aldosteron system, pro-inflammatory cytokines elicited by the viral infection and thrombotic events.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32533988&#34; target=&#34;_blank&#34;&gt;32533988&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Polymorphisms in ACE2 gene, ACE gene and in genes for some of the host cell proteases could affect the viral entry and replication.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534021&#34; target=&#34;_blank&#34;&gt;32534021&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Due to the cellular entry of the novel coronavirus (SARS-CoV-2) modulated by angiotensin converting enzyme 2 (ACE2), the ACE2 bearing prostate is therefore hypothesized as a susceptible organ to COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534337&#34; target=&#34;_blank&#34;&gt;32534337&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 binds its host cell receptor, angiotensin-converting enzyme 2 (ACE2), through the viral spike (S) protein. […] Importantly, rhein inhibits the interaction between the SARS-CoV S protein and ACE2 in a dose-dependent manner, suggesting rhein as a potential therapeutic agent for the treatment of SARS-CoV infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534506&#34; target=&#34;_blank&#34;&gt;32534506&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The biologic studies show that the target receptor for the virus might be angiotensin-converting enzyme 2 (ACE2). […] It is emphasized that the direct target of the virus is ACE2 underlining the obvious difference with ACE.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32535705&#34; target=&#34;_blank&#34;&gt;32535705&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Levels of angiotensin-converting enzyme 2 (ACE2), a protein that facilitates entry of coronavirus into cells, may increase in patients using RAS inhibitors. […] In this review, we provide a critical review to the following questions: (1) Does hypertension influence immunity or ACE2 expression favoring viral infections? […] From the therapeutic perspective, recombinant ACE2 may serve as a potential therapy, but relevant studies in humans are lacking.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32535979&#34; target=&#34;_blank&#34;&gt;32535979&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The virus enters cells, likely including those lining blood vessels, by binding to angiotensin converting enzyme 2 (ACE2) receptors on the cell surface.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32536978&#34; target=&#34;_blank&#34;&gt;32536978&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Possible mechanisms of myocardial injury in COVID-19 include ischaemia due to circulatory and respiratory failure, epicardial or intramyocardial small coronary artery thrombotic obstruction due to increased coagulability, and myocarditis caused by systemic inflammation or direct binding of the virus to its receptor, angiotensin-converting enzyme-2 (ACE2), which is abundantly expressed in the heart.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32537478&#34; target=&#34;_blank&#34;&gt;32537478&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It has been reported that angiotensin-converting enzyme 2 (ACE2) and transmembrane serine protease 2 (TMPRSS2) are the main cell entry proteins for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and play a critical role in causing coronavirus disease 2019 (COVID-19). […] We have found a differential expression of ACE2 and TMPRSS2 in nasal and bronchial airways relative to age and diseases status. […] Moreover, the lung airway expression of both ACE2 and TMPRSS2 was found to be significantly upregulated in smokers compared with non-smokers, and in patients with chronic obstructive pulmonary disease (COPD) compared with healthy subjects. […] No difference was observed in the blood expression levels of ACE2 and TMPRSS2 between children and adults, or in COPD or diabetic patients. […] However, a significant increase in blood expression levels of these genes was observed in patients with essential hypertension, whereas only ACE2 was upregulated in the blood of asthmatics. […] These results suggest that the observed difference in COVID-19 severity between children and adults could, in part, be attributed to the difference in ACE2 and TMPRSS2 airways tissue expression levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32538276&#34; target=&#34;_blank&#34;&gt;32538276&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These studies reported Cefuroxime as a potential inhibitor of 3 key SARS-CoV-2 proteins; main protease, RNA dependent RNA polymerase, and ACE2-Spike complex.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32538738&#34; target=&#34;_blank&#34;&gt;32538738&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We constructed complex models of SARS-CoV-2 spike protein binding to pangolin or human ACE2, the receptor for virus transmission, and estimated the binding free energy changes using molecular dynamics simulation. […] SARS-CoV-2 can bind to both pangolin and human ACE2, but has a significantly lower binding affinity for pangolin ACE2 due to the increased binding free energy (9.5 kcal mol&lt;sup&gt;-1&lt;/sup&gt;). […] Human ACE2 is among the most polymorphous genes, for which we identified 317 missense single-nucleotide variations (SNVs) from the dbSNP database. […] Three SNVs, E329G (rs143936283), M82I (rs267606406) and K26R (rs4646116), had a significant reduction in binding free energy, which indicated higher binding affinity than wild-type ACE2 and greater susceptibility to SARS-CoV-2 infection for people with them.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32538775&#34; target=&#34;_blank&#34;&gt;32538775&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It can be misleading to think that the new severe acute respiratory syndrome coronavirus (SARS-CoV2) which has a very strong mutation and adaptation capabilities, uses only the angiotensin-converting enzyme II (ACE2) pathway to reach target cells. […] The main reason why the ACE2 pathway comes to the fore in all scientific studies is that this receptor is located at the entry point of basic mechanisms that provide alveolo-capillary homeostasis. […] SARS-CoV-2 has to use nuclear factor-κB (NF-kB), caveloae, clathrin, lipoxin, serine protease and proteasome pathways in addition to ACE2 to enter the target cell and initiate damage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32540268&#34; target=&#34;_blank&#34;&gt;32540268&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As the viral infection is driven by increased angiotensin-converting enzyme-2 (ACE2) expression, with the kidney exhibiting the highest expression, it is crucial to gain insights into the mechanisms underlying renal cell carcinoma (RCC) and coronavirus disease 2019 (COVID-19).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32540428&#34; target=&#34;_blank&#34;&gt;32540428&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The transmembrane spike (S) glycoprotein of SARS-CoV-2 directly binds to the host angiotensin-converting enzyme 2 (ACE2) and mediates viral entrance, which is therefore considered as a promising drug target. […] Through in vitro molecular interaction experiments, eltrombopag was further verified to possess a high binding affinity to S protein plus human ACE2 and could potentially affect the stability of the ACE2-S protein complex.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32540737&#34; target=&#34;_blank&#34;&gt;32540737&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medications, including pioglitazone, that upregulate tissue expression of angiotensin converting enzyme 2 (ACE2), might have a dual role in COVID-19; on the one hand they might increase risk of infection as SARS-CoV2 uses ACE2 as a coreceptor to enter alveolar cells, but on the other hand, by reducing angiotensin II levels, they can protect against acute lung injury. […] There is no evidence to date that pioglitazone upregulates ACE2 in the alveolar cells; rather, there is evidence from animal studies of upregulation of ACE2 in insulin sensitive tissues, which might have a protective effect on lung injury.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32542337&#34; target=&#34;_blank&#34;&gt;32542337&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme inhibitors (ACEIs) and angiotensin receptor blockers (ARBs) share their target receptor site with the SARS-CoV-2 virus, that may cause ACE2 receptor up-regulation which raised concerns regarding ACEI and ARB use in COVID-19 patients. […] Additionally, the individual patient factors such as ACE2 polymorphisms which might confer higher risk of adverse outcomes need to be evaluated further.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32542396&#34; target=&#34;_blank&#34;&gt;32542396&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As for SARS-CoV that caused the SARS 2003 epidemic, the receptor on host cells that promotes uptake, through attachment of the spike (S) protein of the virus, is angiotensin-converting enzyme 2 (ACE2). […] (Lond.) (2020) 134, 543-545) it was suggested that soluble recombinant ACE2 could be used as a novel biological therapeutic to intercept the virus, limiting the progression of infection and reducing lung injury. […] Another way, discussed here, to capture SARS-CoV-2, as an adjunct or alternative, would be to use ACE2+-small extracellular vesicles (sEVs). […] A competitive inhibition therapy could therefore be developed, using sEVs from engineered mesenchymal stromal/stem cells (MSCs), overexpressing ACE2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32543296&#34; target=&#34;_blank&#34;&gt;32543296&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It has been shown that SARS-CoV-2 spike protein shares a high similarity with SARS-CoV spike protein with a strong binding affinity to human Angiotensin Converting Enzyme 2 (ACE2) receptor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32543348&#34; target=&#34;_blank&#34;&gt;32543348&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Single-cell sequencing and ACE2-Furin co-expression results confirmed that the Furin expression was higher in the whole body, especially in glands, liver, kidneys, and colon.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32544372&#34; target=&#34;_blank&#34;&gt;32544372&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ab6 and m397 competed with ACE2 for binding to RBD, suggesting a competitive mechanism of virus neutralization.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32544563&#34; target=&#34;_blank&#34;&gt;32544563&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The attachment of SARS-CoV-2 spike glycoprotein with angiotensin-converting enzyme 2 (ACE2), as its cellular receptor, triggers complex molecular events that leads to hyperinflammation. […] The virus-mediated down-regulation of ACE2 causes a burst of inflammatory cytokine release through dysregulation of the renin-angiotensin-aldosterone system (ACE/angiotensin II/AT1R axis), attenuation of Mas receptor (ACE2/MasR axis), increased activation of [des-Arg9]-bradykinin (ACE2/bradykinin B1R/DABK axis), and activation of the complement system including C5a and C5b-9 components.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32544566&#34; target=&#34;_blank&#34;&gt;32544566&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We analyzed human post-mortem eyes as well as surgical specimens for the expression of ACE2 (the receptor for SARS-CoV-2) and TMPRSS2, a cell surface-associated protease that facilitates viral entry following binding of the viral spike protein to ACE2. […] Across all eye specimens, immunohistochemical analysis revealed expression of ACE2 in the conjunctiva, limbus, and cornea, with especially prominent staining in the superficial conjunctival and corneal epithelial surface. […] Surgical conjunctival specimens also showed expression of ACE2 in the conjunctival epithelium, especially prominent in the superficial epithelium, as well as the substantia propria. […] Finally, Western blot analysis of protein lysates from human corneal epithelium obtained during refractive surgery confirmed expression of ACE2 and TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32544615&#34; target=&#34;_blank&#34;&gt;32544615&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Extracellular vesicles may contribute to spread this virus as they transfer such receptors as CD9 and ACE2, which make recipient cells susceptible to virus docking.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32545268&#34; target=&#34;_blank&#34;&gt;32545268&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our in silico studies show that these flavonoid-based molecules can bind with high affinity to the spike protein, helicase, and protease sites on the ACE2 receptor used by the severe acute respiratory syndrome coronavirus 2 to infect cells and cause COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32545271&#34; target=&#34;_blank&#34;&gt;32545271&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We surveyed the co-expression of SARS-CoV-2 entry genes &lt;i&gt;ACE2&lt;/i&gt; and &lt;i&gt;TMPRSS2&lt;/i&gt; throughout the GI tract to assess potential sites of infection. […] Enterocytes from the small intestine and colonocytes showed the highest proportions of cells co-expressing &lt;i&gt;ACE2&lt;/i&gt; and &lt;i&gt;TMPRSS2&lt;/i&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32545518&#34; target=&#34;_blank&#34;&gt;32545518&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We found that the potent Nrf2-activating composition PB125&lt;sup&gt;®&lt;/sup&gt; downregulates &lt;i&gt;ACE2&lt;/i&gt; and &lt;i&gt;TMPRSS2&lt;/i&gt; mRNA expression in human liver-derived HepG2 cells. &lt;i&gt;ACE2&lt;/i&gt; is a surface receptor and &lt;i&gt;TMPRSS2&lt;/i&gt; activates the spike protein for SARS-CoV-2 entry into host cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32546047&#34; target=&#34;_blank&#34;&gt;32546047&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+While the potential therapeutic utility of angiotensin-converting enzyme 2 (ACE2) is well established, the clinical development of ACE2 drugs has been limited, likely due in part to the short half-life of the protein. […] In contrast, Ig-like ACE2 fusion proteins have exhibited greatly extended plasma half-life in vivo, and they have been shown to have a potent neutralization effect against SARS-CoV-2. […] Clinical investigation of Ig-like ACE2 fusion proteins as COVID-19 interventions is thus warranted.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32546188&#34; target=&#34;_blank&#34;&gt;32546188&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ongoing trials directly and indirectly target COVID-19-related endothelial dysfunctions: i.e., a virus-cell entry using recombinant angiotensin-converting enzyme 2 (ACE2) and transmembrane protease serine 2 (TMPRSS-2) blockade, coagulation activation, and immunomodulatory therapies, such as anti-IL-6 strategies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32547717&#34; target=&#34;_blank&#34;&gt;32547717&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The ACE2 receptor plays a central role in severe acute respiratory syndrome coronavirus 2 host cell entry and propagation. […] It has therefore been postulated that angiotensin converting enzyme inhibitors and angiotensin receptor blockers may upregulate ACE2 expression and thus increase susceptibility to infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32549071&#34; target=&#34;_blank&#34;&gt;32549071&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The SARS-CoV-2 uses the same host receptor, angiotensin-converting enzyme 2 (ACE2), used by SARS-CoV to infect humans.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32549125&#34; target=&#34;_blank&#34;&gt;32549125&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this opinion paper, we describe how sex-specific immunobiological factors and differences in angiotensin converting enzyme 2 (ACE2) expression may explain the increased severity and mortality of COVID-19 in males.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32549297&#34; target=&#34;_blank&#34;&gt;32549297&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this review, we have analyzed some lesser known aspects of the relationship between neoplasms and SARS-CoV-2 infection, starting from the different expression of the ACE2 receptor of the virus in the various neoplastic pathologies, and the roles that different cytokine patterns could have in vulnerability to infection and the appearance of complications.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32550040&#34; target=&#34;_blank&#34;&gt;32550040&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Though its pathogenesis has not been fully elucidated, angiotensin-converting enzyme 2 (ACE2) has been recently identified as a receptor for the entry of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) into the cell. […] Here, we aimed to clarify the potential role of ACE2 in SARS-CoV-2-induced acute lung injury and its underlying mechanism. […] As a receptor for coronavirus, ACE2 mediates the entry of SARS-CoV-2 into cells in a similar way as for severe acute respiratory syndrome coronavirus (SARS-CoV). […] The high binding affinity of SARS-CoV-2 to ACE2 correlates with its efficient spread among humans. […] On the other hand, ACE2 negatively regulates the renin-angiotensin-aldosterone system (RAAS) primarily by converting angiotensin II to angiotensin 1-7, which exerts a beneficial effect on coronavirus-induced acute lung injury. […] Human recombinant ACE2 has been considered as a potential therapy for SARS-CoV-2 by blocking virus entry and redressing the imbalance of RAAS in SARS-CoV-2 infection. […] The level of ACE2 expression can be upregulated by treatment with an ACE inhibitor (ACEI) or angiotensin Ⅱ type 1 receptor blocker (ARB).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32550056&#34; target=&#34;_blank&#34;&gt;32550056&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It acts by attaching to the angiotensin-converting enzyme (ACE2) with the help of glycoprotein spikes, which it uses as a receptor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32550259&#34; target=&#34;_blank&#34;&gt;32550259&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The mechanism of cardiac involvement in COVID-19 patients involves direct injury to myocardial cells mediated by angiotensin-converting enzyme 2 (ACE2) receptors as suggested by some studies, while the other studies suggest that systemic inflammation causing indirect myocyte injury may also play a role.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32551560&#34; target=&#34;_blank&#34;&gt;32551560&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, we identified high-binding-affinity aptamers targeting SARS-CoV-2 RBD, using an ACE2 competition-based aptamer selection strategy and a machine learning screening algorithm. […] Simulated interaction modeling, along with competitive with experiments, suggests that two aptamers may have partially identical binding sites at ACE2 on SARS-CoV-2 RBD.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32551648&#34; target=&#34;_blank&#34;&gt;32551648&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The viral entry and thus infectivity is based on the formation of the complex of the SARS-CoV-2 spike protein with the angiotensin-converting enzyme 2 (ACE2). […] The detection of putative allosteric sites on the viral spike protein can trace the path to develop allosteric drugs to weaken spike-ACE2 interaction and, thus, to reduce the viral infectivity. […] In this work we present results of the application of the Protein Contact Network (PCN) paradigm together with SEPAS (affinity by flexibility) and Perturbation Response Scanning (PRS) based on Elastic Network modes to the complex SARS-CoV spike - ACE2 relative to both 2003 SARS and the recent SARS-CoV-2. […] All the adopted analysis paradigms converge toward a specific region, present in both structures, that is predicted to act as allosteric site modulating the binding of the spike protein with ACE2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32551652&#34; target=&#34;_blank&#34;&gt;32551652&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this work we used a coarse grained model to calculate the binding free energy of SARS-CoV-2 or SARS-CoV to their human receptor ACE2. […] Such evolution may facilitate the conformational change and the infection process that occurs after the virus is bound to ACE2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32552811&#34; target=&#34;_blank&#34;&gt;32552811&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sub-chronic e-cig exposure with nicotine increased inflammatory cellular influx of macrophages and T-lymphocytes including increased pro-inflammatory cytokines in BALF and increased SARS-Cov-2 Covid-19 ACE2 receptor, whereas nAChRα7 KO mice show reduced inflammatory responses associated with decreased ACE2 receptor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32553273&#34; target=&#34;_blank&#34;&gt;32553273&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Commercially available laboratory strains of mice are not readily infected by SARS-CoV-2 because of species-specific differences in their angiotensin-converting enzyme 2 (ACE2) receptors. […] Here, we transduced replication-defective adenoviruses encoding human ACE2 via intranasal administration into BALB/c mice and established receptor expression in lung tissues. hACE2-transduced mice were productively infected with SARS-CoV-2, and this resulted in high viral titers in the lung, lung pathology, and weight loss.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32553503&#34; target=&#34;_blank&#34;&gt;32553503&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These very legitimate questions are directly the consequence of the recent recognition of the fundamental role of ACE2 (angiotensin-converting enzyme 2) in COVID-19 infection. […] Indeed, SARS COV2 utilizes ACE2 as a membrane receptor to enter target cells. […] As a membrane-bound enzyme (carboxypeptidase), ACE2 inactivates angiotensin II and therefore physiologically counters its effects. […] Due to a different structure compared with ACE1, ACE2 is insensitive to ACEIs. […] In vitro, both ARBs and ACEi appear able to upregulate ACE2 tissue expression and activity but these results were not confirmed in Humans. […] Due to the crucial role of ACE2, some groups support the hypothesis that a modulation of ACE2 expression could represent a valuable therapeutic target could confer protective properties against inflammatory tissue damage in COVID-19 infection. […] So, studies are currently ongoing to test the impact of elevated ACE2 membrane expression, administration of ARB and infusion of soluble ACE2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32553666&#34; target=&#34;_blank&#34;&gt;32553666&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The postulated mechanism of viral entry is through the host ACE2 receptors that are abundantly present in type 2 alveolar cells. […] Interestingly, the expression of ACE2 receptors were identified in the gastrointestinal tract, vascular endothelium and cholangiocytes of the liver.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32553928&#34; target=&#34;_blank&#34;&gt;32553928&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study was to develop a search for new pharmacological compounds against the angiotensin-converting enzyme 2 (ACE2), to inhibit the interaction with SARS-CoV-2. […] Docking, virtual screening using almost 500,000 compounds directed to interact in the region between the residues (Gln24, Asp30, His34, Tyr41, Gln42, Met82, Lys353, and Arg357) in ACE2. […] The average of ΔG&lt;sub&gt;binding&lt;/sub&gt;, the standard deviation value and the theoretical toxicity from compounds were analyzed. 20 best compounds directed to interact in ACE2 with a high probability to be safe in humans, validated by web servers of prediction of ADME and toxicity (ProTox-II and PreADMET), to difficult the interaction between ACE2 and region binding domain (RBD) of SARS-CoV-2. […] In this study, 20 compounds were determined by docking focused on the region of interaction between ACE2 and RBD of SARS-CoV-2 was carried out.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32554251&#34; target=&#34;_blank&#34;&gt;32554251&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+QFPD contained 257 specific targets in addition to HCoV, pneumonia and ACE2 co-expression proteins.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32556552&#34; target=&#34;_blank&#34;&gt;32556552&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The risk to infect transplant recipients with SARS-CoV‑2 still appears very unlikely due to the experience with severe acute respiratory syndrome -coronavirus(‑1) (SARS-CoV(‑1)) and Middle East respiratory syndrome-coronavirus (MERS-CoV); however, due to the occurrence of angiotensin-converting enzyme 2 (ACE2) receptors in the cornea an infection of this tissue with SARS-CoV‑2 cannot be completely excluded.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32558150&#34; target=&#34;_blank&#34;&gt;32558150&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Its pathogen, SARS-CoV-2, has been shown to use angiotensin-converting enzyme 2 (ACE2) as its host cell receptor, same as the severe acute respiratory syndrome coronavirus (SARS-CoV) in 2003. […] Here by analyzing GTEx and other public data in 30 tissues across thousands of individuals, we found a significantly higher level in Asian females, an age-dependent decrease in all ethnic groups, and a highly significant decrease in type II diabetic patients of ACE2 expression. […] Consistently, the most significant expression quantitative loci (eQTLs) contributing to high ACE2 expression are close to 100% in East Asians, &amp;gt;30% higher than other ethnic groups. […] A shockingly common enrichment of viral infection pathways was found among ACE2 anti-expressed genes, and multiple binding sites of virus infection related transcription factors and sex hormone receptors locate at ACE2 regulatory regions. […] Human and mice data analysis further revealed ACE2 expression is reduced in T2D patients and with inflammatory cytokine treatment and upregulated by estrogen and androgen (both decrease with age). […] Our findings revealed a negative correlation between ACE2 expression and COVID-19 fatality at both population and molecular levels. […] These results will be instrumental when designing potential prevention and treatment strategies for ACE2 binding coronaviruses in general.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32558308&#34; target=&#34;_blank&#34;&gt;32558308&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We examined genetic differences in the human angiotensin-converting enzyme 2 (hACE2) gene, as its receptor serves as a cellular entry for SARS-CoV-2. […] At present, there is a paucity of data regarding the differences for ACE2 polymorphisms and expression levels between ethnicities. […] The binding free energies were calculated between S protein and hACE2. […] We also examined hACE2 gene expression in eight global populations from HapMap3. […] Molecular dynamic demonstrated that two of these variants (K26R and I468V) may affect binding characteristics between S protein of the virus and hACE2 receptor. […] Our studies reveal subtle changes in the genetics of hACE2 between human populations, but the magnitude of the difference was small and the significance is not clear in the absence of further in vitro and functional studies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32558946&#34; target=&#34;_blank&#34;&gt;32558946&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Investigation of this viral infection in the human bronchial epithelial cell line (16HBE) suggests that SARS-CoV-2 can enter these cells through interaction between its membrane-localized S protein with the ACE2 molecule on the host cell membrane.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32561270&#34; target=&#34;_blank&#34;&gt;32561270&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most potent antibody bound the RBD and prevented binding to the ACE2 receptor, while the other bound outside the RBD. […] Antibodies that disrupt the SARS-CoV-2 S-ACE2 interaction can potently neutralize the virus without undergoing extensive maturation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32561291&#34; target=&#34;_blank&#34;&gt;32561291&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 entry starts with the binding of the spike glycoprotein expressed on the viral envelope to ACE2 on the alveolar surface followed by clathrin-dependent endocytosis of the SARS-CoV-2 and ACE2 complex.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32561317&#34; target=&#34;_blank&#34;&gt;32561317&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme inhibitors (ACEIs) and angiotensin II receptor blockers (ARBs) are considered first-line agents in patients with diabetes because of their nephroprotective effects, but administration of these drugs leads to upregulation of angiotensin-converting enzyme 2 (ACE2), which is responsible for the viral entry of severe acute respiratory distress syndrome coronavirus 2 (SARS-CoV-2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562137&#34; target=&#34;_blank&#34;&gt;32562137&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin converting enzyme 2 (ACE2) is a target cell receptor for internalization and proliferation of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). […] When ACE2-highly expressed tissues are manipulated, SARS-CoV-2 containing aerosols may be generated.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562276&#34; target=&#34;_blank&#34;&gt;32562276&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Briefly, statins could act modulating virus entry, acting on the SARS-CoV-2 receptors, ACE2 and CD147, and/or lipid rafts engagement.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562701&#34; target=&#34;_blank&#34;&gt;32562701&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Apelin or its receptor agonists are of great potential treatment for COVID-19 through suppressing angiotensin-converting enzyme (ACE) and angiotensin II (Ang-II) production, as well as, down-regulating angiotensin receptor 1 (AT1R) and ACE2 up-regulation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562913&#34; target=&#34;_blank&#34;&gt;32562913&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As it is evident from the recent studies that SARS-CoV-2 requires host enzyme Furin to activate receptor binding domain of its S protein and host Angiotensin Convertase Enzyme 2 (ACE2) is required as binding receptor, facilitating the entry of virus into the host cell. […] Evidence from literature shows that oral cancer tissues as well as paracarcinoma tissue exhibit higher expression of both Furin and ACE2, giving rise to the hypothesis that patients with oral cancer have higher chances of SARS CoV2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562915&#34; target=&#34;_blank&#34;&gt;32562915&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The virus attacks type II pneumocytes in the lower bronchi through the binding of the Spike protein (S protein) to viral receptors, of which the angiotensin 2 conversion enzyme (ACE2) receptor is the most important. […] ACE2 receptor is widely expressed in numerous tissues, including the oropharynx and conjunctiva, but mostly distributed in ciliated bronchial epithelial cells and type II pneumocytes in the lower bronchi.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32563970&#34; target=&#34;_blank&#34;&gt;32563970&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In which, pros and cons were discussed and inferred the possible alternatives. (a) Specificity: Implicit to express the ACE2 receptors in conveyor cells to deceive SARS-CoV-2 frompreponetargets. (b) Remedy: As depletion of pulmonary surfactants causes strong acute respiratory distress syndrome, we propose an entity of a cost-effective artificialsurfactantsystem as a remedy to pulmonary complications. (c) Conveyor: We propose red blood cells (RBCs) as a conveyor with embedded artificial surfactant and protruding ACE2 receptors for the target-specific delivery.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32564046&#34; target=&#34;_blank&#34;&gt;32564046&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is known from experimental studies that SARS-Cov-2 enters the cells by interacting with the ACE2 enzyme, while it is not known whether ACE2 is the only factor that allows the virus to enter the cell. […] It has been shown that the use of recombinant ACE2 can be potentially beneficial in COVID-19 therapy by limiting the entry of the virus into the cell.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32564694&#34; target=&#34;_blank&#34;&gt;32564694&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To further investigate this sex difference, we examined the role of ACE2 in Ang-[1-8] (angiotensin [1-8])-induced hypertension and regulation of the renin-angiotensin system in the kidney of WT (wild type) and Ace2 KO (knockout) mice. […] This sex difference was attenuated in ACE2 KO mice. […] Ang-[1-8] infusion reduced glomerular AT1R (angiotensin type 1 receptor) binding in WT female mice by 30%, and deletion of &lt;i&gt;Ace2&lt;/i&gt; abolished this effect. […] In contrast, Ang-[1-8] infusion increased glomerular AT1R binding in WT male mice by 1.2-fold, and this effect of Ang-[1-8] persisted in Ace2 KO male mice (1.3-fold). […] ACE2 also had an effect on renal protein expression of the neutral endopeptidase NEP (neprilysin), the enzyme that catabolizes Ang-[1-10] (angiotensin [1-10]), the precursor of Ang-[1-8]. […] Deletion of Ace2 resulted in lowered NEP expression after Ang-[1-8] infusion in both sexes. […] These findings suggest sex-specific ACE2 regulation of the renin-angiotensin system contributes to female protection from Ang-[1-8]-induced hypertension. […] These findings have ramifications for the current coronavirus disease 2019 (COVID-19) pandemic, especially in hypertension since ACE2 is the SARS-CoV-2 receptor and hypertension is a major risk factor for poor outcomes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32565362&#34; target=&#34;_blank&#34;&gt;32565362&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 employs the host cell receptor ACE2 for cellular entry. […] Nonetheless, the differences in ACE2 expression pattern in lung versus other normal and solid tumor tissues remain incompletely characterized. […] Here, we analyze a large data set comprising ACE2 mRNA expression for 7592 tissue samples across 22 types of primary solid tumor and 4461 samples across matched 18 non-diseased tissues.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32566425&#34; target=&#34;_blank&#34;&gt;32566425&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+COVID-19, like other coronaviruses, presents with S glycoproteins on the membrane that plays an integral role in the virus binding with the angiotensin-converting enzyme 2 (ACE2) receptor. […] The ACE2 receptor is an intramembrane receptor on the type II pneumocytes, where the virus is able to replicate after getting endocytosed within the cytoplasm.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32566896&#34; target=&#34;_blank&#34;&gt;32566896&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 gains entry to human cells through its spike (S) protein binding to angiotensin-converting enzyme 2 (ACE2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32567171&#34; target=&#34;_blank&#34;&gt;32567171&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Whilst research all over the world is still struggling to provide a detailed characterization of the biology of SARS-CoV2 and its associated disease profile, it has become evident that SARS-CoV2 uses the membrane-bound form of angiotensin-converting enzyme 2 (ACE2) as a receptor for cell internalization. […] ACE2 is a protective component of the RAAS axis and is downregulated after SARS-CoV2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32567823&#34; target=&#34;_blank&#34;&gt;32567823&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, SARS-CoV-2 can affect several human organs due to high expressions of ACE2 receptor which is the main viral target and the virus may affect not only higher and lower respiratory tracts, but also heart, kidney, gastro enteric tract, liver, pancreas, nervous system and skin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32567938&#34; target=&#34;_blank&#34;&gt;32567938&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The virus binds to the cellular receptor ACE2, which in children has a structural and functional immaturity thus offering lower affinity to the pathogen; this could explain the lower incidence of infection from SARS-CoV-2 in this segment of the population.The common clinical observation is that COVID-19 is less severe in children, and in this group the disease is often asymptomatic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32568687&#34; target=&#34;_blank&#34;&gt;32568687&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Preliminary conformational analysis of the receptor (ACE2) binding site of the spike protein is carried out suggesting that while it is somewhat conserved, it appears to be more variable than KRSFIEDLLFNKV. […] However compounds like emodin that inhibit SARS entry, apparently by binding ACE2, might also have functions at several different human protein binding sites.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32569293&#34; target=&#34;_blank&#34;&gt;32569293&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We seek to raise awareness about the male-biased severe outcomes from COVID-19, highlighting the mechanistic differences including in the expression and activity of angiotensin-converting enzyme 2 (ACE2) as well as in antiviral immunity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32570174&#34; target=&#34;_blank&#34;&gt;32570174&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The resemblance with SARS-CoV in spike protein suggests that SARS-CoV-2 employs spike-driven entry into angiotensin-converting enzyme 2 (ACE2)-expressing cells. […] From a stem cell perspective, this review focuses on the possible involvement of ACE2&lt;sup&gt;+&lt;/sup&gt; stem/progenitor cells from both the upper and lower respiratory tracts in coronavirus infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32570882&#34; target=&#34;_blank&#34;&gt;32570882&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It has been shown that high cholesterol levels are associated with more lipid rafts, subdomains of the plasma membrane that can harbour angiotensin-converting enzyme 2 (ACE2) receptors for the S-protein of SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32572334&#34; target=&#34;_blank&#34;&gt;32572334&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, we combined system biology and bioinformatic approaches to define the role of coexpression of angiotensin-converting enzyme 2 (ACE2), neprilysin or membrane metallo-endopeptidase (MME), and carbonic anhydrases (CAs) and their association in the pathogenesis of SARS-CoV-2. […] The results revealed that ACE2 as the cellular attachment site of SARS-CoV-2, neprilysin, and CAs have a great contribution together in the renin angiotensin system (RAS) and consequently in pathogenesis of SARS-CoV-2 in the vital organs such as respiratory, renal, and blood circulation systems. […] Any disorder in neprilysin, ACE2, and CAs can lead to increase of CO&lt;sub&gt;2&lt;/sub&gt; concentration in blood and respiratory acidosis, induction of pulmonary edema and heart and renal failures. […] Due to the presence of ACE2-Neprilysin-CA complex in most of vital organs and as a receptor of COVID-19, it is expected that most organs are affected by SARS-CoV-2 such as inflammation and fibrosis of lungs, which may conversely affect their vital functions, temporary or permanently, sometimes leading to death. […] Therefore, ACE2-Neprilysin-CA complex could be the key factor of pathogenesis of SARS-CoV-2 and may provide us useful information to find better provocative and therapeutic strategies against COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32572383&#34; target=&#34;_blank&#34;&gt;32572383&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The inhibitory capability of active compounds in the &lt;b&gt;TA&lt;/b&gt; from Thua Thien Hue, Vietnam over the Angiotensin-Converting Enzyme 2 (ACE2) protein in human body - the host receptor for SARS-CoV-2 and the main protease (PDB6LU7) of the SARS-CoV-2 using docking simulation has been studied herein. […] The results indicate that the ACE2 and PDB6LU7 proteins were strongly inhibited by 10 out of 24 compounds accounting for 70.9% in the &lt;b&gt;TA&lt;/b&gt;. […] Interestingly, the synergistic interactions of these 10 substances of the &lt;b&gt;TA&lt;/b&gt; exhibit excellent inhibition into the ACE2 and PDB6LU7 proteins.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32572552&#34; target=&#34;_blank&#34;&gt;32572552&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The current body of evidence indicates that SARS-CoV‑2 requires the membrane-bound angiotensin-converting enzyme 2 (ACE2) and the membrane-bound serine protease TMPRSS2 to enter cells. […] Recent studies suggest that COVID-19 patients rarely exhibit viral RNA in tear film and conjunctival smears and that, ACE2 and TMPRSS2 are only expressed in very small amounts in the conjunctiva, making conjunctival infection with SARS-CoV‑2 via these mediators unlikely.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32573351&#34; target=&#34;_blank&#34;&gt;32573351&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Totally 47 bioactives identified from the medicinal plants were investigated against the structural targets of SARS-CoV-2 (Mpro and spike protein) and human ACE2 receptor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32573711&#34; target=&#34;_blank&#34;&gt;32573711&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The receptor for SARS-CoV-2 binding, ACE2, was not detected by mRNA or protein in platelets. […] Surprisingly, mRNA from the SARS-CoV-2 N1 gene was detected in platelets from 2/25 COVID-19 patients, suggesting platelets may take-up SARS-COV-2 mRNA independent of ACE2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32573788&#34; target=&#34;_blank&#34;&gt;32573788&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The SARS-CoV-2 uses the host angiotensin-converting enzyme 2 (ACE2) receptor to gain entry inside the human cells where it replicates by using the cell protein synthesis mechanisms. […] The knowledge of the tissue distribution of ACE2 in human organs is therefore important to predict the clinical course of the COVID-19. […] We performed an exhaustive search of human protein databases to establish the tissues that express ACE2 and performed an in-depth analysis like sequence alignments and homology modeling of the spike protein (S) of the SARS-CoV-2 to identify antigenic regions in the RBD that can be exploited to synthesize vaccine and mAbs. […] Our results show that ACE2 is widely expressed in human organs that may explain the pulmonary, systemic, and neurological deficits seen in COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574107&#34; target=&#34;_blank&#34;&gt;32574107&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV2 binding to ACE2 can lead to excessive angiotensin II signaling, which activates the STING pathway in mice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574196&#34; target=&#34;_blank&#34;&gt;32574196&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Both ACE2 (an entry receptor) and TMPRSS2 (used by the virus for spike protein priming) are key proteins to SARS-CoV-2 cell entry, enabling progression to COVID-19 in humans. […] Comparative genomic research into critical ACE2 binding sites, associated with the spike receptor binding domain, has suggested that African and Asian primates may also be susceptible to disease from SARS-CoV-2 infection. […] To characterize potential functional variation in savanna monkey ACE2 and TMPRSS2, we inspected recently published genomic data from 245 savanna monkeys, including 163 wild monkeys from Africa and the Caribbean and 82 captive monkeys from the Vervet Research Colony (VRC). […] One missense variant in ACE2 (X:14,077,550; Asp30Gly), common in Ch. sabaeus, causes a change in amino acid residue that has been inferred to reduce binding efficiency of SARS-CoV-2, suggesting potentially reduced susceptibility. […] All missense variants observed in wild Ch. sabaeus populations are also present in the VRC, along with two splice acceptor variants (at X:14,065,076) not observed in the wild sample that are potentially disruptive to ACE2 function.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574268&#34; target=&#34;_blank&#34;&gt;32574268&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+IP is caused by the viral glycoprotein spike (S) binding to the angiotensin converting enzyme 2 (ACE2) expressed on the surface of alveolar pneumocytes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32574271&#34; target=&#34;_blank&#34;&gt;32574271&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Of importance are Heparan Sulfate Proteoglycans (HSPGs) and the host receptor angiotensin-converting enzyme 2 (ACE2), as based on other activities lactoferrin might prevent severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) from attaching to the host cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574272&#34; target=&#34;_blank&#34;&gt;32574272&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Virus protein ligands (e.g., haemagglutinin or trimeric spike glycoprotein for Influenza and CoV, respectively) interact with cellular receptors, such as (depending on the virus) either sialic acids, Dipeptidyl peptidase 4 (DPP4), or angiotensin-converting enzyme 2 (ACE2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574273&#34; target=&#34;_blank&#34;&gt;32574273&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The role of the ACE2 enzyme in the COVID-19 infection is 2-fold, with opposing implications for the disease development. […] The membrane bound angiotensin converting enzyme 2 (ACE2) serves as the entry point of COVID-19 2. […] ACE2 is part of the wider renin-angiotensin-aldosterone system (RAAS) and is upregulated via compounds, which inhibits the classical ACE, thereby plasma aldosterone and aldosterone receptor (MR) activation. […] MR activation may therefore protect organs from binding the COVID-19 by reducing ACE2 expression. […] Does this affect the protective effect of ACE2? […] Importantly, GL has anti-inflammatory properties by itself via toll like receptor 4 (TLR4) antagonism and therefore compensates for the reduced protection of the downregulated ACE2. […] To block the number of entry points and 2. provide an ACE2 independent anti-inflammatory mechanism.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574336&#34; target=&#34;_blank&#34;&gt;32574336&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme 2 (ACE2) is the receptor for COVID-19 (SARs-CoV-2). […] ACE2 protects the lung and heart from acute respiratory distress syndrome (ARDS) and acute myocarditis and arrhythmias, because it breaks down Angiotensin II, which has inflammatory effects in the lung and heart as well as in the kidney. […] When SARS-CoV-2 binds to ACE2, it suppresses it, so this protective action of ACE2 is lost.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32574379&#34; target=&#34;_blank&#34;&gt;32574379&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These findings are applicable to a parallel strategy for the generation of polysaccharides similar to those present in the receptor-binding domain of CoViD-19, which might inhibit viral adhesion to its receptor, the angiotensin-converting enzyme-2 (ACE2) protein, thereby impairing cellular uptake of the virus itself.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574956&#34; target=&#34;_blank&#34;&gt;32574956&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Flow cytometry analyses were performed to detect the direct binding of S protein and the expression of ACE2 on the cell surface of macrophages. […] S protein of SARS-CoV-2 directly bound to the macrophage via the S-protein-ACE2 interaction.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32575476&#34; target=&#34;_blank&#34;&gt;32575476&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The angiotensin-converting enzyme 2 (ACE2) receptor, a host cell receptor, has been found to play a crucial role in virus cell entry; therefore, ACE2 blockers can be a potential target for anti-viral intervention. […] In this study, we evaluated the ACE2 inhibitory effects of 10 essential oils. […] Among them, geranium and lemon oils displayed significant ACE2 inhibitory effects in epithelial cells. […] In addition, immunoblotting and qPCR analysis also confirmed that geranium and lemon oils possess potent ACE2 inhibitory effects. […] Next, we found that treatment with citronellol and limonene significantly downregulated ACE2 expression in epithelial cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32576357&#34; target=&#34;_blank&#34;&gt;32576357&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2019 Novel coronavirus (2019-nCoV) destroys angiotensin converting enzyme 2 (ACE2) and breaks the balance of renin-angiotension system (RAS) by interacting with ACE2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32577056&#34; target=&#34;_blank&#34;&gt;32577056&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The ACE2 receptors were widely disturbed among body tissues such as lung, kidney, small intestine, heart, and others in different percent and considered a target for the nCOVID-19 virus. […] S-protein of the virus was binding to ACE2 receptors caused downregulation of endogenous anti-viral mediators, upregulation of NF-κB pathway, ROS and pro-apoptotic protein. […] We used method of analysis of the published papers with described studies about COVID-19 connected with pharmacological issues and aspects which are included in global fighting against COVID-19 infection, and how using DMF (Nrf2 activator) in clinical trial for nCOVID-19 produce positive effects in patients for reduce lung alveolar cells damage. we are found that Nrf2 activators an important medication that’s have a role in reduce viral pathogenesis via inhibit virus entry through induce SPLI gene expression as well as inhibit TRMPSS2, upregulation of ACE2 that’s make a competition with the virus on binding site, induce gene expression of anti-viral mediators such as RIG-1 and INFs, induce anti-oxidant enzymes, also they have a role in inhibit NF-κB pathway, inhibit both apoptosis proteins and gene expression of TLRs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32577830&#34; target=&#34;_blank&#34;&gt;32577830&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Similarly, a decrease in the oral viral load would diminish the amount of virus expelled and reduce the risk of transmission, since (i) during the first 10 days, the virus mainly accumulates at the nasal, oral, and pharyngeal area; (ii) the number of angiotensin-converting enzyme (ACE2) receptor is greater in the salivary glands as compared with the lungs; and (iii) salivary droplets represent the most relevant transmission route.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32578263&#34; target=&#34;_blank&#34;&gt;32578263&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 enters the cells with the help of ACE2; therefore, testicular expression of ACE2 was analysed from transcriptome sequencing studies and our unpublished data. […] We also found ACE2 expression in transcriptome sequencing data for human spermatozoa, corroborating its presence in the testicular germ cells. […] Transcriptome sequencing data from literature search revealed ACE2 expression in the germ, Sertoli and Leydig cells. […] The presence of ACE2 on almost all testicular cells and the report of a significant impact of previous SARS coronavirus on testes suggest that SARS-CoV-2 is highly likely to affect testicular tissue, semen parameters and male fertility.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32579957&#34; target=&#34;_blank&#34;&gt;32579957&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Up-to-date, a number of mechanisms have been postulated for COVID-19-associated cardiovascular damage including SARS-CoV-2 receptor angiotensin-converting enzyme 2 (ACE2) activation, cytokine storm, hypoxemia, stress and cardiotoxicity of antiviral drugs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32580257&#34; target=&#34;_blank&#34;&gt;32580257&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 infects host cells by targeting the angiotensin-converting enzyme 2 (ACE2) receptor, which is present on endothelial cells in the lung, heart, kidney, and gastrointestinal tissue. […] These high-risk populations are often on angiotensin-modulating therapies, which are theorized to increase ACE2 expressivity, but current evidence for or against discontinuation is equivocal.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32580440&#34; target=&#34;_blank&#34;&gt;32580440&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, we analyze the positive correlation between the virus spread, PM, and angiotensin-converting enzyme 2 (ACE2), a receptor involved in the entry of the virus into pulmonary cells and inflammation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32582134&#34; target=&#34;_blank&#34;&gt;32582134&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV and SARS-CoV-2 have 79.5% nucleotide sequence identity and use angiotensin-converting enzyme 2 (ACE2) receptors to enter host cells. […] The distribution of ACE2 may determine how SARS-CoV-2 infects the respiratory and digestive tract. […] ACE2 regulates the gut microbiota by indirectly controlling the secretion of antimicrobial peptides.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32582222&#34; target=&#34;_blank&#34;&gt;32582222&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A common denominator of all affected organs is the expression of angiotensin-converting enzyme 2 (ACE2), a protease responsible for the conversion of Angiotensin 1-8 (Ang II) to Angiotensin 1-7 (Ang 1-7). […] Unfortunately, ACE2 also serves as the binding receptor of SARS viral spike glycoprotein, enabling its attachment to host cells, with subsequent viral internalization and replication. […] Although numerous reports have linked the devastating organ injuries to viral homing and attachment to organ-specific cells widely expressing ACE2, little attention has been given to ACE-2 expressed by the immune system. […] Herein we outline potential adverse effects of SARS-CoV2 on macrophages and dendritic cells, key cells of the immune system expressing ACE2. […] It is tempting to assume that diverse expression of ACE2 in macrophages among individuals might govern the severity of SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32582302&#34; target=&#34;_blank&#34;&gt;32582302&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The SARS-CoV-2 virus responsible for the infection depends on two human genes: the human receptor angiotensin converting enzyme 2 (&lt;i&gt;ACE2&lt;/i&gt;) for cell invasion, and the serine protease &lt;i&gt;TMPRSS2&lt;/i&gt; for S protein priming. […] We examined 178 quantitative phenotypes including cytokines and cardio-metabolic biomarkers, as well as usage of 58 medications in 36,339 volunteers from the Lifelines population cohort, in relation to 1,273 genetic variants located in or near &lt;i&gt;ACE2&lt;/i&gt; and &lt;i&gt;TMPRSS2&lt;/i&gt;. […] SNPs within the &lt;i&gt;ACE2&lt;/i&gt; gene were associated with (1) the use of angiotensin II receptor blockers (ARBs) combination therapies (&lt;i&gt;p&lt;/i&gt; = 5.7 × 10&lt;sup&gt;-4&lt;/sup&gt;), an association that is significantly stronger in females (&lt;i&gt;p&lt;/i&gt;&lt;sub&gt; &lt;i&gt;dif&lt;/i&gt; &lt;/sub&gt;&lt;sub&gt;f&lt;/sub&gt; = 0.01), and (2) with the use of non-steroid anti-inflammatory and antirheumatic products (&lt;i&gt;p&lt;/i&gt; = 5.5 × 10&lt;sup&gt;-4&lt;/sup&gt;).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32582574&#34; target=&#34;_blank&#34;&gt;32582574&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We review the physiological functions of ACE2 in the cardiovascular system and the lungs, and how the activation of ACE2/MAS/G protein coupled receptor contributes in reducing acute injury and inhibiting fibrogenesis of the lungs and protecting the cardiovascular system. […] In this perspective, we predominantly focus on the impact of SARS-CoV-2 infection on ACE2 and dysregulation of the protective effect of ACE2/MAS/G protein pathway vs. the deleterious effect of Renin/Angiotensin/Aldosterone. […] We discuss the potential effect of invasion of SARS-CoV-2 on the function of ACE2 and the loss of the protective effect of the ACE2/MAS pathway in alveolar epithelial cells and how this may amplify systemic deleterious effect of renin-angiotensin aldosterone system (RAS) in the host. […] Furthermore, we speculate the potential of exploiting the modulation of ACE2/MAS pathway as a natural protection of lung injury by modulation of ACE2/MAS axis or by developing targeted drugs to inhibit proteases required for viral entry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32582576&#34; target=&#34;_blank&#34;&gt;32582576&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 enters the lungs through the ACE2 enzyme, a member of the renin-angiotensin system (RAS). […] However, there are no data on sex-specific differences in ACE2 expression. […] If there is a sex difference in the expression of ACE2 in the lung, this could theoretically explain the gender disparity in COVID-19 disease. […] More importantly, although modulation of ACE2 will certainly not provide a cure for the COVID-19 disease, modulation of ACE2 by sex hormone modulators, if they affect the expression of ACE2, could potentially be developed into a supportive therapy for COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32583042&#34; target=&#34;_blank&#34;&gt;32583042&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+At the time of the research, angiotensin-converting enzyme 2 (ACE2) was clearly identified as the receptor and transmembrane serine protease 2 (TMPRSS2) as the necessary protease to enable the infection of human cells with SARS-CoV‑2. […] In the eye both ACE2 and TMPRSS2 are expressed, although sometimes very weakly and with varying degrees in different tissues. […] According to current state of knowledge the eye is not considered to be a high-risk tissue due to the low ACE2 and TMPRSS2 expression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32584474&#34; target=&#34;_blank&#34;&gt;32584474&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme 2 (ACE2), a part of the renin-angiotensin system (RAS), serves as the major entry point into cells for SARS-CoV-2 which attaches to human ACE2, thereby reducing the expression of ACE2 and causing lung injury and pneumonia. […] It can induce ACE2/Ang-(1-7)/MasR axis activity and inhibits renin and the ACE/Ang II/AT1R axis, thereby increasing expression and concentration of ACE2, MasR and Ang-(1-7) and having a potential protective role against acute lung injury (ALI)/acute respiratory distress syndrome (ARDS). […] Therefore, targeting the unbalanced RAS and ACE2 down-regulation with vitamin D in SARS-CoV-2 infection is a potential therapeutic approach to combat COVID-19 and induced ARDS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32586214&#34; target=&#34;_blank&#34;&gt;32586214&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The evidence to date supports the concept that the thrombotic manifestations of severe COVID-19 is due to the ability of SARS-CoV-2 to invade endo¬thelial cells via angiotensin-converting enzyme 2 (ACE2), which is expressed on the endothelial cell surface.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32586380&#34; target=&#34;_blank&#34;&gt;32586380&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+First, we sought to identify existing FDA approved drugs that could block coronaviruses from entering cells by binding to ACE2 or TMPRSS2 using a high-throughput AI-based binding affinity prediction platform. […] Top results for ACE2 binding iincluded several ACE inhibitors, a beta-lactam antibiotic, two antiviral agents (Fosamprenavir and Emricasan) and glutathione. […] The platform also assessed specificity for ACE2 over ACE1, important for avoiding counterregulatory effects. […] Further studies are needed to weigh the benefit of blocking virus entry against potential counterregulatory effects and possible protective effects of ACE2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32587077&#34; target=&#34;_blank&#34;&gt;32587077&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These are based on the fact that ACE2 facilitates SARS-CoV-2 cell invasion via binding of a viral spike protein to ACE2. […] However, the effect of ACE inhibitors, ARBs and other drugs on ACE2 is unclear and all theories are based on conflicting evidence mainly from animal studies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32587094&#34; target=&#34;_blank&#34;&gt;32587094&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In characterizing viral S protein, we developed a quantitative dynamics cross-correlation matrix to gain insights into its interactions with the angiotensin I-converting enzyme 2 (ACE2)-solute carrier family 6 member 19 (SLC6A19) dimer. […] Using this quantitative matrix, we elucidated 47 potential functional missense variants from genomic databases within ACE2/SLC6A19/transmembrane serine protease 2 (TMPRSS2), warranting genomic enrichment analyses in SARS-CoV-2 patients. […] These variants had ultralow frequency but existed in males hemizygous for ACE2. […] Two ACE2 noncoding variants (rs4646118 and rs143185769) present in ~9% of individuals of African descent may regulate ACE2 expression and may be associated with increased susceptibility of African Americans to SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32587651&#34; target=&#34;_blank&#34;&gt;32587651&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme 2 (ACE2) receptors, direct viral damage, and immune-mediated damage play important roles in the pathogenesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32589459&#34; target=&#34;_blank&#34;&gt;32589459&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The spike proteins of SARS-CoV-2 interact with ACE2 or basigin/CD147 receptors, regulating human-to-human transmissions of COVID-19 together with serine protease TMPRSS2. […] ACE2 is expressed in conjunctival samples at a low level, while BSG and TMPRSS2 are expressed at intermediate levels in both conjunctiva and cornea.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32590326&#34; target=&#34;_blank&#34;&gt;32590326&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The SARS virus binds to angiotensin-converting enzyme (ACE2) receptor and causes pneumonia. […] In the lung, the ACE2 receptor sits on the top of lung cells known as alveolar epithelial type II (AE2) cells. […] On the contrary, new SARS-CoV-2 can suppress the production of surfactant that binds to the ACE2 of AE2 cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32591346&#34; target=&#34;_blank&#34;&gt;32591346&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To facilitate proteomic research on SARS-CoV-2, this report presents deep-scale proteomes (10,000 proteins; &amp;gt;130,000 peptides) of common cell line models, notably Vero E6, Calu-3, Caco-2, and ACE2-A549 that characterize their protein expression profiles including viral entry factors such as ACE2 or TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32591666&#34; target=&#34;_blank&#34;&gt;32591666&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Another aspect of the included studies was the susceptibility of oral tissues to 2019-nCoV due to the expression of angiotensin-converting enzyme II (ACE2) as a receptor for the 2019-nCoV. […] Regarding the possibility of direct virus invasion into the oral tissues, the results suggested that ACE2+ cells in salivary glands could possibly be the target cells of 2019-nCoV and theoretically could generate infectious saliva in a sustained way.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32591762&#34; target=&#34;_blank&#34;&gt;32591762&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In patients with COVID-19, epithelial cells showed an average three-fold increase in expression of the SARS-CoV-2 entry receptor ACE2, which correlated with interferon signals by immune cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32591839&#34; target=&#34;_blank&#34;&gt;32591839&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Reports that the ACE2 receptor - critical for virus entry into lung cells - is found in different neurons supports this expectation. […] We detected the expression of the ACE2 receptor but not TMPRSS2 in the model.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32591908&#34; target=&#34;_blank&#34;&gt;32591908&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme 2 (ACE2) is a key counter-regulatory component of the renin-angiotensin system. […] Here, we briefly review the mechanistic and target organ effects related to ACE2 activity, and the importance of ACE2 in SARS-CoV-2 infection. […] ACE2 converts angiotensin (Ang) II to Ang-(1-7), which directly opposes the vasoconstrictive, proinflammatory, and prothrombotic effects of Ang II. […] ACE2 also facilitates SARS-CoV-2 viral entry into host cells. […] Drugs that interact with the renin-angiotensin system may impact ACE2 expression and COVID-19 pathogenesis; however, the magnitude and direction of these effects are unknown at this time. […] High quality research is needed to improve our understanding of how agents that act on the renin-angiotensin system impact ACE2 and COVID-19-related disease outcomes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32592038&#34; target=&#34;_blank&#34;&gt;32592038&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Entrance of SARS-CoV-2 depends on the surface (S) protein interaction with host ACE2 protein and cleavage by TMPRSS2. […] ACE2 could be a species-specific barrier that interferes with bat-to-human coronavirus cross-species transmission. […] To investigate bats and pangolin as hosts in SARS-CoV-2 cross-species transmission, we perform an evolutionary analysis combining viral and host phylogenies and divergence of ACE2 and TMPRSS2 amino acid sequences between CoV hosts. […] In contrast to TMPRSS2, pangolin ACE2 amino acid sequence has low evolutionary divergence compared with humans and is more divergent from bats. […] Comparing SARS-CoV with SARS-CoV-2 origins, pangolin has yet lower ACE2 evolutionary divergence with humans than civet-the main intermediary host of SARS-CoV.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32592145&#34; target=&#34;_blank&#34;&gt;32592145&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A critical step in the crosstalk between the virus and the host cell is the binding of SARS-CoV-2 spike protein to the angiotensin-converting enzyme 2 (ACE2) receptor present on the surface of the host cells. […] We have designed a novel peptide that could inhibit SARS-CoV-2 spike protein interaction with ACE2, thereby blocking the cellular entry of the virus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32592657&#34; target=&#34;_blank&#34;&gt;32592657&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, statins may increase the risk of SARS-CoV-2 viral entry by inducing ACE2 expression.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

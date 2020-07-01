@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db15073&#39; target=&#39;_blank&#39;&gt;db15073&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=remdesivir&#34; target=&#34;_blank&#34;&gt;remdesivir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ribose&#34; target=&#34;_blank&#34;&gt;ribose&lt;/a&gt; &lt;br&gt;
 Synonymous :aldehydo-d-ribose | d-ribo-2,3,4,5-tetrahydroxyvaleraldehyde | d-ribose | ribose
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :aldehydo-d-ribose | d-ribo-2,3,4,5-tetrahydroxyvaleraldehyde | d-rib
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;remdesivir&lt;/em&gt; gene in 116 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ribose&lt;/em&gt; gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -85,6 +85,14 @@ A molecular docking analysis was carried out using 171 essential oil components 
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 For coronaviruses, RNA cap structure is first methylated at guanine N-7 (G-N-7) position by nonstructural protein 14 (nsp14), which facilitates and precedes the subsequent ribose 2’-O methylation by nsp16-nsp10 complex.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32578982&#34; target=&#34;_blank&#34;&gt;32578982&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although 26% of the amino acids in this SARS-CoV-2 macrodomain differ from those observed in other coronaviruses, biochemical and structural data reveal that the protein retains the ability to bind ADP-ribose, which is an important characteristic of beta coronaviruses and a potential therapeutic target.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db14126&#39; target=&#39;_blank&#39;&gt;db14126&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=lopinavir&#34; target=&#34;_blank&#34;&gt;lopinavir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=tenofovir&#34; target=&#34;_blank&#34;&gt;tenofovir&lt;/a&gt; &lt;br&gt;
 Synonymous :(r)-pmpa | anhydrous tenofovir | tenofovir (anh.) | tenofovir (anhydrous) | tenofovir anhydrous
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(r)-pmpa | anhydrous tenofovir | tenofovir (anh.) | tenofovir (anhyd
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lopinavir&lt;/em&gt; gene in 133 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;tenofovir&lt;/em&gt; gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -93,6 +93,38 @@ A 34 year old HIV-positive female on antiretroviral therapy (tenofovir disoproxi
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 To this end, the antiviral efficacies of lopinavir-ritonavir, hydroxychloroquine sulfate, and emtricitabine-tenofovir for SARS-CoV-2 infection were assessed in the ferret infection model. […] While the lopinavir-ritonavir-, hydroxychloroquine sulfate-, or emtricitabine-tenofovir-treated group exhibited lower overall clinical scores than the phosphate-buffered saline (PBS)-treated control group, the virus titers in nasal washes, stool specimens, and respiratory tissues were similar between all three antiviral-candidate-treated groups and the PBS-treated control group. […] Only the emtricitabine-tenofovir-treated group showed lower virus titers in nasal washes at 8 days postinfection (dpi) than the PBS-treated control group. […] In this study, we tested the FDA-approved drugs lopinavir-ritonavir, hydroxychloroquine sulfate, and emtricitabine-tenofovir against SARS-CoV-2 infection in a highly susceptible ferret infection model. […] While most of the drug treatments marginally reduced clinical symptoms, they did not reduce virus titers, with the exception of emtricitabine-tenofovir treatment, which led to diminished virus titers in nasal washes at 8 dpi.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32473657&#34; target=&#34;_blank&#34;&gt;32473657&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Age and CD4 cell counts in 51 patients diagnosed with COVID-19 were similar to those in 1288 HIV-infected individuals without; however, 32 (63%) with COVID-19 had at least one comorbidity (mostly hypertension and diabetes) compared with 495 (38%) without COVID-19 (p=0·00059). 37 (73%) patients had received tenofovir before COVID-19 diagnosis compared with 487 (38%) of those without COVID-19 (p=0·0036); 11 (22%) in the COVID-19 group had previous protease inhibitor use (mostly darunavir) compared with 175 (14%; p=0·578).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562705&#34; target=&#34;_blank&#34;&gt;32562705&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We previously demonstrated that five nucleotide analogues inhibit the SARS-CoV-2 RNA-dependent RNA polymerase (RdRp), including the active triphosphate forms of Sofosbuvir, Alovudine, Zidovudine, Tenofovir alafenamide and Emtricitabine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32589451&#34; target=&#34;_blank&#34;&gt;32589451&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Risk and 95% CIs for COVID-19 diagnosis and hospital admission by use of the NRTIs tenofovir disoproxil fumarate (TDF)/emtricitabine (FTC), tenofovir alafenamide (TAF)/FTC, abacavir (ABC)/lamivudine (3TC), and others were estimated through Poisson regression models.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32592716&#34; target=&#34;_blank&#34;&gt;32592716&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The rational supporting combinations with (hydroxy)chloroquine and tenofovir (two drugs active against SARS-CoV-2) is also discussed.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

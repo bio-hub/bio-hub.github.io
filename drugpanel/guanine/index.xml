@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db02377&#39; target=&#39;_blank&#39;&gt;db02377&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=guanine&#34; target=&#34;_blank&#34;&gt;guanine&lt;/a&gt; &lt;br&gt;
 Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;guanine&lt;/em&gt; gene in 7 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -77,6 +77,30 @@ G-Quadruplexes (G4s) are non-canonical secondary structures formed within guanin
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 For coronaviruses, RNA cap structure is first methylated at guanine N-7 (G-N-7) position by nonstructural protein 14 (nsp14), which facilitates and precedes the subsequent ribose 2’-O methylation by nsp16-nsp10 complex.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32484220&#34; target=&#34;_blank&#34;&gt;32484220&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Molecular docking model suggests that nsp13 distorts the G-quadruplex structure by allowing the guanine bases to be flipped away from the guanine quartet planes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32536162&#34; target=&#34;_blank&#34;&gt;32536162&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the present contribution we study, by all-atom equilibrium and enhanced sampling molecular dynamics simulations, the interaction between the SARS Unique Domain and RNA guanine quadruplexes, a process involved in eluding the defensive response of the host thus favoring viral infection of human cells. […] The results obtained evidence two stable binding modes with guanine quadruplexes, driven either by electrostatic (dimeric mode) or by dispersion (monomeric mode) interactions, are proposed being the dimeric mode the preferred one, according to the analysis of the corresponding free energy surfaces. […] This work also constitutes a first step of the possible rational design of efficient therapeutic agents aiming at perturbing the interaction between SARS Unique Domain and guanine quadruplexes, hence enhancing the host defenses against the virus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32567979&#34; target=&#34;_blank&#34;&gt;32567979&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One of the attractive drug targets is guanine-N7 methyltransferase which plays the main role in capping the 5’-ends of viral genomic RNA and sub genomic RNAs, to escape the host’s innate immunity.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

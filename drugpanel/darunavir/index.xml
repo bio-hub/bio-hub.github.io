@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01264&#39; target=&#39;_blank&#39;&gt;db01264&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=procalcitonin&#34; target=&#34;_blank&#34;&gt;procalcitonin&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=darunavir&#34; target=&#34;_blank&#34;&gt;darunavir&lt;/a&gt; &lt;br&gt;
 Synonymous :(3r,3as,6ar)-hexahydrofuro[2,3-b]furan-3-yl n-((1s,2r)-1-benzyl-2-hydroxy-3-(n1-isobutylsulfanilamido)propyl)carbamate | (3r,3as,6ar)-tetrahydro-2h-furo[2,3-b]furan-3-yl (2s,3r)-4-(4-amino-n-isobutylphenylsulfonamido)-3-hydroxy-1-phenylbutan-2-ylcarbamate | (3r,3as,6ar)-tetrahydro-2h-furo[2,3-b]furan-3-yl (2s,3r)-4-(4-amino-n-neopentylphenylsulfonamido)-3-hydroxy-1-phenylbutan-2-ylcarbamate | [(s)-3-[(4-amino-benzenesulfonyl)-isobutyl-amino]-2-hydroxy-1-((r)-phenylmethyl)-propyl]-carbamic acid (3r,3as,6ar)-(hexahydro-furo[2,3-b]furan-3-yl) ester | {(1s,2r)-3-[(4-amino-benzenesulfonyl)-isobutyl-amino]-1-benzyl-2-hydroxy-propyl}-carbamic acid (3r,3as,6ar)-(hexahydro-furo[2,3-b]furan-3-yl) ester | darunavir | darunavirum | n-((1s,2r)-3-(((4-aminophenyl)sulfonyl)(2-methylpropyl)amino)-2-hydroxy-1-benzylpropyl)((1s,2r,5r)-4,6-dioxabicyclo(3.3.0)oct-2-yloxy)carboxamide
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(3r,3as,6ar)-hexahydrofuro[2,3-b]furan-3-yl n-((1s,2r)-1-benzyl-2-hy
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;procalcitonin&lt;/em&gt; gene in 56 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;darunavir&lt;/em&gt; gene in 16 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -141,6 +141,38 @@ Top three bioactive molecules (Oolonghomobisflavan-A, Theasinensin-D, and Theafl
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 A 52-year-old patient with SARS-CoV-2 was diagnosed with interstitial pneumonia and treated with darunavir/ritonavir, hydroxychloroquine, azithromycin and low molecular weight heparin (LMWH).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32473657&#34; target=&#34;_blank&#34;&gt;32473657&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Age and CD4 cell counts in 51 patients diagnosed with COVID-19 were similar to those in 1288 HIV-infected individuals without; however, 32 (63%) with COVID-19 had at least one comorbidity (mostly hypertension and diabetes) compared with 495 (38%) without COVID-19 (p=0·00059). 37 (73%) patients had received tenofovir before COVID-19 diagnosis compared with 487 (38%) of those without COVID-19 (p=0·0036); 11 (22%) in the COVID-19 group had previous protease inhibitor use (mostly darunavir) compared with 175 (14%; p=0·578).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32479865&#34; target=&#34;_blank&#34;&gt;32479865&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Prezcobix/Rezolsta is a fixed-dose combination of 800 mg of the HIV protease inhibitor darunavir (DRV) and 150 mg cobicistat, a CYP3A4 inhibitor, which is indicated in combination with other antiretroviral agents for the treatment of HIV infection. […] The in vitro antiviral activity of darunavir against a clinical isolate from a patient infected with SARS-CoV-2 was assessed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32530282&#34; target=&#34;_blank&#34;&gt;32530282&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+FEP results indicate that two natural compounds, cannabisin A and isoacteoside, and an HIV-1 PR inhibitor, darunavir, exhibit large binding free energy to SARS-CoV-2 Mpro, which is larger than that of 13b, the most reliable SARS-CoV-2 Mpro inhibitor recently reported. […] Replacing Glu166 by an alanine residue leads to ~ 2.0 kcal/mol decreases in the affinity of darunavir to SARS-CoV-2 Mpro.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32585765&#34; target=&#34;_blank&#34;&gt;32585765&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Darunavir together with ritonavir, hydroxychloroquine, azithromycin, and favipiravir were initiated on the first day of admission at primary hospital.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

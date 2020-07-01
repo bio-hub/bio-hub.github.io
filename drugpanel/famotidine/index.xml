@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00927&#39; target=&#39;_blank&#39;&gt;db00927&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=famotidine&#34; target=&#34;_blank&#34;&gt;famotidine&lt;/a&gt; &lt;br&gt;
 Synonymous :(1-amino-3-(((2-((diaminomethylene)amino)-4-thiazolyl)methyl)thio)propylidene)sulfamide | 3-(((2-((aminoiminomethyl)amino)-4-thiazolyl)methyl)thio)-n-(aminosulfonyl)propanimidamide | 3-(((2-((diaminomethylene)amino)-4-thiazolyl)methyl)thio)-n(sup 2)-sulfamoylpropionamidine | famotidina | famotidine | famotidinum | n-sulfamoyl-3-((2-guanidinothiazol-4-yl)methylthio)propionamide
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(1-amino-3-(((2-((diaminomethylene)amino)-4-thiazolyl)methyl)thio)pr
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;famotidine&lt;/em&gt; gene in 11 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 This paper briefly summarizes why cimetidine or famotidine, dipyridamole, fenofibrate or bezafibrate, and sildenafil citrate are worth considering for patients with COVID-19. […] Clinical trials to assess efficacy are already underway for famotidine, dipyridamole, and sildenafil, and further trials of all these agents will be important in due course.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32499303&#34; target=&#34;_blank&#34;&gt;32499303&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The over-the-counter histamine-2 receptor antagonist famotidine is a putative therapy for COVID-19. […] We quantitively assessed longitudinal changes in patient reported outcome measures in non-hospitalised patients with COVID-19 who self-administered high-dose famotidine orally. […] Data on demographics, COVID-19 diagnosis, famotidine use, drug-related side effects, temperature measurements, oxygen saturations and symptom scores were obtained using questionnaires and telephone interviews. […] Ten consecutive patients with COVID-19 who self-administered high-dose oral famotidine were identified. […] The most frequently used famotidine regimen was 80 mg three times daily (n=6) for a median of 11 days (range: 5-21 days). […] Famotidine was well tolerated. […] All patients reported marked improvements of disease related symptoms after starting famotidine. […] The combined symptom score improved significantly within 24 hours of starting famotidine and peripheral oxygen saturation (n=2) and device recorded activity (n=1) increased. […] The results of this case series suggest that high-dose oral famotidine is well tolerated and associated with improved patient-reported outcomes in non-hospitalised patients with COVID-19.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

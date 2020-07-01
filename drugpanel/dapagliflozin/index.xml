@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db06292&#39; target=&#39;_blank&#39;&gt;db06292&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=dapagliflozin&#34; target=&#34;_blank&#34;&gt;dapagliflozin&lt;/a&gt; &lt;br&gt;
 Synonymous :(2s,3r,4r,5s,6r)-2-(4-chloro-3-(4-ethoxybenzyl)phenyl)-6- (hydroxymethyl)tetrahydro-2h-pyran-3,4,5-triol | dapagliflozin | dapagliflozina
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(2s,3r,4r,5s,6r)-2-(4-chloro-3-(4-ethoxybenzyl)phenyl)-6- (hydroxyme
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;dapagliflozin&lt;/em&gt; gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Dapagliflozin is a sodium-glucose cotransporter-2 inhibitor. […] Dapagliflozin has been reported to reduce lactate levels by various mechanisms. […] Dapagliflozin also directly inhibits NHE. […] Dapagliflozin provides the continuation of the structure and functions of the cells. […] Dapagliflozin can prevent the severe course of COVID-19 infection by preventing the lowering of cytosolic pH and reducing the viral load.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32482587&#34; target=&#34;_blank&#34;&gt;32482587&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The analyzed drugs were paracetamol, ascorbic acid, dapagliflozin plus metformin, rosuvastatin plus ezetimibe, formoterol, and hydroxychloroquine, as these pharmaceutical substances registered the highest growth rate in sales and shortages when compared to the same period in the previous year.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00363&#39; target=&#39;_blank&#39;&gt;db00363&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=chloroquine&#34; target=&#34;_blank&#34;&gt;chloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=clozapine&#34; target=&#34;_blank&#34;&gt;clozapine&lt;/a&gt; &lt;br&gt;
 Synonymous :clozapin | clozapina | clozapine | clozapinum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :clozapin | clozapina | clozapine | clozapinum
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;chloroquine&lt;/em&gt; gene in 158 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;clozapine&lt;/em&gt; gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -69,6 +69,22 @@ Lithium and Clozapine, which are the reference drugs in bipolar disorder and res
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Clinicians need to remember that (1) systemic inflammations can increase clozapine level; (2) clozapine, by itself, can cause inflammation, particularly during titration that is too rapid for that patient; (3) clozapine may increase the risk of infection; and (4) more specifically, clozapine may be particularly strongly associated with the risk of pneumonia. […] Pneumonia appears to be associated with high mortality in clozapine patients around the world. […] Clinicians who are alert to the risk of pneumonia in clozapine patients may significantly decrease mortality in clozapine patients. […] There is no data on COVID-19 infections in clozapine patients, but based on what we know about clozapine pharmacology, we can hypothesise that clozapine, possibly by impairing immunological mechanisms, may increase the risk of pneumonia in infected patients. […] More importantly, once fever and/or pneumonia develops, the clozapine dose should be cut in half to decrease the risk of clozapine intoxication. […] If there is any doubt that in spite of halving the dose there are still signs of clozapine intoxication, completely stopping clozapine may be indicated. […] Once the signs of inflammation and fever have disappeared, the clozapine dose can be increased to the prior dosage level.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32542111&#34; target=&#34;_blank&#34;&gt;32542111&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Clozapine is the only available treatment for refractory schizophrenia but its use involves frequent physical contact with healthcare workers for the purpose of mandatory blood monitoring. […] During the COVID-19 pandemic, patients taking clozapine will be self-isolating to reduce the risk of infection, not least because these patients are at high risk of serious illness and fatality because of high rates of diabetes, obesity and pulmonary disease and an increased risk of pneumonia. […] Problems may also arise because both clozapine-induced myocarditis and neutropenic sepsis share signs and symptoms with COVID-19 (fever, chest pain, dyspnoea, etc.). […] We recommend decreasing the frequency of physical contacts by extending the blood monitoring interval to 12 weeks in those patients taking clozapine for more than 1 year. […] To distinguish COVID-19 from clozapine-related physical adverse effects, we suggest an urgent antigen test alongside a full blood count. […] In those taking clozapine who develop COVID-19, we suggest continuing with clozapine whenever possible (even during ventilation), reducing the dose if necessary in line with blood assay results. […] Blood monitoring should continue but clozapine should only cease if there is a significant fall in neutrophils (COVID-19 is linked to lymphopenia but not neutropenia). […] To protect against the likelihood and severity of respiratory infection, we recommend the use of vitamin D in all clozapine patients. […] Initiation of clozapine is likely to remain problematic while the risk of infection remains, given the degree of physical contact required to assure safety.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562033&#34; target=&#34;_blank&#34;&gt;32562033&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These include offering a spectrum of options for remote and in-person care, greater integration of behavioral and physical healthcare, prevention of viral exposure, increased collaborative decision-making related to long-acting injectable and clozapine use, modifying safety plans and psychiatric advance directives to include new technologies and broader support systems, leveraging natural supports, and integration of digital health interventions.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

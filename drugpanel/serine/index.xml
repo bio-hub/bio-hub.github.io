@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00133&#39; target=&#39;_blank&#39;&gt;db00133&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=nitazoxanide&#34; target=&#34;_blank&#34;&gt;nitazoxanide&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=serine&#34; target=&#34;_blank&#34;&gt;serine&lt;/a&gt; &lt;br&gt;
 Synonymous :(s)-2-amino-3-hydroxypropanoic acid | (s)-serine | alpha-amino-beta-hydroxypropionic acid | beta-hydroxyalanine | l-serine | ser | serina | serine | serinum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(s)-2-amino-3-hydroxypropanoic acid | (s)-serine | alpha-amino-beta-
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;nitazoxanide&lt;/em&gt; gene in 8 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;serine&lt;/em&gt; gene in 62 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -333,6 +333,214 @@ Processing of certain viral proteins and bacterial toxins by host serine proteas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 SARS‑CoV‑2 infection of host cells is facilitated by the angiotensin‑converting enzyme 2 (ACE‑2), and by transmembrane protease serine 2 (TMPRSS2) and other host cell proteases such as cathepsin L (CTSL).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32469279&#34; target=&#34;_blank&#34;&gt;32469279&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we used a homology-based structural model of transmembrane protease serine 2 (TMPRSS2), a cell surface receptor, required for entry of virus to the target host cell.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32470470&#34; target=&#34;_blank&#34;&gt;32470470&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We provide evidence that supports the combined use of serine protease and CatL inhibitors as a possibly safer and more effective therapy than other available therapeutics to block coronavirus host cell entry and intracellular replication, without compromising the immune system.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32482249&#34; target=&#34;_blank&#34;&gt;32482249&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To describe detection of severe acute respiratory syndrome (SARS)-coronavirus 2 (CoV-2) in seminal fluid of patients recovering from coronavirus disease 2019 (COVID-19) and to describe the expression profile of angiotensin-converting enzyme 2 (ACE2) and Transmembrane Serine Protease 2 (TMPRSS2) within the testicle.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32488318&#34; target=&#34;_blank&#34;&gt;32488318&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These lesions may be associated with multisystemic manifestations that could occur due to angiotensin-converting enzyme 2 receptor and transmembrane serine protease action, allowing the pulmonary infection and possibly skin manifestation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32491949&#34; target=&#34;_blank&#34;&gt;32491949&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Specifically, decreased expression of proteins, including angiotensin-converting enzyme 2 (&lt;i&gt;ACE2&lt;/i&gt;) and Transmembrane Serine Protease 2 (&lt;i&gt;TMPRSS2&lt;/i&gt;) in the airway epithelium in children may prevent viral entry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32492203&#34; target=&#34;_blank&#34;&gt;32492203&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Genetic confirmation of the hypotheses regarding gene expression and mutation pattern of target genes, including angiotensin-converting enzyme-2 (ACE2), transmembrane serine protease 2 (TMPRSS2), basigin (CD147/BSG) and paired basic amino acid cleaving enzyme (FURIN/PCSK3), as well as correlation analysis, was done in relation to lung adenocarcinoma (LUAD) and lung squamous carcinoma (LUSC) using in silico analysis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32493627&#34; target=&#34;_blank&#34;&gt;32493627&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The presence of glutamine, asparagine, leucine, phenylalanine and serine amino acids in SARS-CoV-2 enhances ACE2 binding. […] The N protein is composed of a serine-rich linker region sandwiched between N Terminal Domain (NTD) and C Terminal Domain (CTD).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32497257&#34; target=&#34;_blank&#34;&gt;32497257&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the attempt to understand how the virus spreads and how to pharmacologically abolish it, it was highlighted that SARS-CoV-2 infects human cells by means of angiotensin converting enzyme 2 (ACE2), transmembrane protease serine 2 (TMPRSS2) and SARS-CoV-2 main protease (M&lt;sup&gt;pro&lt;/sup&gt; ).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32508311&#34; target=&#34;_blank&#34;&gt;32508311&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Early reports have confirmed that transmembrane serine protease 2 (TMPRSS2) and angiotensin converting enzyme 2 (ACE2) are critical targets of SARS-CoV-2 that facilitate viral entry into host cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32512290&#34; target=&#34;_blank&#34;&gt;32512290&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Subsequently, the S protein is cleaved by transmembrane protease serine 2 with the help of FURIN which facilitates the entry of the virus into the cell after binding.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32524732&#34; target=&#34;_blank&#34;&gt;32524732&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+T, co-regulating the expression of angiotensin-converting enzyme 2 and transmembrane protease serine 2 in host cells, may facilitate SARS-CoV-2 internalization.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532094&#34; target=&#34;_blank&#34;&gt;32532094&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We previously found that nafamostat mesylate, an existing drug used for disseminated intravascular coagulation (DIC), effectively blocked Middle East respiratory syndrome coronavirus (MERS-CoV) S protein-mediated cell fusion by targeting transmembrane serine protease 2 (TMPRSS2), and inhibited MERS-CoV infection of human lung epithelium-derived Calu-3 cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32537478&#34; target=&#34;_blank&#34;&gt;32537478&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It has been reported that angiotensin-converting enzyme 2 (ACE2) and transmembrane serine protease 2 (TMPRSS2) are the main cell entry proteins for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and play a critical role in causing coronavirus disease 2019 (COVID-19).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32538775&#34; target=&#34;_blank&#34;&gt;32538775&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 has to use nuclear factor-κB (NF-kB), caveloae, clathrin, lipoxin, serine protease and proteasome pathways in addition to ACE2 to enter the target cell and initiate damage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32546188&#34; target=&#34;_blank&#34;&gt;32546188&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ongoing trials directly and indirectly target COVID-19-related endothelial dysfunctions: i.e., a virus-cell entry using recombinant angiotensin-converting enzyme 2 (ACE2) and transmembrane protease serine 2 (TMPRSS-2) blockade, coagulation activation, and immunomodulatory therapies, such as anti-IL-6 strategies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32555974&#34; target=&#34;_blank&#34;&gt;32555974&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Studies carried out to date on possible SARS-CoV2 drug targets highlight glycoprotein S, Mpro (main protease or protease type 3C), and a member of the transmembrane serine protease II families (TMPRSS2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562397&#34; target=&#34;_blank&#34;&gt;32562397&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Similar to the respiratory mucosa, angiotensin converting enzyme-2 (ACE-2) receptor and transmembrane serine protease 2 (TMPRSS2) co-express in the gastrointestinal tract, which facilitates viral entry into the tissue.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32572552&#34; target=&#34;_blank&#34;&gt;32572552&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The current body of evidence indicates that SARS-CoV‑2 requires the membrane-bound angiotensin-converting enzyme 2 (ACE2) and the membrane-bound serine protease TMPRSS2 to enter cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574109&#34; target=&#34;_blank&#34;&gt;32574109&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Specifically, we review the potential clinical utility of two transmembrane serine protease 2 (TMPRSS2)-targeting protease inhibitors, nafamostat mesylate and camostat mesylate, as well as two novel potent fusion inhibitors and the repurposed Ebola drug, remdesivir, which is specific to RdRp, against human coronaviruses, including SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574265&#34; target=&#34;_blank&#34;&gt;32574265&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These drugs include therapeutics with potential to inhibit SARS-CoV-2 entry into host cells such as serine protease inhibitors of the cellular protease TMPS2 and drugs targeting the renin-angiotensin system; antivirals with potential to block SARS-CoV-2 replication or factors that could boost the antiviral response; monoclonal antibodies targeting pro-inflammatory cytokines that drive the hyperinflammatory response during COVID-19 progression toward the severe stage and therapeutics that could ameliorate the function of the lungs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574272&#34; target=&#34;_blank&#34;&gt;32574272&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Host proteases, e.g., cathepsins, furin, or members of the type II transmembrane serine proteases (TTSP) family, such as Transmembrane protease serine 2 (TMPRSS2), are involved in virus entry by proteolytically activating virus ligands.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574273&#34; target=&#34;_blank&#34;&gt;32574273&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Finally, a direct effect of GL or GA to reduce virus transmission exists, which may involve reduced expression of type 2 transmembrane serine protease (TMPRSS2), which is required for virus uptake.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32582302&#34; target=&#34;_blank&#34;&gt;32582302&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The SARS-CoV-2 virus responsible for the infection depends on two human genes: the human receptor angiotensin converting enzyme 2 (&lt;i&gt;ACE2&lt;/i&gt;) for cell invasion, and the serine protease &lt;i&gt;TMPRSS2&lt;/i&gt; for S protein priming.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32583042&#34; target=&#34;_blank&#34;&gt;32583042&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+At the time of the research, angiotensin-converting enzyme 2 (ACE2) was clearly identified as the receptor and transmembrane serine protease 2 (TMPRSS2) as the necessary protease to enable the infection of human cells with SARS-CoV‑2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32587094&#34; target=&#34;_blank&#34;&gt;32587094&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Using this quantitative matrix, we elucidated 47 potential functional missense variants from genomic databases within ACE2/SLC6A19/transmembrane serine protease 2 (TMPRSS2), warranting genomic enrichment analyses in SARS-CoV-2 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32589459&#34; target=&#34;_blank&#34;&gt;32589459&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The spike proteins of SARS-CoV-2 interact with ACE2 or basigin/CD147 receptors, regulating human-to-human transmissions of COVID-19 together with serine protease TMPRSS2.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

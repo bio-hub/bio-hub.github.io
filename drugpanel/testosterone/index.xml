@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00624&#39; target=&#39;_blank&#39;&gt;db00624&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=testosterone&#34; target=&#34;_blank&#34;&gt;testosterone&lt;/a&gt; &lt;br&gt;
 Synonymous :17beta-hydroxy-4-androsten-3-one | 4-androsten-17β-ol-3-one | testosteron | testosterona | testosterone | testostérone | testosteronum | virosterone
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :17beta-hydroxy-4-androsten-3-one | 4-androsten-17β-ol-3-one | testo
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 80 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;testosterone&lt;/em&gt; gene in 9 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -101,6 +101,22 @@ Discordant patterns of testosterone versus estradiol impacts on SARS-CoV-2 targe
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The relative lengths of the index (2D) and ring (4D) fingers (digit ratio; 2D:4D) is a sexually dimorphic (males &amp;lt; females) proxy of fetal sex steroids (low 2D:4D indicates high prenatal testosterone/low prenatal estrogen). […] At the national level, high mean 2D:4D (indicating low prenatal testosterone/high prenatal estrogen) is associated with high CFRs and percent male mortality.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32469251&#34; target=&#34;_blank&#34;&gt;32469251&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; Although sex-disaggregated data for COVID-19 show equal numbers of cases between men and women, there seem to be sex differences in mortality rate and vulnerability to the disease: more men than women are dying. &lt;b&gt;Methods:&lt;/b&gt; We have explored the potential role of estrogens in this COVID-19 gendered impact. &lt;b&gt;Results:&lt;/b&gt; Estrogens stimulate the humoral response to viral infections, while testosterone and progesterone give an immune suppression of both innate and cell-mediated immune responses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32524732&#34; target=&#34;_blank&#34;&gt;32524732&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Therefore, androgens, particularly testosterone (T), could be suspected as playing a critical role in driving this excess of risk. […] Authors searched PubMed/Medline, Web of Science, EMBASE, Cochrane Library, Google, and Institutional websites for medical subheading terms and free text words referred to “SARS-CoV-2”, “COVID-19”, “testosterone”, “male hypogonadism”, “gender” “immune system”, “obesity”, “thrombosis” until May 19&lt;sup&gt;th&lt;/sup&gt; 2020.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

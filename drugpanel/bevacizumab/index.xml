@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00112&#39; target=&#39;_blank&#39;&gt;db00112&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=bevacizumab&#34; target=&#34;_blank&#34;&gt;bevacizumab&lt;/a&gt; &lt;br&gt;
 Synonymous :anti-vegf humanized monoclonal antibody | anti-vegf monoclonal antibody | bevacizumab | bevacizumab-awwb | rhumab-vegf
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :anti-vegf humanized monoclonal antibody | anti-vegf monoclonal antib
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 343 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;bevacizumab&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,22 @@ We identified 24 clinical trials, involving more than 20 medicines, such as huma
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In particular, hydroxychloroquine, remdesivir, favipiravir, arbidol, tocilizumab and bevacizumab have shown promising results.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32549297&#34; target=&#34;_blank&#34;&gt;32549297&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This review also reports the rationale for a possible use of drugs commonly employed in neoplastic therapy, such as bevacizumab, ibrutinib, selinexor, thalidomide, carfilzomib, and PD-1 inhibitors, for the treatment of SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32568969&#34; target=&#34;_blank&#34;&gt;32568969&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These therapies include immunomodulators (i.e. intravenous immunoglobulin, thymosin α-1, IL-6, tocilizumab, cyclosporine, thalidomide, fingolimod), Chinese medicines (i.e. glycyrrhizin, baicalin, Xuebijing), anti-vascular endothelial growth factors (bevacizumab), estrogen modulating drugs, statins and nutritional supplements (i.e. vitamin A, B, C, D, E and zinc).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

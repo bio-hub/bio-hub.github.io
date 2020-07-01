@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db06198&#39; target=&#39;_blank&#39;&gt;db06198&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=alovudine&#34; target=&#34;_blank&#34;&gt;alovudine&lt;/a&gt; &lt;br&gt;
 Synonymous :alovudine
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :alovudine
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;alovudine&lt;/em&gt; gene in 1 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 These agents included tenofovir (TFV), 4’-ethynyl-2-fluoro-2’-deoxyadenosine (EFdA), alovudine (FLT), lamivudine (3TC), and emtricitabine (FTC), known as nucleoside reverse-transcriptase inhibitors (NRTIs), and a number of 5’-&lt;i&gt;O&lt;/i&gt;-fatty acylated anti-HIV nucleoside conjugates.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562705&#34; target=&#34;_blank&#34;&gt;32562705&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We previously demonstrated that five nucleotide analogues inhibit the SARS-CoV-2 RNA-dependent RNA polymerase (RdRp), including the active triphosphate forms of Sofosbuvir, Alovudine, Zidovudine, Tenofovir alafenamide and Emtricitabine.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

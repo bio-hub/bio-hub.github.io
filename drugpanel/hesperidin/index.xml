@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db04703&#39; target=&#39;_blank&#39;&gt;db04703&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hesperidin&#34; target=&#34;_blank&#34;&gt;hesperidin&lt;/a&gt; &lt;br&gt;
 Synonymous :(s)-(−)-hesperidin | cirantin | ciratin | hesperetin 7-o-rutinoside | hesperidin | hesperidina | hesperidoside
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(s)-(−)-hesperidin | cirantin | ciratin | hesperetin 7-o-rutinosid
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 343 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hesperidin&lt;/em&gt; gene in 6 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,14 @@ We identified several natural molecules like δ-viniferin, myricitrin, taiwanhom
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 All the studied molecules could bind to the active site of the SARS-CoV-2 protease (PDB: 6Y84), out of which rutin (a natural compound) has the highest inhibitor efficiency among the 33 molecules studied, followed by ritonavir (control drug), emetine (anti-protozoal), hesperidin (a natural compound), lopinavir (control drug) and indinavir (anti-viral drug).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32531538&#34; target=&#34;_blank&#34;&gt;32531538&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hesperidin is a classical herbal medicine used worldwide for a long time with an excellent safety profile. […] Hesperidin is a well-known herbal medication used as an antioxidant and anti-inflammatory agent. […] Available shreds of evidence support the promising use of hesperidin in prophylaxis and treatment of COVID 19. […] Herein, we discuss the possible prophylactic and treatment mechanisms of hesperidin based on previous and recent findings. […] Hesperidin can block coronavirus from entering host cells through ACE2 receptors which can prevent the infection. […] Anti-viral activity of hesperidin might constitute a treatment option for COVID-19 through improving host cellular immunity against infection and its good anti-inflammatory activity may help in controlling cytokine storm. […] Hesperidin mixture with diosmin co-administrated with heparin protect against venous thromboembolism which may prevent disease progression. […] Based on that, hesperidin might be used as a meaningful prophylactic agent and a promising adjuvant treatment option against SARS-CoV-2 infection.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

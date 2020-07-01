@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00959&#39; target=&#39;_blank&#39;&gt;db00959&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=clozapine&#34; target=&#34;_blank&#34;&gt;clozapine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=methylprednisolone&#34; target=&#34;_blank&#34;&gt;methylprednisolone&lt;/a&gt; &lt;br&gt;
 Synonymous :(6α,11β)-11,17,21-trihydroxy-6-methylpregna-1,4-diene-3,20-dione | 1-dehydro-6α-methylhydrocortisone | 6α-methyl-11β,17α,21-triol-1,4-pregnadiene-3,20-dione | delta(1)-6alpha-methylhydrocortisone | methylprednisolon | methylprednisolone | methylprednisolonum | metilprednisolona
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(6α,11β)-11,17,21-trihydroxy-6-methylpregna-1,4-diene-3,20-dione |
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;clozapine&lt;/em&gt; gene in 3 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;methylprednisolone&lt;/em&gt; gene in 33 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -229,6 +229,86 @@ A protocol was implemented on March 20, 2020 using early, short-course, methylpr
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In most cases, application of methylprednisolone in severe and critical viral pneumonia patients can quickly alleviate the symptoms of dyspnea and prevent disease progression. […] In our retrospective non-randomised study, 34 patients under 50 years old and diagnosed with coronavirus disease 2019 (COVID-19) were included, according to given methylprednisolone treatment (n = 18) or not (n = 16), they were separated into 2 groups.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32500773&#34; target=&#34;_blank&#34;&gt;32500773&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After administration of methylprednisolone, the patient improved and was weaned off her oxygen requirements and was discharged home.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32503663&#34; target=&#34;_blank&#34;&gt;32503663&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients were excluded from the trial in case of (1) known serious allergic reactions to yeast-derived products, (2) lithium carbonate therapy, (3) mechanical ventilation prior to randomization, (4) peripheral white blood cell count above 25.000/μL and/or active myeloid malignancy, (5) high dose systemic steroid therapy (&amp;gt; 20 mg methylprednisolone or equivalent), (6) enrolment in another investigational study, (7) pregnant or breastfeeding or (8) ferritin levels &amp;gt; 2000 μg/mL.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32514354&#34; target=&#34;_blank&#34;&gt;32514354&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+At that time, we administered 1000 or 500 mg/day for three days of methylprednisolone intravenously, followed by 1 mg/kg and tapered off.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32531119&#34; target=&#34;_blank&#34;&gt;32531119&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Blood cell count showed severe eosinophilia (from 1,3 to 4.60 x 10) that decreased abruptly to 0.47 x 10 after introduction of methylprednisolone 1 mg/kg/day.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32535894&#34; target=&#34;_blank&#34;&gt;32535894&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In multivariable analysis, anti-inflammatory treatment was independently associated with the development of BSI (cause-specific hazard ratio [csHR] 1.07 with 95% CI 0.38-3.04 for tocilizumab, csHR 3.95 with 95% CI 1.20-13.03 for methylprednisolone, and csHR 10.69 with 95% CI 2.71-42.17 for methylprednisolone plus tocilizumab, with no anti-inflammatory treatment as the reference group; overall p for the dummy variable = 0.003).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32548163&#34; target=&#34;_blank&#34;&gt;32548163&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+During the severe stage, methylprednisolone was given (40 mg) once every 12 h, immunoglobulin (20 g) was administered by intravenous drip infusion once daily, and thymosin (1.6 mg) was injected subcutaneously once daily combined with immunotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32563494&#34; target=&#34;_blank&#34;&gt;32563494&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Neurologically, the therapeutic dosages of anticoagulants are linked to the high incidence of thrombotic complexities, while methylprednisolone is associated with myopathy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32571115&#34; target=&#34;_blank&#34;&gt;32571115&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report cases of palmoplantar among health care workers who were on prophylactic doses of hydroxychloroquine and their management with cetirizine and methylprednisolone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32571831&#34; target=&#34;_blank&#34;&gt;32571831&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Initial treatment with 1 mg/kg/day of methylprednisolone versus steroid pulses was not associated with in-hospital mortality (13.5% [42/310] versus 15.1% [13/86], OR 0.880 [0.449-1.726], p=0.710).&lt;b&gt;Conclusions:&lt;/b&gt; Our results show that survival of patients with SARS-CoV2 pneumonia is higher in patients treated with glucocorticoids than in those not treated. […] In-hospital mortality was not different between initial regimens of 1 mg/kg/day of methylprednisolone and glucocorticoid pulses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32573882&#34; target=&#34;_blank&#34;&gt;32573882&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients received a 5-day course of hydroxychloroquine and azithromycin; half of the patients received methylprednisolone.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

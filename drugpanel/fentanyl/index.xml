@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00813&#39; target=&#39;_blank&#39;&gt;db00813&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=fentanyl&#34; target=&#34;_blank&#34;&gt;fentanyl&lt;/a&gt; &lt;br&gt;
 Synonymous :1-phenethyl-4-(n-phenylpropionamido)piperidine | 1-phenethyl-4-n-propionylanilinopiperidine | fentanil | fentanila | fentanilo | fentanyl | fentanyl cii | fentanylum | n-(1-phenethyl-4-piperidinyl)-n-phenylpropionamide | n-(1-phenethyl-4-piperidyl)propionanilide | n-(1-phenethyl-piperidin-4-yl)-n-phenyl-propionamide | n-(1-phenethylpiperidin-4-yl)-n-phenylpropionamide | n-phenethyl-4-(n-propionylanilino)piperidine | n-phenyl-n-(1-(2-phenylethyl)-4-piperidinyl)propanamide | phentanyl
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :1-phenethyl-4-(n-phenylpropionamido)piperidine | 1-phenethyl-4-n-pro
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;fentanyl&lt;/em&gt; gene in 1 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -77,6 +77,14 @@ Frequently used medicines include opioids such as morphine or fentanyl and midaz
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Patient 1 was a 30-year-old man with severe OUD who had relapsed to injection heroin/fentanyl after incarceration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32473756&#34; target=&#34;_blank&#34;&gt;32473756&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Fentanyl, propofol, and rocuronium were also given.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

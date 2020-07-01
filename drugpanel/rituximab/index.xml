@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00073&#39; target=&#39;_blank&#39;&gt;db00073&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=chloroquine&#34; target=&#34;_blank&#34;&gt;chloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=rituximab&#34; target=&#34;_blank&#34;&gt;rituximab&lt;/a&gt; &lt;br&gt;
 Synonymous :rituximab-abbs | rituximab-pvvr
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :rituximab-abbs | rituximab-pvvr
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;chloroquine&lt;/em&gt; gene in 158 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;rituximab&lt;/em&gt; gene in 10 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -69,6 +69,62 @@ In summary, we recommend considering the discontinuation of oral JAK inhibitors 
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We therefore report the case of a patient with COVID-19 under immunosuppression with rituximab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32512263&#34; target=&#34;_blank&#34;&gt;32512263&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Two patients had a mild infection, and 2 developed severe COVID-19 related respiratory complications, including 1 patient on secukinumab requiring mechanical ventilation and 1 patient on rituximab developing viral pneumonia requiring supplemental oxygenation. […] Two patients were on rituximab with 1 severe COVID-19 requiring mechanical ventilation. […] Rituximab or secukinumab could worsen the viral disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32554285&#34; target=&#34;_blank&#34;&gt;32554285&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we report a 59-year-old woman with aquaporin-4-positive (AQPR4+) neuromyelitis Optica treated with rituximab who developed mild respiratory symptoms with COVID-19, despite B cell depletion at the time of infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32557623&#34; target=&#34;_blank&#34;&gt;32557623&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the present report, we first describe two cases of persisting SARS-CoV-2 viraemia with fatal outcome in patients after rituximab therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32564270&#34; target=&#34;_blank&#34;&gt;32564270&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We would like to present the first case report of a patient who was formally diagnosed with COVID-19 while being under disease-modifying treatment with rituximab, an anti-CD20 B cell depleting agent, for multiple sclerosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574278&#34; target=&#34;_blank&#34;&gt;32574278&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For those patients being treated with immunochemotherapy in epidemic areas, a reduced dose intensity of intensive chemotherapy should be considered, and the effect of immunotherapies such as rituximab on COVID-19 infection should be considered.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32585617&#34; target=&#34;_blank&#34;&gt;32585617&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One group of such immunosuppressants used in MS comprises the anti-CD20 monoclonal antibodies (mAbs) ocrelizumab and rituximab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32587103&#34; target=&#34;_blank&#34;&gt;32587103&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To evaluate disease activity in patients with relapsing-remitting MS (RRMS) receiving rituximab with an extended dosing interval. […] In the context of COVID-19 pandemic, this was an interim analysis of an ongoing prospective observational study of patients who were stable on rituximab for at least 6 months and who had a planned extended dosing interval of 24 months. […] Only data for patients with active RRMS before rituximab were analyzed. […] Among 177 patients receiving rituximab, 33 had RRMS and MRI activity before rituximab and at least 8 months of follow-up after the last infusion. […] The mean (SD) age was 40 (14) years, 25 were females, the mean disease duration was 10 (6.8) years, the mean annual relapse rate (ARR) before rituximab was 1.7 (1.3), and the median Expanded Disability Status Scale (EDSS) score before rituximab was 4.5 (1-7). […] Before extended dosing, when rituximab was infused every 6 months, the mean (SD) ARR decreased to 0.04 (0.1) (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.0001) and the EDSS score to 4 (0-7) (&lt;i&gt;p&lt;/i&gt; = 0.04). […] An extended dosing interval for rituximab for patients with stable MS during the COVID-19 pandemic may be associated with a low risk of disease activity.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

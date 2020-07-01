@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db10707&#39; target=&#39;_blank&#39;&gt;db10707&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=cotton&#34; target=&#34;_blank&#34;&gt;cotton&lt;/a&gt; &lt;br&gt;
 Synonymous :cotton fiber
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :cotton fiber
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cotton&lt;/em&gt; gene in 16 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -77,6 +77,46 @@ A multifractal detrended cross-correlation analysis (MF-DCCA) approach was utili
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The objective of this study was to investigate whether cotton mask worn by respiratory infection person could suppress respiratory droplet levels compared to medical mask. […] We recruited adult volunteers with confirmed influenza and suspected cases of coronavirus disease 2019 (COVID-19) to wear medical masks and self-designed triple-layer cotton masks in a regular bedroom and a car with air conditioning. […] The results showed that there was no significant difference in NC&lt;sub&gt;0.02-1&lt;/sub&gt; or cough/sneeze counts between volunteers with medical masks and cotton masks in a bedroom or a car. […] We concluded that the cotton mask could be a potential substitute for medical mask for respiratory infection person in microenvironment with air conditioning. […] Healthy people may daily use cotton mask in the community since cotton mask is washable and reusable.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32480154&#34; target=&#34;_blank&#34;&gt;32480154&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The objective of this study was to investigate whether cotton mask worn by respiratory infection person could suppress respiratory droplet levels compared to medical mask. […] We recruited adult volunteers with confirmed influenza and suspected cases of coronavirus disease 2019 (COVID-19) to wear medical masks and self-designed triple-layer cotton masks in a regular bedroom and a car with air conditioning. […] The results showed that there was no significant difference in NC&lt;sub&gt;0.02&lt;/sub&gt;&lt;sub&gt;-&lt;/sub&gt;&lt;sub&gt;1&lt;/sub&gt; or cough/sneeze counts between volunteers with medical masks and cotton masks in a bedroom or a car. […] We concluded that the cotton mask could be a potential substitute for medical mask for respiratory infection person in microenvironment with air conditioning. […] Healthy people may daily use cotton mask in the community since cotton mask is washable and reusable.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32484683&#34; target=&#34;_blank&#34;&gt;32484683&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Common fabrics of cotton, polyester, nylon, and silk had filtration efficiency of 5-25%, polypropylene spunbond had filtration efficiency 6-10%, and paper-based products had filtration efficiency of 10-20%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32497510&#34; target=&#34;_blank&#34;&gt;32497510&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Face mask use could result in a large reduction in risk of infection (n=2647; aOR 0·15, 95% CI 0·07 to 0·34, RD -14·3%, -15·9 to -10·7; low certainty), with stronger associations with N95 or similar respirators compared with disposable surgical masks or similar (eg, reusable 12-16-layer cotton masks; p&lt;sub&gt;interaction&lt;/sub&gt;=0·090; posterior probability &amp;gt;95%, low certainty).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32503823&#34; target=&#34;_blank&#34;&gt;32503823&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Efficiency of surgical masks, gauze masks, gauze, cotton, silk, linen and tissue paper on blocking micro-droplet sized starch particles (average 8.2 μm) and latex microspheres (0.75 μm) with a velocity of 44.4 m/s created by centrifugation was qualitatively analyzed by using imaging-based analysis. […] The 4 layers of silk could block 93.8% of microspheres and 88.9% of starch particles, followed by the gauze mask (78.5% of microspheres and 90.4% of starch particles) and the 2 layers of cotton (74.6% of microspheres and 87.5-89.0% of particles).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32584542&#34; target=&#34;_blank&#34;&gt;32584542&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Filtration efficiency (FE), differential pressure (ΔP), quality factor (QF) and construction parameters were measured for 32 cloth materials (14 cotton, 1 wool, 9 synthetic, 4 synthetic blends, and 4 synthetic/cotton blends) used in cloth masks intended for protection from the SARS CoV-2 virus (diameter 100 ± 10 nm). […] Three of the top five best performing samples were woven 100% cotton with high to moderate yarn counts and the other two were woven synthetics of moderate yarn counts.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

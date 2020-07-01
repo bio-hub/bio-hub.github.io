@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db04630&#39; target=&#39;_blank&#39;&gt;db04630&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=metformin&#34; target=&#34;_blank&#34;&gt;metformin&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=aldosterone&#34; target=&#34;_blank&#34;&gt;aldosterone&lt;/a&gt; &lt;br&gt;
 Synonymous :(+)-aldosterone | (11β)-11,21-dihydroxy-3,20-dioxopregn-4-en-18-al | 11beta,21-dihydroxy-3,20-dioxo-4-pregnen-18-al | 11beta,21-dihydroxy-3,20-dioxopregn-4-en-18-al | aldosterona | aldosterone | aldosteronum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(+)-aldosterone | (11β)-11,21-dihydroxy-3,20-dioxopregn-4-en-18-al 
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;metformin&lt;/em&gt; gene in 5 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;aldosterone&lt;/em&gt; gene in 9 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -341,6 +341,134 @@ Some investigations speculated about the association between the renin-angiotens
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In univariate analysis, characteristics prior to admission significantly associated with the primary outcome were sex, BMI and previous treatment with renin-angiotensin-aldosterone system (RAAS) blockers, but not age, type of diabetes, HbA&lt;sub&gt;1c&lt;/sub&gt;, diabetic complications or glucose-lowering therapies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32470515&#34; target=&#34;_blank&#34;&gt;32470515&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The coronavirus disease 2019 (COVID-19) is caused by SARS-CoV2 that interfaces with the renin-angiotensin-aldosterone system (RAAS) through angiotensin-converting enzyme 2 (ACE-2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32496364&#34; target=&#34;_blank&#34;&gt;32496364&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+When the coronavirus disease 2019 (COVID-19) wreaked an unprecedented havoc of an escalating number of deaths and hospitalization in the United States, clinicians were faced with a myriad of unanswered questions, one of the them being the implication of the renin-angiotensin-aldosterone system in patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32498076&#34; target=&#34;_blank&#34;&gt;32498076&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The mortality rates were similar between the renin-angiotensin-aldosterone system (RAAS) inhibitor (4/183) and non-RAAS inhibitor (19/527) cohorts (2.2% vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32501190&#34; target=&#34;_blank&#34;&gt;32501190&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Demographic and clinical comorbidities associated with the severity of infection suggest that possible variants known to influence the renin-angiotensin-aldosterone system pathway (particularly those that influence ACE2) may contribute to the heterogenous infection response. […] Hypertension medication modulation, may alter ACE2 and angiotensin(1-7), particularly in variants that have been shown to influence renin-angiotensin-aldosterone system function, which could be clinically useful in patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32511678&#34; target=&#34;_blank&#34;&gt;32511678&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The effect of chronic use of renin-angiotensin-aldosterone system (RAAS) inhibitors on the severity of COVID-19 infection is still unclear in patients with hypertension.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32523145&#34; target=&#34;_blank&#34;&gt;32523145&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The drugs that act on the renin-angiotensin-aldosterone system are in many cases the backbone for the management of these diseases, it has been known for a long time that these drugs significantly increase the expression of receptors for angiotensin conversion enzyme type 2 in the lung tissue.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32527699&#34; target=&#34;_blank&#34;&gt;32527699&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Debate has been generated as to the association between antihypertensive therapy with renin-angiotensin-aldosterone system (RAAS) inhibitors and SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32544563&#34; target=&#34;_blank&#34;&gt;32544563&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The virus-mediated down-regulation of ACE2 causes a burst of inflammatory cytokine release through dysregulation of the renin-angiotensin-aldosterone system (ACE/angiotensin II/AT1R axis), attenuation of Mas receptor (ACE2/MasR axis), increased activation of [des-Arg9]-bradykinin (ACE2/bradykinin B1R/DABK axis), and activation of the complement system including C5a and C5b-9 components.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32550040&#34; target=&#34;_blank&#34;&gt;32550040&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+On the other hand, ACE2 negatively regulates the renin-angiotensin-aldosterone system (RAAS) primarily by converting angiotensin II to angiotensin 1-7, which exerts a beneficial effect on coronavirus-induced acute lung injury.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32558211&#34; target=&#34;_blank&#34;&gt;32558211&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We explore potential interactions between anti-diabetic medications and renin-angiotensin-aldosterone-system inhibitors with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32565254&#34; target=&#34;_blank&#34;&gt;32565254&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV2 has been suggested to modulate the renin-angiotensin-aldosterone system (RAAS).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32567171&#34; target=&#34;_blank&#34;&gt;32567171&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Obesity is usually associated with dysregulated renin-angiotensin-aldosterone (RAAS) axis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574273&#34; target=&#34;_blank&#34;&gt;32574273&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE2 is part of the wider renin-angiotensin-aldosterone system (RAAS) and is upregulated via compounds, which inhibits the classical ACE, thereby plasma aldosterone and aldosterone receptor (MR) activation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32581799&#34; target=&#34;_blank&#34;&gt;32581799&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We examine the crosstalk between the renin-angiotensin-aldosterone system and mitogen activated kinase pathways that potentially links cardiovascular predisposition and/or outcome to SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32582574&#34; target=&#34;_blank&#34;&gt;32582574&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this perspective, we predominantly focus on the impact of SARS-CoV-2 infection on ACE2 and dysregulation of the protective effect of ACE2/MAS/G protein pathway vs. the deleterious effect of Renin/Angiotensin/Aldosterone. […] We discuss the potential effect of invasion of SARS-CoV-2 on the function of ACE2 and the loss of the protective effect of the ACE2/MAS pathway in alveolar epithelial cells and how this may amplify systemic deleterious effect of renin-angiotensin aldosterone system (RAS) in the host.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32589258&#34; target=&#34;_blank&#34;&gt;32589258&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Use of renin-angiotensin-aldosterone system inhibitors was not associated with mortality after adjusting by baseline risk factors.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00619&#39; target=&#39;_blank&#39;&gt;db00619&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=imatinib&#34; target=&#34;_blank&#34;&gt;imatinib&lt;/a&gt; &lt;br&gt;
 Synonymous :imatinib | imatinibum | α-(4-methyl-1-piperazinyl)-3’-((4-(3-pyridyl)-2-pyrimidinyl)amino)-p-toluidide
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :imatinib | imatinibum | α-(4-methyl-1-piperazinyl)-3’-((4-(3-pyri
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 343 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;imatinib&lt;/em&gt; gene in 1 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,22 @@ There was also an increased risk of developing COVID-19 in subjects in advanced 
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 A 58-year-old female with a history of morbid obesity, HTN, gout, CML managed with imatinib, and chronic kidney disease presented as a transfer from a community hospital to our burn center.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32513299&#34; target=&#34;_blank&#34;&gt;32513299&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Have used other anti-pulmonary fibrosis drugs in the past 14 days, such as nintedanib, pirfenidone, penicillamine, colchicine, tumor necrosis factor alpha blocker, imatinib, glucocorticoid hormones, morphomycodyl esters, azathioprine, cyclophosphamide, interferon-γ, and traditional Chinese medicine;6.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32583086&#34; target=&#34;_blank&#34;&gt;32583086&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This review also highlights potential targets for prevention and therapy of COVID-19-related organ damage and discusses the role of marketed drugs, such as eculizumab and imatinib, as suitable candidates for clinical trials.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

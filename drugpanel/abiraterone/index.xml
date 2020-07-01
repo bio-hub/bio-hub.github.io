@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db05812&#39; target=&#39;_blank&#39;&gt;db05812&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=abiraterone&#34; target=&#34;_blank&#34;&gt;abiraterone&lt;/a&gt; &lt;br&gt;
 Synonymous :(3β)-17-(pyridin-3-yl)androsta-5,16-dien-3-ol | 17-(3-pyridyl)androsta-5,16-dien-3beta-ol | abiraterona | abiraterone
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(3β)-17-(pyridin-3-yl)androsta-5,16-dien-3-ol | 17-(3-pyridyl)andro
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;abiraterone&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Cetilistat (anti-pancreatic lipase), diiodohydroxyquinoline (anti-parasitic), abiraterone acetate (synthetic androstane steroid), and bexarotene (antineoplastic retinoid) exhibited potent in vitro anti-SARS-CoV-2 activity (EC&lt;sub&gt;50&lt;/sub&gt; 1.13-2.01µM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32549073&#34; target=&#34;_blank&#34;&gt;32549073&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In metastatic as well as castration resistant PCa stages, adding androgen receptor targeted agents (abiraterone, apalutamide, darolutamide or enzalutamide) to androgen-deprivation therapy (ADT) could be considered in high risk patients. […] In regard to metastatic and castration resistant PCa, combination therapies with abiraterone, apalutamide, darolutamide or enzalutamide could be considered.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

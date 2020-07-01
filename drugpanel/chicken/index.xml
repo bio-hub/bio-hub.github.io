@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db10519&#39; target=&#39;_blank&#39;&gt;db10519&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=chloroquine&#34; target=&#34;_blank&#34;&gt;chloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=chicken&#34; target=&#34;_blank&#34;&gt;chicken&lt;/a&gt; &lt;br&gt;
 Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;chloroquine&lt;/em&gt; gene in 158 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;chicken&lt;/em&gt; gene in 1 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -69,6 +69,38 @@ Skin lesions mainly appeared erythematous, urticarial, and vesicular (chicken po
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Herpes Zoster is a viral skin disease caused by varicella zoster that remains dormant in the dorsal root ganglia of cutaneous nerves following a primary chicken pox infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32501306&#34; target=&#34;_blank&#34;&gt;32501306&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The paper finds a “strategy/funding chicken-and-egg-problem” and proposes an effectual world view when dealing with situations of great uncertainty.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32512271&#34; target=&#34;_blank&#34;&gt;32512271&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Passive immunotherapy plays a vital role as a possible alternative to meet this challenge and among various antibody sources, chicken egg yolk antibodies (IgY) can be used as an alternative to mammalian antibodies which have been previously studied against SARS CoV outbreak in China. […] In this review, we discuss the strategies for the use of chicken egg yolk (IgY) antibodies in the development of rapid diagnosis and immunotherapy against SARS CoV-2. […] Compared to mammalian antibodies (IgG), chicken egg yolk antibodies (IgY) have greater binding affinity to specific antigens, ease of extraction and lower production costs, hence possessing remarkable pathogen-neutralizing activity of pathogens in respiratory and lungs. […] We provide an overall importance for the use of monoclonal chicken egg yolk antibodies (IgY) using phage display method describing their potential passive immunotherapeutic application for the treatment and prevention of SARS CoV-2 infection which is simple, fast and safe way of approach for treating patients effectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32535943&#34; target=&#34;_blank&#34;&gt;32535943&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The first report of cutaneous manifestations described different forms of skin lesions such as erythematous rash, urticaria and chicken-pox-like vesicles.2 Further studies have classified 5 different type of skin lesions, and associated them with patient demographics, timing in relation to symptoms of the disease, severity and prognosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32559324&#34; target=&#34;_blank&#34;&gt;32559324&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There are also reports of cutaneous lesions in form of urticarial and maculopapular rashes, chilblain like fingers and toes (covid feet), livedoid vasculopathy and chicken-pox like or varicelliform vesicles.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

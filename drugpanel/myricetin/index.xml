@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db02375&#39; target=&#39;_blank&#39;&gt;db02375&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=myricetin&#34; target=&#34;_blank&#34;&gt;myricetin&lt;/a&gt; &lt;br&gt;
 Synonymous :3,3’,4,4’,5’,7-hexahydro-2-phenyl-4h-chromen-4-one | 3,3’,4’,5,5’,7-hexahydroxyflavone | 3,5,7-trihydroxy-2-(3,4,5-trihydroxyphenyl)-4h-chromen-4-one | 3,5,7,3’,4’,5’-hexahydroxyflavone | cannabiscetin | myc | myricetin | myricetol | myricitin
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :3,3’,4,4’,5’,7-hexahydro-2-phenyl-4h-chromen-4-one | 3,3’,4�
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;myricetin&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Compounds that show promise for the inhibition of coronavirus in humans include scutellarein, silvestrol, tryptanthrin, saikosaponin B&lt;sub&gt;2&lt;/sub&gt;, quercetin, myricetin, caffeic acid, psoralidin, isobavachalcone, and lectins such as griffithsin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32545268&#34; target=&#34;_blank&#34;&gt;32545268&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These flavonoid-based phytomedicines include: caflanone, Equivir, hesperetin, myricetin, and Linebacker.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00860&#39; target=&#39;_blank&#39;&gt;db00860&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=chloroquine&#34; target=&#34;_blank&#34;&gt;chloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=prednisolone&#34; target=&#34;_blank&#34;&gt;prednisolone&lt;/a&gt; &lt;br&gt;
 Synonymous :(11β)-11,17,21-trihydroxypregna-1,4-diene-3,20-dione | 1,4-pregnadiene-11β,17α,21-triol-3,20-dione | 1,4-pregnadiene-3,20-dione-11β,17α,21-triol | 3,20-dioxo-11β,17α,21-trihydroxy-1,4-pregnadiene | delta-dehydrocortisol | delta-dehydrohydrocortisone | delta-hydrocortisone | delta(1)-dehydrocortisol | delta(1)-dehydrohydrocortisone | delta(1)-hydrocortisone | hydroretrocortine | metacortandralone | prdl | prednisolona | prednisolone | prednisolonum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(11β)-11,17,21-trihydroxypregna-1,4-diene-3,20-dione | 1,4-pregnadi
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;chloroquine&lt;/em&gt; gene in 158 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;prednisolone&lt;/em&gt; gene in 6 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -69,6 +69,70 @@ He was receiving mycophenolate mofetil (MMF) for one month and 30 mg prednisolon
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We also comment on suggested dosing for patients who usually take modified release hydrocortisone or prednisolone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32476308&#34; target=&#34;_blank&#34;&gt;32476308&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A proper combination of antiviral agents, immune modulators such as prednisolone, and anticoagulants such as heparin and anti-C5a antagonists could be employed to minimize lung damage and prevent systemic involvements.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32493514&#34; target=&#34;_blank&#34;&gt;32493514&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Immunosuppressive therapy (e.g. mycophenolate, azathioprine, methotrexate, biologicals, prednisolone &amp;gt;10mg/d; exceptions are: prednisolone ≤ 10mg/d, sulfasalazine or hydroxychloroquine)9.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32526068&#34; target=&#34;_blank&#34;&gt;32526068&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There was no association between prednisolone dose and concern.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32541245&#34; target=&#34;_blank&#34;&gt;32541245&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CD4 and CD8 T cells frequencies decreased because of prednisolone, followed by a plateauing increase whereas CD19CD20 B cell increased strongly and was unaffected by COVID-19 infection. […] Although activated Tregs (CD4CD45RAFOXP3) strongly increased upon prednisolone, it decreased afterwards. […] Furthermore, regulatory B cells (Bregs: CD19CD20CD24CD38) declined sharply owing to prednisolone. […] We hypothesize that continuing with low level of prednisolone without azathioprine may have abrogated activated Tregs, Bregs and IL-6 production and therefore permitting the activation of CD8 T cells, clearing the virus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562159&#34; target=&#34;_blank&#34;&gt;32562159&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+According to the drug regimen, the patients were divided into two groups; group I who received regimen I consisting azithromycin, prednisolone, naproxen, and lopinavir/ritonavir and group II who received regimen II including meropenem, levofloxacin, vancomycin, hydroxychloroquine, and oseltamivir. […] This study revealed the beneficial effect of the short-term use of low-dose prednisolone in combination with azithromycin, naproxen and lopinavir/ritonavir (regimen I), in decreasing ALOS compared to regimen II.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32573355&#34; target=&#34;_blank&#34;&gt;32573355&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition to the selected compounds, 4 nucleoside analogs of anti-viral (Raltgravir, Maraviroc and Favipiravir) and anti-inflammatory (Prednisolone) drugs were selected for further investigations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32585765&#34; target=&#34;_blank&#34;&gt;32585765&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 58-year-old 2 years post kidney transplant recipient, with maintenance immunosuppression of tacrolimus, mycophenolate mofetil (MMF) and prednisolone, presented with acute diarrhea which followed by fever on day 12.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32591970&#34; target=&#34;_blank&#34;&gt;32591970&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Substantial clinical improvement was obtained following a management plan, which included tocilizumab, hydroxychloroquine, prednisolone and enoxaparin sodium.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

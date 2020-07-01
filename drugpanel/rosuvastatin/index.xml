@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01098&#39; target=&#39;_blank&#39;&gt;db01098&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=rosuvastatin&#34; target=&#34;_blank&#34;&gt;rosuvastatin&lt;/a&gt; &lt;br&gt;
 Synonymous :(3r,5s,6e)-7-(4-(4-fluorophenyl)-6-(1-methylethyl)-2-(ethyl(methylsulfonyl)amino)-5-pyrimidinyl)-3,5-dihydroxy-6-heptenoic acid | (3r,5s,6e)-7-{4-(4-fluorophenyl)-6-isopropyl-2-[methyl(methylsulfonyl)amino]pyrimidin-5-yl}-3,5-dihydroxyhept-6-enoic acid | rosuvastatin | rosuvastatina
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(3r,5s,6e)-7-(4-(4-fluorophenyl)-6-(1-methylethyl)-2-(ethyl(methylsu
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;rosuvastatin&lt;/em&gt; gene in 1 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The binding energies obtained from the docking of 6LU7 with native ligand favipiravir, nelfinavir, lopinavir, simvastatin, rosuvastatin, pravastatin, pitavastatin, lovastatin, fluvastatin, and atorvastatin were -6.8, -5.8, -7.9, -7.9, -7.0, -7.7, -6.6, -8.2, -7.4, -7.7, and -6.8 kcal/mol, respectively. […] The number of hydrogen bonds between statins and amino acid residues of Mpro were 7, 4, and 3 for rosuvastatin, pravastatin, and atorvastatin, respectively, while other statins had two hydrogen bonds. […] These results indicate, based upon the binding energy of pitavastatin, rosuvastatin, lovastatin, and fluvastatin, that statins could be efficient SARS-CoV-2 Mpro inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32482587&#34; target=&#34;_blank&#34;&gt;32482587&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The analyzed drugs were paracetamol, ascorbic acid, dapagliflozin plus metformin, rosuvastatin plus ezetimibe, formoterol, and hydroxychloroquine, as these pharmaceutical substances registered the highest growth rate in sales and shortages when compared to the same period in the previous year.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

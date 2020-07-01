@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00563&#39; target=&#39;_blank&#39;&gt;db00563&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=methotrexate&#34; target=&#34;_blank&#34;&gt;methotrexate&lt;/a&gt; &lt;br&gt;
 Synonymous :4-amino-10-methylfolic acid | 4-amino-n(10)-methylpteroylglutamic acid | amethopterin | methotrexat | méthotrexate | methotrexate | methotrexatum | metotrexato | mtx | n-[4-[[(2,4-diamino-6-pteridinyl)methyl]methylamino]benzoyl]-l-glutamic acid
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :4-amino-10-methylfolic acid | 4-amino-n(10)-methylpteroylglutamic ac
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;methotrexate&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -77,6 +77,38 @@ In addition to taking standard precautions for minimizing COVID-19 risk of expos
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Among the conventional therapies, methotrexate, azathioprine and mycophenolate mofetil increase the risk of infection, and thus their use is recommended only when necessary and at low doses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32493514&#34; target=&#34;_blank&#34;&gt;32493514&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Immunosuppressive therapy (e.g. mycophenolate, azathioprine, methotrexate, biologicals, prednisolone &amp;gt;10mg/d; exceptions are: prednisolone ≤ 10mg/d, sulfasalazine or hydroxychloroquine)9.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32514854&#34; target=&#34;_blank&#34;&gt;32514854&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A case with rheumatoid arthritis and insufficient compensation under disease-modifying combined long-term therapy with methotrexate and leflunomide is reported.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534807&#34; target=&#34;_blank&#34;&gt;32534807&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We propose as a putative randomized controlled trial that high-dose methotrexate with leucovorin (HDMTX-LR) rescue can abolish ‘PANIC’, thereby ‘left-shifting’ severe COVID-19 patients to the group majority of those infected with SARS-CoV-2, who are designated as having mild, even asymptomatic, disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32536480&#34; target=&#34;_blank&#34;&gt;32536480&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Immunomodulating drugs, such as thiopurines and methotrexate, should be continued, without modifying doses (even in patients with positive SARS-CoV-2 infection).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

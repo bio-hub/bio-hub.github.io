@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00693&#39; target=&#39;_blank&#39;&gt;db00693&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=lopinavir&#34; target=&#34;_blank&#34;&gt;lopinavir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=fluorescein&#34; target=&#34;_blank&#34;&gt;fluorescein&lt;/a&gt; &lt;br&gt;
 Synonymous :3,6-fluorandiol | 3’,6’-dihydroxyfluoran | 9-(o-carboxyphenyl)-6-hydroxy-3-isoxanthenone | 9-(o-carboxyphenyl)-6-hydroxy-3h-xanthen-3-one | c.i. solvent yellow 94 | d and c yellow no. 7 | d&amp;amp;c yellow no. 7 | fluoresceina | fluoresceína | fluoresceine | fluoreszein | japan yellow 201 | resorcinolphthalein | solvent yellow 94 | yellow fluorescein
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :3,6-fluorandiol | 3’,6’-dihydroxyfluoran | 9-(o-carboxyphenyl)-6
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lopinavir&lt;/em&gt; gene in 133 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;fluorescein&lt;/em&gt; gene in 7 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -93,6 +93,30 @@ Fluorescein was instilled through a 4-mm burr hole drilled into the middle crani
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 A fluorescein dye experiment was used to demonstrate the reduction in aerosol emission output from the bottle with our described technique, allowing an antiviral filter to be attached to a pleural underwater seal drainage bottle for added protection of patients and staff in the local environment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32497852&#34; target=&#34;_blank&#34;&gt;32497852&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Intranasal local application of fluorescein aided in the detection of the direction of flow of the CSF leakage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32513045&#34; target=&#34;_blank&#34;&gt;32513045&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A series of simulated coughs were created with bursts of fluorescein dye through an atomizer tip placed within the test participant’s mouth. […] Fluorescein dye is easily aerosolized along the lateral inferior aspect of a standard shield with significant contamination of the surrounds.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32591652&#34; target=&#34;_blank&#34;&gt;32591652&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Spread of patient secretions and droplet formation was evaluated using 1% fluorescein dye in 10 ml of normal saline and ultraviolet light. […] Presence of fluorescein was identified around the patients’ nares; on the chest wipe and instrument tray in all four patients.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

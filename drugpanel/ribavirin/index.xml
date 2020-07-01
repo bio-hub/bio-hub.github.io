@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00811&#39; target=&#39;_blank&#39;&gt;db00811&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=methylprednisolone&#34; target=&#34;_blank&#34;&gt;methylprednisolone&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ribavirin&#34; target=&#34;_blank&#34;&gt;ribavirin&lt;/a&gt; &lt;br&gt;
 Synonymous :1-beta-d-ribofuranosyl-1,2,4-triazole-3-carboxamide | 1-beta-d-ribofuranosyl-1h-1,2,4-triazole-3-carboxamide | rbv | ribavirin | ribavirina | ribavirine | ribavirinum | tribavirin
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :1-beta-d-ribofuranosyl-1,2,4-triazole-3-carboxamide | 1-beta-d-ribof
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;methylprednisolone&lt;/em&gt; gene in 23 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ribavirin&lt;/em&gt; gene in 44 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -285,6 +285,118 @@ All patients have received interferon-α nebulization, and eight cases including
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 A number of anti-viral drugs such as ribavirin, remdesivir, lopinavir/ritonavir, antibiotics such as azithromycin and doxycycline, and anti-parasite such as ivermectin have been recommended for COVID-19 treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32486229&#34; target=&#34;_blank&#34;&gt;32486229&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, the bioactivity of some selected heterocyclic drugs named Favipiravir (&lt;b&gt;1&lt;/b&gt;), Amodiaquine (&lt;b&gt;2&lt;/b&gt;), 2’-Fluoro-2’-deoxycytidine (&lt;b&gt;3&lt;/b&gt;), and Ribavirin (&lt;b&gt;4&lt;/b&gt;) was evaluated as inhibitors and nucleotide analogues for COVID-19 using computational modeling strategies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32493740&#34; target=&#34;_blank&#34;&gt;32493740&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We included studies of ribavirin, chloroquine, hydroxychloroquine, umifenovir (arbidol), favipravir, interferon and lopinavir/ritonavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32496210&#34; target=&#34;_blank&#34;&gt;32496210&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A dual-combination of ribavirin and interferon-α has been the widely used regimen for the treatment of this disease in China.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32496357&#34; target=&#34;_blank&#34;&gt;32496357&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ten received toclizumab and/or ribavirin; 1 received remdesivir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32512873&#34; target=&#34;_blank&#34;&gt;32512873&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This strategy has been implemented for other respiratory viruses (influenza above all) and was successfully used in South Korea among healthcare workers against the Middle East respiratory syndrome (MERS) coronavirus, by providing people who were exposed to high-risk contacts with lopinavir-ritonavir plus ribavirin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32514228&#34; target=&#34;_blank&#34;&gt;32514228&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Certain drugs that are clinically approved for other diseases were tested against COVID-19 as chloroquine, hydroxychloroquine, ivermectin, favipiravir, ribavirin, and remdesivir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32515383&#34; target=&#34;_blank&#34;&gt;32515383&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lopinavir/Ritonavir, Ribavirin, remdesivir and Ravipiravir are some of the major antiviral agents showing initial encouraging results.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32520888&#34; target=&#34;_blank&#34;&gt;32520888&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients were treated with interferon, 6 cases combined with Ribavirin, and 12 cases combined with lopinavir or ritonavir. […] There was no significant difference of RNA turning negative between the groups of interferon, interferon plus ribavirin and interferon plus lopinavir or ritonavir treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32527340&#34; target=&#34;_blank&#34;&gt;32527340&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The main antiviral drugs included α-interferon (69.5%), lopinavir/ritonavir (65.0%), abidol (60.0%), and ribavirin (55.7%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532939&#34; target=&#34;_blank&#34;&gt;32532939&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hydroxychloroquine, lopinavir/ritonavir, remdesivir, umifenovir, favipiravir, ribavirin and beta-interferon-1 gave rise to variable but still inconsistent proof of clinical efficacy in the treatment of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32546018&#34; target=&#34;_blank&#34;&gt;32546018&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, the present review aims to highlight the important antiviral approaches, including interferons, ribavirin, mycophenolic acids, ritonavir, lopinavir, inhibitors, and monoclonal antibodies (mAbs) to provoke the nonstructural proteins and deactivate the structural and essential host elements of the virus to control and treat the infection of COVID-19 by inhibiting the viral entry, viral RNA replication and suppressing the viral protein expression. […] Different antivirals, including interferons, ribavirin, lopinavir, and monoclonal antibodies (mAbs) could be the potent therapeutic agents against COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32554953&#34; target=&#34;_blank&#34;&gt;32554953&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several anti-viral drugs such as RNA dependent RNA polymerase inhibitors (remdesivir, favipiravir, ribavirin), protease inhibitors (lopinavir, ritonavir) and drugs targeting endocytic pathway (hydroxychloroquine) are being evaluated for COVID-19 but standard therapeutics yet not available.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32565309&#34; target=&#34;_blank&#34;&gt;32565309&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our results for the first time suggest that a quadruple combination therapy (Ribavirin, Lopinavir/ritonavir, Umifenovir, and Lianhua Qingwen) can be considered as a preferred treatment approach to severe COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32566561&#34; target=&#34;_blank&#34;&gt;32566561&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For adults with SARS, interferon was associated with reduced corticosteroid dose [weighted mean difference (WMD) = -0.14 g; 95% CI, -0.21 to -0.07] but had no effect on mortality (RR =0.72; 95% CI, 0.28 to 1.88); ribavirin did not reduce mortality (RR =0.68; 95% CI, 0.43 to 1.06) and was associated with high risk of severe adverse reactions; and oseltamivir had no effect on mortality (RR =0.87; 95% CI, 0.55 to 1.38). […] Ribavirin combined with interferon was also not effective in adults with MERS and associated with adverse reactions.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

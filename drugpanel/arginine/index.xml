@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00125&#39; target=&#39;_blank&#39;&gt;db00125&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=arginine&#34; target=&#34;_blank&#34;&gt;arginine&lt;/a&gt; &lt;br&gt;
 Synonymous :(2s)-2-amino-5-(carbamimidamido)pentanoic acid | (2s)-2-amino-5-guanidinopentanoic acid | (s)-2-amino-5-guanidinopentanoic acid | (s)-2-amino-5-guanidinovaleric acid | arg | arginina | arginine | l-(+)-arginine | l-arg | l-arginin | l-arginine | r
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(2s)-2-amino-5-(carbamimidamido)pentanoic acid | (2s)-2-amino-5-guan
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 343 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;arginine&lt;/em&gt; gene in 1 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,14 @@ The viral spike protein mediates SARS-CoV-2 entry into host cells and harbors a 
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 At this site, arginine (a positively charged amino acid) was replaced by isoleucine (a hydrophobic amino acid that is also a C-β branched amino acid).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32565398&#34; target=&#34;_blank&#34;&gt;32565398&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The objective of this scoping review is to explore and describe the literature examining the effect of providing additional micronutrients or conditional amino acids (glutamine, arginine) in adults with conditions or infections similar to COVID-19 infection on COVID-19-related health outcomes.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

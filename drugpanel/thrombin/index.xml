@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11300&#39; target=&#39;_blank&#39;&gt;db11300&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=thrombin&#34; target=&#34;_blank&#34;&gt;thrombin&lt;/a&gt; &lt;br&gt;
 Synonymous :coagulation factor ii | thrombin bovine | thrombin, topical (bovine)
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :coagulation factor ii | thrombin bovine | thrombin, topical (bovine)
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 80 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;thrombin&lt;/em&gt; gene in 14 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -101,6 +101,70 @@ Supportively, through transcriptomic analysis of gene expression after MXSG admi
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Patients in the ProLOS group showed lower neutrophil counts [median (IQR): 2.50 (1.77-3.23) ×10&lt;sup&gt;9&lt;/sup&gt;/L &lt;i&gt;vs.&lt;/i&gt; 2.90 (2.21-4.19) ×10&lt;sup&gt;9&lt;/sup&gt;/L; P=0.048], higher partial thrombin time (PT) (13.42±0.63 &lt;i&gt;vs.&lt;/i&gt; 13.10±0.48 s; P=0.029), lower D-Dimer [0.26 (0.22-0.46) &lt;i&gt;vs.&lt;/i&gt; 0.44 (0.32-0.84) mg/L; P=0.012].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32485894&#34; target=&#34;_blank&#34;&gt;32485894&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Increased 3D structural similarity between the SARS-CoV-2 main protease, the HCV protease and α-thrombin was found. […] According to docking analysis the most promising results were found for HCV protease, DPP-4, α-thrombin and coagulation Factor Xa known inhibitors, with several of them exhibiting estimated free binding energy lower than -8.00 kcal/mol and better prediction results than reference compounds.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32490889&#34; target=&#34;_blank&#34;&gt;32490889&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our results evidenced the potential use of coagulation modifiers in COVID-19 treatment due to the structural similarity of SARS-CoV-2 Mpro and human coagulation factors thrombin and Factor Xa.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32548551&#34; target=&#34;_blank&#34;&gt;32548551&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In preclinical studies, activated protein C (APC) provides negative feedback downregulation of excessive inflammation and thrombin generation, attenuates damage caused by ischemia-reperfusion in many organs including lungs, and reduces death caused by bacterial pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32550069&#34; target=&#34;_blank&#34;&gt;32550069&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients’ resistance to prophylactic doses of heparin could be due to low levels of anti-thrombin and high levels of fibrinogen, which would reinforce the use of therapeutic doses of heparin in the early stages of hospitalization.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32551814&#34; target=&#34;_blank&#34;&gt;32551814&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hypercoagulability and systemic thrombotic complications necessitate anticoagulant and thrombolytic interventions, which provide opportunities to prevent or reduce “excessive” thrombin generation, while preserving “adaptive” hemostasis and bring additional benefit via their anti-inflammatory effect in the setting of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32558620&#34; target=&#34;_blank&#34;&gt;32558620&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although thrombosis initiated by the innate immune system is hypothesized to limit SARS-CoV-2 dissemination, aberrant activation of this system can cause endothelial injury resulting in loss of thromboprotective mechanisms, excess thrombin generation, and dysregulation of fibrinolysis and thrombosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32581015&#34; target=&#34;_blank&#34;&gt;32581015&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thrombin Time (TT), Prothrombin Time (PT), Fibrinogen (FIB), Activated Partial Thromboplastin Time (APPT), and D-Dimer have been detected as parameters to study in every COVID-19 patient.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32586214&#34; target=&#34;_blank&#34;&gt;32586214&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, in patients with COVID-19 the subsequent endothelial inflammation, complement activation, thrombin generation, platelet and leukocyte recruitment, and the initiation of innate and adaptive immune responses culminate in immunothrombosis, ultimately causing (micro)thrombotic compli¬cations such as deep vein thrombosis, pulmonary embolism and stroke.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

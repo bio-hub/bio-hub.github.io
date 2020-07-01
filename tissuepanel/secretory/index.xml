@@ -26,7 +26,7 @@
 &lt;h2&gt;Cell Sentence Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;secretory&lt;/em&gt; tissue in 6 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;secretory&lt;/em&gt; tissue in 11 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -86,6 +86,46 @@ We identify ACE2 and TMPRSS2 co-expressing cells within lung type II pneumocytes
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Using single-cell sequencing data, we demonstrate that ACE2 is expressed in a subset of secretory cells in the respiratory tract. […] In contrast, quitting smoking decreases the abundance of these secretory cells and reduces ACE2 levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534451&#34; target=&#34;_blank&#34;&gt;32534451&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cell senescence is a process that causes growth arrest and the release of a senescence associated secretory phenotype (SASP), characterized by secretion of chemokines, cytokines, cell growth factors and metalloproteases, leading to a tissue condition that may precipitate cancers and neurodegenerative processes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32539627&#34; target=&#34;_blank&#34;&gt;32539627&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Indeed, in some patients, SARS-CoV-2 promotes a dysfunctional immune response that dysregulates the cytokine secretory pattern.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32540605&#34; target=&#34;_blank&#34;&gt;32540605&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There are clues indicating that the systemic hyper-inflammation defined as macrophage activation syndrome (MAS), or cytokine storm, requires an increase in choline consumption to synthesize phosphatidylcholine and stimulate phagocytosis, organelle biogenesis, secretory functions, and endocytosis. &lt;sup&gt;18&lt;/sup&gt;F-Fluorocholine is a synthetic analog of the naturally occurring choline normally used for PET/CT imaging of prostate cancer patients. &lt;sup&gt;18&lt;/sup&gt;F-Fluorocholine could image and quantify the macrophage activity in pulmonary interstitial infiltrates of Covid-19 pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32540792&#34; target=&#34;_blank&#34;&gt;32540792&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This polymorphonuclear leukocyte has a very active metabolism, containing numerous intracellular secretory granules that allow it exerts multiple functions in both health and disease status.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32554825&#34; target=&#34;_blank&#34;&gt;32554825&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, patients developing acute secretory syndromes due to functional neuroendocrine neoplasms (such as of the pancreas, intestine or lung), phaeochromocytomas and paragangliomas, will require prompt treatment.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

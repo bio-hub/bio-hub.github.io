@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00668&#39; target=&#39;_blank&#39;&gt;db00668&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=chloroquine&#34; target=&#34;_blank&#34;&gt;chloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=epinephrine&#34; target=&#34;_blank&#34;&gt;epinephrine&lt;/a&gt; &lt;br&gt;
 Synonymous :(−)-(r)-epinephrine | (−)-3,4-dihydroxy-α-((methylamino)methyl)benzyl alcohol | (−)-adrenaline | (r)-(-)-adnephrine | (r)-(-)-adrenaline | (r)-(-)-epinephrine | (r)-(-)-epirenamine | (r)-(−)-adrenaline | 4-[(1r)-1-hydroxy-2-(methylamino)ethyl]-1,2-benzenediol | adrénaline | adrenaline | epinefrin | epinefrina | epinephrin | epinephrine | epinephrinum | l-adrenaline | levoepinephrine
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(−)-(r)-epinephrine | (−)-3,4-dihydroxy-α-((methylamino)methyl)
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;chloroquine&lt;/em&gt; gene in 158 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;epinephrine&lt;/em&gt; gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -69,6 +69,14 @@ Assuming similar SRIT rates, HITSA was found to be a cost-effective option with 
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Infusions of epinephrine titrated to treat unstable hypotension, as well as potassium for severe hypokalemia may be required.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32488505&#34; target=&#34;_blank&#34;&gt;32488505&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All children but one needed an inotropic/vasoactive drug support (epinephrine, n = 12; milrinone, n = 10; dobutamine, n = 6, norepinephrine, n = 4) and 8 were intubated.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

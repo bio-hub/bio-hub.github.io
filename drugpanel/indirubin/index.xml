@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db12379&#39; target=&#39;_blank&#39;&gt;db12379&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=indirubin&#34; target=&#34;_blank&#34;&gt;indirubin&lt;/a&gt; &lt;br&gt;
 Synonymous :couroupitine b | indirubin
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :couroupitine b | indirubin
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;indirubin&lt;/em&gt; gene in 1 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The methanol extract of &lt;i&gt;S. cusia&lt;/i&gt; leaf contains chemical components such as β-sitosterol, indirubin, tryptanthrin, betulin, indigodole A, and indigodole B that have diverse biological activities.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32557405&#34; target=&#34;_blank&#34;&gt;32557405&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+With the aid of in silico techniques such as molecular docking and druggability studies, we have proposed several natural active compounds including glycyrrhizin, bicylogermecrene, tryptanthrine, β-sitosterol, indirubin, indican, indigo, hesperetin, crysophanic acid, rhein, berberine and β-caryophyllene which can be encountered as potential herbal candidate exhibiting anti-viral activity against SARS-CoV-2.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

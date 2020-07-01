@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00613&#39; target=&#39;_blank&#39;&gt;db00613&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=amodiaquine&#34; target=&#34;_blank&#34;&gt;amodiaquine&lt;/a&gt; &lt;br&gt;
 Synonymous :amodiaquina | amodiaquine | amodiaquinum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :amodiaquina | amodiaquine | amodiaquinum
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;amodiaquine&lt;/em&gt; gene in 9 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,22 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Out of 62 screened compounds, the best docking scores with the targets were found for compounds: lopinavir, amodiaquine, and theaflavin digallate (TFDG).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32486229&#34; target=&#34;_blank&#34;&gt;32486229&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, the bioactivity of some selected heterocyclic drugs named Favipiravir (&lt;b&gt;1&lt;/b&gt;), Amodiaquine (&lt;b&gt;2&lt;/b&gt;), 2’-Fluoro-2’-deoxycytidine (&lt;b&gt;3&lt;/b&gt;), and Ribavirin (&lt;b&gt;4&lt;/b&gt;) was evaluated as inhibitors and nucleotide analogues for COVID-19 using computational modeling strategies. […] Besides, the computations data of DFT the docking simulation studies was predicted that the Amodiaquine (&lt;b&gt;2&lt;/b&gt;) has the least binding energy (-7.77 Kcal/mol) and might serve as a good inhibitor to SARS-CoV-2 comparable with the approved medicines, hydroxychloroquine, and remdesivir which have binding affinity -6.06 and -4.96 Kcal/mol, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32545799&#34; target=&#34;_blank&#34;&gt;32545799&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We also screened 136 safe-in-man broad-spectrum antivirals against the SARS-CoV-2 infection in Vero-E6 cells and identified nelfinavir, salinomycin, amodiaquine, obatoclax, emetine and homoharringtonine. […] We found that a combination of orally available virus-directed nelfinavir and host-directed amodiaquine exhibited the highest synergy.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

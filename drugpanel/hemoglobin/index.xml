@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db04945&#39; target=&#39;_blank&#39;&gt;db04945&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=gold&#34; target=&#34;_blank&#34;&gt;gold&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hemoglobin&#34; target=&#34;_blank&#34;&gt;hemoglobin&lt;/a&gt; &lt;br&gt;
 Synonymous :deoxyhemoglobin | haemoglobin | human hemoglobin
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :deoxyhemoglobin | haemoglobin | human hemoglobin
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;gold&lt;/em&gt; gene in 49 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hemoglobin&lt;/em&gt; gene in 34 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -165,6 +165,158 @@ Excess ascorbate (as expected in intravenous treatment proposed for COVID-19 man
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The role of percentage saturation of hemoglobin with oxygen (oxygen saturation), blood pressure and early use of point-of-care ultrasound in differential diagnosis and specific management is detailed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32495027&#34; target=&#34;_blank&#34;&gt;32495027&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Anemia was not observed notably, but the decrease in hemoglobin was frequent.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32504360&#34; target=&#34;_blank&#34;&gt;32504360&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Decreased leucocytes, neutrophils, thrombocyte and hemoglobin were observed in 8.33, 19.44, 2.78 and 36.11% of infants, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32508038&#34; target=&#34;_blank&#34;&gt;32508038&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The AUCs demonstrated good discriminatory ability for red cell distribution width (RDW) with an AUC of 0.87 and hemoglobin with an AUC of 0.81.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32509258&#34; target=&#34;_blank&#34;&gt;32509258&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Scientific literature has pointed out two potential pathophysiological mechanisms: i) severe acute respiratory syndrome-coronavirus-2 (SARS-CoV- 2) interaction with hemoglobin molecule, through CD147, CD26 and other receptors located on erythrocyte and/or blood cell precursors; ii) hepcidin-mimetic action of a viral spike protein, inducing ferroportin blockage. […] In this translational medicinebased narrative review, the following pathologic metabolic pathways, deriving from hemoglobin denaturation and iron metabolism dysregulation, are highlighted: i) decrease of functioning hemoglobin quote; ii) iron overload in cell/tissue (hyperferritinemia); iii) release of free toxic circulating heme; iv) hypoxemia and systemic hypoxia; v) reduction of nitric oxide; vi) coagulation activation; vii) ferroptosis with oxidative stress and lipoperoxidation; viii) mitochondrial degeneration and apoptosis. […] A more comprehensive diagnostic/therapeutic approach to COVID-19 is proposed, including potential adjuvant interventions aimed at improving hemoglobin dysfunction, iron over-deposit and generalized hypoxic state.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32511971&#34; target=&#34;_blank&#34;&gt;32511971&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Through the analysis of laboratory examination information of patients with COVID-19 from 35 articles (5912 patients), we demonstrated that severe cases possessed higher levels of leukocyte (1.20-fold), neutrophil (1.33-fold), CRP (3.04-fold), PCT (2.00-fold), ESR (1.44-fold), AST (1.40-fold), ALT (1.34-fold), LDH (1.54-fold), CK (1.44-fold), CK-MB (1.39-fold), total bilirubin (1.14-fold), urea (1.28-fold), creatine (1.09-fold), PT (1.03-fold) and D-dimer (2.74-fold), as well as lower levels of lymphocytes (1.44-fold), eosinophil (2.00-fold), monocyte (1.08-fold), Hemoglobin (1.53-fold), PLT (1.15-fold), albumin (1.15-fold), and APTT (1.02-fold).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32515699&#34; target=&#34;_blank&#34;&gt;32515699&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The article discussed in detail a new hypothesis proposed by Chinese physicians about a new component in the pathogenesis of COVID-19, namely, about the effect of SARS-CoV-2 virus on the hemoglobin beta-chain and the formation of a complex with porphyrin, which results in displacement of the iron ion. […] Thus, hemoglobin loses the capability for transporting oxygen, which aggravates hypoxia and worsens the prognosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32522191&#34; target=&#34;_blank&#34;&gt;32522191&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Independent predictors of in-hospital mortality were older age, lower serum Hemoglobin &amp;lt; 10 mg/dl, elevated serum Ferritin and Creatinine phosphokinase levels &amp;gt; 1200 U/L and &amp;gt; 1000 U/L.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532356&#34; target=&#34;_blank&#34;&gt;32532356&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.3 Blood routine: white blood cells, neutrophils, lymphocytes, monocytes, eosinophils, basophils, neutrophils, lymphocytes, monocytes, eosinophils Acidic granulocyte count, basophil count, red blood cell, hemoglobin, hematocrit, average volume of red blood cells, average red blood cell Hb content, average red blood cell Hb concentration, RDW standard deviation, RDW coefficient of variation, platelet count, platelet specific platelet average Volume, platelet distribution width,% of large platelets; 2.4 Liver and kidney function tests: alanine aminotransferase, aspartate aminotransferase, alkaline phosphatase, γ-glutamyl transferase, prealbumin, total protein, albumin, globulin, white / globule ratio , Total bilirubin, direct bilirubin, cholinesterase, urea, creatinine, total carbon dioxide, uric acid glucose, potassium, sodium, chlorine, calcium, corrected calcium, magnesium, phosphorus, calcium and phosphorus product, anion gap, penetration Pressure, total cholesterol, triacylglycerol, high density lipoprotein cholesterol, Low density lipoprotein cholesterol, lipoprotein a, creatine kinase, lactate dehydrogenase, estimated glomerular filtration rate.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532449&#34; target=&#34;_blank&#34;&gt;32532449&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This respiratory tract infection is nefarious in how it targets the most distal and highly vulnerable aspect of the human bronchopulmonary tree, specifically, the delicate yet irreplaceable alveoli that are responsible for the loading of oxygen upon red cell hemoglobin for use by all of the body’s tissues.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32564028&#34; target=&#34;_blank&#34;&gt;32564028&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The assessment of the extent of ARF should be based on arterial or capillary blood gas analysis under room air conditions, and it needs to include the calculation of oxygen supply (measured from the variables of oxygen saturation, hemoglobin level, the corrected values of Hüfner’s factor, and cardiac output).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32566620&#34; target=&#34;_blank&#34;&gt;32566620&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As the disease progressed, white blood cell count (WBC), neutrophil count, neutrophil-to-lymphocyte ratio (NLR), platelet-to-lymphocyte ratio (PLR), red blood cell distribution width-coefficient of variation (RDW-CV), and red cell volume distribution width-standard deviation (RDW-SD) parameters in the severe group were significantly higher than those in the moderate group (P&amp;lt;0.05); meanwhile, lymphocyte count (Lym#), eosinophil count (Eos#), high fluorescent cell percentage (HFC%), red blood cell count (RBC), hemoglobin (HGB), and hematocrit (HCT) parameters in the severe group were significantly lower than those in the moderate group (P&amp;lt;0.05).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32570166&#34; target=&#34;_blank&#34;&gt;32570166&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+COVID-19 infection is less common in children (with higher fetal hemoglobin levels). […] Given these two facts, the hemoglobin structure can play a role in the physiopathology of COVID-19 disease. […] Several drugs are known to increase fetal hemoglobin in adults.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32572616&#34; target=&#34;_blank&#34;&gt;32572616&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+White blood cells, hemoglobin, platelets, and liver enzymes counts were within the normal range in both groups.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32573995&#34; target=&#34;_blank&#34;&gt;32573995&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Results Compared to patients who could be finally discharged, those who died during hospital stay displayed significantly higher values of serum glucose, aspartate aminotransferase (AST), creatine kinase (CK), lactate dehydrogenase (LDH), urea, creatinine, high-sensitivity cardiac troponin I (hscTnI), prothrombin time/international normalized ratio (PT/INR), activated partial thromboplastin time (APTT), D-dimer, C reactive protein (CRP), ferritin and leukocytes (especially neutrophils), whilst values of albumin, hemoglobin and lymphocytes were significantly decreased.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32575073&#34; target=&#34;_blank&#34;&gt;32575073&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From baseline to day 14, significant decreases of three biomarkers (C-reactive protein, hemoglobin, albumin) and dramatic increases of three biomarkers (lymphocytes, platelets, blood urea nitrogen) were observed in older patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32575554&#34; target=&#34;_blank&#34;&gt;32575554&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Heme is a prosthetic moiety crucial for the function of a wide variety of heme-proteins, including hemoglobin and cytochromes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32579049&#34; target=&#34;_blank&#34;&gt;32579049&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent advances in understanding the mechanism of action of COVID-19 have shown that it causes a systemic infection that significantly affects the hematopoietic system and hemostasis, factors extremely dependent of light, mainly in the region of visible and infrared radiation. &lt;b&gt; &lt;i&gt;Results:&lt;/i&gt; &lt;/b&gt; In the COVID-19 patients hemoglobin is decreasing and protoporphyrin is increasing, generating an extremely harmful accumulation of iron ions in the bloodstream, which are able to induce an intense inflammatory process in the body with a consequent increase in C-reactive protein and albumin. […] According to the theory of electron excitation in photosensitive molecules, similar to hemoglobin heme, after the photon absorption there would be an increase in the stability of the iron ion bond with the center of the pyrrole ring, preventing the losses of heme function oxygen transport (HbO&lt;sub&gt;2&lt;/sub&gt;).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32582740&#34; target=&#34;_blank&#34;&gt;32582740&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Many patients had white blood cell counts with abnormal neutrophil and lymphocyte numbers, abnormal hemoglobin concentration, coagulation profiles, and blood biochemistry, and increased infection markers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32582745&#34; target=&#34;_blank&#34;&gt;32582745&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, patients with hemoglobin disorders (e.g., sickle cell anemia, thalassemia) are vulnerable to this global health situation due to their clinical complications. […] This article reviews the management strategies and provides some crucial recommendations for people in the corner with hemoglobin disorders.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

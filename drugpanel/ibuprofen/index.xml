@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01050&#39; target=&#39;_blank&#39;&gt;db01050&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=creatinine&#34; target=&#34;_blank&#34;&gt;creatinine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ibuprofen&#34; target=&#34;_blank&#34;&gt;ibuprofen&lt;/a&gt; &lt;br&gt;
 Synonymous :(±)-2-(p-isobutylphenyl)propionic acid | (±)-ibuprofen | (±)-p-isobutylhydratropic acid | (±)-α-methyl-4-(2-methylpropyl)benzeneacetic acid | (4-isobutylphenyl)-α-methylacetic acid | (rs)-ibuprofen | 2-(4-isobutylphenyl)propanoic acid | 4-isobutylhydratropic acid | ibuprofen | ibuprofene | ibuprofeno | ibuprofenum | ibuprophen | α-(4-isobutylphenyl)propionic acid | α-(p-isobutylphenyl)propionic acid
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(±)-2-(p-isobutylphenyl)propionic acid | (±)-ibuprofen | (±)-p-is
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;creatinine&lt;/em&gt; gene in 38 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ibuprofen&lt;/em&gt; gene in 15 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -157,6 +157,54 @@ Concern about the appropriate role of nonsteroidal anti-inflammatory drugs (NSAI
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Studies show that ibuprofen and naproxen not only have positive effects in controlling cold symptoms but also do not cause serious side effects in rhinovirus infections.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32500928&#34; target=&#34;_blank&#34;&gt;32500928&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Starting with the origin of the virus, we then discuss the effect of ibuprofen and nicotine on the severity of the disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32505846&#34; target=&#34;_blank&#34;&gt;32505846&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Over the counter antipyretics such as ibuprofen and acetaminophen are often taken by individuals to reduce the discomfort of fever. […] Recently, the safety of ibuprofen in COVID-19 patients has been questioned due to anecdotal reports of worsening symptoms in previously healthy young adults. […] Studies show that ibuprofen demonstrates superior efficacy in fever reduction compared to acetaminophen. […] As fever may have benefit in shortening the duration of viral illness, it is plausible to hypothesize that the antipyretic efficacy of ibuprofen may be hindering the benefits of a fever response when taken during the early stages of COVID-19 illness.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32506743&#34; target=&#34;_blank&#34;&gt;32506743&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It has been hypothesized that ACE2 expression can be increased by Ibuprofen leading to a higher risk for severe COVID-19 (1). […] Despite the reasonable mechanistic background and results from studies suggesting that Ibuprofen may be associated with complications of community-acquired pneumonia in children (2,3), there is no current evidence that this NSAID aggravates a SARS-CoV-2 infection in any age group.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32530870&#34; target=&#34;_blank&#34;&gt;32530870&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the current COVID-19 pandemic, there has been concern regarding the use of ibuprofen and other nonsteroidal anti-inflammatory agents by COVID-19 infected patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32535147&#34; target=&#34;_blank&#34;&gt;32535147&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It was recently suggested that ibuprofen might increase the risk for severe and fatal coronavirus disease 2019 (COVID-19) and should therefore be avoided in this patient population. […] We aimed to evaluate whether ibuprofen use in individuals with COVID-19 was associated with more severe disease, compared with individuals using paracetamol or no antipyretics. […] In a retrospective cohort study of patients with COVID-19 from Shamir Medical Centre, Israel, we monitored any use of ibuprofen from a week before diagnosis of COVID-19 throughout the disease. […] One hundred and seventy-nine (44%) patients had fever, with 32% using paracetamol and 22% using ibuprofen, for symptom-relief. […] In the ibuprofen group, 3 (3.4%) patients died, whereas in the non-ibuprofen group, 9 (2.8%) patients died (p 0.95). […] Nine (10.3%) patients from the ibuprofen group needed respiratory support, compared with 35 (11%) from the non-ibuprofen group (p 1). […] When compared with exclusive paracetamol users, no differences were observed in mortality rates or the need for respiratory support among patients using ibuprofen. […] In this cohort of COVID-19 patients, ibuprofen use was not associated with worse clinical outcomes, compared with paracetamol or no antipyretic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32585855&#34; target=&#34;_blank&#34;&gt;32585855&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The clinical course was summarized, including the impact of drugs (angiotensin II receptor blockers [ARB], ibuprofen, and dipeptidyl peptidase-4 inhibitors [DPP4i]) and the therapeutic effect of lopinavir/ritonavir. […] After adjusting for confounding variables, prior history of drug use, including ARB, ibuprofen, and DPP4i was not a risk factor associated with disease progression.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

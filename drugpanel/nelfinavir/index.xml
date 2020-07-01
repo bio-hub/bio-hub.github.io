@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00220&#39; target=&#39;_blank&#39;&gt;db00220&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=lopinavir&#34; target=&#34;_blank&#34;&gt;lopinavir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=nelfinavir&#34; target=&#34;_blank&#34;&gt;nelfinavir&lt;/a&gt; &lt;br&gt;
 Synonymous :nelfinavir
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :nelfinavir
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lopinavir&lt;/em&gt; gene in 133 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;nelfinavir&lt;/em&gt; gene in 8 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -93,6 +93,22 @@ Along with the highly potent drugs and/or molecules (such as nelfinavir) reveale
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 A more in-depth assessment demonstrated that only nitazoxanide, nelfinavir, tipranavir (ritonavir-boosted) and sulfadoxine achieved plasma concentrations above their reported anti-SARS-CoV-2 activity across their entire approved dosing interval.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32545799&#34; target=&#34;_blank&#34;&gt;32545799&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We also screened 136 safe-in-man broad-spectrum antivirals against the SARS-CoV-2 infection in Vero-E6 cells and identified nelfinavir, salinomycin, amodiaquine, obatoclax, emetine and homoharringtonine. […] We found that a combination of orally available virus-directed nelfinavir and host-directed amodiaquine exhibited the highest synergy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32546446&#34; target=&#34;_blank&#34;&gt;32546446&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A recent in silico study has shown that the fluoroquinolones, ciprofloxacin and moxifloxacin, may inhibit SARS-CoV-2 replication by exhibiting stronger capacity for binding to its main protease than chloroquine and nelfinavir, a protease inhibitor antiretroviral drug.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

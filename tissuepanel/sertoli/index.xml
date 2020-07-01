@@ -26,7 +26,7 @@
 &lt;h2&gt;Cell Sentence Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;sertoli&lt;/em&gt; tissue in 3 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;sertoli&lt;/em&gt; tissue in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -62,6 +62,22 @@ We also collected and constructed the scRNA-seq library on 228 Sertoli cells fro
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 It was found that ACE2, Angiotensin (1-7) and its MAS receptors are present, over in the lung, also in the testicles, in particular in Leydig and Sertoli cells. […] The inflammatory cells could interfere with the function of Leydig and Sertoli cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32563676&#34; target=&#34;_blank&#34;&gt;32563676&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Microscopically, Sertoli cells showed swelling, vacuolation and cytoplasmic rarefaction, detachment from tubular basement membranes, and loss and sloughing into lumens of the intratubular cell mass.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32578263&#34; target=&#34;_blank&#34;&gt;32578263&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Transcriptome sequencing data from literature search revealed ACE2 expression in the germ, Sertoli and Leydig cells.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

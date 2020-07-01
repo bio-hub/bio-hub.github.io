@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01065&#39; target=&#39;_blank&#39;&gt;db01065&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=melatonin&#34; target=&#34;_blank&#34;&gt;melatonin&lt;/a&gt; &lt;br&gt;
 Synonymous :5-methoxy-n-acetyltryptamine | melatonin | melatonina | mélatonine | n-[2-(5-methoxyindol-3-yl)ethyl]acetamide | n-acetyl-5-methoxytryptamine
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :5-methoxy-n-acetyltryptamine | melatonin | melatonina | mélatonine 
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 80 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;melatonin&lt;/em&gt; gene in 11 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -101,6 +101,38 @@ Vitamin D and melatonin could be good options for achieving this aim, taking int
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Melatonin is an immunoregulator, anti-pyretic, antioxidant, anti-inflammatory and ER stress modulator during viral infections.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32493475&#34; target=&#34;_blank&#34;&gt;32493475&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Primary objective: to evaluate the efficacy of melatonin as a prophylactic treatment on prevention of symptomatic SARS-CoV-2 infection among healthcare workers at high risk of SARS-CoV-2 exposure. […] Secondary objectives: To evaluate the efficacy of melatonin as a prophylactic treatment on prevention of asymptomatic SARS-CoV-2 infection.To evaluate the efficacy of melatonin to prevent the development of severe COVID-19 in the participants enrolled in this study who develop SARS-CoV-2 infection along the trial.To evaluate the duration of COVID-19 symptoms in participants receiving melatonin before the infection.To evaluate seroconversion timing post-symptom onset. […] Exploratory objectives:To compare severity of COVID-19 between men and women.To evaluate the influence of sleep and diet on prevention from SARS-CoV-2 infection.To evaluate the effect of melatonin on the incidence and characteristics of lymphopenia and increase of inflammatory cytokines related to COVID-19. […] This is a two-arm parallel randomised double-blind controlled trial to evaluate the efficacy of melatonin versus placebo in the prophylaxis of coronavirus disease 2019 among healthcare workers. […] Experimental: Melatonin (Circadin®, Exeltis Healthcare, Spain): 2 mg of melatonin orally before bedtime for 12 weeks.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32500379&#34; target=&#34;_blank&#34;&gt;32500379&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Therapies with anti-viral properties that raise HO-1 include certain anesthetics (sevoflurane or isoflurane), hemin, estrogen, statins, curcumin, resveratrol, and melatonin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32533957&#34; target=&#34;_blank&#34;&gt;32533957&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Risk was reduced in those who had pneumococcal polysaccharide or influenza vaccine, or were on melatonin, paroxetine, or carvedilol.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574327&#34; target=&#34;_blank&#34;&gt;32574327&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we suggest melatonin be given consideration for prophylactic use or treatment alone or in combination with other drugs. […] Melatonin’s multiple actions as an anti-inflammatory, anti-oxidant, and anti-viral (against other viruses) make it a reasonable choice for use. […] Melatonin is readily available, can be easily synthesized in large quantities, is inexpensive, has a very high safety profile and can be easily self-administered. […] Melatonin is endogenously-produced molecule in small amounts with its production diminishing with increased age. […] Under the current critical conditions, large doses of melatonin alone or in combination with currently-recommended drugs, e.g., hydroxychloroquine/chloroquine, to resist COVID-19 infection would seem judicious.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

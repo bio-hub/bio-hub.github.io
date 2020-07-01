@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00148&#39; target=&#39;_blank&#39;&gt;db00148&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=turkey&#34; target=&#34;_blank&#34;&gt;turkey&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=creatine&#34; target=&#34;_blank&#34;&gt;creatine&lt;/a&gt; &lt;br&gt;
 Synonymous :((amino(imino)methyl)(methyl)amino)acetic acid | (alpha-methylguanido)acetic acid | (n-methylcarbamimidamido)acetic acid | (α-methylguanido)acetic acid | alpha-methylguanidino acetic acid | creatin | creatine | kreatin | methylglycocyamine | n-(aminoiminomethyl)-n-methylglycine | n-amidinosarcosine | n-carbamimidoyl-n-methylglycine | n-methyl-n-guanylglycine
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :((amino(imino)methyl)(methyl)amino)acetic acid | (alpha-methylguanid
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;turkey&lt;/em&gt; gene in 23 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;creatine&lt;/em&gt; gene in 47 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -205,6 +205,222 @@ Age, heart rate, chlorine, ALT, AST, procalcitonin, creatine kinase, pH, CD3 cou
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In mild disease, creatine kinase-MB (CK-MB) was frequently elevated, with a PPE of 33%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32473756&#34; target=&#34;_blank&#34;&gt;32473756&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+On day 5, his high body temperature increased to 41.2 °C, creatine kinase level elevated, and he developed tachycardia, tachypnea, altered consciousness, and diaphoresis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32490853&#34; target=&#34;_blank&#34;&gt;32490853&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, an integrated point-of-care COVID-19 Severity Score and clinical decision support system is presented using biomarker measurements of C-reactive protein (CRP), N-terminus pro B type natriuretic peptide (NT-proBNP), myoglobin (MYO), D-dimer, procalcitonin (PCT), creatine kinase-myocardial band (CK-MB), and cardiac troponin I (cTnI).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32492165&#34; target=&#34;_blank&#34;&gt;32492165&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most common laboratory abnormalities were increased levels of alanine aminotransferase (ALT) (median [IQR], 16.0 [12.0-26.0] U/L), aspartate aminotransferase (AST) (median [IQR], 30.0 [23.0-41.8] U/L), creatine kinase MB (CK-MB) activity (median [IQR], 24.0 [18.0-34.0] U/L), and lactate dehydrogenase (LDH) (median [IQR], 243.0 [203.0-297.0] U/L), which are associated with liver and myocardial injury.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32503382&#34; target=&#34;_blank&#34;&gt;32503382&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The following biomarkers have been identified: hematological (lymphocyte count, neutrophil count, neutrophil-lymphocyte ratio (NLR)), inflammatory (C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), procalcitonin (PCT)), immunological (interleukin (IL)-6 and biochemical (D-dimer, troponin, creatine kinase (CK), aspartate aminotransferase (AST)), especially those related to coagulation cascades in disseminated intravascular coagulation (DIC) and acute respiratory distress syndrome (ARDS).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32504360&#34; target=&#34;_blank&#34;&gt;32504360&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Increased C-reactive protein, procalcitonin, lactate dehydrogenase, alanine aminotransferase, creatine kinase and D-dimer were observed in 19.44, 67.74, 47.22, 19.44, 22.22 and 20.69% of infants, respectively. […] Meanwhile, C-reactive protein, D-dimer, alanine aminotransferase, creatine kinase, creatinine, IL-6 and IL-10 increased significantly.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32507570&#34; target=&#34;_blank&#34;&gt;32507570&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Blood tests revealed elevated levels of markers of myocyte necrosis (troponin I and creatine kinase-MB).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32511971&#34; target=&#34;_blank&#34;&gt;32511971&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Through the analysis of laboratory examination information of patients with COVID-19 from 35 articles (5912 patients), we demonstrated that severe cases possessed higher levels of leukocyte (1.20-fold), neutrophil (1.33-fold), CRP (3.04-fold), PCT (2.00-fold), ESR (1.44-fold), AST (1.40-fold), ALT (1.34-fold), LDH (1.54-fold), CK (1.44-fold), CK-MB (1.39-fold), total bilirubin (1.14-fold), urea (1.28-fold), creatine (1.09-fold), PT (1.03-fold) and D-dimer (2.74-fold), as well as lower levels of lymphocytes (1.44-fold), eosinophil (2.00-fold), monocyte (1.08-fold), Hemoglobin (1.53-fold), PLT (1.15-fold), albumin (1.15-fold), and APTT (1.02-fold).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32512122&#34; target=&#34;_blank&#34;&gt;32512122&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Elevation of cardiac biomarkers, particularly high-sensitivity troponin and/or creatine kinase MB, is common in patients with COVID-19 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32518172&#34; target=&#34;_blank&#34;&gt;32518172&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Elevated Creatine Kinase (&amp;gt;10,000) is reported in 10% of COVID-19-infected patients; two such patients presented with painful muscle weakness responding to IVIg indicating that COVID-19-triggered NAM is an overlooked entity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32519944&#34; target=&#34;_blank&#34;&gt;32519944&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The two groups did not differ in viral burden but displayed significant differences in laboratory findings: ARDS patients had persistently elevated values for leukocytes, interleukin-6, lactate dehydrogenase, creatine kinase, and D-dimers over the period of observation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32525548&#34; target=&#34;_blank&#34;&gt;32525548&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with higher levels of hypokalemia also had higher creatine kinase levels (severe hypokalemia, mean [SD], 200 [257] U/L [median, 113 U/L; interquartile range {IQR}, 61-242 U/L]; hypokalemia, mean [SD], 97 [85] U/L; and normokalemia, mean [SD], 82 [57] U/L), higher creatine kinase-MB fraction (severe hypokalemia, mean [SD], 32 [39] U/L [median, 14 U/L; IQR, 11-36 U/L]; hypokalemia, mean [SD], 18 [15] U/L; and normokalemia, mean [SD], 15 [8] U/L), higher lactate dehydrogenase levels (mean [SD], severe hypokalemia, 256 [88] U/L; hypokalemia, 212 [59] U/L; and normokalemia, 199 [61] U/L), and higher C-reactive protein levels (severe hypokalemia, mean [SD], 29 [23] mg/L; hypokalemia, mean [SD], 18 [20] mg/L [median, 12, mg/L; IQR, 4-25 mg/L]; and normokalemia, mean [SD], 15 [18] mg/L [median, 6 U/L; IQR, 3-17 U/L]).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32531257&#34; target=&#34;_blank&#34;&gt;32531257&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Aspartate aminotransferase (AST), alanine aminotransferase (ALT) and creatine kinase (CK) were also increased.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532356&#34; target=&#34;_blank&#34;&gt;32532356&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.3 Blood routine: white blood cells, neutrophils, lymphocytes, monocytes, eosinophils, basophils, neutrophils, lymphocytes, monocytes, eosinophils Acidic granulocyte count, basophil count, red blood cell, hemoglobin, hematocrit, average volume of red blood cells, average red blood cell Hb content, average red blood cell Hb concentration, RDW standard deviation, RDW coefficient of variation, platelet count, platelet specific platelet average Volume, platelet distribution width,% of large platelets; 2.4 Liver and kidney function tests: alanine aminotransferase, aspartate aminotransferase, alkaline phosphatase, γ-glutamyl transferase, prealbumin, total protein, albumin, globulin, white / globule ratio , Total bilirubin, direct bilirubin, cholinesterase, urea, creatinine, total carbon dioxide, uric acid glucose, potassium, sodium, chlorine, calcium, corrected calcium, magnesium, phosphorus, calcium and phosphorus product, anion gap, penetration Pressure, total cholesterol, triacylglycerol, high density lipoprotein cholesterol, Low density lipoprotein cholesterol, lipoprotein a, creatine kinase, lactate dehydrogenase, estimated glomerular filtration rate.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32537954&#34; target=&#34;_blank&#34;&gt;32537954&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Diabetes mellitus (odds ratio [OR], 19.15; 95% confidence interval [CI], 1.90-193.42; &lt;i&gt;P&lt;/i&gt; = 0.012), body temperature ≥ 37.8°C (OR, 10.91; 95% CI, 1.35-88.36; &lt;i&gt;P&lt;/i&gt; = 0.025), peripheral oxygen saturation &amp;lt; 92% (OR, 33.31; 95% CI, 2.45-452.22; &lt;i&gt;P&lt;/i&gt; = 0.008), and creatine kinase-MB (CK-MB) &amp;gt; 6.3 (OR, 56.84; 95% CI, 2.64-1,223.78, &lt;i&gt;P&lt;/i&gt; = 0.010) at admission were associated with higher risk of severe COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32541972&#34; target=&#34;_blank&#34;&gt;32541972&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.1×10&lt;sup&gt;9&lt;/sup&gt;/L, &lt;i&gt;P&lt;/i&gt;&amp;lt;0.001), creatine kinase MB(CK-MB, 3.2 μg/L &lt;i&gt;vs&lt;/i&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32542129&#34; target=&#34;_blank&#34;&gt;32542129&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Laboratory findings showed creatine kinase (CK) &amp;gt;42,670 U/L along with elevated inflammatory markers and unremarkable creatinine, cardiac troponin level.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32554832&#34; target=&#34;_blank&#34;&gt;32554832&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The creatine kinase (CK) level of 13% of patients exceeded the normal range, and 52% of patients had elevated lactate dehydrogenase (LDH) levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32558955&#34; target=&#34;_blank&#34;&gt;32558955&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For the laboratory result, leukopenia (21%) and lymphocytosis (22%) were the mainly indicators for pediatric inpatients, followed by high aspartate aminotransferase(AST) (19%), lymphopenia (16%), high alanine aminotransferase (ALT) (15%), high C-reactive protein (CPR) (17%), lymphopenia (16%), leukocytosis (13%), high D-dimer (12%) and high creatine kinase-MB (CK-MB)(5%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32559180&#34; target=&#34;_blank&#34;&gt;32559180&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Widespread dysregulation of nitrogen metabolism was also seen in infected patients, with altered levels of most amino acids, along with increased markers of oxidant stress (e.g., methionine sulfoxide, cystine), proteolysis, and renal dysfunction (e.g., creatine, creatinine, polyamines).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32563494&#34; target=&#34;_blank&#34;&gt;32563494&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Owing to 44-60% myalgia presentation, risk of the high inflammatory state, and coagulation cascade abnormalities reported in ECoVs, testing for C-reactive protein, serum creatine kinase, and D-dimer level is mandatory.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32567326&#34; target=&#34;_blank&#34;&gt;32567326&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Higher serum levels of lactate dehydrogenase (weighted mean difference (WMD) =108.86 U/L, 95% confidence interval (CI)=75.93-141.79, &lt;i&gt;p&lt;/i&gt;&amp;lt;0.001) and creatine kinase-MB (WMD=2.60 U/L, 95% CI=1.32-3.88, &lt;i&gt;p&lt;/i&gt;&amp;lt;0.001) were associated with a significant increase in the severity of COVID-19 infection. […] Furthermore, higher serum levels of lactate dehydrogenase (WMD=213.44 U/L, 95% CI=129.97-296.92, &lt;i&gt;p&lt;/i&gt;&amp;lt;0.001), cardiac troponin I (WMD=26.35 pg/mL, 95% CI=14.54-38.15, &lt;i&gt;p&lt;/i&gt;&amp;lt;0.001), creatine kinase (WMD=48.10 U/L, 95% CI=0.27-95.94, &lt;i&gt;p&lt;/i&gt; = 0.049) and myoglobin (WMD=159.77 ng/mL, 95% CI=99.54-220.01, &lt;i&gt;p&lt;/i&gt;&amp;lt;0.001) were associated with a significant increase in the mortality of COVID-19 infection. […] Cardiac injury, as assessed by serum analysis (lactate dehydrogenase, cardiac troponin I, creatine kinase (-MB) and myoglobin), was associated with severe outcome and death from COVID-19 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32571410&#34; target=&#34;_blank&#34;&gt;32571410&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Age; temperature; anorexia; and white blood cell count, neutrophil percentage, platelet count, lymphocyte count, C-reactive protein, aspartate transaminase, creatine kinase, albumin, and fibrinogen values were significantly different between patients with mild and severe COVID-19 (P &amp;lt; 0.05).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32573995&#34; target=&#34;_blank&#34;&gt;32573995&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Results Compared to patients who could be finally discharged, those who died during hospital stay displayed significantly higher values of serum glucose, aspartate aminotransferase (AST), creatine kinase (CK), lactate dehydrogenase (LDH), urea, creatinine, high-sensitivity cardiac troponin I (hscTnI), prothrombin time/international normalized ratio (PT/INR), activated partial thromboplastin time (APTT), D-dimer, C reactive protein (CRP), ferritin and leukocytes (especially neutrophils), whilst values of albumin, hemoglobin and lymphocytes were significantly decreased.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574309&#34; target=&#34;_blank&#34;&gt;32574309&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Creatine kinase isoenzymes (CK-MB), pro-brain natriuretic peptide (pro-BNP) and troponin levels were above the normal range in 7.10% (8/112), 66.7% (10/15), and 100% of patients, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32575078&#34; target=&#34;_blank&#34;&gt;32575078&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Besides, abnormal laboratory tests were more prevalent in severe patients than in mild cases, such as elevated levels of white blood cell counts, liver enzymes, lactate dehydrogenase, creatine kinase, C-reactive protein and procalcitonin, as well as decreased levels of lymphocytes and albumin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32587625&#34; target=&#34;_blank&#34;&gt;32587625&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Muscle pain is common in both mild and severe cases, and in the most compromised patients, it is accompanied by increased creatine kinase levels and by a likely true myopathic damage.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32588367&#34; target=&#34;_blank&#34;&gt;32588367&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Creatine kinase (CK) level was detected to be significantly higher in patients with muscle pain (p &amp;lt; 0.05).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

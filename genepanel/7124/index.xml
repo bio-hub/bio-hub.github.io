@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>TNF</title>
+      <title>SDS</title>
       <link>/genepanel/7124/info/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/7124/info/</guid>
@@ -21,23 +21,23 @@
 
 
 &lt;hr /&gt;
-&lt;p&gt;tumor necrosis factor&lt;/p&gt;
+&lt;p&gt;serine dehydratase&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/7124&#34; target=&#34;_blank&#34;&gt;7124&lt;/a&gt; | Type: Protein Coding |
-Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=7124&#34; target=&#34;_blank&#34;&gt; 6p21.33&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/611162&#39; target=&#39;_blank&#39;&gt;611162&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/600807&#39; target=&#39;_blank&#39;&gt;600807&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/191160&#39; target=&#39;_blank&#39;&gt;191160&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/157300&#39; target=&#39;_blank&#39;&gt;157300&lt;/a&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/10993&#34; target=&#34;_blank&#34;&gt;10993&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=10993&#34; target=&#34;_blank&#34;&gt; 12q24.13&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/182128&#39; target=&#39;_blank&#39;&gt;182128&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a multifunctional proinflammatory cytokine that belongs to the tumor necrosis factor (TNF) superfamily. This cytokine is mainly secreted by macrophages. It can bind to, and thus functions through its receptors TNFRSF1A/TNFR1 and TNFRSF1B/TNFBR. This cytokine is involved in the regulation of a wide spectrum of biological processes including cell proliferation, differentiation, apoptosis, lipid metabolism, and coagulation. This cytokine has been implicated in a variety of diseases, including autoimmune diseases, insulin resistance, and cancer. Knockout studies in mice also suggested the neuroprotective function of this cytokine. [provided by RefSeq, Jul 2008] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes one of three enzymes that are involved in metabolizing serine and glycine. L-serine dehydratase converts L-serine to pyruvate and ammonia and requires pyridoxal phosphate as a cofactor. The encoded protein can also metabolize threonine to NH4+ and 2-ketobutyrate. The encoded protein is found predominantly in the liver. [provided by RefSeq, Jul 2008] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
     </item>
     
     <item>
-      <title>TNF</title>
+      <title>SDS</title>
       <link>/genepanel/7124/gene_expression/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/7124/gene_expression/</guid>
@@ -46,13 +46,13 @@ OMIM: &lt;a href=&#39;https://omim.org/entry/611162&#39; target=&#39;_blank&#39;
 
 
 &lt;hr /&gt;
-&lt;p&gt;tumor necrosis factor&lt;/p&gt;
+&lt;p&gt;serine dehydratase&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Expression&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; TNF expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;strong&gt;Table 1.&lt;/strong&gt; SDS expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -74,30 +74,716 @@ mRNA
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000232810
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 bone marrow
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-NA
+Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-3.7
+0.9
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000232810
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+caudate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebellum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+soft tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bronchus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+caudate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebellum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+189.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 lymph node
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skeletal muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+soft tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+spleen
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000135094
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adipose tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.3
+1.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -107,7 +793,7 @@ NA
     </item>
     
     <item>
-      <title>TNF</title>
+      <title>SDS</title>
       <link>/genepanel/7124/gene_context/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/7124/gene_context/</guid>
@@ -116,13 +802,13 @@ NA
 
 
 &lt;hr /&gt;
-&lt;p&gt;tumor necrosis factor&lt;/p&gt;
+&lt;p&gt;serine dehydratase&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of TNF gene in 45 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of SDS gene in 8 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -138,362 +824,66 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32026671&#34; target=&#34;_blank&#34;&gt;32026671&lt;/a&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32223317&#34; target=&#34;_blank&#34;&gt;32223317&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-However, there were no statistically significant differences in serum levels of tumor necrosis factor-alpha (TNF-α), IL-1, IL-8, IL-10, hs-CRP, lymphocyte count and LDH among the three groups (P&amp;gt;0.05). &lt;b&gt;Conclusion:&lt;/b&gt; The clinical characteristics of 2019-nCoV pneumonia are similar to those of common viral pneumonia. […] 而3组研究对象血清中的肿瘤坏死因子-α（TNF-α）、IL-1β、IL-8、IL-10、hs-CRP、淋巴细胞计数、LDH表达水平差异均无统计学意义（&lt;i&gt;P&lt;/i&gt;&amp;gt;0.05）。
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32171193&#34; target=&#34;_blank&#34;&gt;32171193&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-This cytokine inhibits class II histocompatibility complex (MHC) molecules and inflammation in inflammatory diseases by suppressing MyD88 and subsequently IL-1β, IL-6, TNF and CCL2.
+The Self-Rating Anxiety Scale (SAS) and the Self-Rating Depression Scale (SDS) were used.&lt;b&gt;Results&lt;/b&gt;: Females’ anxiety risk was 3.01 times compared to males (95% &lt;i&gt;CI&lt;/i&gt; 1.39-6.52). […] SDS results indicated that the difference between education level and occupation was statistically significant (&lt;i&gt;p&lt;/i&gt; = 0.024, 0.005).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32205232&#34; target=&#34;_blank&#34;&gt;32205232&lt;/a&gt;
+&lt;a href=&#34;/publication/32335579&#34; target=&#34;_blank&#34;&gt;32335579&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-LH significantly inhibited SARS-CoV-2 replication in Vero E6 cells and markedly reduced pro-inflammatory cytokines (TNF-α, IL-6, CCL-2/MCP-1 and CXCL-10/IP-10) production at the mRNA levels.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32217834&#34; target=&#34;_blank&#34;&gt;32217834&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Increased cytokine levels (IL-6, IL-10, and TNF-α), lymphopenia (in CD4+ and CD8+ T cells), and decreased IFN-γ expression in CD4+ T cells are associated with severe COVID-19.
+MATERIAL AND METHODS Data were collected using the self-rating anxiety scale (SAS) and the self-rating depression scale (SDS) administered to 1593 respondents aged 18 years and above. […] Lower average household income, lower education level, having a higher self-evaluated level of knowledge, being more worried about being infected, having no psychological support, greater property damage, and lower self-perceived health condition were significant associated with higher scores on the SAS and SDS. […] People living in Chongqing had higher SAS and SDS scores than those living in Yunnan Province.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32217835&#34; target=&#34;_blank&#34;&gt;32217835&lt;/a&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32372077&#34; target=&#34;_blank&#34;&gt;32372077&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Compared with moderate cases, severe cases more frequently had dyspnea, lymphopenia, and hypoalbuminemia, with higher levels of alanine aminotransferase, lactate dehydrogenase, C-reactive protein, ferritin, and D-dimer as well as markedly higher levels of IL-2R, IL-6, IL-10, and TNF-α.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32228827&#34; target=&#34;_blank&#34;&gt;32228827&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-All differentially expressed genes were introduced into the SREING online analysis website for protein interaction network analysis, and core genes such as signal transducer and activator of transcription 3, IL-10, IL17, TNF, interferon regulatory factor 9, 2’-5’-oligoadenylate synthetase 1, mitogen-activated protein kinase 3, radical s-adenosyl methionine domain containing 2, c-x-c motif chemokine ligand 10, caspase 3 and other genes were screened. […] The drugs predicted by EpiMed’s apparent precision treatment prediction platform for disease-drug association analysis are mainly TNF-α inhibitors, resveratrol, ritonavir, paeony, retinoic acid, forsythia, and houttuynia cordata. &lt;b&gt;Conclusions:&lt;/b&gt; The abnormal activation of multiple inflammatory pathways may be the cause of heart failure in patients after coronavirus infection. […] 冠状病毒与心衰差异表达基因富集分析，取交集处理共有GO条目20条，主要富集在病毒反应、病毒防御反应、Ⅰ型干扰素反应、γ干扰素调节、先天免疫反应调节、病毒生命周期负调控、病毒基因组复制调控等；共有5条KEGG通路，主要与肿瘤坏死因子（TNF）信号通路、白细胞介素（IL）-17信号通路、细胞因子与受体相互作用、Toll样受体信号通路、人类巨细胞病毒感染有关。 […] 蛋白互作网络分析筛选出信号传导及转录激活蛋白3、IL-10、IL-17、TNF、干扰素调节因子9、2’,5’-寡腺苷酸合成酶1、丝裂原活化蛋白激酶3、S-腺苷甲硫氨酸基区域蛋白2、CXC趋化因子配体10、半胱氨酸天冬氨酸蛋白酶3共10个核心基因。 […] EpiMed平台预测可能对冠状病毒所致心衰有效的药物为TNF-α抑制剂、白藜醇、利托那韦、白芍、维甲酸、连翘、鱼腥草等。
+The questionnaire consisted of three parts, including socio-demographic characteristics and COVID-19 epidemic-related factors, the Pittsburgh sleep quality index (PSQI), and Zung’s self-rating anxiety scale (SAS) and self-rating depression scale (SDS).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32253400&#34; target=&#34;_blank&#34;&gt;32253400&lt;/a&gt;
+&lt;a href=&#34;/publication/32376580&#34; target=&#34;_blank&#34;&gt;32376580&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-The results demonstrated that TF suppressed the histological changes in the lungs of CS-challenged mice, as evidenced by reduced generation of pro-inflammatory cytokines including interleukin 6 (IL-6), IL-1β, tumor necrosis factor α (TNF-α), nitric oxide (NO), and inducible nitric oxide synthase (iNOS) and diminished the protein expression of transient receptor potential vanilloid 1 (TRPV1).
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32257537&#34; target=&#34;_blank&#34;&gt;32257537&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Meanwhile, the level of TNF-α was significantly decreased, while IL-10 increased in MSC treatment group compared to the placebo control group.
+We surveyed a total of 95 nursing interns who were isolated collectively in a general teaching hospital in Guangzhou using a self-designed questionnaire, which consisted of a basic information form, self-rating anxiety scale (SAS), self-rating depression scale (SDS) and Pittsburgh Sleep Quality Index (PSQI). […] The surveyed interns had SAS, SDS and PSQI score of 37.79±6.59, 43.98±9.74 and 5.20±3.14, respectively, which were significant higher than the national norms in China (&lt;i&gt;P&lt;/i&gt; &amp;lt; 0.05).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32259129&#34; target=&#34;_blank&#34;&gt;32259129&lt;/a&gt;
+&lt;a href=&#34;/publication/32379637&#34; target=&#34;_blank&#34;&gt;32379637&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-In this context, both &lt;i&gt;in vitro&lt;/i&gt; and &lt;i&gt;in vivo&lt;/i&gt; studies have revealed that metronidazole could decrease the levels of several cytokines, which are known to increase during the COVID-19 infection, including interleukin (IL)8, IL6, IL1B, tumor necrosis factor (TNF)α, IL12, IL1α, and interferon (IFN)γ, as well as the levels of C-reactive protein (CRP) and neutrophil count.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32267560&#34; target=&#34;_blank&#34;&gt;32267560&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-The main mechanism of ARDS is uncontrolled systemic inflammatory response and cytokine storm following release of proinflammatory cytokines (such as interferons (IFN), interleukines (IL), tumor necrosis factor (TNF)-α) and chemokines.&lt;sup&gt;2-3&lt;/sup&gt; So, some Chinese researchers proposed or used anti-inflammatory agents in the treatment regimen of patients with COVID-19.&lt;sup&gt;3-4&lt;/sup&gt;.
+The following outcomes were measured: pulmonary function tests including plethysmography and diffusing lung capacity for carbon monoxide (DLCO), functional tests (6-min walk distance test), Quality of life (QoL) assessments (SF-36 scores), activities of daily living (Functional Independence Measure, FIM scores), and mental status tests (SAS anxiety and SDS depression scores). […] SAS and SDS scores in the intervention group decreased after the intervention, but only anxiety had significant statistical significance within and between the two groups.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32281329&#34; target=&#34;_blank&#34;&gt;32281329&lt;/a&gt;
+&lt;a href=&#34;/publication/32389999&#34; target=&#34;_blank&#34;&gt;32389999&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Arachidonic acid(AA) metabolic pathway is principally used to synthesize inflammatory cytokines, such as monocyte chemotactic protein 1(MCP-1), tumor necrosis factor(TNF), IL, IFN, etc., which is closely related to the occurrence, development and regression of inflammation.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32294485&#34; target=&#34;_blank&#34;&gt;32294485&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Elder age, underlying hypertension, high cytokine levels (IL-2R, IL-6, IL-10, and TNF-a), and high LDH level were significantly associated with severe COVID-19 on admission.
+The Symptom Checklist 90 (SCL-90), Self-rating Anxiety Scale (SAS), Self-rating Depression Scale (SDS), and PTSD Checklist-Civilian Version (PCL-C) were used to assess mental status. […] The SAS (45.89±1.117), SDS (50.13±1.813), and PCL-C (50.13±1.813) scores in the experimental group were higher than the normal control group, and were significantly different from those in the control group on SDS and PCL-C scales (P&amp;lt;0.05).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32308263&#34; target=&#34;_blank&#34;&gt;32308263&lt;/a&gt;
+&lt;a href=&#34;/publication/32411034&#34; target=&#34;_blank&#34;&gt;32411034&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-In brief, notable T cytopoenia was recorded by flow cytometry in the CD4+ and the CD8+ populations, which were significantly yet inversely correlated with remarkably increased serum levels of the pro-inflammatory cytokines IL-6, IL-10 and TNF-a.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32317220&#34; target=&#34;_blank&#34;&gt;32317220&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-In COVID-19 patients a pro-inflammatory status with high levels of interleukin (IL)-1B, IL-1 receptor (R)A and tumor necrosis factor (TNF)-α has been demonstrated. […] Moreover, high levels of IL-6 and TNF-α have been observed in patients requiring intensive-care-unit hospitalization.
+A cross-sectional survey was conducted in Gansu (China), with a questionnaire packet which consisted of the self-rating anxiety scale (SAS), self-rating depression scale (SDS), and the simplified coping style questionnaire (SCSQ). […] Correlation analysis was performed to explore the relationship between SAS, SDS, and SCSQ score.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32320677&#34; target=&#34;_blank&#34;&gt;32320677&lt;/a&gt;
+&lt;a href=&#34;/publication/32578811&#34; target=&#34;_blank&#34;&gt;32578811&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Tumor necrosis factor-α (TNF-α) and interleukin-6 (IL-6) production by circulating monocytes was sustained, a pattern distinct from bacterial sepsis or influenza.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32340759&#34; target=&#34;_blank&#34;&gt;32340759&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Herein, we have reviewed possible molecular pathways of septic shock in the patients who have received antibiotics with inflammatory properties which mainly is release of interleukin 1β (IL-1β), IL-6, and tumor necrosis factor α (TNF- α) through different routes.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32354030&#34; target=&#34;_blank&#34;&gt;32354030&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Moreover, given the recent evidence in different hospitals suggesting IL-6 and TNF-α inhibitor drugs as a possible therapy for COVID-19, we aimed to highlight that a dietary intervention could be useful to prevent the infection and/or to ameliorate the outcomes during therapy. […] Considering that the COVID-19 infection can generate a mild or highly acute respiratory syndrome with a consequent release of pro-inflammatory cytokines, including IL-6 and TNF-α, a dietary regimen modification in order to improve the levels of adiponectin could be very useful both to prevent the infection and to take care of patients, improving their outcomes.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32359943&#34; target=&#34;_blank&#34;&gt;32359943&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-The proportion of lymphocytes subsets, concentrations of immunoglobulins, complement C4, IL-2, IL-4, IL-10, TNF-α and IFN-γ were within normal range in these 14 infected HCWs.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32360479&#34; target=&#34;_blank&#34;&gt;32360479&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Laboratory tests showed decreased lymphocyte count, elevated PCT, IL-10, IL-6, TNF-α, IL-2R, high-sensitivity cardiac troponin I, NT-proBNP, creatinine, and urea nitrogen.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32360580&#34; target=&#34;_blank&#34;&gt;32360580&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-The results showed that LS could significantly inhibit SARS-CoV-2 replication in Vero E6 cells, and reduce the number of virus particles and it could markedly reduce pro-inflammatory cytokines (TNF-α, IL-6, IL-1β, IL-8, CCL-2/MCP-1 and CXCL-10/IP-10) production at the mRNA levels.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32365221&#34; target=&#34;_blank&#34;&gt;32365221&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-The leukocytes, neutrophils, infection biomarkers [such as C-reactive protein (CRP), procalcitonin (PCT) and ferritin] and the concentrations of cytokines [interleukin (IL)-2R, IL-6, IL-8, IL-10 and tumor necrosis factor (TNF)-α] were significantly increased, while lymphocytes were significantly decreased with increased severity of illness.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32373721&#34; target=&#34;_blank&#34;&gt;32373721&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-SARS-CoV-2 pneumonia severely ill patients, develop a systemic inflammatory response with a Cytokine Release Syndrome (CRS), that is characterized by a sudden increase in several pro-inflammatory cytokines, mainly IL-1, IL-6 and TNF-alfa by activated macrophages (M1 phenotype).
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32374474&#34; target=&#34;_blank&#34;&gt;32374474&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-In the present study, silvestrol down-regulated several pro- and anti-inflammatory cytokines (IL-6, IL-8, IL-10, CCL2, CCL18) and increased TNF-α during differentiation and activation of M1-macrophages, suggesting that the effects of silvestrol might cancel each other out.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32376392&#34; target=&#34;_blank&#34;&gt;32376392&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Cytokines are central to the pathophysiology of COVID-19; while some of them are beneficial (type-I interferon, interleukin-7), others appear detrimental (interleukin-1β, -6, and TNF-α) particularly in the context of the so-called cytokine storm. […] Next, reviewing current evidence drawn from clinical trials, we examine a number of cytokine and anti-cytokine therapies, including interleukin-1, -6, and TNF inhibitors, as well as less targeted therapies, such as corticosteroids, chloroquine, or JAK inhibitors.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32391668&#34; target=&#34;_blank&#34;&gt;32391668&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-The peripheral lymphocyte subsets (CD3&lt;sup&gt;+&lt;/sup&gt;T, CD4&lt;sup&gt;+&lt;/sup&gt; T, CD8&lt;sup&gt;+&lt;/sup&gt; T, NK cells, B cells), as well as serum levels of lymphocyte factors (IL-2, IL-4, IL-6, IL-10, TNF-α, IFN-γ) were dynamically monitored. […] On D2 of admission, the patient’s IL-6 and IL-10 levels were significantly higher than normal values, IFN-γ was at a normal high value, and then rapidly decreased; IL-2, IL-4, and TNF-α were all in the normal range.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32399213&#34; target=&#34;_blank&#34;&gt;32399213&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Meanwhile, high IL-6 (from 251.8 to 6.32 pg mL&lt;sup&gt;-1&lt;/sup&gt;), IL-10 (from 39.53 to 5.21 pg mL&lt;sup&gt;-1&lt;/sup&gt;) and IFN-γ (from 13.55 to 3.16 pg mL&lt;sup&gt;-1&lt;/sup&gt;) levels decreased, and IL-4 (from 2.36 to 3.19 pg mL&lt;sup&gt;-1&lt;/sup&gt;) and TNF-α (from 2.27 to 20.2 pg mL&lt;sup&gt;-1&lt;/sup&gt;) levels increased quickly when the viral RNA returned negative.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32413619&#34; target=&#34;_blank&#34;&gt;32413619&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-In contrast, in activated THP-1 derived macrophages, the CL extract more effectively attenuated pro-inflammatory cytokine production (TNF-α, IL-8, IL-2, IL-6, IL-22) as well as TGF-β and IL-10.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32418288&#34; target=&#34;_blank&#34;&gt;32418288&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-CSF analyses during the acute stage were negative for SARS-CoV-2, positive for pleocytosis and hyperproteinorrachia, and showed increased IL-8 and TNF-α concentrations while other infectious or autoimmune disorders were excluded.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32425234&#34; target=&#34;_blank&#34;&gt;32425234&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-TNF antagonist treatment was not associated with severe COVID-19 (aOR 0.9, 95% CI 0.4-2.2). […] Notably, TNF antagonists do not appear to be associated with severe COVID-19.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32425950&#34; target=&#34;_blank&#34;&gt;32425950&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-T cell numbers were negatively correlated to serum IL-6, IL-10, and TNF-α concentration, with patients in the disease resolution period showing reduced IL-6, IL-10, and TNF-α concentrations and restored T cell counts.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32426374&#34; target=&#34;_blank&#34;&gt;32426374&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-We believe that targeting the central pathway (IL-1β, TNF-α, IL-6), balancing the Th1 and Th2 response, and administering long-term anti-inflammatory therapy might be promising prospects to reduce cardiovascular impairment and even MODS during the acute and recovery phases of COVID-19.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32432519&#34; target=&#34;_blank&#34;&gt;32432519&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-We discuss the possible excess risk for COVID-19 infection in the context of the common conditions among shiftworkers, including nurses, doctors, and first responders, among others of high exposure to the contagion, of sleep imbalance and circadian disruption.&lt;b&gt;Abbreviations:&lt;/b&gt; ACE2: Angiotensin-converting enzyme 2; APC: Antigen﻿-presenting ﻿cells; CCL: Chemokine (C-C motif) ligand; CD&lt;sup&gt;+&lt;/sup&gt;: ﻿Adhesion molecule expression; COVID-19: 2019 coronavirus disease; DCs: Dendritic cells; GH: Growth hormone; HPA: Hypothalamic-pituitary-adrenal; HSF: Heat shock factor; HSP70: Heat shock protein 70; HSP90: Heat shock protein 90; IL: Interleukin; INFγ: Interferon-gamma; LT/LB: T/B lymphocytes; MHC: Major histocompatibility complex; NK: Natural ﻿killer; RAAS: renin-angiotensin-aldosterone system; SARS: ﻿Severe acute respiratory syndrome; SCN: Suprachiasmatic nucleus;SD: Sleep deprivation; SNS: Sympathetic nervous system; Th1/Th2: T helper lymphocytes 1/2; TLR2/TLR4: Toll-like receptor 2/4; TNF-α: Tumor ﻿necrosis ﻿factor alpha; VEGF: Vascular endothelial growth factor.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32437740&#34; target=&#34;_blank&#34;&gt;32437740&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-There was no correlation between maternal COVID-19 duration and the lymphocyte subsets or cytokine levels (IFN-γ, IL-2, IL-4, IL-6, IL-10 and TNF-α).
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32445956&#34; target=&#34;_blank&#34;&gt;32445956&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Quercetin, kaempferol, luteolin, isorhamnetin, baicalein, naringenin, and wogonin could be the main active ingredients of Chinese medicines for the management of COVID-19 by targeting on AEC2 and 3CL protein and inhibiting inflammatory mediators, regulating immunity, and eliminating free radicals through COX-2, CASP3, IL-6, MAPK1, MAPK14, MAPK8, and REAL in the signaling pathways of IL-17, arachidonic acid, HIF-1, NF-κB, Ras, and TNF.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32452979&#34; target=&#34;_blank&#34;&gt;32452979&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-We describe a case of severe COVID-19 infection in a recently diagnosed pediatric Crohn’s disease patient successfully treated with Tumor Necrosis Factor-alpha (TNF-α) blockade. […] Cytokine profile revealed rising levels of interleukin (IL)-6, IL-8, and TNF-α, higher than those described in either inflammatory bowel disease (IBD) or severe COVID-19 alone. […] The patient was treated with infliximab for TNF-α blockade to address both moderately to severely active Crohn’s disease and multisystem inflammatory syndrome in children (MIS-C) temporally related to COVID-19. […] Cytokine profile improved with normalization of TNF-α, a decrease in IL-6, and IL-8 concentrations. […] This case supports a role for blockade of TNF-α in the treatment of COVID-19 inflammatory cascade. […] The role of anti-TNF agents in patients with MIS-C temporally related to COVID-19 requires further investigation.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32458530&#34; target=&#34;_blank&#34;&gt;32458530&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Anti-TNF agents from among the biological therapies appear to be slightly risky in terms of susceptibility to infection.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32458536&#34; target=&#34;_blank&#34;&gt;32458536&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Pivotal trials and postmarketing data also suggest that IL-17 and IL-23 blockers are safer than TNF-blockers.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32459524&#34; target=&#34;_blank&#34;&gt;32459524&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-The production of increased amounts of cytokines such as TNF-α, IL-1, IL-6 and MCP-1 lead to oxidative stress and defective function of innate and adaptive immunity, while the activation of NLRP3 inflammasome seems to play a crucial role in the pathogenesis of the infection.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32460839&#34; target=&#34;_blank&#34;&gt;32460839&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-After treatment, the percentage and counts of lymphocyte subsets (CD3&lt;sup&gt;+&lt;/sup&gt;, CD4&lt;sup&gt;+&lt;/sup&gt;, and CD8&lt;sup&gt;+&lt;/sup&gt; T cell) were increased, and the level of IL-6, TNF-α, and C-reactive protein is significantly decreased after hWJC treatment.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32470153&#34; target=&#34;_blank&#34;&gt;32470153&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-The characteristics of interleukin (IL)-1β, IL-2 receptor (IL-2R), IL-6, IL-8, IL-10, tumor necrosis factor (TNF)-α, C-reactive protein (CRP), serum ferritin and procalcitonin (PCT), and lymphocyte subsets of these patients were retrospectively compared before and after treatment. […] Levels of IL-2R, IL-6, TNF-α and CRP decreased significantly after treatment, followed by IL-8, IL-10 and PCT.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32471782&#34; target=&#34;_blank&#34;&gt;32471782&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-This case series describes four previously healthy children with COVID-19 infection confirmed by serologic antibody testing, but negative by nasopharyngeal RT-PCR swab, presenting to the Pediatric Emergency Department (PED) with prolonged fever (5 or more days) and abrupt onset of hemodynamic instability with elevated serologic inflammatory markers and cytokine levels (IL-6, IL-8 and TNF-α).
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32471903&#34; target=&#34;_blank&#34;&gt;32471903&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Tumour necrosis factor inhibitor (anti-TNF) use was associated with a reduced odds of hospitalisation (OR 0.40, 95% CI 0.19 to 0.81), while no association with antimalarial use (OR 0.94, 95% CI 0.57 to 1.57) was observed. […] We found that glucocorticoid exposure of ≥10 mg/day is associated with a higher odds of hospitalisation and anti-TNF with a decreased odds of hospitalisation in patients with rheumatic disease.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32472461&#34; target=&#34;_blank&#34;&gt;32472461&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-The rational use of these anti-rheumatic drugs is based on the cytokinic storm (hyperproduction of IL1, IL6, TNF α) in the body by COVID-19 in its severe form.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32472655&#34; target=&#34;_blank&#34;&gt;32472655&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Parthenolide is the principal sesquiterpene lactones and the main biologically active constituent Tanacetum parthenium (commonly known as feverfew) which has could significantly reduce IL-1, IL-2, IL-6, IL-8, and TNF-α production pathways established in several human cell line models in vitro and in vivo studies.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32472703&#34; target=&#34;_blank&#34;&gt;32472703&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Under these circumstances, persistent viral stimulation leads to a significant increase in circulating cytokines such as interleukin (IL) -6, IL-10 and TNF-α.
+Demonstrating the results of Social Distancing Strategies (SDS) became a relevant factor to obtain support by the population in São Paulo State and in Brazil. […] We demonstrate that the SDS adopted in São Paulo City and State clearly brought meaningful results to delay the growth of COVID-19 cases. […] Additionally, by using a time series which is death-oriented makes it possible to identify, for São Paulo City, the effects of the SDS with the Social Isolation Index (SII) adopted in the state and to make a gross estimate for the SII, which prevents the growth of the disease. […] The use of a time series of deaths due to COVID-19 referenced to the date of the event allows a better understanding of the effects of the SDS on the progression of the COVID-19 epidemic in São Paulo State, Brazil.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -504,7 +894,7 @@ Under these circumstances, persistent viral stimulation leads to a significant i
     </item>
     
     <item>
-      <title>TNF</title>
+      <title>SDS</title>
       <link>/genepanel/7124/clinvar/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/7124/clinvar/</guid>
@@ -512,7 +902,7 @@ Under these circumstances, persistent viral stimulation leads to a significant i
 
 
 &lt;hr /&gt;
-&lt;p&gt;tumor necrosis factor&lt;/p&gt;
+&lt;p&gt;serine dehydratase&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;ClinVar Summary&lt;/h2&gt;
@@ -526,7 +916,7 @@ Under development
     </item>
     
     <item>
-      <title>TNF</title>
+      <title>SDS</title>
       <link>/genepanel/7124/geo/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/7124/geo/</guid>
@@ -534,7 +924,7 @@ Under development
 
 
 &lt;hr /&gt;
-&lt;p&gt;tumor necrosis factor&lt;/p&gt;
+&lt;p&gt;serine dehydratase&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;GEO dataset Summary&lt;/h2&gt;

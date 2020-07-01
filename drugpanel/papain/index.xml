@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11193&#39; target=&#39;_blank&#39;&gt;db11193&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=heparin&#34; target=&#34;_blank&#34;&gt;heparin&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=papain&#34; target=&#34;_blank&#34;&gt;papain&lt;/a&gt; &lt;br&gt;
 Synonymous :papaína
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :papaína
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;heparin&lt;/em&gt; gene in 39 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;papain&lt;/em&gt; gene in 1 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -133,6 +133,46 @@ Coronaviruses code for an important multifunctional enzyme named papain-like pro
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Among coronaviruses, the main protease (M&lt;sup&gt;pro&lt;/sup&gt;) is an essential drug target which, along with papain-like proteases catalyzes the processing of polyproteins translated from viral RNA and recognizes specific cleavage sites.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32476574&#34; target=&#34;_blank&#34;&gt;32476574&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thus, three fumiquinazoline alkaloids scedapin C (&lt;b&gt;15&lt;/b&gt;), quinadoline B (&lt;b&gt;19&lt;/b&gt;) and norquinadoline A (&lt;b&gt;20&lt;/b&gt;), the polyketide isochaetochromin D1 (&lt;b&gt;8&lt;/b&gt;), and the terpenoid 11a-dehydroxyisoterreulactone A (&lt;b&gt;11&lt;/b&gt;) exhibited high binding affinities on the target proteins, papain-like protease (PLpro), chymotrypsin-like protease (3CLpro), RNA-directed RNA polymerase (RdRp), non-structural protein 15 (nsp15), and the spike binding domain to GRP78.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32530284&#34; target=&#34;_blank&#34;&gt;32530284&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We introduce mutation ratio and mutation &lt;i&gt;h&lt;/i&gt;-index to characterize the protein conservativeness and unveil that SARS-CoV-2 envelope protein, main protease, and endoribonuclease protein are relatively conservative, while SARS-CoV-2 nucleocapsid protein, spike protein, and papain-like protease are relatively nonconservative.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32543978&#34; target=&#34;_blank&#34;&gt;32543978&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here using molecular docking approach, and combined molecular dynamics and MM-GBSA based free energy calculations approach, we study the potency of the four selected phytochemicals namely andrographolide (AGP1), 14-deoxy 11,12-didehydro andrographolide (AGP2), neoandrographolide (AGP3) and 14-deoxy andrographolide (AGP4) from &lt;i&gt;A. paniculata&lt;/i&gt; plant against the four key targets including three non-structural proteins (3 L main protease (3CLpro), Papain-like proteinase (PLpro) and RNA-directed RNA polymerase (RdRp)) and a structural protein (spike protein (S)) of the virus which are responsible for replication, transcription and host cell recognition.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32568618&#34; target=&#34;_blank&#34;&gt;32568618&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The study design was composed of some major aspects: (a) classification QSAR based data mining of diverse SARS-CoV papain-like protease (PLpro) inhibitors, (b) QSAR based virtual screening (VS) to identify &lt;i&gt;in-house&lt;/i&gt; molecules that could be effective against putative target SARS-CoV PLpro and (c) finally validation of hits through receptor-ligand interaction analysis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32579258&#34; target=&#34;_blank&#34;&gt;32579258&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+MPA targets coronaviral papain-like protease and its study would be useful in the development of novel anti-SARS-CoV-2 drugs.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

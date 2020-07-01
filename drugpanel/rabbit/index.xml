@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db10415&#39; target=&#39;_blank&#39;&gt;db10415&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=rabbit&#34; target=&#34;_blank&#34;&gt;rabbit&lt;/a&gt; &lt;br&gt;
 Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;rabbit&lt;/em&gt; gene in 1 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,22 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We identified a suitable rabbit polyclonal anti-SARS-CoV spike protein antibody and a mouse monoclonal anti-SARS-CoV nucleocapsid protein (NP) antibody for cross detection of the respective SARS-CoV-2 proteins by immunohistochemistry (IHC) and immunofluorescence assay (IFA).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32479900&#34; target=&#34;_blank&#34;&gt;32479900&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+An optical mapping technique utilizing voltage-sensitive fluorescent dyes was used to determine the arrhythmic effects of HCQ in ex vivo guinea pig and rabbit hearts perfused with the upper therapeutic serum dose of HCQ (1000 ng/mL).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32561849&#34; target=&#34;_blank&#34;&gt;32561849&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Seven autopsy cases (male, N = 5; female, N = 2) with reverse transcriptase-polymerase chain reaction (RT-PCR)-confirmed SARS-CoV-2 infection and a median age of 66 years (range, 50-77 years) were evaluated using a rabbit polyclonal antibody against SARS Nucleocapsid protein in correlation with clinical parameters.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db04465&#39; target=&#39;_blank&#39;&gt;db04465&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=lactose&#34; target=&#34;_blank&#34;&gt;lactose&lt;/a&gt; &lt;br&gt;
 Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lactose&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,22 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 CT score of the progressive stage was correlated with neutrophil count (r = 0.502, P &amp;lt; 0.001), white blood cell count (r = 0.414, P = 0.001), C-reactive protein (r = 0.511, P &amp;lt; 0.001), procalcitonin (r = 0.423, P = 0.004), and lactose dehydrogenase (r = 0.369, P = 0.010).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32497297&#34; target=&#34;_blank&#34;&gt;32497297&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Male patients had greater inflammation reaction, with higher levels of interleukin 10, tumor necrosis factor-α, lactose dehydrogenase, ferritin, and hyper-sensitive C-reactive protein, but a lower lymphocyte count than females adjusted by age and comorbidity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32540370&#34; target=&#34;_blank&#34;&gt;32540370&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We found significant differences between the two groups for fever, dyspnea, decreased lymphocyte and platelet counts, and increased leukocyte count, C-creative protein, procalcitonin, lactose dehydrogenase, aspartate aminotransferase, alanine aminotransferase, creatinine kinase, and creatinine levels (P&amp;lt;0.05).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

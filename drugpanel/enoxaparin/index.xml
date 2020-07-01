@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01225&#39; target=&#39;_blank&#39;&gt;db01225&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=chloroquine&#34; target=&#34;_blank&#34;&gt;chloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=enoxaparin&#34; target=&#34;_blank&#34;&gt;enoxaparin&lt;/a&gt; &lt;br&gt;
 Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;chloroquine&lt;/em&gt; gene in 158 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;enoxaparin&lt;/em&gt; gene in 8 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -69,6 +69,46 @@ Patients were also treated with anticoagulant therapy with Enoxaparin 4000 IU/da
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Dispensing of hydroxychloroquine, azithromycin, enoxaparin, and sedative medications increased substantially during the pandemic period (P &amp;lt; 0.01 for all comparisons).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532948&#34; target=&#34;_blank&#34;&gt;32532948&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 71-year old gentleman with history of arterial hypertension treated with valsartan presented on was hospitalized at the Infectious Diseases Unit, University of Bologna (Italy) for severe acute respiratory syndrome- coronavirus-2 (SARS-CoV-2) and received treatment with hydroxychloroquine 200mg bid (400 mg bid the first day), azithromycin 400 mg qd, thrombotic prophylaxis with enoxaparin 4000 UI qd and Venturi mask oxygen delivering FiO2 of 31%. […] After one week the patient significantly improved and the daily dose of enoxaparin was reduced and definitively discontinued four days later.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32560658&#34; target=&#34;_blank&#34;&gt;32560658&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Standard doses of LMWH (e.g., enoxaparin 4000 IU/24 h SC) are proposed in case of intermediate thrombotic risk (BMI &amp;lt; 30 kg/m&lt;sup&gt;2&lt;/sup&gt;, no other risk factors and no ARDS). […] In all obese patients (high thrombotic risk), adjusted prophylaxis with intermediate doses of LMWH (e.g., enoxaparin 4000 IU/12 h SC or 6000 IU/12 h SC if weight &amp;gt; 120 kg), or unfractionated heparin (UFH) if renal insufficiency (200 IU/kg/24 h, IV), is proposed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32586394&#34; target=&#34;_blank&#34;&gt;32586394&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Enoxaparin 70 IU/kg twice daily) compared to standard prophylactic dose (i.e., Enoxaparin 4000 IU once day), in hospitalized patients with COVID19 not requiring Invasive Mechanical Ventilation [IMV], are: a)more effective in preventing clinical worsening, defined as the occurrence of at least one of the following events, whichever comes first: 1. […] Known hypersensitivity to enoxaparin 7. […] Lack or withdrawal of informed consent INTERVENTION AND COMPARATOR: Control Group (Low-Dose LMWH): patients in this group will be administered Enoxaparin (Inhixa®) at standard prophylactic dose (i.e., 4000 UI subcutaneously once day). […] Intervention Group (High-Dose LMWH): patients in this group will be administered Enoxaparin (Inhixa®) at dose of 70 IU/kg every 12 hours, as reported in the following table. […] This dose is commonly used in Italy when a bridging strategy is required for the management of surgery or invasive procedures in patients taking anti-vitamin K oral anticoagulants Body Weight (kg)Enoxaparin dose every 12 hours (IU)&amp;lt;50200050-69400070-89600090-1108000&amp;gt;11010000 The treatment with Enoxaparin will be initiated soon after randomization (maximum allowed starting time 12h after randomization).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32587886&#34; target=&#34;_blank&#34;&gt;32587886&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In light of the available literature regarding the pro-thrombotic effects of this novel corona virus, we continued full dose anticoagulation with Enoxaparin after the cardiac catheterization and transitioned to rivaroxaban and we also continued the patient on dual antiplatelet therapy prior to discharge.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32591970&#34; target=&#34;_blank&#34;&gt;32591970&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Substantial clinical improvement was obtained following a management plan, which included tocilizumab, hydroxychloroquine, prednisolone and enoxaparin sodium.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

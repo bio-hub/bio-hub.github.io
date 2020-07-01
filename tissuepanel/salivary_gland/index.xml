@@ -26,7 +26,7 @@
 &lt;h3&gt;Tissue Sentence Context&lt;/h3&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;salivary gland&lt;/em&gt; tissue in 3 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;esophagus&lt;/em&gt; tissue in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -42,26 +42,34 @@ Senteces
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32343454&#34; target=&#34;_blank&#34;&gt;32343454&lt;/a&gt;
+&lt;a href=&#34;/publication/32170560&#34; target=&#34;_blank&#34;&gt;32170560&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-In this communication, we present our approach to evaluation and triage of new patients with complaints concerning for salivary gland disease.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32361098&#34; target=&#34;_blank&#34;&gt;32361098&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ACE2 is present in the salivary gland duct epithelium, and thus it could be the target of 2019-nCoV and SARS-CoV. […] SARS-CoV-related animal model experiments show that it can infect the epithelial cells on the salivary gland duct in Chinese rhesus macaques by targeting ACE2. […] We hypothesize that the infection of 2019-nCoV and SARS-CoV will lead to inflammatory pathological lesions in patients’ target organs, and possibly inflammatory lesions in salivary glands. 2019-nCoV may cause acute sialoadenitis in the acute phase of infection.
+Through scRNA-seq data analyses, we identified the organs at risk, such as lung, heart, esophagus, kidney, bladder, and ileum, and located specific cell types (i.e., type II alveolar cells (AT2), myocardial cells, proximal tubule cells of the kidney, ileum and esophagus epithelial cells, and bladder urothelial cells), which are vulnerable to 2019-nCoV infection.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32441816&#34; target=&#34;_blank&#34;&gt;32441816&lt;/a&gt;
+&lt;a href=&#34;/publication/32199615&#34; target=&#34;_blank&#34;&gt;32199615&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-However, researchers are yet to establish whether SARS-CoV-2 can directly enter the salivary glands. […] Therefore, this study aimed to assess the presence of ACE2/TMPRSS2 expression in salivary glands using publicly available databases. […] The distribution of ACE2 and TMPRSSs family in salivary gland tissue and other tissues was analyzed. […] The GTEx dataset was employed to explore the ACE2 and TMPRSS2 expression in various body organs and salivary glands in a healthy population. […] The single-cell sequencing data for salivary gland samples (including submandibular salivary gland and parotid gland) from mice were collected and analyzed. […] The components and proportions of salivary gland cells expressing the key protease TMPRSSs family were analyzed. […] Transcriptome data analysis showed that ACE2 and TMPRSS2 were expressed in salivary glands. […] Single-cell RNA sequence analysis indicated that TMPRSS2 was mainly expressed in salivary gland epithelial cells. […] We speculate that SARS-CoV-2 may be entered in salivary glands.
+Consistent with other recent reports, we confirmed that ACE2 was mainly expressed in lung AT2, liver cholangiocyte, colon colonocytes, esophagus keratinocytes, ileum ECs, rectum ECs, stomach epithelial cells, and kidney proximal tubules.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32278065&#34; target=&#34;_blank&#34;&gt;32278065&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE2 is expressed furthermore in the upper esophagus, liver, and colon.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32565901&#34; target=&#34;_blank&#34;&gt;32565901&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Overall and tumour-specific recommendations were made by stage (including surgical, locoregional, radiotherapy, systemic treatments and follow-up strategies) for the most common gastrointestinal malignancies: esophagus, gastric, pancreas, bile duct, hepatocellular, colorectal, anal cancer and neuroendocrine tumours.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

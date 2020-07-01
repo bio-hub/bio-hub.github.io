@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00145&#39; target=&#39;_blank&#39;&gt;db00145&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=glycine&#34; target=&#34;_blank&#34;&gt;glycine&lt;/a&gt; &lt;br&gt;
 Synonymous :aminoacetic acid | aminoessigsäure | aminoethanoic acid | glicina | gly | glycin | glycine | glycocoll | glykokoll | glyzin | leimzucker
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :aminoacetic acid | aminoessigsäure | aminoethanoic acid | glicina |
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;glycine&lt;/em&gt; gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -77,6 +77,22 @@ The results revealed that the identified ORF1ab polyprotein belongs to a part of
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The major mutation detected to date in the SARS-CoV-2 viral envelope spike protein, which is responsible for virus attachment to the host and is also the main target for host antibodies, is a mutation of an aspartate (D) at position 614 found frequently in Chinese strains to a glycine (G).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532805&#34; target=&#34;_blank&#34;&gt;32532805&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+If this hypothesis is correct, hydroxychloroquine, spirulina (more specifically, its chromophore phycocyanobilin) and high-dose glycine may have practical potential for mitigating the elevated thrombotic risk associated with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32544884&#34; target=&#34;_blank&#34;&gt;32544884&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The protocol starts with the construction of a hybrid peptidic scaffold by linking two fragments grafted from the interface of the hACE2 protein (a.a. 22-44 and 351-357) with a linker glycine, which is followed by the redesign and refinement simulations of the peptide sequence to optimize its binding affinity to the interface of the SARS-CoV-2 RBD.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

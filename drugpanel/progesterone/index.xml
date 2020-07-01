@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00396&#39; target=&#39;_blank&#39;&gt;db00396&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=progesterone&#34; target=&#34;_blank&#34;&gt;progesterone&lt;/a&gt; &lt;br&gt;
 Synonymous :(s)-4-pregnene-3,20-dione | (s)-pregn-4-en-3,20-dione | (s)-progesterone | 17alpha-progesterone | 17α-progesterone | 4-pregnene-3,20-dione | agolutin | akrolutin | corpus luteum hormone | delta(4)-pregnene-3,20-dione | gelbkörperhormon | luteohormone | lutogynon | pregn-4-ene-3,20-dione | progesteron | progesterona | progestérone | progesterone | progesteronum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(s)-4-pregnene-3,20-dione | (s)-pregn-4-en-3,20-dione | (s)-progeste
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;progesterone&lt;/em&gt; gene in 1 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,22 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The results show high to a moderate binding affinity for the phytoestrogens (Diadiazin, Genistein, Formontein, and Biochanin A), chlorogenic acid, linolenic acid, palmitic acid, caffeic acid, caffeic acid phenethyl ester, hydroxytyrosol, cis-p-Coumaric acid, cinnamaldehyde, thymoquinone, and some physiological hormones such as estrogens, progesterone, testosterone, and cholesterol to the HSPA5 SBDβ.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32469251&#34; target=&#34;_blank&#34;&gt;32469251&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; Although sex-disaggregated data for COVID-19 show equal numbers of cases between men and women, there seem to be sex differences in mortality rate and vulnerability to the disease: more men than women are dying. &lt;b&gt;Methods:&lt;/b&gt; We have explored the potential role of estrogens in this COVID-19 gendered impact. &lt;b&gt;Results:&lt;/b&gt; Estrogens stimulate the humoral response to viral infections, while testosterone and progesterone give an immune suppression of both innate and cell-mediated immune responses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32485205&#34; target=&#34;_blank&#34;&gt;32485205&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It was shown previously that drugs like progesterone, the cationic amphiphile U18666A and the phospholipase inhibitor methyl arachidonyl fluoro phosphonate (MAFP) induce the accumulation of BMP in THP-1 cells and decrease cell infection by human immunodeficiency virus.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

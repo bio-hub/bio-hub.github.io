@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db04540&#39; target=&#39;_blank&#39;&gt;db04540&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=lopinavir&#34; target=&#34;_blank&#34;&gt;lopinavir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=cholesterol&#34; target=&#34;_blank&#34;&gt;cholesterol&lt;/a&gt; &lt;br&gt;
 Synonymous :(3β,14β,17α)-cholest-5-en-3-ol | cholest-5-en-3beta-ol | cholesterin
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(3β,14β,17α)-cholest-5-en-3-ol | cholest-5-en-3beta-ol | choleste
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lopinavir&lt;/em&gt; gene in 133 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cholesterol&lt;/em&gt; gene in 11 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -93,6 +93,70 @@ In this study, we aimed to investigate the pathological alterations of low-densi
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 SARS-CoV-2 shares extensive structural and functional conservation with SARS-CoV-1 including engagement of the same host cell receptor (ACE2) localized in cholesterol-rich microdomains.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532356&#34; target=&#34;_blank&#34;&gt;32532356&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.3 Blood routine: white blood cells, neutrophils, lymphocytes, monocytes, eosinophils, basophils, neutrophils, lymphocytes, monocytes, eosinophils Acidic granulocyte count, basophil count, red blood cell, hemoglobin, hematocrit, average volume of red blood cells, average red blood cell Hb content, average red blood cell Hb concentration, RDW standard deviation, RDW coefficient of variation, platelet count, platelet specific platelet average Volume, platelet distribution width,% of large platelets; 2.4 Liver and kidney function tests: alanine aminotransferase, aspartate aminotransferase, alkaline phosphatase, γ-glutamyl transferase, prealbumin, total protein, albumin, globulin, white / globule ratio , Total bilirubin, direct bilirubin, cholinesterase, urea, creatinine, total carbon dioxide, uric acid glucose, potassium, sodium, chlorine, calcium, corrected calcium, magnesium, phosphorus, calcium and phosphorus product, anion gap, penetration Pressure, total cholesterol, triacylglycerol, high density lipoprotein cholesterol, Low density lipoprotein cholesterol, lipoprotein a, creatine kinase, lactate dehydrogenase, estimated glomerular filtration rate.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32536672&#34; target=&#34;_blank&#34;&gt;32536672&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High-sensitivity cardiac troponin I (hs-cTnI), creatinine, high-density lipoprotein-cholesterol, interleukin-6, C-reactive protein, prothrombin time, and D-dimer levels in the severe COVID-19 with CVD group were higher than in the non-severe COVID-19 with CVD group (P&amp;lt;0.05).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32537481&#34; target=&#34;_blank&#34;&gt;32537481&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Further study on different cell membranes demonstrates that the selectivity results from the presence of cholesterol in mammalian but not in bacterial membranes, as the cholesterol can condense the hydrophobic region of membrane, preventing the penetration of the molecular agents.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32556213&#34; target=&#34;_blank&#34;&gt;32556213&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Multivariate logistic regression models including age, sex and ethnicity were used to test whether addition of (1) cardiometabolic factors [diabetes, hypertension, high cholesterol, prior myocardial infarction, smoking and body mass index (BMI)]; (2) 25(OH)-vitamin D; (3) poor diet; (4) Townsend deprivation score; (5) housing (home type, overcrowding) or (6) behavioural factors (sociability, risk taking) attenuated sex/ethnicity associations with COVID-19 status.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32567003&#34; target=&#34;_blank&#34;&gt;32567003&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Serum albumin, low-density lipoproteins cholesterol (LDL-C), and high-density lipoproteins cholesterol (HDL-C) concentrations and inflammatory cytokines levels were measured and compared among these three groups.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32570882&#34; target=&#34;_blank&#34;&gt;32570882&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It has been shown that high cholesterol levels are associated with more lipid rafts, subdomains of the plasma membrane that can harbour angiotensin-converting enzyme 2 (ACE2) receptors for the S-protein of SARS-CoV-2. […] Evidence of the importance of cholesterol for viral entry into host cells could suggest a role for cholesterol-lowering therapies in reducing viral infectivity. […] In this review, we elaborate on the role of cholesterol level in the process of the coronavirus infection and provide a critical appraisal on the potential of statins in reducing the severity, duration, and complications of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32589755&#34; target=&#34;_blank&#34;&gt;32589755&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition, the proportion of patients with abnormal total cholesterol increased as the severity of disease increased, and the proportion in critically severe patients was significantly higher than that in moderate patients. […] With the progression of COVID-19, the abnormal proportion of total white blood cell, neutrophils, lymphocytes, IL-2, IL-4 and total cholesterol increased. […] In addition, the change in the total cholesterol level suggested that COVID-19 would induce some liver function damage in patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32592716&#34; target=&#34;_blank&#34;&gt;32592716&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+At the membrane level, GLR induces cholesterol-dependent disorganization of lipid rafts which are important for the entry of coronavirus into cells. […] We used molecular docking to characterize further and discuss both the cholesterol- and HMG box-binding functions of GLR.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

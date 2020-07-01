@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00328&#39; target=&#39;_blank&#39;&gt;db00328&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=indomethacin&#34; target=&#34;_blank&#34;&gt;indomethacin&lt;/a&gt; &lt;br&gt;
 Synonymous :{1-[(4-chlorophenyl)carbonyl]-5-methoxy-2-methyl-1h-indol-3-yl}acetic acid | 1-(p-chlorobenzoyl)-5-methoxy-2-methylindole-3-acetic acid | indometacin | indometacina | indometacine | indometacinum | indomethacin
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :{1-[(4-chlorophenyl)carbonyl]-5-methoxy-2-methyl-1h-indol-3-yl}aceti
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;indomethacin&lt;/em&gt; gene in 6 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Among them, indomethacin, an anti-inflammatory drug, was shown to have potent in-vitro antiviral properties on human SARS-CoV-1, canine CCoV, and more recently on human SARS-CoV-2 at low micromolar range. […] Our objective was to show that indomethacin could be considered as a promising candidate for the treatment of SARS-CoV-2 and to provide criteria for comparing benefits of alternative dosage regimens using a model-based approach. […] A multi-stage model-based approach was developed to characterize % of recovery and viral load in CCoV-infected dogs, to estimate the PK of indomethacin in dog and human using published data after administration of immediate (IR) and sustained-release (SR) formulations, and to estimate the expected antiviral activity as a function of different assumptions on the effective exposure in human. […] These results suggest that indomethacin could be considered as a promising candidate for the treatment of SARS-CoV-2 whose potential therapeutic effect need to be further assessed in a prospective clinical trial.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32522674&#34; target=&#34;_blank&#34;&gt;32522674&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Some of these drugs -particularly azithromycin and other macrolides, indomethacin and some other non-steroidal anti-inflammatory drugs, proton pump inhibitors and fluoxetine - could provide additional therapeutic benefits in addition to the potential antiviral effect that is still to be confirmed by well-controlled clinical trials.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

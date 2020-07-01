@@ -26,7 +26,7 @@
 &lt;h3&gt;Tissue Sentence Context&lt;/h3&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;esophagus&lt;/em&gt; tissue in 3 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;rectum&lt;/em&gt; tissue in 6 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -42,14 +42,6 @@ Senteces
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32170560&#34; target=&#34;_blank&#34;&gt;32170560&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Through scRNA-seq data analyses, we identified the organs at risk, such as lung, heart, esophagus, kidney, bladder, and ileum, and located specific cell types (i.e., type II alveolar cells (AT2), myocardial cells, proximal tubule cells of the kidney, ileum and esophagus epithelial cells, and bladder urothelial cells), which are vulnerable to 2019-nCoV infection.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
 &lt;a href=&#34;/publication/32199615&#34; target=&#34;_blank&#34;&gt;32199615&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
@@ -58,10 +50,42 @@ Consistent with other recent reports, we confirmed that ACE2 was mainly expresse
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32278065&#34; target=&#34;_blank&#34;&gt;32278065&lt;/a&gt;
+&lt;a href=&#34;/publication/32241899&#34; target=&#34;_blank&#34;&gt;32241899&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ACE2 is expressed furthermore in the upper esophagus, liver, and colon.
+SARS-CoV-2 RNA was detected in oesophagus, stomach, duodenum and rectum specimens for both two severe patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32315244&#34; target=&#34;_blank&#34;&gt;32315244&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here we discuss how we have dealt with this in our colorectal surgery department taking into account current evidence about the danger of viral transmission during laparoscopic surgery. &lt;b&gt; &lt;i&gt;Discussion:&lt;/i&gt; &lt;/b&gt; We report a case of 28 years old female patient with carcinoma rectum.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32366279&#34; target=&#34;_blank&#34;&gt;32366279&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Notably, overexpression of ACE2 have been observed in including colon adenocarcinoma (COAD), kidney renal papillary cell carcinoma (KIRP), pancreatic adenocarcinoma (PAAD), rectum adenocarcinoma (READ), stomach adenocarcinoma (STAD), and lung adenocarcinoma (LUAD).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32468052&#34; target=&#34;_blank&#34;&gt;32468052&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+TMPRSS2 was overexpressed in cervical squamous cell carcinoma and endocervical adenocarcinoma, colon adenocarcinoma, prostate adenocarcinoma (PRAD), rectum adenocarcinoma (READ), uterine corpus endometrial carcinoma and uterine carcinosarcoma, with PRAD and READ exhibiting the highest expression of all cancers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32516124&#34; target=&#34;_blank&#34;&gt;32516124&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The past medical history of our elderly patient (75-year-old female) includes rectum resection with intraoperative cardiac arrest and successful resuscitation.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

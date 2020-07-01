@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01109&#39; target=&#39;_blank&#39;&gt;db01109&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=sofosbuvir&#34; target=&#34;_blank&#34;&gt;sofosbuvir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=heparin&#34; target=&#34;_blank&#34;&gt;heparin&lt;/a&gt; &lt;br&gt;
 Synonymous :eparina | heparina | heparine | heparinic acid | heparinum | unfractionated heparin
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :eparina | heparina | heparine | heparinic acid | heparinum | unfract
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;sofosbuvir&lt;/em&gt; gene in 9 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;heparin&lt;/em&gt; gene in 71 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -357,6 +357,262 @@ Six out of 7 patients were treated with unfractionated or low molecular weight h
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In this article by the Global COVID-19 Thrombosis Collaborative Group, we describe novel dosing approaches for commonly used antithrombotic agents (especially heparin-based regimens) and the potential use of less widely used antithrombotic drugs in the absence of confirmed thrombosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32476080&#34; target=&#34;_blank&#34;&gt;32476080&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study investigates the association between the treatment with heparin and mortality in patients admitted with Covid-19. […] The following variables were extracted for this study: age, gender, temperature, and saturation of oxygen on admission, treatment with heparin, hydroxychloroquine, azithromycin, steroids, tocilizumab, a combination of lopinavir with ritonavir, and oseltamivir, together with data on mortality. […] Heparin had been used in 1734 patients. […] Heparin was associated with lower mortality when the model was adjusted for age and gender, with OR (95% CI) 0.55 (0.37-0.82) p = 0.003. […] The association between heparin and lower mortality observed in this study can be acknowledged by clinicians in hospitals and in the community. […] Randomized controlled trials to assess the causal effects of heparin in different therapeutic regimes are required.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32476308&#34; target=&#34;_blank&#34;&gt;32476308&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A proper combination of antiviral agents, immune modulators such as prednisolone, and anticoagulants such as heparin and anti-C5a antagonists could be employed to minimize lung damage and prevent systemic involvements.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32479921&#34; target=&#34;_blank&#34;&gt;32479921&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One of these patients was treated with therapeutic doses of low-molecular-weight heparin, after which no further deterioration in kidney function was observed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32493073&#34; target=&#34;_blank&#34;&gt;32493073&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this report, we present a case of a 57-year-old woman who presented to the clinic’s infectious department with swelling, pain, warmth, and redness in the left leg who was treated with therapeutic heparin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32504106&#34; target=&#34;_blank&#34;&gt;32504106&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All inpatient CoViD-19 patients should receive thrombosis prophylaxis with low molecular weight heparin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32510771&#34; target=&#34;_blank&#34;&gt;32510771&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We reduced immunosuppressive regimen in all these patients, typically holding the antiproliferative agent and augmenting steroids; everybody received hydroxychloroquine, initial empiric antibiotic treatment with piperacillin/tazobactam, and high-dose low molecular weight heparin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32515570&#34; target=&#34;_blank&#34;&gt;32515570&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In patients with COVID-19 who are suspected of VTE or in whom the diagnosis is confirmed, parenteral therapy with low-molecular-weight heparin should be initiated in the absence of contraindications. […] If heparin-induced thrombocytopenia is suspected, nonheparin anticoagulants should be used such as bivalirudin or fondaparinux.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32516124&#34; target=&#34;_blank&#34;&gt;32516124&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Following 6 weeks of therapeutic dose low-molecular-weight heparin (LMWH) treatment, the cancerous colonic section was resected.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32516429&#34; target=&#34;_blank&#34;&gt;32516429&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most commonly used in-hospital anticoagulants, unfractionated heparin (UFH) and low molecular weight heparin (LMWH), require antithrombin (AT) to exert their anticoagulant effect (Bussey and Francis 2004).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32519894&#34; target=&#34;_blank&#34;&gt;32519894&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Observed hypercoagulability in COVID-19 patients has created debate within the critical care community on the therapeutic utility of heparin. […] We seek to provide an overview of the data supporting the therapeutic use of heparin, both unfractionated and low molecular weight, as an anticoagulant for the treatment of SARS-CoV-2 infection. […] Additionally, we review preclinical evidence establishing biological plausibility for heparin and synthetic heparin-like drugs as therapies for COVID-19 through anti-viral and anti-inflammatory effects. […] Finally, we discuss known adverse effects and theoretical off-target effects that may temper enthusiasm for the adoption of heparin as a therapy in COVID-19 without confirmatory prospective randomized controlled trials. […] Despite previous failures of anticoagulants in critical illness, plausibility of heparin for COVID-19 is sufficiently robust to justify urgent randomized controlled trials to determine the safety and effectiveness of this therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32526092&#34; target=&#34;_blank&#34;&gt;32526092&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Emerging evidence suggests that the use of heparin in these patients could be associated with lower mortality[2].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32526252&#34; target=&#34;_blank&#34;&gt;32526252&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Respiratory-support was necessary in 71%, 52% received antivirals, 80% heparin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32526763&#34; target=&#34;_blank&#34;&gt;32526763&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In our opinion, the use of heparin could play a crucial role in these patients. […] In fact, recent studies have shown that heparin, the most commonly used anticoagulant during HD procedures, had anti-inflammatory properties and a direct antiviral action, due to its ability to prevent SARS-CoV-2 pseudovirus entry into host cells. […] These activities, together with its anticoagulant action, could explain the ability of heparin to ameliorate COVID-19 clinical course.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32531538&#34; target=&#34;_blank&#34;&gt;32531538&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hesperidin mixture with diosmin co-administrated with heparin protect against venous thromboembolism which may prevent disease progression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532939&#34; target=&#34;_blank&#34;&gt;32532939&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The thrombotic phenomena described in the pulmonary vascular bed of patients with severe COVID-19 suggest the administration of low-molecular weight heparin (LMWH) as standard measure in hospitalized patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534175&#34; target=&#34;_blank&#34;&gt;32534175&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since high mortality rates from sepsis induced DIC due to COVID-19 infection has also been associated with thrombotic events and elevated levels of D-dimer, randomized controlled trials of using anticoagulant therapy with heparin is urgently required. […] The use of acetazolamide with or without sildenafil also needs to be explored with or without heparin, since increased oxygen delivery to vital organs through prevention of thrombosis/pulmonary emboli along with carbonic anhydrase inhibition may help increase oxygenation and prevent adverse clinical outcomes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32542212&#34; target=&#34;_blank&#34;&gt;32542212&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent evidence reports that the use of low-molecular-weight heparin reduces mortality in patients with severe coronavirus with coagulopathy. […] Although the full scope of the benefits from heparin for COVID-19 patients is unfolding, encouraging clinical data suggest that heparin-like molecules may represent a useful approach to treat or prevent severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection. […] The intent of this article is to offer our opinions on the mechanism(s) by which heparin may attenuate the course of SARS-CoV-2 infection. […] Furthermore, we propose a novel strategy to treat or prevent SARS-CoV-2 infection using “designer” heparin molecules that are fabricated using a synthetic biology approach.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32550069&#34; target=&#34;_blank&#34;&gt;32550069&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Due to the failure of patients to respond to the prophylactic doses of heparin recommended by ISTH, higher doses of heparin may be necessary to achieve adequate anticoagulation. […] Patients’ resistance to prophylactic doses of heparin could be due to low levels of anti-thrombin and high levels of fibrinogen, which would reinforce the use of therapeutic doses of heparin in the early stages of hospitalization. […] The review also compares low-molecular-weight heparin (LMWH) and unfractionated heparin (UFH) as anticoagulant choices for COVID-19 patients. […] New anticoagulant, nafamostat, used in Japan is also discussed as a possible potentiate for heparin therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32555568&#34; target=&#34;_blank&#34;&gt;32555568&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Case 3: a 77-year-old man with SARS-CoV-2 pneumonia who developed a venous thromboembolic event despite thromboprophylaxis with low molecular weight heparin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32556875&#34; target=&#34;_blank&#34;&gt;32556875&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These studies all included different interventions (thromboprophylaxis with unfractionated heparin (UFH) or low molecular-weight heparin (LMWH); an intensive thromboprophylaxis protocol with LMWH, antithrombin, and clopidogrel; and salvage therapy with tissue plasminogen activator and heparin).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32560658&#34; target=&#34;_blank&#34;&gt;32560658&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The impact of obesity in severe COVID-19 has also been highlighted.In this context, standard doses of low molecular weight heparin (LMWH) may be inadequate in ICU patients, with obesity, major inflammation, and hypercoagulability. […] In all obese patients (high thrombotic risk), adjusted prophylaxis with intermediate doses of LMWH (e.g., enoxaparin 4000 IU/12 h SC or 6000 IU/12 h SC if weight &amp;gt; 120 kg), or unfractionated heparin (UFH) if renal insufficiency (200 IU/kg/24 h, IV), is proposed. […] In all these situations, therapeutic doses of LMWH, or UFH in case of renal insufficiency with monitoring of anti-Xa activity, are proposed.In conclusion, intensification of heparin treatment should be considered in the context of COVID-19 on the basis of clinical and biological criteria of severity, especially in severely ill ventilated patients, for whom the diagnosis of pulmonary embolism cannot be easily confirmed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32560665&#34; target=&#34;_blank&#34;&gt;32560665&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Entanglement between inflammation and coagulation and resistance to heparin provide a rationale to consider other therapeutic approaches in order to preserve endothelial function and limit microthrombosis, especially in severe forms. […] These strategies include nebulized heparin, N-acetylcysteine, plasma exchange and/or fresh frozen plasma, plasma derivatives to increase the level of endogenous anticoagulants (tissue factor pathway inhibitor, activated protein C, thrombomodulin, antithrombin), dipyridamole, complement blockers, different types of stem cells, and extracellular vesicles.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32561465&#34; target=&#34;_blank&#34;&gt;32561465&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Heparin, clinically used as an anticoagulant, has also anti-inflammatory properties including binding of inflammatory cytokines, inhibition of neutrophil chemotaxis, protection of endothelial cells and a potential antiviral effect. […] We hypothesized that low molecular weight heparin (LMWH) may attenuate cytokine storm in COVID-19 patients therefore LMWH could be a valid adjunctive therapeutic drug for the treatment of COVID-19 pneumopathy. […] In this paper we review potential mechanisms involved in coagulation impairment following viral infection and the possible role of heparin in the treatment of COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562915&#34; target=&#34;_blank&#34;&gt;32562915&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the absence of a therapy of proven efficacy, current management consists of off-label or compassionate use therapies based on antivirals, antiparasitic agents in both oral and parenteral formulation, anti-inflammatory drugs, oxygen therapy and heparin support and convalescent plasma.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32569013&#34; target=&#34;_blank&#34;&gt;32569013&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low molecular weight heparin appears to be associated with good prognosis in COVID-19 patients and has the ability to reduce coagulation and inflammation markers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32569708&#34; target=&#34;_blank&#34;&gt;32569708&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The inflammatory phase includes therapeutic options like Tocilizumab, Anakinra, Baricitinib, Eculizumab, Emapalumab and Heparin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32570240&#34; target=&#34;_blank&#34;&gt;32570240&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Retroviral therapy, antibiotics, heparin, and chloroquine were prescribed at the beginning.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32581015&#34; target=&#34;_blank&#34;&gt;32581015&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Anticoagulant therapy, mainly with low molecular weight heparin (LMWH), appears to be associated with better prognosis in patients with severe COV-ID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32583809&#34; target=&#34;_blank&#34;&gt;32583809&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although the International Society on Thrombosis and Haemostasis (ISTH) interim guidance recommends low molecular weight heparin in all hospitalized patients, data is lacking in population below 14 years of age. […] However, in the presence of life-threatening thromboembolic event or symptomatic acro-ischemia, unfractionated heparin (UFH) should be used with caution.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32586214&#34; target=&#34;_blank&#34;&gt;32586214&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A number of antithrombotic drugs have been proposed as potential therapies to prevent COVID-19-associated thrombosis, including, heparin, FXII inhibitors, fibrinolytic drugs, nafamostat and dipyridamole, many of which also possess pleiotropic anti-inflammatory or anti-viral effects.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32586394&#34; target=&#34;_blank&#34;&gt;32586394&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To assess whether high doses of Low Molecular Weight Heparin (LMWH) (i.e. […] History of heparin induced thrombocytopenia 8. […] Administration of therapeutic doses of LMWH, fondaparinux, or unfractionated heparin (UFH) for more than 72 hours before randomization; prophylactic doses are allowed 12. […] Assuming an alpha of 5% (two tailed) and a percentage of patients who experience clinical worsening in the control group being between 25% and 30%, the study will have 80% power to detect at least 50% relative reduction in the risk of death between low and high doses of heparin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32589931&#34; target=&#34;_blank&#34;&gt;32589931&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Heparin resistance is an uncommon phenomenon defined as the need for high dose unfractionated heparin (UFH) of more than 35,000 IU/day to achieve the target activated partial thromboplastin time ratio or the failure to achieve the desired activated clotting time after a full UFH dose. […] We describe a Covid-19 patient confirmed by reverse-transcriptase-polymerase-chain-reaction (RT-PCR) assay, with acute limb ischemia, who developed heparin resistance.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

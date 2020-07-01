@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11008&#39; target=&#39;_blank&#39;&gt;db11008&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=tocilizumab&#34; target=&#34;_blank&#34;&gt;tocilizumab&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=poultry&#34; target=&#34;_blank&#34;&gt;poultry&lt;/a&gt; &lt;br&gt;
 Synonymous :chicken, turkey, duck, goose, or quail | poultry | poultry, unspecified
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :chicken, turkey, duck, goose, or quail | poultry | poultry, unspecif
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;tocilizumab&lt;/em&gt; gene in 80 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;poultry&lt;/em&gt; gene in 6 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -117,6 +117,22 @@ Though the majority of the participants had positive perception towards universa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Additional results indicated that civets and poultry are potential candidates for the natural reservoir of the SARS-CoV-2, and that domain 288-330 of S1 protein from the SARS-CoV-2 represents promising therapeutic and/or vaccine target.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32525587&#34; target=&#34;_blank&#34;&gt;32525587&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Moreover, both clade 7.2 of subtype H5 highly pathogenic avian influenza virus and subtype H7N9 avian influenza virus circulated in poultry in China for years, and they have been virtually eliminated through mass vaccination in recent years.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32563608&#34; target=&#34;_blank&#34;&gt;32563608&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Diverse coronaviruses can infect the domestic species from dogs and cats, to cattle and pigs to poultry.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

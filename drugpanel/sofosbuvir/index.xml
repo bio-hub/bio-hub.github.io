@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db08934&#39; target=&#39;_blank&#39;&gt;db08934&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=tocilizumab&#34; target=&#34;_blank&#34;&gt;tocilizumab&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=sofosbuvir&#34; target=&#34;_blank&#34;&gt;sofosbuvir&lt;/a&gt; &lt;br&gt;
 Synonymous :s)-isopropyl 2-((s)-(((2r,3r,4r,5r)-5-(2,4-dioxo-3,4- dihydropyrimidin-1(2h)-yl)-4-fluoro-3-hydroxy-4-methyltetrahydrofuran-2-yl)methoxy)- (phenoxy)phosphorylamino)propanoate | sofosbuvir
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :s)-isopropyl 2-((s)-(((2r,3r,4r,5r)-5-(2,4-dioxo-3,4- dihydropyrimid
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;tocilizumab&lt;/em&gt; gene in 80 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;sofosbuvir&lt;/em&gt; gene in 11 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -117,6 +117,22 @@ A knowledge-based analysis strongly suggests a possible repositioning of the ant
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Sofosbuvir may be a potential option in the treatment of COVID-19 based on the similarity between the replication mechanisms of the HCV and the coronavirus. […] According the limited experimental evidences, it is hypothesized that sofosbuvir might be a potential option to improve care of patients with COVID-19 especially at the start of the disease and before invasion of the virus into the lung parenchymal cells. […] Efficacy and safety of sofosbuvir in treatment of COVID-19 may be considered in future clinical studies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32518317&#34; target=&#34;_blank&#34;&gt;32518317&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The structural superposition of the hepatitis C virus polymerase bound to sofosbuvir, a nucleoside analog antiviral approved for hepatitis C virus infections, with the SARS-CoV polymerase shows that the residues that bind to the drug are present in the latter. […] Moreover, a multiple alignment of several SARS-CoV-2, SARS and MERS-related coronaviruses polymerases shows that these residues are conserved in all these viruses, opening the possibility to use sofosbuvir against these highly infectious pathogens.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562705&#34; target=&#34;_blank&#34;&gt;32562705&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We previously demonstrated that five nucleotide analogues inhibit the SARS-CoV-2 RNA-dependent RNA polymerase (RdRp), including the active triphosphate forms of Sofosbuvir, Alovudine, Zidovudine, Tenofovir alafenamide and Emtricitabine.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

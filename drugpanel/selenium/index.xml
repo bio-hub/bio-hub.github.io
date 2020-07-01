@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11135&#39; target=&#39;_blank&#39;&gt;db11135&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=chloroquine&#34; target=&#34;_blank&#34;&gt;chloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=selenium&#34; target=&#34;_blank&#34;&gt;selenium&lt;/a&gt; &lt;br&gt;
 Synonymous :selen | selenio | sélénium | selenium elemental | selenium metallicum | selenium, elemental
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :selen | selenio | sélénium | selenium elemental | selenium metalli
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;chloroquine&lt;/em&gt; gene in 158 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;selenium&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -69,6 +69,14 @@ A wealth of mechanistic and clinical data show that vitamins, including vitamins
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Selenium (Se) is a ubiquitous element akin to sulfur (S) existing in the Earth crust in various organic and inorganic forms. […] Selenium concentration varies greatly depending on the geographic area. […] Consequently, the content of selenium in food products is also variable.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32574914&#34; target=&#34;_blank&#34;&gt;32574914&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The physico-chemical parameters compared are pH, total dissolved solids (TDS) and electrical conductivity (EC), nitrate (NO&lt;sub&gt;3&lt;/sub&gt;), fluoride (F), chromium (Cr), iron (Fe), copper (Cu), zinc (Zn), cadmium (Cd), lead (Pb), arsenic (As), and selenium (Se), and the bacterial parameters are total coliforms, fecal coliforms, E. coli, and fecal streptococci.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

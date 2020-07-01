@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01593&#39; target=&#39;_blank&#39;&gt;db01593&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=gold&#34; target=&#34;_blank&#34;&gt;gold&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=zinc&#34; target=&#34;_blank&#34;&gt;zinc&lt;/a&gt; &lt;br&gt;
 Synonymous :zinc, chelated | zinc, elemental | zincum metallicum | zn
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :zinc, chelated | zinc, elemental | zincum metallicum | zn
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;gold&lt;/em&gt; gene in 49 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;zinc&lt;/em&gt; gene in 22 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -165,6 +165,86 @@ Low micronutrient status, such as of vitamin A or zinc, has been associated with
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Zinc Iodide and Dimethyl Sulfoxide compositions are proposed as therapeutic agents to treat and prevent chronic and acute viral infections including SARS-CoV-2 infected patients. […] Given the fact that Zinc Iodide has been used as an oral antiseptic agent and DMSO has been already proven as a safe pharmaceutical solvent and therapeutic agent, we hypothesize that the combination of these two agents can be applied as an effective, safe and inexpensive treatment for SARS-CoV-2 and other viral infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32512490&#34; target=&#34;_blank&#34;&gt;32512490&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is well known that zinc (Zn) possesses a variety of direct and indirect antiviral properties, which are realized through different mechanisms.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32513807&#34; target=&#34;_blank&#34;&gt;32513807&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Because of their potential to influence immune response, ascorbic acid (vitamin C), zinc, vitamin D, and &lt;i&gt;N&lt;/i&gt;-acetylcysteine have been hypothesized to be useful for prevention or treatment of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32519786&#34; target=&#34;_blank&#34;&gt;32519786&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hydroxychloroquine (600mg/day), Azithromycine, steroids (dexamethasone 20mg/day), vitamin C (3g/day), Zinc, diuretics and Enoxaparine were equally used for the two patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32522597&#34; target=&#34;_blank&#34;&gt;32522597&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report here on four consecutive outpatients with clinical characteristics (CDC case definition) of and/or laboratory-confirmed COVID-19 who were treated with high dose zinc salt oral lozenges. […] All four patients experienced significant improvement in objective and symptomatic disease measures after one day of high dose therapy suggesting that zinc therapy was playing a role in clinical recovery. […] A mechanism for zinc’s effects is proposed based on previously published studies on SARS- CoV-1, and randomized controlled trials assessing zinc shortening of common cold duration. […] The limited sample size and study design preclude a definitive statement about the effectiveness of zinc as a treatment for COVID-19 but suggest the variables to be addressed to confirm these initial findings in future trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32524645&#34; target=&#34;_blank&#34;&gt;32524645&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We comment on hydroxychloroquine, chloroquine, lopinavir/ritonavir with zinc supplement, remdesivir, tocilizumab, ciclesonide, niclosamide and high-dose intravenous immunoglobulin (IVIG).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534175&#34; target=&#34;_blank&#34;&gt;32534175&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A randomized trial of ivermectin, and/or nutraceuticals that have been published to support immune function including glutathione, vitamin C, zinc, and immunomodulatory supplements (3,6 Beta glucan) could be beneficial in preventing transmission or lessening symptomatology but requires statistical validation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32565398&#34; target=&#34;_blank&#34;&gt;32565398&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Interventions included intravenous ascorbic acid, intramuscular cholecalciferol, enteral and intramuscular vitamin E, enteral zinc sulfate, and oral and parenteral glutamine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32567995&#34; target=&#34;_blank&#34;&gt;32567995&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Authors have screened more than one million molecules available in the ZINC database and taken the best two compounds based on binding energy score.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32568969&#34; target=&#34;_blank&#34;&gt;32568969&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These therapies include immunomodulators (i.e. intravenous immunoglobulin, thymosin α-1, IL-6, tocilizumab, cyclosporine, thalidomide, fingolimod), Chinese medicines (i.e. glycyrrhizin, baicalin, Xuebijing), anti-vascular endothelial growth factors (bevacizumab), estrogen modulating drugs, statins and nutritional supplements (i.e. vitamin A, B, C, D, E and zinc).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32574914&#34; target=&#34;_blank&#34;&gt;32574914&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The physico-chemical parameters compared are pH, total dissolved solids (TDS) and electrical conductivity (EC), nitrate (NO&lt;sub&gt;3&lt;/sub&gt;), fluoride (F), chromium (Cr), iron (Fe), copper (Cu), zinc (Zn), cadmium (Cd), lead (Pb), arsenic (As), and selenium (Se), and the bacterial parameters are total coliforms, fecal coliforms, E. coli, and fecal streptococci.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

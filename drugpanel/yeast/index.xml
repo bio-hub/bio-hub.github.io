@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11017&#39; target=&#39;_blank&#39;&gt;db11017&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=yeast&#34; target=&#34;_blank&#34;&gt;yeast&lt;/a&gt; &lt;br&gt;
 Synonymous :saccharomyces cerevisiae/saccharomyces boulardii | yeast, dried | yeast, unspecified | yeasts
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :saccharomyces cerevisiae/saccharomyces boulardii | yeast, dried | ye
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;yeast&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,30 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Here we show the full functionality of a yeast-based synthetic genomics platform to genetically reconstruct diverse RNA viruses, including members of the Coronaviridae, Flaviviridae and Paramyxoviridae families. […] Viral subgenomic fragments were generated using viral isolates, cloned viral DNA, clinical samples, or synthetic DNA, and reassembled in one step in Saccharomyces cerevisiae using transformation associated recombination (TAR) cloning to maintain the genome as a yeast artificial chromosome (YAC).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32486534&#34; target=&#34;_blank&#34;&gt;32486534&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the cohort, a large number of bacteria (cocci) were detected in 1 case and a large number of fungi (yeast type) were detected in 1 case.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32502901&#34; target=&#34;_blank&#34;&gt;32502901&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This research proposes RPs extracted from bacillus sp. and yeast as new forum for the advancement of antiviral therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32503663&#34; target=&#34;_blank&#34;&gt;32503663&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients were excluded from the trial in case of (1) known serious allergic reactions to yeast-derived products, (2) lithium carbonate therapy, (3) mechanical ventilation prior to randomization, (4) peripheral white blood cell count above 25.000/μL and/or active myeloid malignancy, (5) high dose systemic steroid therapy (&amp;gt; 20 mg methylprednisolone or equivalent), (6) enrolment in another investigational study, (7) pregnant or breastfeeding or (8) ferritin levels &amp;gt; 2000 μg/mL.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

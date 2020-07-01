@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db10532&#39; target=&#39;_blank&#39;&gt;db10532&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=garlic&#34; target=&#34;_blank&#34;&gt;garlic&lt;/a&gt; &lt;br&gt;
 Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;garlic&lt;/em&gt; gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,22 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Eighteen active substances, including 17 organosulfur compounds found in garlic essential oil (T), were identified by GC-MS analysis. […] The results show that the 17 organosulfur compounds, accounting for 99.4% contents of the garlic essential oil, have strong interactions with the amino acids of the ACE2 protein and the main protease PDB6LU7 of SARS-CoV-2. […] The strongest anticoronavirus activity is expressed in allyl disulfide and allyl trisulfide, which account for the highest content in the garlic essential oil (51.3%). […] The results suggest that the garlic essential oil is a valuable natural antivirus source, which contributes to preventing the invasion of coronavirus into the human body.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32512493&#34; target=&#34;_blank&#34;&gt;32512493&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compounds derived from Allium sativum (garlic) have the potential to decrease the expression of proinflammatory cytokines and to reverse the immunological abnormalities to more acceptable levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32551760&#34; target=&#34;_blank&#34;&gt;32551760&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Fear-induced behavioral changes such as consuming lemon, ginger, garlic, local herbs, and other substances for protection have also become rampant.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

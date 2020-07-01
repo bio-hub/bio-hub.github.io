@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>FURIN</title>
+      <title>ALB</title>
       <link>/genepanel/5045/info/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/5045/info/</guid>
@@ -21,23 +21,23 @@
 
 
 &lt;hr /&gt;
-&lt;p&gt;furin, paired basic amino acid cleaving enzyme&lt;/p&gt;
+&lt;p&gt;albumin&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/5045&#34; target=&#34;_blank&#34;&gt;5045&lt;/a&gt; | Type: Protein Coding |
-Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=5045&#34; target=&#34;_blank&#34;&gt; 15q26.1&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/136950&#39; target=&#39;_blank&#39;&gt;136950&lt;/a&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/213&#34; target=&#34;_blank&#34;&gt;213&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=213&#34; target=&#34;_blank&#34;&gt; 4q13.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/616000&#39; target=&#39;_blank&#39;&gt;616000&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/615999&#39; target=&#39;_blank&#39;&gt;615999&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/103600&#39; target=&#39;_blank&#39;&gt;103600&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a member of the subtilisin-like proprotein convertase family, which includes proteases that process protein and peptide precursors trafficking through regulated or constitutive branches of the secretory pathway. It encodes a type 1 membrane bound protease that is expressed in many tissues, including neuroendocrine, liver, gut, and brain. The encoded protein undergoes an initial autocatalytic processing event in the ER and then sorts to the trans-Golgi network through endosomes where a second autocatalytic event takes place and the catalytic activity is acquired. The product of this gene is one of the seven basic amino acid-specific members which cleave their substrates at single or paired basic residues. Some of its substrates include proparathyroid hormone, transforming growth factor beta 1 precursor, proalbumin, pro-beta-secretase, membrane type-1 matrix metalloproteinase, beta subunit of pro-nerve growth factor and von Willebrand factor. It is thought to be one of the proteases responsible for the activation of HIV envelope glycoproteins gp160 and gp140, and may play a role in tumor progression. Unlike SARS-CoV and other coronaviruses, the spike protein of SARS-CoV-2 is thought to be uniquely cleaved by this protease. Alternative splicing results in multiple transcript variants. [provided by RefSeq, May 2020] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes the most abundant protein in human blood. This protein functions in the regulation of blood plasma colloid osmotic pressure and acts as a carrier protein for a wide range of endogenous molecules including hormones, fatty acids, and metabolites, as well as exogenous drugs. Additionally, this protein exhibits an esterase-like activity with broad substrate specificity. The encoded preproprotein is proteolytically processed to generate the mature protein. A peptide derived from this protein, EPI-X4, is an endogenous inhibitor of the CXCR4 chemokine receptor. [provided by RefSeq, Jul 2016] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
     </item>
     
     <item>
-      <title>FURIN</title>
+      <title>ALB</title>
       <link>/genepanel/5045/gene_expression/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/5045/gene_expression/</guid>
@@ -46,13 +46,13 @@ OMIM: &lt;a href=&#39;https://omim.org/entry/136950&#39; target=&#39;_blank&#39;
 
 
 &lt;hr /&gt;
-&lt;p&gt;furin, paired basic amino acid cleaving enzyme&lt;/p&gt;
+&lt;p&gt;albumin&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Expression&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; FURIN expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;strong&gt;Table 1.&lt;/strong&gt; ALB expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -74,13 +74,55 @@ mRNA
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+soft tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000163631
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000163631
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 cerebellum
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-High
+Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
@@ -88,161 +130,63 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 cerebral cortex
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-High
+Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-hippocampus
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
+1.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-kidney
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-18.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-pancreas
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-21.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-parathyroid gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-30.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-placenta
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-62.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-salivary gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-92.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-thyroid gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-54.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-breast
+duodenum
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-11.4
+0.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-bronchus
+endometrium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-NA
+0.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-caudate
+epididymis
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-NA
+17.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 esophagus
@@ -251,68 +195,26 @@ esophagus
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-22.3
+0.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-fallopian tube
+hippocampus
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-31.8
+NA
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-gallbladder
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-31.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-kidney
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-18.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-liver
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-50.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 lymph node
@@ -321,12 +223,40 @@ lymph node
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-15.9
+1.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+nasopharynx
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000163631
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+oral mucosa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 pancreas
@@ -335,26 +265,40 @@ pancreas
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.7
+331.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-placenta
+salivary gland
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-62.2
+0.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 soft tissue
@@ -368,35 +312,21 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-spleen
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-37.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-testis
+stomach
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-10.4
+6.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 tonsil
@@ -405,26 +335,26 @@ tonsil
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-11.3
+1.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-appendix
+vagina
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
+Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.1
+NA
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 breast
@@ -433,12 +363,12 @@ breast
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-11.4
+2.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 cerebral cortex
@@ -447,26 +377,12 @@ cerebral cortex
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.7
+1.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-cervix, uterine
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-25.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 colon
@@ -475,54 +391,54 @@ colon
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.5
+2.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-endometrium
+fallopian tube
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.3
+1.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-heart muscle
+kidney
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-17.5
+482.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-lung
+liver
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-43.9
+105947.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 lymph node
@@ -531,82 +447,40 @@ lymph node
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-15.9
+1.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ovary
+placenta
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-13.8
+6.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-seminal vesicle
+prostate
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.0
+2.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-skeletal muscle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-9.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-skin
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-30.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-smooth muscle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-21.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 spleen
@@ -615,26 +489,40 @@ spleen
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.0
+2.9
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-stomach
+testis
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.4
+6.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 tonsil
@@ -643,40 +531,12 @@ tonsil
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-11.3
+1.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-urinary bladder
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-25.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-adrenal gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-17.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 appendix
@@ -685,12 +545,12 @@ appendix
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.1
+0.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 bone marrow
@@ -699,12 +559,54 @@ bone marrow
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-55.9
+0.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000163631
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bronchus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000163631
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 colon
@@ -713,54 +615,40 @@ colon
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.5
+2.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-duodenum
+gallbladder
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.6
+6.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-endometrium
+kidney
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.3
+482.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-epididymis
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-16.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 liver
@@ -769,15 +657,85 @@ liver
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-50.1
+105947.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-nasopharynx
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000163631
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+331.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000163631
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000163631
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000163631
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000163631
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+soft tissue
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Medium
@@ -788,77 +746,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ovary
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-13.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-prostate
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-48.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-rectum
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-13.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-small intestine
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-33.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-stomach
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-28.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 testis
@@ -867,26 +755,26 @@ testis
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-10.4
+6.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-vagina
+urinary bladder
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-NA
+0.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000163631
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 adipose tissue
@@ -895,7 +783,7 @@ adipose tissue
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.6
+6.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -905,7 +793,7 @@ NA
     </item>
     
     <item>
-      <title>FURIN</title>
+      <title>ALB</title>
       <link>/genepanel/5045/gene_context/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/5045/gene_context/</guid>
@@ -914,13 +802,13 @@ NA
 
 
 &lt;hr /&gt;
-&lt;p&gt;furin, paired basic amino acid cleaving enzyme&lt;/p&gt;
+&lt;p&gt;albumin&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of FURIN gene in 15 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of ALB gene in 12 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -936,122 +824,98 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32057769&#34; target=&#34;_blank&#34;&gt;32057769&lt;/a&gt;
+&lt;a href=&#34;/publication/32048163&#34; target=&#34;_blank&#34;&gt;32048163&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Despite a high similarity with the genome sequence of SARS-CoV and SARS-like CoVs, we identified a peculiar furin-like cleavage site in the Spike protein of the 2019-nCoV, lacking in the other SARS-like CoVs.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32155444&#34; target=&#34;_blank&#34;&gt;32155444&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-We found that the SARS-CoV-2 S glycoprotein harbors a furin cleavage site at the boundary between the S&lt;sub&gt;1&lt;/sub&gt;/S&lt;sub&gt;2&lt;/sub&gt; subunits, which is processed during biogenesis and sets this virus apart from SARS-CoV and SARS-related CoVs.
+The most common laboratory abnormalities were hypoalbuminemia, lymphopenia, decreased percentage of lymphocytes (LYM) and neutrophils (NEU), elevated C-reactive protein (CRP) and lactate dehydrogenase (LDH), and decreased CD8 count. […] ALB, LYM, LYM (%), LDH, NEU (%), and CRP were highly correlated to the acute lung injury. […] Age, viral load, lung injury score, and blood biochemistry indexes, albumin (ALB), CRP, LDH, LYM (%), LYM, and NEU (%), may be predictors of disease severity.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32197085&#34; target=&#34;_blank&#34;&gt;32197085&lt;/a&gt;
+&lt;a href=&#34;/publication/32077660&#34; target=&#34;_blank&#34;&gt;32077660&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Both Pangolin-CoV and RaTG13 lost the putative furin recognition sequence motif at S1/S2 cleavage site that can be observed in the SARS-CoV-2.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32216698&#34; target=&#34;_blank&#34;&gt;32216698&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Plasmin, and other proteases, may cleave a newly inserted furin site in the S protein of SARS-CoV-2, extracellularly, which increases its infectivity and virulence.
+The results of laboratory examination showed that the alanine aminotransferase (ALT), aspartate aminotransferase (AST), albumin (ALB), and total bilirubin (TBil) for entire cohort were 26.98 (16.88 ~ 46.09) U/L and 24.75 (18.71 ~ 31.79) U/L, 39.00 (36.20 ~ 44.20) g/L and 16.40 (11.34- ~ 21.15) mmol/L, respectively. […] ALT, AST, ALB and TBil of the mild or moderate subgroups were 22.75 (16.31- ~ 37.25) U/L, 23.63 (18.71 ~ 26.50) U/L, 39.70 (36.50 ~ 46.10) g/L, and 15.95 (11.34 ~ 20.83) mmol/L, respectively. […] ALT, AST, ALB and TBil of the severe or critical subgroups were 60.25 (40.88 ~ 68.90) U/L, 37.00 (20.88 ~ 64.45) U/L, 35.75 (28.68 ~ 42.00) g/L, and 20.50 (11.28 ~ 25.00) mmol/L, respectively. &lt;b&gt;Conclusion:&lt;/b&gt; The results of this multicenter retrospective study suggests that novel coronavirus pneumonia combined with liver damage is more likely to be caused by adverse drug reactions and systemic inflammation in severe patients receiving medical treatment. […] 实验室检查结果提示：总队列病例的谷氨酸转氨酶（ALT）和天冬氨酸转氨酶（AST）分别为26.98（16.88～46.09）U/L和24.75（18.71～31.79）U/L，白蛋白（Alb）和总胆红素（TBil）分别为39.00 (36.20～44.20) g/L和16.40 (11.34～21.15) mmol/L。 […] 轻型或普通型亚组的ALT和AST分别为22.75 (16.31～37.25) U/L和23.63 (18.71～26.50）U/L，其中ALT &amp;gt; 40 U/L有6例（21.00%），AST &amp;gt; 40 U/L有1例（3.60%）；Alb和TBil分别为39.70 (36.50～46.10) g/L和15.95 (11.34～20.83) mmol/L。 […] 重型或危重型亚组的ALT和AST分别为60.25 (40.88～68.90) U/L和37.00 (20.88～64.45) U/L，其中ALT &amp;gt; 40 U/L有3例（75.00%），AST &amp;gt; 40 U/L有1例（25.00%）；Alb和TBil分别为35.75 (28.68～42.00) g/L和20.50 (11.28～25.00) mmol/L。
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32274964&#34; target=&#34;_blank&#34;&gt;32274964&lt;/a&gt;
+&lt;a href=&#34;/publication/32198776&#34; target=&#34;_blank&#34;&gt;32198776&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Angiotensin-converting enzyme-2 (ACE-2) is one of the most important receptors on the cell membrane of the host cells (HCs) which its interaction with spike protein (SP) with a furin-cleavage site results in the SARS-CoV-2 invasion. […] Hence, in this review, we presented an overview on the interaction of ACE-2 and furin with SP. […] As several kinds of CoVs, from various genera, have at their S1/S2 binding site a preserved site, we further surveyed the role of furin cleavage site (FCS) on the life cycle of the CoV. […] Furthermore, we discussed that the small molecular inhibitors can limit the interaction of ACE-2 and furin with SP and can be used as potential therapeutic platforms to combat the spreading CoV epidemic.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32275259&#34; target=&#34;_blank&#34;&gt;32275259&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-The presence of a furin-like cleavage site in SARS-CoV-2 facilitates the S protein priming and might increase the efficiency of the spread of SARS-CoV-2 as compared to other beta coronaviruses. […] So, furin inhibitors can be targeted as potential drug therapies for SARS-CoV.
+Compared to the mild cases, the severe ones had lower lymphocyte counts and higher plasma levels of Pt, APTT, d-dimer, lactate dehydrogenase, PCT, ALB, C-reactive protein, and aspartate aminotransferase.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32293910&#34; target=&#34;_blank&#34;&gt;32293910&lt;/a&gt;
+&lt;a href=&#34;/publication/32270660&#34; target=&#34;_blank&#34;&gt;32270660&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-The high infectivity of the SARS-CoV-2 virus is in part related to new mutations in the receptor binding domain, and acquisition of a furin cleavage site in the S spike protein.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32335456&#34; target=&#34;_blank&#34;&gt;32335456&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-While the binding to host cell receptor is the first step of infection, the entrance of the virus into the cell needs the cleavage of S1-S2 subunits to expose S2 for fusion to cell membrane via host proteases including cathepsins, cell surface transmembrane protease/serine (TMPRSS) proteases, furin, trypsin and factor Xa. […] We suppose that host cell proteases including furin (as expressed highly in lungs), factor Xa and cathepsin are possible targets to decrease viral burden, therefore unfractioned heparin and low molecular weight heparin-LMWH (specifically dalteparin and tinzaparin for their anti inflammatory action) can be potential inhibitors of multiple endoproteases involved in virus infectivity.
+Alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase (ALP), γ-glutamyl transferase (GGT), total bilirubin (TBil), albumin(ALB) and international normalized ratio (INR) of 324 cases at baseline were 27.86 ± 20.02 U/L, 29.33 ± 21.02 U/L, 59.93 ± 18.96 U / L, 39.00 ± 54.44 U/L, 9.46 ± 4.58 μmol / L, 40.64 ± 4.13 g / L and 1.02 ± 0.10. […] 8.05 μmol / L, &lt;i&gt;P&lt;/i&gt; &amp;lt; 0.01), ALB (35.79 ± 4.75 vs.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32343593&#34; target=&#34;_blank&#34;&gt;32343593&lt;/a&gt;
+&lt;a href=&#34;/publication/32367765&#34; target=&#34;_blank&#34;&gt;32367765&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Finally, the small bowel is rich in furin, a serine protease which can separate the S-spike of the coronavirus into two “pinchers” (S1 and 2).
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32362314&#34; target=&#34;_blank&#34;&gt;32362314&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Here, we report that the cellular protease furin cleaves the spike protein at the S1/S2 site and that cleavage is essential for S-protein-mediated cell-cell fusion and entry into human lung cells. […] Our results suggest that acquisition of a S1/S2 multibasic cleavage site was essential for SARS-CoV-2 infection of humans and identify furin as a potential target for therapeutic intervention.
+The data showed that Fibrinogen, FAR, and D-dimer were higher in the severe patients, while PLTcount, Alb were much lower.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32376634&#34; target=&#34;_blank&#34;&gt;32376634&lt;/a&gt;
+&lt;a href=&#34;/publication/32376581&#34; target=&#34;_blank&#34;&gt;32376581&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Third, unlike SARS-CoV, cell entry of SARS-CoV-2 is preactivated by proprotein convertase furin, reducing its dependence on target cell proteases for entry. […] The high hACE2 binding affinity of the RBD, furin preactivation of the spike, and hidden RBD in the spike potentially allow SARS-CoV-2 to maintain efficient cell entry while evading immune surveillance.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32376714&#34; target=&#34;_blank&#34;&gt;32376714&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-The spike protein contains an addition furin cleavage site that may allow it to be ‘preactivated’ and highly infectious after replication.
+The patients with moderate and server COVID-19 showed significant differences in the rate of diabetes, NLR, serum amyloid A (SSA), C-reactive protein (CRP) and serum albumin (ALB) levels (&lt;i&gt;P&lt;/i&gt; &amp;lt; 0.05). […] The co- morbidity of diabetes, NLR, SSA and CRP were found to positively correlate and ALB to inversely correlate with the severity of COVID-19 (&lt;i&gt;P&lt;/i&gt; &amp;lt; 0.05).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32450087&#34; target=&#34;_blank&#34;&gt;32450087&lt;/a&gt;
+&lt;a href=&#34;/publication/32470167&#34; target=&#34;_blank&#34;&gt;32470167&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-We have therefore explored ACE2 receptor mRNA expression, and co-factors for Sars-CoV-2 infectivity (TMPRSS2 and furin) in bronchial brushes and biopsies from people with asthma and healthy controls, and looked for relationships between asthma severity, Th2- and IL-17 dependent gene signatures, and clinical demographics (age, sex). […] These data suggest that differences in ACE2, TMPRSS2 and furin epithelial and airway gene expression are unlikely to confer enhanced COVID-19 pneumonia risk in patients with asthma across all treatment intensities and severity.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32452762&#34; target=&#34;_blank&#34;&gt;32452762&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-We report that SARS-CoV-2 has evolved a unique S1/S2 cleavage site, absent in any previous coronavirus sequenced, resulting in striking mimicry of an identical FURIN-cleavable peptide on the human epithelial sodium channel α-subunit (ENaC-α). […] Genetic alteration of ENaC-α causes aldosterone dysregulation in patients, highlighting that the FURIN site is critical for activation of ENaC.
+Restrospective analysis of clinical data of 85 patients infected with SARS-CoV-2, including gender, age, comorbidities, symptoms, blood routine, clotting profile, biochemical examination, albumin, myocardial enzyme profile, inflammatory markers, and chest CT. […] Severe and critical patients showed higher WBC count (p=0.006), NEU count (p=0.001), NEU% (p=0.002), PCT (p=0.011), CRP (p=0.003), PT (p=0.035), D-dimer (p=0.025), AST (p=0.006), and lower LYM count (p=0.019), LYM% (p=0.001), ALB (p&amp;lt;0.001).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32455629&#34; target=&#34;_blank&#34;&gt;32455629&lt;/a&gt;
+&lt;a href=&#34;/publication/32488888&#34; target=&#34;_blank&#34;&gt;32488888&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Genes required for SARS-CoV-2 entry into human cells, ACE2 and FURIN, were employed as baits to build genomic-guided molecular maps of upstream regulatory elements, their expression and functions in the human body, and pathophysiologically relevant cell types. […] Repressors and activators of the ACE2 and FURIN genes were identified based on the analyses of gene silencing and overexpression experiments as well as relevant transgenic mouse models. […] Of major concern is the ACE2 and FURIN expression in many human cells and tissues, including immune cells, suggesting that SARS-CoV-2 may infect a broad range of cellular targets in the human body. […] Immediate availability for targeted experimental and clinical interrogations of potential COVID-19 pandemic mitigation agents, namely vitamin D and quercetin, as well as of the highly selective (Ki, 600 pm) intrinsically specific FURIN inhibitor (a1-antitrypsin Portland (a1-PDX), is considered an encouraging factor.
+Serum albumin (Alb) level was lower in patients with COVID-19 confirmed on admission than in patients with suspected COVID-19 (40.08 g/L vs 42.50 g/L, P = .016), while the level of aspartate aminotransferase (AST) was higher (23 U/L vs 18 U/L, P = .005). […] After 5-10 days of treatment, levels of Alb and AST in COVID-19 patients were significantly decreased (P &amp;lt; .001 and P = .027, respectively). […] Abnormal levels of Alb and AST in patients with COVID-19 were not associated with the liver condition (all P &amp;gt; .05).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32527343&#34; target=&#34;_blank&#34;&gt;32527343&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+39.3±15.1), albumin (Alb) level and the lymphocytes ratio were lower than those in asymptomatic group [Alb (g/L): 39.8 (35.7, 45.1) vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32554832&#34; target=&#34;_blank&#34;&gt;32554832&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thirty-four percent of patients showed albumin (ALB) levels lower than the normal range, and 6% of patients showed abnormal total bilirubin (TBil) levels. […] Some biochemical indexes, such as abnormal ALB and LDH, could reflect the severity of the disease to a certain extent.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32576345&#34; target=&#34;_blank&#34;&gt;32576345&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The level of albumin (Alb) was the lowest in the critical patients and the level of total bilirubin (TBil) was the highest, which was statistically significant as compared with the mild, ordinary and severe patients [Alb (g/L): 33.0±5.8 vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32586669&#34; target=&#34;_blank&#34;&gt;32586669&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The age, sex, underlying diseases, clinical laboratory data within 48h (routine blood tests, ALT, AST, TBIL, ALB, BUN, CR, D-Dimer, PT, APTT, FIB, F VIII:C, CK-MB, CK, and LDH), and ventilation status were collected.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -1062,7 +926,7 @@ Genes required for SARS-CoV-2 entry into human cells, ACE2 and FURIN, were emplo
     </item>
     
     <item>
-      <title>FURIN</title>
+      <title>ALB</title>
       <link>/genepanel/5045/clinvar/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/5045/clinvar/</guid>
@@ -1070,7 +934,7 @@ Genes required for SARS-CoV-2 entry into human cells, ACE2 and FURIN, were emplo
 
 
 &lt;hr /&gt;
-&lt;p&gt;furin, paired basic amino acid cleaving enzyme&lt;/p&gt;
+&lt;p&gt;albumin&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;ClinVar Summary&lt;/h2&gt;
@@ -1084,7 +948,7 @@ Under development
     </item>
     
     <item>
-      <title>FURIN</title>
+      <title>ALB</title>
       <link>/genepanel/5045/geo/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/5045/geo/</guid>
@@ -1092,7 +956,7 @@ Under development
 
 
 &lt;hr /&gt;
-&lt;p&gt;furin, paired basic amino acid cleaving enzyme&lt;/p&gt;
+&lt;p&gt;albumin&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;GEO dataset Summary&lt;/h2&gt;

@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db13706&#39; target=&#39;_blank&#39;&gt;db13706&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=eosin&#34; target=&#34;_blank&#34;&gt;eosin&lt;/a&gt; &lt;br&gt;
 Synonymous :acid red 87 | eosine yellowish
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :acid red 87 | eosine yellowish
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 343 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;eosin&lt;/em&gt; gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,30 @@ Hematoxylin and eosin staining (HE) and histochemical staining were performed to
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Routine hematoxylin and eosin (HE) staining was used to observe the pathological changes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32486534&#34; target=&#34;_blank&#34;&gt;32486534&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objectives:&lt;/b&gt; To observe the pulmonary changes with coronavirus disease 2019 (COVID-19) in postmortem needle specimens, to detect the presence of 2019 novel coronavirus(2019-nCoV) in the lung tissues, and to analyze the clinicopathological characteristics. &lt;b&gt;Methods:&lt;/b&gt; For 10 decedents with 2019-nCoV infection in Wuhan, bilateral lungs underwent ultrasound-guided percutaneous multi-point puncture autopsy, and pulmonary pathological changes were described in routine hematoxylin-eosin staining (HE) slides.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32526193&#34; target=&#34;_blank&#34;&gt;32526193&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tissues were assessed with use of haematoxylin and eosin staining, immunohistochemical staining for inflammatory infiltrate and cellular components (including staining with antibodies against CD68, CD3, CD45, CD61, TTF1, p40, and Ki-67), and electron microscopy to identify virion localisation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574956&#34; target=&#34;_blank&#34;&gt;32574956&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Gross anatomy and histological investigation by Hematoxylin and eosin (HE) stained were reviewed on each patient.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01004&#39; target=&#39;_blank&#39;&gt;db01004&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ganciclovir&#34; target=&#34;_blank&#34;&gt;ganciclovir&lt;/a&gt; &lt;br&gt;
 Synonymous :2-(6-amino-purin-9-ylmethoxy)-propane-1,3-diol | 2-amino-9-((1,3-dihydroxypropan-2-yloxy)methyl)-1h-purin-6(9h)-one | 2-amino-9-((1,3-dihydroxypropan-2-yloxy)methyl)-3h-purin-6(9h)-one | 2-amino-9-((1,3-dihydroxypropan-2-yloxy)methyl)-9h-purin-6-ol | 2-amino-9-(2-hydroxy-1-hydroxymethyl-ethoxymethyl)-1,9-dihydro-purin-6-one | 2-amino-9-(2-hydroxy-1-hydroxymethylethoxymethyl)-6,9-dihydro-1h-6-purinone | 9-((2-hydroxy-1-(hydroxymethyl)ethoxy)methyl)guanine | 9-[(1,3-dihydroxy-2-propoxy)methyl]guanine | ga2 | ganciclovir | ganciclovirum | gancyclovir
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :2-(6-amino-purin-9-ylmethoxy)-propane-1,3-diol | 2-amino-9-((1,3-dih
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ganciclovir&lt;/em&gt; gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,22 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Antiviral drugs commonly used in clinical practice, including neuraminidase inhibitors (oseltamivir, paramivir, zanamivir, etc.), ganciclovir, acyclovir and ribavirin, are invalid for 2019-nCoV and not recommended.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32488835&#34; target=&#34;_blank&#34;&gt;32488835&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Through this paper, we provided the list of possible chemical ligands (Meglumine, Vidarabine, Adenosine, D-Sorbitol, D-Mannitol, Sodium_gluconate, Ganciclovir and Chlorobutanol) and peptide drugs (combination of isoleucine, lysine and proline) from the databases to guide the experimental scientists and validate the molecules which can combat the virus in a shorter time.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562705&#34; target=&#34;_blank&#34;&gt;32562705&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+While all 11 molecules tested displayed incorporation, 6 exhibited immediate termination of the polymerase reaction (triphosphates of Carbovir, Ganciclovir, Stavudine and Entecavir; 3’-OMe-UTP and Biotin-16-dUTP), 2 showed delayed termination (Cidofovir diphosphate and 2’-OMe-UTP), and 3 did not terminate the polymerase reaction (2’-F-dUTP, 2’-NH&lt;sub&gt;2&lt;/sub&gt;-dUTP and Desthiobiotin-16-UTP). […] Prodrugs of five of these nucleotide analogues (Cidofovir, Abacavir, Valganciclovir/Ganciclovir, Stavudine and Entecavir) are FDA-approved medications for treatment of other viral infections, and their safety profiles are well established.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

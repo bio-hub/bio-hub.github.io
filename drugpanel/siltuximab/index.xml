@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db09036&#39; target=&#39;_blank&#39;&gt;db09036&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=chloroquine&#34; target=&#34;_blank&#34;&gt;chloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=siltuximab&#34; target=&#34;_blank&#34;&gt;siltuximab&lt;/a&gt; &lt;br&gt;
 Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;chloroquine&lt;/em&gt; gene in 158 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;siltuximab&lt;/em&gt; gene in 6 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -69,6 +69,46 @@ We performed a systematic search of PubMed, Embase, and Medline from 22&lt;sup&g
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 PARPi’s may potentiate the effectiveness of Tocilizumab, Anakinra, Sarilumab, Adalimumab, Canakinumab or Siltuximab therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32493441&#34; target=&#34;_blank&#34;&gt;32493441&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The experimental arms consist of Anakinra alone (anti-IL-1 binding the IL-1 receptor), Siltuximab alone (anti-IL-6 chimeric antibody), a combination of Siltuximab and Anakinra, Tocilizumab alone (humanised anti-IL-6 receptor antibody) or a combination of Anakinra with Tocilizumab in addition to standard care. […] Siltuximab (11mg/kg) or Tocilizumab (8mg/kg, with a maximum dose of 800mg) are administered as a single intravenous injection immediately after randomization. […] A 2x2 factorial design was selected with a 2:1 randomization regarding the IL-1 blockade (Anakinra) and a 1:2 randomization regarding the IL-6 blockade (Siltuximab and Tocilizumab). […] A total of 342 participants will be enrolled: 76 patients will receive usual care, 76 patients will receive Siltuximab alone, 76 patients will receive Tocilizumab alone, 38 will receive Anakinra alone, 38 patients will receive Anakinra and Siltuximab and 38 patients will receive Anakinra and Tocilizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32499314&#34; target=&#34;_blank&#34;&gt;32499314&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of the study was to explore the involvement of interleukin 6 in SARS-CoV-2 infection, and to position the drug siltuximab in the management of severe forms of COVID-19. […] Blockers of this cytokine (tocilizumab, sarilumab and siltuximab) are being studied as a strategy for treating the disease. […] Siltuximab is a monoclonal antibody indicated in Castleman’s disease that could be administered in a single dose of 11 mg/kg in severe forms of COVID-19 that have increased interleukin 6.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32516506&#34; target=&#34;_blank&#34;&gt;32516506&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Multiple therapeutic strategies, including antibody therapies (such as Tocilizumab, Sarilumab, Siltuximab), therapeutic plasma exchange (TPE), and blood purification techniques for direct removal of cytokines, including filtration, dialysis (diffusion), and adsorption are available.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32535732&#34; target=&#34;_blank&#34;&gt;32535732&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Considering the proven role of cytokine dysregulation in causing this hyperinflammation in the lungs with IL-6 being a key driver, particularly in seriously ill COVID-19 patients, it is crucial to further explore selective cytokine blockade with drugs like the IL-6 inhibitors tocilizumab, sarilumab, and siltuximab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32557214&#34; target=&#34;_blank&#34;&gt;32557214&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is important to critically analyze the available evidence concerning the use of the available anti-IL-6 (siltuximab) and anti-IL-6R (tocilizumab and sarilumab) agents in COVID-19 patients, in terms of both benefit and risk.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

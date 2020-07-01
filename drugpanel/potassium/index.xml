@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db14500&#39; target=&#39;_blank&#39;&gt;db14500&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=potassium&#34; target=&#34;_blank&#34;&gt;potassium&lt;/a&gt; &lt;br&gt;
 Synonymous :k | kalium | potasio | potassium metal | potassium, elemental | potassium, metal
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :k | kalium | potasio | potassium metal | potassium, elemental | pota
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 80 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;potassium&lt;/em&gt; gene in 11 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -101,6 +101,38 @@ Chloroquine interacts with multiple cardiac ion channels including the hERG pota
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 And potassium, creatinine, temperature, and D-dimer showed mild distinguishing power (each AUC between 0.6-0.7).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32489708&#34; target=&#34;_blank&#34;&gt;32489708&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.78 ×10&lt;sup&gt;9&lt;/sup&gt;/L, &lt;i&gt;p = 0.024&lt;/i&gt;) and serum potassium (3.36 vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32525548&#34; target=&#34;_blank&#34;&gt;32525548&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patients were classified as having severe hypokalemia (plasma potassium &amp;lt;3 mmol/L), hypokalemia (plasma potassium 3-3.5 mmol/L), and normokalemia (plasma potassium &amp;gt;3.5 mmol/L). […] The prevalence of hypokalemia and response to treatment with potassium supplements were measured by analyzing plasma and urine potassium levels. […] Patients with severe hypokalemia were given potassium at a dose of 40 mEq per day, for a total mean (SD) of 453 (53) mEq potassium chloride, during the hospital stay. […] The patients responded well to potassium supplements as they recovered. […] The correction of hypokalemia is challenging because of continuous renal potassium loss resulting from the degradation of angiotensin-converting enzyme 2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532356&#34; target=&#34;_blank&#34;&gt;32532356&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.3 Blood routine: white blood cells, neutrophils, lymphocytes, monocytes, eosinophils, basophils, neutrophils, lymphocytes, monocytes, eosinophils Acidic granulocyte count, basophil count, red blood cell, hemoglobin, hematocrit, average volume of red blood cells, average red blood cell Hb content, average red blood cell Hb concentration, RDW standard deviation, RDW coefficient of variation, platelet count, platelet specific platelet average Volume, platelet distribution width,% of large platelets; 2.4 Liver and kidney function tests: alanine aminotransferase, aspartate aminotransferase, alkaline phosphatase, γ-glutamyl transferase, prealbumin, total protein, albumin, globulin, white / globule ratio , Total bilirubin, direct bilirubin, cholinesterase, urea, creatinine, total carbon dioxide, uric acid glucose, potassium, sodium, chlorine, calcium, corrected calcium, magnesium, phosphorus, calcium and phosphorus product, anion gap, penetration Pressure, total cholesterol, triacylglycerol, high density lipoprotein cholesterol, Low density lipoprotein cholesterol, lipoprotein a, creatine kinase, lactate dehydrogenase, estimated glomerular filtration rate.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32588427&#34; target=&#34;_blank&#34;&gt;32588427&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+According to our institutional protocol (Pasteur University Hospital), HCQ/AZT was initiated only if baseline QTc ≤ 480ms and potassium level &amp;gt; 4.0 mmol/L.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

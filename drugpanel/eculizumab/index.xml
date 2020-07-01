@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01257&#39; target=&#39;_blank&#39;&gt;db01257&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=eculizumab&#34; target=&#34;_blank&#34;&gt;eculizumab&lt;/a&gt; &lt;br&gt;
 Synonymous :eculizumab
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :eculizumab
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;eculizumab&lt;/em&gt; gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,38 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In this case series, we aimed to report preliminary data obtained with anti-complement C5 therapy with eculizumab in COVID-19 patients admitted to intensive care unit (ICU) of ASL Napoli 2 Nord. […] This is a case series of patients with a confirmed diagnosis of SARS-CoV2 infection and severe pneumonia or ARDS who were treated with up to 4 infusions of eculizumab as an off-label agent. […] All patients successfully recovered after treatment with eculizumab. […] Eculizumab induced a drop in inflammatory markers. […] Eculizumab has the potential to be a key player in treatment of severe cases of COVID-19. […] Our results support eculizumab use as an off-label treatment of COVID-19, pending confirmation from the ongoing SOLID-C19 trial.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32518172&#34; target=&#34;_blank&#34;&gt;32518172&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Concerns for modifications-if any-of chronic immunotherapies with steroids, mycophenolate, azathioprine, IVIg, and anti-B-cell agents were addressed; the role of complement in innate immunity to viral responses and anti-complement therapeutics (i.e. eculizumab) were reviewed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32569708&#34; target=&#34;_blank&#34;&gt;32569708&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The inflammatory phase includes therapeutic options like Tocilizumab, Anakinra, Baricitinib, Eculizumab, Emapalumab and Heparin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32581810&#34; target=&#34;_blank&#34;&gt;32581810&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on the hypothesis that complement and coagulation cascades are activated by viral infection, and might trigger an acute respiratory distress syndrome (ARDS), we report clinical outcomes of 17 consecutive cases of SARS-CoV-2-related ARDS treated (N = 7) with the novel combination of ruxolitinib, a JAK1/2 inhibitor, 10 mg/twice daily for 14 days and eculizumab, an anti-C5a complement monoclonal antibody, 900 mg IV/weekly for a maximum of three weeks, or with the best available therapy (N = 10). […] Our results support the use of combined ruxolitinib and eculizumab for treatment of severe SARS-CoV-2-related ARDS by simultaneously turning off abnormal innate and adaptive immune responses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32583086&#34; target=&#34;_blank&#34;&gt;32583086&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This review also highlights potential targets for prevention and therapy of COVID-19-related organ damage and discusses the role of marketed drugs, such as eculizumab and imatinib, as suitable candidates for clinical trials.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

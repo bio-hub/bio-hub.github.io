@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01592&#39; target=&#39;_blank&#39;&gt;db01592&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=lopinavir&#34; target=&#34;_blank&#34;&gt;lopinavir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=iron&#34; target=&#34;_blank&#34;&gt;iron&lt;/a&gt; &lt;br&gt;
 Synonymous :carbonyl iron | eisen | electrolytic iron | fe | fer | ferrum | ferrum metallicum | hierro | iron powder | iron, carbonyl | iron, electrolytic | iron, elemental | iron, reduced | reduced iron
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :carbonyl iron | eisen | electrolytic iron | fe | fer | ferrum | ferr
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lopinavir&lt;/em&gt; gene in 133 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;iron&lt;/em&gt; gene in 15 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -93,6 +93,78 @@ Given the role of iron in several human viral infections, we also propose a diff
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Intravenous iron is the first-line treatment in subjects with moderate-severe anemia, active disease, or oral iron intolerance. […] On the other hand, oral iron is recommended in patients with mild anemia and inactive disease. […] However, during the current coronavirus pandemic, hospital activities have significantly changed, and all non-essential procedures, including non-urgent iron infusions, have been rescheduled. […] Oral iron, including both the traditional formulations with ferrous iron and the new ferric iron complexes, could constitute a valid alternative for anemia treatment. […] For this reason, we conducted a literature review, to summarize the scientific evidence on oral iron therapy in IBD patients with anemia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32497811&#34; target=&#34;_blank&#34;&gt;32497811&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here we address implications of a possible role for hyper-ferritinemia, and altered iron homeostasis in COVID-19 pathogenesis, and potential therapeutic targets in this regard.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32509258&#34; target=&#34;_blank&#34;&gt;32509258&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A hemoglobinopathy, hypoxia and cell iron overload might have a possible additional role. […] In this translational medicinebased narrative review, the following pathologic metabolic pathways, deriving from hemoglobin denaturation and iron metabolism dysregulation, are highlighted: i) decrease of functioning hemoglobin quote; ii) iron overload in cell/tissue (hyperferritinemia); iii) release of free toxic circulating heme; iv) hypoxemia and systemic hypoxia; v) reduction of nitric oxide; vi) coagulation activation; vii) ferroptosis with oxidative stress and lipoperoxidation; viii) mitochondrial degeneration and apoptosis. […] We speculated that in COVID-19, beyond the classical pulmonary immune-inflammation view, the occurrence of an oxygen-deprived blood disease, with iron metabolism dysregulation, should be taken in consideration. […] A more comprehensive diagnostic/therapeutic approach to COVID-19 is proposed, including potential adjuvant interventions aimed at improving hemoglobin dysfunction, iron over-deposit and generalized hypoxic state.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32515699&#34; target=&#34;_blank&#34;&gt;32515699&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The article discussed in detail a new hypothesis proposed by Chinese physicians about a new component in the pathogenesis of COVID-19, namely, about the effect of SARS-CoV-2 virus on the hemoglobin beta-chain and the formation of a complex with porphyrin, which results in displacement of the iron ion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32574271&#34; target=&#34;_blank&#34;&gt;32574271&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It binds iron and is transferred via a variety of receptors into and between cells, serum, bile, and cerebrospinal fluid.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32574708&#34; target=&#34;_blank&#34;&gt;32574708&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These include iron dysregulation manifested as hyperferritinemia associated with disease severity. […] Iron dysregulation induces reactive oxygen species (ROS) production and promotes oxidative stress.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32574914&#34; target=&#34;_blank&#34;&gt;32574914&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The physico-chemical parameters compared are pH, total dissolved solids (TDS) and electrical conductivity (EC), nitrate (NO&lt;sub&gt;3&lt;/sub&gt;), fluoride (F), chromium (Cr), iron (Fe), copper (Cu), zinc (Zn), cadmium (Cd), lead (Pb), arsenic (As), and selenium (Se), and the bacterial parameters are total coliforms, fecal coliforms, E. coli, and fecal streptococci.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32575554&#34; target=&#34;_blank&#34;&gt;32575554&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Heme can be degraded by the anti-inflammatory enzyme heme oxygenase (HO) generating biliverdin/bilirubin, iron/ferritin, and carbon monoxide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32579049&#34; target=&#34;_blank&#34;&gt;32579049&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent advances in understanding the mechanism of action of COVID-19 have shown that it causes a systemic infection that significantly affects the hematopoietic system and hemostasis, factors extremely dependent of light, mainly in the region of visible and infrared radiation. &lt;b&gt; &lt;i&gt;Results:&lt;/i&gt; &lt;/b&gt; In the COVID-19 patients hemoglobin is decreasing and protoporphyrin is increasing, generating an extremely harmful accumulation of iron ions in the bloodstream, which are able to induce an intense inflammatory process in the body with a consequent increase in C-reactive protein and albumin. […] According to the theory of electron excitation in photosensitive molecules, similar to hemoglobin heme, after the photon absorption there would be an increase in the stability of the iron ion bond with the center of the pyrrole ring, preventing the losses of heme function oxygen transport (HbO&lt;sub&gt;2&lt;/sub&gt;).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32582745&#34; target=&#34;_blank&#34;&gt;32582745&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Transfusion dependent patients require regular monitoring for iron overload, and iron chelation therapy may be stopped by the physician depending on the situation.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

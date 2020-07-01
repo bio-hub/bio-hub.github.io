@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00819&#39; target=&#39;_blank&#39;&gt;db00819&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=acetazolamide&#34; target=&#34;_blank&#34;&gt;acetazolamide&lt;/a&gt; &lt;br&gt;
 Synonymous :2-acetylamino-1,3,4-thiadiazole-5-sulfonamide | 5-acetamido-1,3,4-thiadiazole-2-sulfonamide | 5-acetylamino-1,3,4-thiadiazole-2-sulfonamide | acetazolamid | acetazolamida | acétazolamide | acetazolamide | acetazolamidum | n-[5-(aminosulfonyl)-1,3,4-thiadiazol-2-yl]acetamide | n-[5-(aminosulfonyl)-1,3,5-thiadiazol-2-yl]acetamide
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :2-acetylamino-1,3,4-thiadiazole-5-sulfonamide | 5-acetamido-1,3,4-th
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 343 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;acetazolamide&lt;/em&gt; gene in 8 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,14 @@ In light of this, a countermeasure that has been shown to be effective in the an
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Drawing on this concept, it has also been proposed that treatments typically employed in the management of HAPE and other forms of acute altitude illness, pulmonary vasodilators and acetazolamide, should be considered for COVID-19. […] While of high utility in the management of HAPE and acute mountain sickness, systemically delivered pulmonary vasodilators and acetazolamide should not be used in the treatment of COVID-19, as they carry the risk of multiple adverse consequences including worsened ventilation-perfusion matching, impaired carbon dioxide transport, systemic hypotension and increased work of breathing.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534175&#34; target=&#34;_blank&#34;&gt;32534175&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The use of acetazolamide with or without sildenafil also needs to be explored with or without heparin, since increased oxygen delivery to vital organs through prevention of thrombosis/pulmonary emboli along with carbonic anhydrase inhibition may help increase oxygenation and prevent adverse clinical outcomes. […] Digital monitoring of symptoms to clinically diagnose early exposure and response to treatment; prevention with ivermectin as well as nutritional therapies that support a healthy immune response; treatment with anti-inflammatory therapies that block NF-κB and activate Nrf2 pathways, as well as novel therapies that address COVID-19 pneumonia and ARDS with DIC including anticoagulation and/or novel respiratory therapies with or without acetazolamide and sildenafil.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

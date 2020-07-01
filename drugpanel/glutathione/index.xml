@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00143&#39; target=&#39;_blank&#39;&gt;db00143&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=glutathione&#34; target=&#34;_blank&#34;&gt;glutathione&lt;/a&gt; &lt;br&gt;
 Synonymous :5-l-glutamyl-l-cysteinylglycine | gamma-l-glutamyl-l-cysteinyl-glycine | glutathione | glutathione-sh | gsh | n-(n-gamma-l-glutamyl-l-cysteinyl)glycine | reduced glutathione
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :5-l-glutamyl-l-cysteinylglycine | gamma-l-glutamyl-l-cysteinyl-glyci
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 343 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;glutathione&lt;/em&gt; gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,30 @@ We evaluated the effects of using high dose oral and/or IV glutathione in the tr
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The aim of this Viewpoint is to justify (1) the crucial roles of glutathione in determining individual responsiveness to COVID-19 infection and disease pathogenesis and (2) the feasibility of using glutathione as a means for the treatment and prevention of COVID-19 illness. […] The hypothesis that glutathione deficiency is the most plausible explanation for serious manifestation and death in COVID-19 patients was proposed on the basis of an exhaustive literature analysis and observations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32504923&#34; target=&#34;_blank&#34;&gt;32504923&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In human clinical trials, NAC has been used to replenish glutathione stores and increase the proliferative response of T cells. […] Mediation of the viral load could occur through NAC’s ability to increase cellular redox status via maximizing the rate limiting step of glutathione synthesis, and thereby potentially decreasing the effects of virally induced oxidative stress and cell death. […] We hypothesize that NAC could act as a potential therapeutic agent in the treatment of COVID-19 through a variety of potential mechanisms, including increasing glutathione, improving T cell response, and modulating inflammation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534175&#34; target=&#34;_blank&#34;&gt;32534175&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A randomized trial of ivermectin, and/or nutraceuticals that have been published to support immune function including glutathione, vitamin C, zinc, and immunomodulatory supplements (3,6 Beta glucan) could be beneficial in preventing transmission or lessening symptomatology but requires statistical validation. […] Deficiency in red blood cell, serum and alveolar glutathione has been published in the medical literature for ARDS, as well as viral and bacterial pneumonias, resulting from increased levels of free radical/oxidative stress. […] A randomized controlled trial of blocking NF-κB and cytokine formation using glutathione precursors (N-acetyl-cysteine [NAC] and alpha lipoic acid) and PO/IV glutathione with associated anti-viral effects should be performed, along with an evaluation of Nrf2 activators (curcumin, sulforaphane glucosinolate) which have been scientifically proven to lower inflammation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32586380&#34; target=&#34;_blank&#34;&gt;32586380&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Top results for ACE2 binding iincluded several ACE inhibitors, a beta-lactam antibiotic, two antiviral agents (Fosamprenavir and Emricasan) and glutathione. […] Glutathione and its precursor glutamine were highly ranked by two independent methods, suggesting both warrant further investigation for potential benefit against SARS-CoV-2.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

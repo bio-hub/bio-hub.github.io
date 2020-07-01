@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db04422&#39; target=&#39;_blank&#39;&gt;db04422&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=homocysteine&#34; target=&#34;_blank&#34;&gt;homocysteine&lt;/a&gt; &lt;br&gt;
 Synonymous :l-2-amino-4-mercaptobutyric acid | l-homocysteine
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :l-2-amino-4-mercaptobutyric acid | l-homocysteine
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;homocysteine&lt;/em&gt; gene in 1 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The parameters including homocysteine, urea, creatinine and serum cystatin C were significantly higher in imaging progression patients (all p &amp;lt; 0.05), while eGFR decreased (p &amp;lt; 0.001). […] Logistic models revealed that age, MLR, homocysteine and period from onset to admission were factors for predicting imaging progression on chest CT at first week from COVID-19 patients (all p &amp;lt; 0.05). […] Age, MLR, homocysteine and period from onset to admission could predict imaging progression on chest CT from COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32503382&#34; target=&#34;_blank&#34;&gt;32503382&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+New laboratory biomarkers could be identified through the accurate analysis of multicentric case series; in particular, homocysteine and angiotensin II could play a significant role.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

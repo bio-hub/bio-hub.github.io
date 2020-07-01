@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db13609&#39; target=&#39;_blank&#39;&gt;db13609&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=umifenovir&#34; target=&#34;_blank&#34;&gt;umifenovir&lt;/a&gt; &lt;br&gt;
 Synonymous :umifenovir
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :umifenovir
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 80 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;umifenovir&lt;/em&gt; gene in 13 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -101,6 +101,54 @@ These drugs and therapeutic agents include antiviral agents (remdesivir, hydroxy
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Comparator drugs were oseltamivir, umifenovir, lopinavir/ritonavir or placebo.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32493740&#34; target=&#34;_blank&#34;&gt;32493740&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We included studies of ribavirin, chloroquine, hydroxychloroquine, umifenovir (arbidol), favipravir, interferon and lopinavir/ritonavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32514689&#34; target=&#34;_blank&#34;&gt;32514689&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additionally, seven pharmacological agents (chloroquine, tetrandrine, umifenovir (arbidol), carrimycin, damageprevir, lopinavir/ritonavir) are in phase IV of clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32515383&#34; target=&#34;_blank&#34;&gt;32515383&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Umifenovir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532939&#34; target=&#34;_blank&#34;&gt;32532939&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hydroxychloroquine, lopinavir/ritonavir, remdesivir, umifenovir, favipiravir, ribavirin and beta-interferon-1 gave rise to variable but still inconsistent proof of clinical efficacy in the treatment of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32565309&#34; target=&#34;_blank&#34;&gt;32565309&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our results for the first time suggest that a quadruple combination therapy (Ribavirin, Lopinavir/ritonavir, Umifenovir, and Lianhua Qingwen) can be considered as a preferred treatment approach to severe COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32572842&#34; target=&#34;_blank&#34;&gt;32572842&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In particular, information has spread about some drugs approved for other indications (chloroquine, hydroxychloroquine, nonsteroidal anti-inflammatory drugs, angiotensin-converting enzyme inhibitors, angiotensin II receptor antagonists, favipiravir, and umifenovir) that could have led to inappropriate and therefore hazardous use.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

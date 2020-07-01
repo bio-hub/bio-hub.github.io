@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01212&#39; target=&#39;_blank&#39;&gt;db01212&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=remdesivir&#34; target=&#34;_blank&#34;&gt;remdesivir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ceftriaxone&#34; target=&#34;_blank&#34;&gt;ceftriaxone&lt;/a&gt; &lt;br&gt;
 Synonymous :ceftriaxona | ceftriaxone | ceftriaxonum | rocephin
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :ceftriaxona | ceftriaxone | ceftriaxonum | rocephin
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;remdesivir&lt;/em&gt; gene in 116 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ceftriaxone&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -85,6 +85,22 @@ She was treated with ceftriaxone and metronidazole.
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 She was treated with intravenous fluids, ceftriaxone, azithromycin, and hydroxychloroquine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32538597&#34; target=&#34;_blank&#34;&gt;32538597&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+When empiric treatment is appropriate, suggested antibiotics include ceftriaxone or cefotaxime for infants one to three months of age and ampicillin with gentamicin or with cefotaxime for neonates.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32546437&#34; target=&#34;_blank&#34;&gt;32546437&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All except two patients (97%; n=61) were treated with either chloroquine or hydroxychloroquine, while the three most prescribed antibiotics were ceftriaxone (79%; n=50), azithromycin (71%; n=45), and the piperacillin/tazobactam combination (49%; n=31).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

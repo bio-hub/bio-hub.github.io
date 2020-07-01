@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01197&#39; target=&#39;_blank&#39;&gt;db01197&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=captopril&#34; target=&#34;_blank&#34;&gt;captopril&lt;/a&gt; &lt;br&gt;
 Synonymous :(2s)-1-[(2s)-2-methyl-3-sulfanylpropanoyl]pyrrolidine-2-carboxylic acid | captopril | captoprilum | captopryl | cp | d-2-methyl-3-mercaptopropanoyl-l-proline | d-3-mercapto-2-methylpropanoyl-l-proline | l-captopril
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(2s)-1-[(2s)-2-methyl-3-sulfanylpropanoyl]pyrrolidine-2-carboxylic a
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 343 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;captopril&lt;/em&gt; gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,22 @@ This study reveals that Isothymol, a major component of this plant, gives the be
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We employed an &lt;i&gt;in silico&lt;/i&gt; approach to test if disulfiram, as well as its metabolites, and captopril could be used as potential antiviral drugs against COVID-19. […] Although, captopril is shown to be a potential ligand of 3CL&lt;sup&gt;pro&lt;/sup&gt;, it is not recommended anti-COVID-19 therapy, due to the fact that it can induce the expression of the viral cellular receptor such as, angiotensin-converting enzyme ACE-2, and thus, making the patient potentially more susceptible to infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534506&#34; target=&#34;_blank&#34;&gt;32534506&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We think there are clinical clues for dry cough and the presumed aggravating role of ACE inhibitors like captopril on the disease process.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32561317&#34; target=&#34;_blank&#34;&gt;32561317&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on this data mining process, captopril was found to have a statistically significantly higher incidence of pulmonary ADEs compared with other ACEIs (P = 0.005) as well as ARBs (P = 0.012), though other specific drugs also had important pulmonary ADEs associated with their use. […] These analyses suggest that pharmacists and clinicians will need to consider the specific medication’s adverse event profile, particularly captopril, on how it may affect infections and other acute disease states that alter pulmonary function, such as COVID-19.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

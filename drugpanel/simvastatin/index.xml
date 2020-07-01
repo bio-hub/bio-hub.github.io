@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00641&#39; target=&#39;_blank&#39;&gt;db00641&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=simvastatin&#34; target=&#34;_blank&#34;&gt;simvastatin&lt;/a&gt; &lt;br&gt;
 Synonymous :2,2-dimethylbutyric acid, 8-ester with (4r,6r)-6-(2-((1s,2s,6r,8s,8ar)-1,2,6,7,8,8a-hexahydro-8-hydroxy-2,6-dimethyl-1-naphthyl)ethyl)tetrahydro-4-hydroxy-2h-pyran-2-one | simvastatin | simvastatina | simvastatine | simvastatinum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :2,2-dimethylbutyric acid, 8-ester with (4r,6r)-6-(2-((1s,2s,6r,8s,8a
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;simvastatin&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The binding energies obtained from the docking of 6LU7 with native ligand favipiravir, nelfinavir, lopinavir, simvastatin, rosuvastatin, pravastatin, pitavastatin, lovastatin, fluvastatin, and atorvastatin were -6.8, -5.8, -7.9, -7.9, -7.0, -7.7, -6.6, -8.2, -7.4, -7.7, and -6.8 kcal/mol, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32537482&#34; target=&#34;_blank&#34;&gt;32537482&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition, two other biologically active compounds, Mupirocin (DB00410) and Simvastatin (DB00641) could be an option for the treatment of viral infections.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

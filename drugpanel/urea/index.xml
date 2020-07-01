@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db03904&#39; target=&#39;_blank&#39;&gt;db03904&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=creatinine&#34; target=&#34;_blank&#34;&gt;creatinine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=urea&#34; target=&#34;_blank&#34;&gt;urea&lt;/a&gt; &lt;br&gt;
 Synonymous :carbamide | carbonyldiamide | harnstoff | karbamid | urea | urée
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :carbamide | carbonyldiamide | harnstoff | karbamid | urea | urée
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;creatinine&lt;/em&gt; gene in 38 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;urea&lt;/em&gt; gene in 14 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -157,6 +157,86 @@ Reported risk factors include elevated baseline serum creatinine, elevated blood
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Patients with diabetes had significantly higher leucocyte and neutrophil counts, and higher levels of fasting blood glucose, serum creatinine, urea nitrogen and creatine kinase isoenzyme MB at admission compared with those without diabetes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32511971&#34; target=&#34;_blank&#34;&gt;32511971&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Through the analysis of laboratory examination information of patients with COVID-19 from 35 articles (5912 patients), we demonstrated that severe cases possessed higher levels of leukocyte (1.20-fold), neutrophil (1.33-fold), CRP (3.04-fold), PCT (2.00-fold), ESR (1.44-fold), AST (1.40-fold), ALT (1.34-fold), LDH (1.54-fold), CK (1.44-fold), CK-MB (1.39-fold), total bilirubin (1.14-fold), urea (1.28-fold), creatine (1.09-fold), PT (1.03-fold) and D-dimer (2.74-fold), as well as lower levels of lymphocytes (1.44-fold), eosinophil (2.00-fold), monocyte (1.08-fold), Hemoglobin (1.53-fold), PLT (1.15-fold), albumin (1.15-fold), and APTT (1.02-fold).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32526275&#34; target=&#34;_blank&#34;&gt;32526275&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Elevated procalcitonin (HR 1.72, 95% CI 1.02-2.90), urea nitrogen (HR 1.72, 95% CI 1.21-2.43), α-hydroxybutyrate dehydrogenase (HR 3.02, 95% CI 1.26-7.21) and D-dimer (HR 2.01, 95% CI 1.12-3.58) at baseline were also associated with risk for disease progression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32527342&#34; target=&#34;_blank&#34;&gt;32527342&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition to the difference of serum creatinine (SCr) and blood urea nitrogen (BUN), white blood cell count (WBC), neutrophil count (NEU), aspartate aminotransferase (AST), lactate dehydrogenase (LDH), D-dimer, procalcitonin (PCT) and C-reaction protein (CRP) in AKI group were significantly higher than those in non-AKI group [WBC (×10&lt;sup&gt;9&lt;/sup&gt;/L): 5.75 (4.13, 7.83) vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532356&#34; target=&#34;_blank&#34;&gt;32532356&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.3 Blood routine: white blood cells, neutrophils, lymphocytes, monocytes, eosinophils, basophils, neutrophils, lymphocytes, monocytes, eosinophils Acidic granulocyte count, basophil count, red blood cell, hemoglobin, hematocrit, average volume of red blood cells, average red blood cell Hb content, average red blood cell Hb concentration, RDW standard deviation, RDW coefficient of variation, platelet count, platelet specific platelet average Volume, platelet distribution width,% of large platelets; 2.4 Liver and kidney function tests: alanine aminotransferase, aspartate aminotransferase, alkaline phosphatase, γ-glutamyl transferase, prealbumin, total protein, albumin, globulin, white / globule ratio , Total bilirubin, direct bilirubin, cholinesterase, urea, creatinine, total carbon dioxide, uric acid glucose, potassium, sodium, chlorine, calcium, corrected calcium, magnesium, phosphorus, calcium and phosphorus product, anion gap, penetration Pressure, total cholesterol, triacylglycerol, high density lipoprotein cholesterol, Low density lipoprotein cholesterol, lipoprotein a, creatine kinase, lactate dehydrogenase, estimated glomerular filtration rate.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32540837&#34; target=&#34;_blank&#34;&gt;32540837&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Those intubated exhibited increased disease severity with significantly elevated levels of serum Procalcitonin, C reactive protein (CRP), Lactate Dehydrogenase (LDH), Mean glucose, Creatinine, Blood urea nitrogen (BUN).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32541471&#34; target=&#34;_blank&#34;&gt;32541471&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+And the renal function (measured as blood urea nitrogen, serum creatinine, and urine protein) returned to normal.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32559180&#34; target=&#34;_blank&#34;&gt;32559180&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Interestingly, metabolite levels in these pathways correlated with clinical laboratory markers of inflammation (i.e., IL-6 and C-reactive protein) and renal function (i.e., blood urea nitrogen).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32569494&#34; target=&#34;_blank&#34;&gt;32569494&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patients with at least one ocular manifestation had significantly higher blood urea levels at the time of admission compared to those with no obvious ocular involvement (median: 41.5, IQR: 28-66.3 vs. median: 33, IQR: 23.8-51.8, &lt;i&gt;P&lt;/i&gt; = .023). […] Moreover, a significant difference was observed in the total white blood cell count, lymphocyte percent, neutrophil count, Erythrocyte Sedimentation Rate (ESR), and blood urea level between patients with positive and negative Polymerase Chain Reaction (PCR) for SARS-CoV-2 virus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32573995&#34; target=&#34;_blank&#34;&gt;32573995&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Results Compared to patients who could be finally discharged, those who died during hospital stay displayed significantly higher values of serum glucose, aspartate aminotransferase (AST), creatine kinase (CK), lactate dehydrogenase (LDH), urea, creatinine, high-sensitivity cardiac troponin I (hscTnI), prothrombin time/international normalized ratio (PT/INR), activated partial thromboplastin time (APTT), D-dimer, C reactive protein (CRP), ferritin and leukocytes (especially neutrophils), whilst values of albumin, hemoglobin and lymphocytes were significantly decreased.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32575073&#34; target=&#34;_blank&#34;&gt;32575073&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From baseline to day 14, significant decreases of three biomarkers (C-reactive protein, hemoglobin, albumin) and dramatic increases of three biomarkers (lymphocytes, platelets, blood urea nitrogen) were observed in older patients.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

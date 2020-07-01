@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00872&#39; target=&#39;_blank&#39;&gt;db00872&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=conivaptan&#34; target=&#34;_blank&#34;&gt;conivaptan&lt;/a&gt; &lt;br&gt;
 Synonymous :4’-((4,5-dihydro-2-methylimidazo(4,5-d)(1)benzazepin-6(1h)-yl)carbonyl)-2-biphenylcarboxanilide | conivaptan
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :4’-((4,5-dihydro-2-methylimidazo(4,5-d)(1)benzazepin-6(1h)-yl)carb
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 343 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;conivaptan&lt;/em&gt; gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,14 @@ We further report that Conivaptan and Azelastine are mainly involved in hydropho
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Among them, 8 drugs (bedaquiline, brequinar, celecoxib, clofazimine, conivaptan, gemcitabine, tolcapone, and vismodegib) showed &lt;i&gt;in vitro&lt;/i&gt; activities against the proliferation of a feline infectious peritonitis (FIP) virus in Fcwf-4 cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32563698&#34; target=&#34;_blank&#34;&gt;32563698&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+They are all old drugs as follows, anisomycin, antimycin A, atovaquone, chloroquine, conivaptan, emetine, gemcitabine, homoharringtonine, niclosamide, nitazoxanide, oligomycin, salinomycin, tilorone, valinomycin, and vismodegib.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

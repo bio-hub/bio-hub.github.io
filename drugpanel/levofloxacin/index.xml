@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01137&#39; target=&#39;_blank&#39;&gt;db01137&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=date&#34; target=&#34;_blank&#34;&gt;date&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=levofloxacin&#34; target=&#34;_blank&#34;&gt;levofloxacin&lt;/a&gt; &lt;br&gt;
 Synonymous :(-)-ofloxacin | (3s)-(-)-9-fluoro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-2,3-dihydro-7h-pyrido[1,2,3-de][1,4]benzoxazine-6-carboxylic acid | (s)-(-)-9-fluoro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-2,3-dihydro-7h-pyrido[1,2,3-de][1,4]benzooxazine-6-carboxylic acid | (s)-9-fluoro-2,3-dihydro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-7h-pyrido(1,2,3-de)-1,4-benzoxazine-6-carboxylic acid | (s)-ofloxacin | l-ofloxacin | levofloxacin | levofloxacin anhydrous | levofloxacine | levofloxacino | levofloxacinum | ofloxacin s-(-)-form
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(-)-ofloxacin | (3s)-(-)-9-fluoro-3-methyl-10-(4-methyl-1-piperaziny
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;date&lt;/em&gt; gene in 343 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;levofloxacin&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,22 @@ Three days later, levofloxacin was started because the patient’s symptoms did 
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We experienced a case of severe thrombocytopenia with epistaxis and petechiae, while treating a COVID-19 patient with ceftriaxone, levofloxacin, and lopinavir/ritonavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32546446&#34; target=&#34;_blank&#34;&gt;32546446&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Noteworthy, respiratory fluoroquinolones, levofloxacin and moxifloxacin, constitute fist line therapeutic agents for the management of severe community-acquired pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562159&#34; target=&#34;_blank&#34;&gt;32562159&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+According to the drug regimen, the patients were divided into two groups; group I who received regimen I consisting azithromycin, prednisolone, naproxen, and lopinavir/ritonavir and group II who received regimen II including meropenem, levofloxacin, vancomycin, hydroxychloroquine, and oseltamivir.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/cannabidiol/</link>
+      <atom:link href="/drugpanel/cannabidiol/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/cannabidiol/</link>
+    </image>
+    
+    <item>
+      <title>CANNABIDIOL</title>
+      <link>/drugpanel/cannabidiol/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/cannabidiol/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db09061&#39; target=&#39;_blank&#39;&gt;db09061&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=cannabidiol&#34; target=&#34;_blank&#34;&gt;cannabidiol&lt;/a&gt; &lt;br&gt;
+Synonymous :(−)-trans-2-p-mentha-1,8-dien-3-yl-5-pentylresorcinol | (−)-trans-cannabidiol | (1’r,2’r)-5’-methyl-4-pentyl-2’-(prop-1-en-2-yl)-1’,2’,3’,4’-tetrahydrobiphenyl-2,6-diol | cannabidiol | cbd | δ1(2)-trans-cannabidiol
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cannabidiol&lt;/em&gt; gene in 1 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32519753&#34; target=&#34;_blank&#34;&gt;32519753&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We suggest the hypothesis that Cannabidiol (CBD), a non-psychotropic phytocannabinoid, has the potential to limit the severity and progression of the disease for several reasons: 1) High-CBD Cannabis Sativa extracts are able to downregulate the expression of the two key receptors for SARS-CoV2 in several models of human epithelia 2) CBD exerts a wide range of immunomodulatory and anti-inflammatory effects and it can mitigate the uncontrolled cytokine production featuring Acute Lung Injury 3) Being a PPARγ agonist, it can display a direct antiviral activity 4) PPARγ agonists are regulators of fibroblast/myofibroblast activation and can inhibit the development of pulmonary fibrosis, thus ameliorating lung function in recovered patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

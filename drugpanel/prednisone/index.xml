@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00635&#39; target=&#39;_blank&#39;&gt;db00635&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=prednisone&#34; target=&#34;_blank&#34;&gt;prednisone&lt;/a&gt; &lt;br&gt;
 Synonymous :1,2-dehydrocortisone | 1,4-pregnadiene-17α,21-diol-3,11,20-trione | 17,21-dihydroxypregna-1,4-diene-3,11,20-trione | dehydrocortisone | prednisona | prednisone | prednisonum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :1,2-dehydrocortisone | 1,4-pregnadiene-17α,21-diol-3,11,20-trione |
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 80 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;prednisone&lt;/em&gt; gene in 10 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -101,6 +101,22 @@ We diagnosed SAT and the patient started prednisone.
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In multivariable-adjusted models, prednisone dose ≥10 mg/day was associated with higher odds of hospitalisation (OR 2.05, 95% CI 1.06 to 3.96).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32573882&#34; target=&#34;_blank&#34;&gt;32573882&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+During hospitalization, calcineurin inhibitors and antimetabolites were held; prednisone was continued.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32583620&#34; target=&#34;_blank&#34;&gt;32583620&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All five patients were on immunosuppressive therapy with mycophenolate mofetil (MMF) and tacrolimus and three that were transplanted within the prior two months were additionally on prednisone.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

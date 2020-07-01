@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>CD28</title>
+      <title>APP</title>
       <link>/genepanel/940/info/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/940/info/</guid>
@@ -21,23 +21,23 @@
 
 
 &lt;hr /&gt;
-&lt;p&gt;CD28 molecule&lt;/p&gt;
+&lt;p&gt;amyloid beta precursor protein&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/940&#34; target=&#34;_blank&#34;&gt;940&lt;/a&gt; | Type: Protein Coding |
-Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=940&#34; target=&#34;_blank&#34;&gt; 2q33.2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/186760&#39; target=&#39;_blank&#39;&gt;186760&lt;/a&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/351&#34; target=&#34;_blank&#34;&gt;351&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=351&#34; target=&#34;_blank&#34;&gt; 21q21.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/605714&#39; target=&#39;_blank&#39;&gt;605714&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/104760&#39; target=&#39;_blank&#39;&gt;104760&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/104300&#39; target=&#39;_blank&#39;&gt;104300&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;The protein encoded by this gene is essential for T-cell proliferation and survival, cytokine production, and T-helper type-2 development. Several alternatively spliced transcript variants encoding different isoforms have been found for this gene.[provided by RefSeq, Jul 2011] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a cell surface receptor and transmembrane precursor protein that is cleaved by secretases to form a number of peptides. Some of these peptides are secreted and can bind to the acetyltransferase complex APBB1/TIP60 to promote transcriptional activation, while others form the protein basis of the amyloid plaques found in the brains of patients with Alzheimer disease. In addition, two of the peptides are antimicrobial peptides, having been shown to have bacteriocidal and antifungal activities. Mutations in this gene have been implicated in autosomal dominant Alzheimer disease and cerebroarterial amyloidosis (cerebral amyloid angiopathy). Multiple transcript variants encoding several different isoforms have been found for this gene. [provided by RefSeq, Aug 2014] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
     </item>
     
     <item>
-      <title>CD28</title>
+      <title>APP</title>
       <link>/genepanel/940/gene_expression/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/940/gene_expression/</guid>
@@ -46,13 +46,13 @@ OMIM: &lt;a href=&#39;https://omim.org/entry/186760&#39; target=&#39;_blank&#39;
 
 
 &lt;hr /&gt;
-&lt;p&gt;CD28 molecule&lt;/p&gt;
+&lt;p&gt;amyloid beta precursor protein&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Expression&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; CD28 expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;strong&gt;Table 1.&lt;/strong&gt; APP expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -74,7 +74,7 @@ mRNA
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 appendix
@@ -83,54 +83,222 @@ appendix
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.6
+207.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-bone marrow
+breast
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2.0
+535.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-spleen
+caudate
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-9.8
+NA
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-tonsil
+colon
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-17.3
+352.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+222.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+464.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+363.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+544.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+hippocampus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+66.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+637.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+419.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+352.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+476.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+309.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+642.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 appendix
@@ -139,12 +307,26 @@ appendix
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-18.6
+207.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bone marrow
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+85.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 breast
@@ -153,12 +335,26 @@ breast
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.0
+535.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1203.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 cervix, uterine
@@ -167,12 +363,12 @@ cervix, uterine
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.8
+399.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 colon
@@ -181,26 +377,12 @@ colon
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.7
+352.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-duodenum
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 endometrium
@@ -209,12 +391,12 @@ endometrium
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.2
+464.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 esophagus
@@ -223,26 +405,68 @@ esophagus
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.0
+197.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-gallbladder
+fallopian tube
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-6.5
+496.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+256.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+587.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+156.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 lung
@@ -251,12 +475,12 @@ lung
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2.8
+417.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 lymph node
@@ -265,12 +489,54 @@ lymph node
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.4
+87.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+377.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+66.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+304.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 placenta
@@ -279,40 +545,54 @@ placenta
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.9
+637.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-rectum
+salivary gland
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2.1
+83.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-seminal vesicle
+skeletal muscle
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.1
+37.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+251.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 small intestine
@@ -321,12 +601,12 @@ small intestine
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.5
+219.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 smooth muscle
@@ -335,12 +615,12 @@ smooth muscle
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2.1
+551.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 spleen
@@ -349,12 +629,12 @@ spleen
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-9.8
+212.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 stomach
@@ -363,12 +643,12 @@ stomach
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2.2
+201.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 testis
@@ -377,12 +657,26 @@ testis
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.3
+309.9
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+768.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 tonsil
@@ -391,12 +685,12 @@ tonsil
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-17.3
+70.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 urinary bladder
@@ -405,40 +699,82 @@ urinary bladder
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-7.2
+344.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-lymph node
+caudate
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.4
+NA
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-tonsil
+cerebellum
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-17.3
+NA
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1203.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+352.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+hippocampus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000142192
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 adipose tissue
@@ -447,21 +783,7 @@ adipose tissue
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-4.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000178562
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-prostate
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.6
+289.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -471,7 +793,7 @@ NA
     </item>
     
     <item>
-      <title>CD28</title>
+      <title>APP</title>
       <link>/genepanel/940/gene_context/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/940/gene_context/</guid>
@@ -480,13 +802,13 @@ NA
 
 
 &lt;hr /&gt;
-&lt;p&gt;CD28 molecule&lt;/p&gt;
+&lt;p&gt;amyloid beta precursor protein&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CD28 gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of APP gene in 42 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -502,10 +824,338 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32324595&#34; target=&#34;_blank&#34;&gt;32324595&lt;/a&gt;
+&lt;a href=&#34;/publication/32108862&#34; target=&#34;_blank&#34;&gt;32108862&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-The costimulatory molecule CD28 had opposite results.
+Genome Detective is a web-based, user-friendly software application to quickly and accurately assemble all known virus genomes from next generation sequencing datasets. […] This application allows the identification of phylogenetic clusters and genotypes from assembled genomes in FASTA format. […] The tool can accept up to 2,000 sequences per submission and the analysis of a new whole genome sequence will take approximately one minute. […] The tool also allows tracking of new viral mutations as the outbreak expands globally, which may help to accelerate the development of novel diagnostics, drugs and vaccines to stop the COVID-19 disease. &lt;a href=&#34;https://www.genomedetective.com/app/typingtool/cov&#34; class=&#34;uri&#34;&gt;https://www.genomedetective.com/app/typingtool/cov&lt;/a&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32160889&#34; target=&#34;_blank&#34;&gt;32160889&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As with the original SARS-CoV epidemic of 2002/2003 and with seasonal influenza, geographic information systems and methods, including, among other application possibilities, online real-or near-real-time mapping of disease cases and of social media reactions to disease spread, predictive risk mapping using population travel data, and tracing and mapping super-spreader trajectories and contacts across space and time, are proving indispensable for timely and effective epidemic monitoring and response. […] This paper offers pointers to, and describes, a range of practical online/mobile GIS and mapping dashboards and applications for tracking the 2019/2020 coronavirus epidemic and associated events as they unfold around the world. […] Some of these dashboards and applications are receiving data updates in near-real-time (at the time of writing), and one of them is meant for individual users (in China) to check if the app user has had any close contact with a person confirmed or suspected to have been infected with SARS-CoV-2 in the recent past.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32169498&#34; target=&#34;_blank&#34;&gt;32169498&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To address this concern, the study employed a total of 214 general public and 526 nurses (i.e., 234 front-line nurses and 292 non-front-line nurses) to evaluate vicarious traumatization scores via a mobile app-based questionnaire.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32234805&#34; target=&#34;_blank&#34;&gt;32234805&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We conclude that viral spread is too fast to be contained by manual contact tracing, but could be controlled if this process was faster, more efficient and happened at scale. […] A contact-tracing App which builds a memory of proximity contacts and immediately notifies contacts of positive cases can achieve epidemic control if used by enough people.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32240973&#34; target=&#34;_blank&#34;&gt;32240973&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Contact tracing using smartphone technology is a powerful tool that may be employed to limit disease transmission during an epidemic or pandemic; yet, contact tracing apps present significant privacy concerns regarding the collection of personal data such as location. […] The aim of this study is to develop an effective contact tracing smartphone app that respects user privacy by not collecting location information or other personal data. […] We propose the use of an anonymized graph of interpersonal interactions to conduct a novel form of contact tracing and have developed a proof-of-concept smartphone app that implements this approach. […] Our proof-of-concept smartphone app allows users to create “checkpoints” for contact tracing, check their risk level based on their past interactions, and anonymously self-report a positive status to their peer network. […] Our simulation results suggest that higher adoption rates of such an app may result in a better controlled epidemic or pandemic outbreak. […] This app could potentially be applied to the current COVID-19 pandemic as well as other epidemics or pandemics in the future to achieve a middle ground between drastic isolation measures and unmitigated disease spread.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32250958&#34; target=&#34;_blank&#34;&gt;32250958&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Three documents containing institutional information concerning screening, local containment procedures, and frequently asked questions and answers for parents were made available to the staff through a mobile app developed in the University of Geneva, Switzerland. […] In a survey, medical staff found the information easy to find within the app. […] On a 10-point Likert scale, the ability of the app to reassure staff in clinical practice was rated as 7.6 (SD 2.1), time-saving ability was rated as 8.5 (SD 2.1), and the need to look for information from other sources was rated as 5.9 (SD 3.3).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32250961&#34; target=&#34;_blank&#34;&gt;32250961&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Methods: A social media monitoring conducted through a qualitative design to analyze the discussions of social media users about the content related to COVID-19 transferred via Iranian medical faculty members` groups in Telegram and Whats App during Feb 20 to March 20, 2020 emphasizing the misinformation. […] Discourse analysis was applied and the written dialogues and discussions regarding misinformation about different aspects of the outbreak between medical faculty members all over the country were analyzed. […] Conclusion: This study contributes the management of COVID-19 outbreak trough providing applicable insights for health managers to manage public information in this challenging time.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32294052&#34; target=&#34;_blank&#34;&gt;32294052&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We suggest and discuss an implementation of app-based contact-tracing to control the Covid-19 pandemic and discuss its data protection and user acceptability aspects.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32347685&#34; target=&#34;_blank&#34;&gt;32347685&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In New York the neurosurgeon staff work in ICU as advanced practitioner (APP).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348293&#34; target=&#34;_blank&#34;&gt;32348293&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Second, we will be implementing the app to provide an online community to assist families and peer groups in maintaining contact with older people using goal setting. […] Anonymized data from the app will be aggregated with other real-world data sources to develop a machine learning algorithm to improve the identification of patients with COVID-19 and track for real time use by health systems. […] The app development framework for software design was based on agile methods. […] The evaluation of the app’s feasibility, acceptability and usability shall be conducted using Public Health England’s guidance on evaluating digital health products, Bandura’s model of health promotion, the Reach Effectiveness Adoption Implementation Maintenance (RE-AIM) framework and the Nonadoption, Abandonment and Challenges to the Scale-up, Spread and Suitability (NASSS) framework. […] Making use of a pre-existing software framework for health behavior change, a proof of concept was developed, and a multistage app development and deployment for the solution was created. […] Ethical approval for a feasibility study design is being sought. […] This case study lays the foundations for future app development to combat mental and societal issues arising from social distancing measures. […] The app will be tested and evaluated in future studies to allow continuous improvement of the app. […] This novel contribution will provide an evidence-based exemplar for future app development in the space of social isolation and loneliness.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32349962&#34; target=&#34;_blank&#34;&gt;32349962&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The network synergizes a newly established 5G service, a smartphone app, and an existing telemedicine system.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32371551&#34; target=&#34;_blank&#34;&gt;32371551&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As a central component of this initiative, we have developed a COVID-19 Symptom Tracker mobile application as a common data collection tool for epidemiologic cohort studies with active study participants. […] This mobile application collects information on risk factors, daily symptoms, and outcomes through a user-friendly interface that minimizes participant burden. […] The linkage of symptom data collected in the app with information and biospecimens already collected in epidemiology cohorts will position us to address key questions related to diet, lifestyle, environmental and socioeconomic factors on susceptibility to COVID-19, clinical outcomes related to infection, and long-term physical, mental health, and financial sequalae.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32393804&#34; target=&#34;_blank&#34;&gt;32393804&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A total of 2,618,862 participants reported their potential symptoms of COVID-19 on a smartphone-based app. […] A model combining symptoms to predict probable infection was applied to the data from all app users who reported symptoms (805,753) and predicted that 140,312 (17.42%) participants are likely to have COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32394650&#34; target=&#34;_blank&#34;&gt;32394650&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the conventional intervention group, the conventional observation was adopted without moxibusiton intervention applied. […] In this research, on the base of internet plus technology and with the internet communication platform adopted, through mobile phone WeChat App, it was to implement the subject screen, the random allocation and the instruction of moxibustion intervention as well as the quality control of patient’s diary and data collection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32406855&#34; target=&#34;_blank&#34;&gt;32406855&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The idea of the COVID-19 Caregiver Cockpit (C19CC) was to implement a free-of-charge web-/APP-based tool for patient assessment to assist health care professionals working in a COVID-19 environment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32409432&#34; target=&#34;_blank&#34;&gt;32409432&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As the number of confirmed cases grew, standardizing home-based care became critical to managing high-risk patients, moderating the risk of exposure for healthcare workers, and reducing the amount of community spread through appropriate education on home-based care for exposed or infected individuals. […] This novel, team-based approach to caring for patients with COVID-19 incorporates a self-monitoring app for patient engagement, monitors symptoms for early intervention, and promotes a holistic view of care.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32412422&#34; target=&#34;_blank&#34;&gt;32412422&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Due to an urgent need for a tool that presents important reports based on valid data sources, a team of government experts and researchers focused on the design and development of a web app intended to provide a regularly updated overview of COVID-19 epidemiology in the Czech Republic to the general population. […] This complex reporting of the COVID-19 epidemic in the Czech Republic also shows an effective way to interconnect knowledge held by various specialists, such as regional and national methodology experts (who report positive cases of the disease on a daily basis), with knowledge held by developers of central registries, analysts, developers of web apps, and leaders in the health care sector.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32425292&#34; target=&#34;_blank&#34;&gt;32425292&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The acronym for the tool is R-MAPP, as for &lt;b&gt;R&lt;/b&gt;emote - Malnutrition &lt;b&gt;APP&lt;/b&gt;, while the tool will be available also as an app.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32425430&#34; target=&#34;_blank&#34;&gt;32425430&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The future updating of Aarogya Setu App (&lt;a href=&#34;https://mygov.in/aarogya-setu-app/&#34; class=&#34;uri&#34;&gt;https://mygov.in/aarogya-setu-app/&lt;/a&gt;). for convenient online OPD registration and dispensation has been discussed and proposed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32463375&#34; target=&#34;_blank&#34;&gt;32463375&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, given the temporary closure of UK stop smoking services and vape shops, smokers attempting to quit may instead seek out mobile health support, such as smartphone apps. […] We examined, using an interrupted time series approach, whether the SARS-CoV-2 outbreak has been associated with a step change or increasing trend in UK downloads of an otherwise popular smoking cessation app, Smoke Free. […] Data were from daily and non-daily adult smokers in the UK who had downloaded the Smoke Free app between 1 January 2020 and 31 March 2020 (primary analysis) and 1 January 2019 and 31 March 2020 (secondary analysis). […] In the UK, between 1 January 2020 and 31 March 2020, and between 1 January 2019 and 31 March 2020, there was no evidence that the SARS-CoV-2 outbreak has been associated with a large step change or increasing trend in downloads of a popular smoking cessation app.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32473497&#34; target=&#34;_blank&#34;&gt;32473497&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In order to address this need, we created a downloadable pedagogical video content through first-person point-of-view to rapidly train users on COVID-19 procedures in the Revinax® Handbook mobile App. […] In one-month since the App was created, it was downloaded by 12,516 users and a feedback survey determined that the users valued the tutorials in helping them learn COVID-19 procedures efficiently in real-time. […] The 71.48% App user response rate, showed largely positive feedback of the COVID-19 tutorial. […] Further, the App users indicated that they FPV tutorial was rather helpful in addressing their training needs regarding their roles in COVID-19 patient care during the pandemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32474883&#34; target=&#34;_blank&#34;&gt;32474883&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with prefixed appointments had two-level screening for eligibility for teleconsultation. […] Those eligible were given the option for teleconsultation on the widely available WhatsApp app. […] In the first 7 days, out of 1469 appointments, 975 were found eligible for teleconsultation. […] Age, sex, availability of personal video conferencing app or of vehicles did not independently influence this score. […] Not making the switch could have deprived approximately three-quarters of these patients of proper medical care.Key Points• Patient to rheumatologist ratios in India is heavily skewed and awareness about telemedicine is limited.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32475884&#34; target=&#34;_blank&#34;&gt;32475884&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Large-scale monitoring for capturing the current epidemiological situation of COVID-19 in Japan would improve preparation for and prevention of a massive outbreak.MethodsA chatbot-based healthcare system named COOPERA (COvid-19: Operation for Personalized Empowerment to Render smart prevention And care seeking) was developed using the LINE app to evaluate the current Japanese epidemiological situation. […] LINE users could participate in the system either though a QR code page in the prefecture’s website, or a banner at the top of the LINE app screen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32481256&#34; target=&#34;_blank&#34;&gt;32481256&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The coefficients of variance (CV = the ratio of the standard deviation to the mean) were applied to measure the relative variability for each CFR. […] An app developed for displaying the provisional CFR with the 2 CFR trends can improve the underestimated CFR reported by WHO and media.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32484783&#34; target=&#34;_blank&#34;&gt;32484783&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We raise five calls to action to ensure the safety, availability and long-term sustainability of these technologies: (1) Due diligence: Remove harmful health apps from app stores; (2) Data insights: Use relevant health data insights from high-quality digital tools to inform the greater response to COVID-19; (3) Freely available resources: Make high-quality digital health tools available without charge, where possible and for as long as possible, especially to those who are most vulnerable; (4) Digital transitioning: Transform conventional offline mental health services to make them digitally available; and (5) Population self-management: Encourage governments and insurers to work with developers to look at how digital health management could be subsidised or funded.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32487005&#34; target=&#34;_blank&#34;&gt;32487005&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To this end, acquiring respiratory data solely from breathing sounds fed to the smartphone’s microphone strikes as a very appealing resolution. […] The ideas presented have the potential to be deployed as self-test breathing monitoring apps for the ongoing global COVID-19 pandemic, where users can check their breathing sound pattern frequently through the app.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32490843&#34; target=&#34;_blank&#34;&gt;32490843&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We adopted new electronic health record templates, hospital information system (HIS) dashboards, cloud-based medical image sharing, a mobile app, and smart vital sign monitoring devices. […] Patients used a mobile app to consult with their physician or nurse, answer questionnaires, and input self-measured vital signs; the results were uploaded to the hospital information system in real time. […] A multidisciplinary approach was integral to develop systems supporting patient care and management at the living and treatment support center as quickly as possible. […] Faced with a novel infectious disease, we describe the implementation and experience of applying an ICT-based patient management system in the LTSC affiliated with Seoul National University Hospital. […] ICT-based tools and applications are increasingly important in health care, and we hope that our experience will provide insight into future technology-based infectious disease responses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32496261&#34; target=&#34;_blank&#34;&gt;32496261&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The mHealth app Arogya Setu can substantially contribute to the containment and management of COVID-19. […] This study explores the experiences and expectations of Arogya Setu app users by conducting a combined content analysis of their reviews. […] The reviews are primarily posted in the areas of user acceptance (80%), app usefulness (72.8%), and app features (62.2%). […] The thematic analysis resulted in four themes: user acceptance, app usefulness, promptness of the Indian Government in bringing the app on time, and concerns and cautions raised by the users. […] These help in strengthening the app features enabling the real-time data capture and analytics and providing timely information to authorities for better decision-making.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32499212&#34; target=&#34;_blank&#34;&gt;32499212&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We, therefore, developed a mini-program within the app WeChat.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32501313&#34; target=&#34;_blank&#34;&gt;32501313&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+With today’s world revolving around online interaction, dating applications (apps) are a prime example of how people are able to discover and converse with others that may share similar interests or lifestyles, including during the recent COVID-19 lockdowns. […] However, with each new app comes the possibility of criminal exploitation. […] For example, while apps with geolocation feature are intended for users to provide personal information that drive their search to meet someone, that same information can be used by hackers or forensic analysts to gain access to personal data, &lt;i&gt;albeit&lt;/i&gt; for different purposes. […] This paper examines the &lt;i&gt;Happn&lt;/i&gt; dating app (versions 9.6.2, 9.7, and 9.8 for iOS devices, and versions 3.0.22 and 24.18.0 for Android devices), which geographically works differently compared to most notable dating apps by providing users with profiles of other users that might have passed by them or in the general radius of their location.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32501802&#34; target=&#34;_blank&#34;&gt;32501802&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We discuss the concept of a participatory digital contact notification approach to assist tracing of contacts who are exposed to confirmed cases of coronavirus disease (COVID-19); the approach is simple and affordable for countries with limited access to health care resources and advanced technology. […] The proposed tool serves as a supplemental contract tracing approach to counteract the shortage of health care staff while providing privacy protection for both cases and contacts. […] This tool can be deployed on the internet or as a plugin for a smartphone app.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32516750&#34; target=&#34;_blank&#34;&gt;32516750&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+By providing citizens with an app, they always have access to the latest information and can assess their own health. […] The aim of this observational study is to assess people’s use of an app to support them with COVID-19 education, self-assessment, and monitoring of their own health for a 7-day period. […] In addition, we aim to assess the usability of this data for health care providers and policy makers by applying it to an interactive map and combining it with hospital data. […] The secondary outcomes of the study were user’s satisfaction with the information provided in the app, perceived usefulness of the app, health care providers they contacted, and the follow-up actions from this contact. […] From April 1, 2020, onwards ETZ offered the COVID-19 education, self-assessment, and symptom tracking diary to their already existing app for patient education and monitoring. […] Between April 1 and April 20, 2020, a total of 6194 people downloaded the app. […] The data was successfully applied to an interactive map, displaying user demographics and health status. […] App users were satisfied with the information in the app and appreciated the symptom diary functionality. […] Our study demonstrated the successful implementation and use of an app with COVID-19 education, self-assessment, and a 7-day symptom diary. […] Data collected with the app were successfully applied to an interactive map.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32519963&#34; target=&#34;_blank&#34;&gt;32519963&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Behaviors such as the number of locations visited, distance traveled, duration of phone usage, number of phone unlocks, sleep duration, and sedentary time were measured using the StudentLife smartphone sensing app.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534175&#34; target=&#34;_blank&#34;&gt;32534175&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A hypothetical three-part prevention, diagnostic, and treatment approach based on an up-to-date scientific literature review for COVID-19 is proposed. […] Regarding diagnosis, a validated screening questionnaire and digital app for COVID-19 could help identify individuals who are at risk of transmitting the disease, as well as those at highest risk for poor clinical outcomes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32535511&#34; target=&#34;_blank&#34;&gt;32535511&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+652 Chinese citizens consented and completed a survey through an online questionnaire APP.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32536953&#34; target=&#34;_blank&#34;&gt;32536953&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Francesco Finazzi&lt;/b&gt; and &lt;b&gt;Alessandro Fassò&lt;/b&gt; use location data collected by an earthquake-monitoring app to gauge compliance with lockdown measures in Italy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32541529&#34; target=&#34;_blank&#34;&gt;32541529&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The app was developed to display which countries had higher travel risks and aid with the understanding of the outbreak situation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32548597&#34; target=&#34;_blank&#34;&gt;32548597&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This Preview summarizes the Ada Lovelace Institute rapid evidence review &lt;i&gt;Exit through the App Store? &lt;/i&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32559451&#34; target=&#34;_blank&#34;&gt;32559451&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To maintain control of infection while also reducing disruption to populations, there is a need to understand what combination of measures-including novel digital tracing approaches and less intensive physical distancing-might be required to reduce transmission. […] We estimated that combined isolation and tracing strategies would reduce transmission more than mass testing or self-isolation alone: mean transmission reduction of 2% for mass random testing of 5% of the population each week, 29% for self-isolation alone of symptomatic cases within the household, 35% for self-isolation alone outside the household, 37% for self-isolation plus household quarantine, 64% for self-isolation and household quarantine with the addition of manual contact tracing of all contacts, 57% with the addition of manual tracing of acquaintances only, and 47% with the addition of app-based tracing only.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32568727&#34; target=&#34;_blank&#34;&gt;32568727&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The system was built on a popular social media smartphone app called WeChat, which established two-way communication between a multi-disciplinary team consisting of seven medical workers and 188 home-quarantined individuals (including 74 confirmed COVID-19 patients). […] The results are useful for medical staff to identify disease progression, and hence, make appropriate and timely treatment decisions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32568728&#34; target=&#34;_blank&#34;&gt;32568728&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To this end, we integrated health observation items specific to COVID-19 with an existing PHR-based app. […] This study was conducted as a proof-of-concept study in a real-world setting to develop a PHR-based COVID-19 symptom tracking app, and to demonstrate practical use of health observations for COVID-19 using a smartphone/tablet app integrated with PHRs. […] We applied the PHR-based health observation app within an active epidemiological investigation conducted by Wakayama City Public Health Center. […] Email addresses are used by the app when a health observer sends data to the public health center. […] Each health observer downloads the app and installs it on their smartphone. […] Self-observed health data are entered daily into the app. […] These data are then sent via the app by email at a designated time. […] We used the app as part of an active epidemiological investigation executed at a Public Health Center. […] Among them, 57 had adopted the use of the health observation app. […] Before introduction of the app, all health observers would have been interviewed by telephone, a slow process that took four epidemiological officers more than 2 hours. […] After the introduction of the app, a single epidemiological officer can carry out health observations. […] The app was distributed for free beginning in early March, and by mid-May it had been used by more than 20,280 users and 400 facilities/organizations across Japan. […] Health observation by PHR for the purpose of improving health management can also be effectively applied as a measure against large-scale infectious diseases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574319&#34; target=&#34;_blank&#34;&gt;32574319&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Considering the effect of the official quarantine regulations and travel restrictions for China, which began January 23~24, 2020, we used the daily travel intensity index from the Baidu Maps app to roughly simulate the level of restrictions and estimate the proportion of the quarantined population.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -516,7 +1166,7 @@ The costimulatory molecule CD28 had opposite results.
     </item>
     
     <item>
-      <title>CD28</title>
+      <title>APP</title>
       <link>/genepanel/940/clinvar/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/940/clinvar/</guid>
@@ -524,7 +1174,7 @@ The costimulatory molecule CD28 had opposite results.
 
 
 &lt;hr /&gt;
-&lt;p&gt;CD28 molecule&lt;/p&gt;
+&lt;p&gt;amyloid beta precursor protein&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;ClinVar Summary&lt;/h2&gt;
@@ -538,7 +1188,7 @@ Under development
     </item>
     
     <item>
-      <title>CD28</title>
+      <title>APP</title>
       <link>/genepanel/940/geo/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/940/geo/</guid>
@@ -546,7 +1196,7 @@ Under development
 
 
 &lt;hr /&gt;
-&lt;p&gt;CD28 molecule&lt;/p&gt;
+&lt;p&gt;amyloid beta precursor protein&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;GEO dataset Summary&lt;/h2&gt;

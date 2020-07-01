@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00415&#39; target=&#39;_blank&#39;&gt;db00415&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ampicillin&#34; target=&#34;_blank&#34;&gt;ampicillin&lt;/a&gt; &lt;br&gt;
 Synonymous :abpc | aminobenzylpenicillin | ampicilina | ampicillin | ampicillin (anhydrous) | ampicillin acid | ampicillin anhydrous | ampicillin, anhydrous | ampicilline | ampicillinum | anhydrous ampicillin | ap | d-(−)-6-(α-aminophenylacetamido)penicillanic acid | d-(−)-ampicillin
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :abpc | aminobenzylpenicillin | ampicilina | ampicillin | ampicillin 
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ampicillin&lt;/em&gt; gene in 0 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Suspecting a possible secondary bacterial infection at the beginning, intravenous antibiotic treatment with ampicillin/sulbactam was initiated. […] Bei Verdacht auf eine mögliche bakteriell-superinfizierte Pneumonie wurde eine intravenöse antibiotische Therapie mit Ampicillin/Sulbactam eingeleitet, welche nach 3 Tagen bei fehlenden Hinweisen auf bakterielle Erreger beendet wurde.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32538597&#34; target=&#34;_blank&#34;&gt;32538597&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+When empiric treatment is appropriate, suggested antibiotics include ceftriaxone or cefotaxime for infants one to three months of age and ampicillin with gentamicin or with cefotaxime for neonates.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

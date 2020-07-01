@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>ANPEP</title>
+      <title>MB</title>
       <link>/genepanel/290/info/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/290/info/</guid>
@@ -21,23 +21,23 @@
 
 
 &lt;hr /&gt;
-&lt;p&gt;alanyl aminopeptidase, membrane&lt;/p&gt;
+&lt;p&gt;myoglobin&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/290&#34; target=&#34;_blank&#34;&gt;290&lt;/a&gt; | Type: Protein Coding |
-Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=290&#34; target=&#34;_blank&#34;&gt; 15q26.1&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/151530&#39; target=&#39;_blank&#39;&gt;151530&lt;/a&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/4151&#34; target=&#34;_blank&#34;&gt;4151&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=4151&#34; target=&#34;_blank&#34;&gt; 22q12.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/160000&#39; target=&#39;_blank&#39;&gt;160000&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;Aminopeptidase N is located in the small-intestinal and renal microvillar membrane, and also in other plasma membranes. In the small intestine aminopeptidase N plays a role in the final digestion of peptides generated from hydrolysis of proteins by gastric and pancreatic proteases. Its function in proximal tubular epithelial cells and other cell types is less clear. The large extracellular carboxyterminal domain contains a pentapeptide consensus sequence characteristic of members of the zinc-binding metalloproteinase superfamily. Sequence comparisons with known enzymes of this class showed that CD13 and aminopeptidase N are identical. The latter enzyme was thought to be involved in the metabolism of regulatory peptides by diverse cell types, including small intestinal and renal tubular epithelial cells, macrophages, granulocytes, and synaptic membranes from the CNS. This membrane-bound zinc metalloprotease is known to serve as a receptor for the HCoV-229E alphacoronavirus as well as other non-human coronaviruses. This gene has also been shown to promote angiogenesis, tumor growth, and metastasis and defects in this gene are associated with various types of leukemia and lymphoma. [provided by RefSeq, Apr 2020] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a member of the globin superfamily and is predominantly expressed in skeletal and cardiac muscles. The encoded protein forms a monomeric globular haemoprotein that is primarily responsible for the storage and facilitated transfer of oxygen from the cell membrane to the mitochondria. This protein also plays a role in regulating physiological levels of nitric oxide. Multiple transcript variants encoding distinct isoforms exist for this gene. [provided by RefSeq, May 2020] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
     </item>
     
     <item>
-      <title>ANPEP</title>
+      <title>MB</title>
       <link>/genepanel/290/gene_expression/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/290/gene_expression/</guid>
@@ -46,13 +46,13 @@ OMIM: &lt;a href=&#39;https://omim.org/entry/151530&#39; target=&#39;_blank&#39;
 
 
 &lt;hr /&gt;
-&lt;p&gt;alanyl aminopeptidase, membrane&lt;/p&gt;
+&lt;p&gt;myoglobin&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Expression&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; ANPEP expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;strong&gt;Table 1.&lt;/strong&gt; MB expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -74,189 +74,35 @@ mRNA
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
+ENSG00000198125
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-duodenum
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-2386.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-gallbladder
+heart muscle
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 High
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-191.9
+6603.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
+ENSG00000198125
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-kidney
+skeletal muscle
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 High
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-263.2
+12284.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-liver
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-144.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-pancreas
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-137.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-small intestine
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-2133.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-appendix
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-53.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-bone marrow
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-85.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-breast
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-45.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-cervix, uterine
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-65.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-rectum
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-64.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-spleen
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-19.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-testis
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-3.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
+ENSG00000198125
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 adrenal gland
@@ -265,12 +111,12 @@ adrenal gland
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-3.8
+1.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
+ENSG00000198125
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 appendix
@@ -279,12 +125,12 @@ appendix
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-53.1
+1.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
+ENSG00000198125
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 breast
@@ -293,12 +139,12 @@ breast
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-45.7
+53.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
+ENSG00000198125
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 cerebral cortex
@@ -307,12 +153,26 @@ cerebral cortex
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2.6
+2.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
+ENSG00000198125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000198125
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 colon
@@ -321,15 +181,127 @@ colon
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-259.8
+14.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
+ENSG00000198125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000198125
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000198125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+762.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000198125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000198125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000198125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000198125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000198125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000198125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
@@ -340,24 +312,24 @@ Not detected
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
+ENSG00000198125
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-epididymis
+ovary
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2.1
+6.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
+ENSG00000198125
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-esophagus
+pancreas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
@@ -368,94 +340,94 @@ Not detected
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-fallopian tube
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-3.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-heart muscle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-kidney
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-263.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-lung
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-33.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-lymph node
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-14.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-pancreas
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-137.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
+ENSG00000198125
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000198125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000198125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+281.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000198125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000198125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000198125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000198125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
@@ -466,91 +438,7 @@ Not detected
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-placenta
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-50.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-salivary gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-3.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-seminal vesicle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-8.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-skin
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-15.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-smooth muscle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-45.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-spleen
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-19.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
+ENSG00000198125
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 stomach
@@ -559,12 +447,12 @@ stomach
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-7.9
+1.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
+ENSG00000198125
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 testis
@@ -573,15 +461,43 @@ testis
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-3.0
+8.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
+ENSG00000198125
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000198125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000198125
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
@@ -592,63 +508,7 @@ Not detected
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-tonsil
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-4.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-urinary bladder
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-14.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-colon
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-259.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-prostate
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-163.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000166825
+ENSG00000198125
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 adipose tissue
@@ -657,7 +517,7 @@ adipose tissue
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.1
+1.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -667,7 +527,7 @@ NA
     </item>
     
     <item>
-      <title>ANPEP</title>
+      <title>MB</title>
       <link>/genepanel/290/gene_context/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/290/gene_context/</guid>
@@ -676,13 +536,13 @@ NA
 
 
 &lt;hr /&gt;
-&lt;p&gt;alanyl aminopeptidase, membrane&lt;/p&gt;
+&lt;p&gt;myoglobin&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of ANPEP gene in 3 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of MB gene in 24 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -698,26 +558,194 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32199615&#34; target=&#34;_blank&#34;&gt;32199615&lt;/a&gt;
+&lt;a href=&#34;/publication/32220650&#34; target=&#34;_blank&#34;&gt;32220650&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Intriguingly, we found that the candidate co-receptors, manifesting the most similar expression patterns with ACE2 across 13 human tissues, are all peptidases, including ANPEP, DPP4 and ENPEP. […] Among them, ANPEP and DPP4 are the known receptors for human CoVs, suggesting ENPEP as another potential receptor for human CoVs.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32374427&#34; target=&#34;_blank&#34;&gt;32374427&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-In this study, a total of 38 conjunctival samples from 38 patients, including 12 healthy conjunctiva, 12 melanoma, 7 squamous cell carcinoma and 7 papilloma samples, were analyzed using high-throughput RNA sequencing to assess mRNA expression of the SARS-CoV-2 receptor ACE2 and its cofactors including TMPRSS2, ANPEP, DPP4, and ENPEP.
+Since December, 2019, an outbreak of coronavirus disease 2019 (COVID-19) has spread globally. […] The route of transmission was by close contact with family members (32 [89%]) or a history of exposure to the epidemic area (12 [33%]); eight (22%) patients had both exposures. 19 (53%) patients had moderate clinical type with pneumonia; 17 (47%) had mild clinical type and either were asymptomatic (ten [28%]) or had acute upper respiratory symptoms (seven [19%]). […] Typical abnormal laboratory findings were elevated creatine kinase MB (11 [31%]), decreased lymphocytes (11 [31%]), leucopenia (seven [19%]), and elevated procalcitonin (six [17%]). […] Besides radiographic presentations, variables that were associated significantly with severity of COVID-19 were decreased lymphocytes, elevated body temperature, and high levels of procalcitonin, D-dimer, and creatine kinase MB.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32463365&#34; target=&#34;_blank&#34;&gt;32463365&lt;/a&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32232979&#34; target=&#34;_blank&#34;&gt;32232979&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-We find the gut as the putative hotspot of COVID-19, where a maturation correlated transcriptional signature is shared in small intestine enterocytes among coronavirus receptors(ACE2, DPP4, ANPEP).
+In this study, we detected and analyzed the main laboratory indicators related to heart injury, creatine kinase isoenzyme-MB (CK-MB), myohemoglobin (MYO), cardiac troponin I (ultra-TnI), and N-terminal pro-brain natriuretic peptide (NT-proBNP), in 273 patients with COVID-19 and investigated the correlation between heart injury and severity of the disease. […] It was found that higher concentration in venous blood of CK-MB, MYO, ultra-TnI, and NT-proBNP were associated with the severity and case fatality rate of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32267000&#34; target=&#34;_blank&#34;&gt;32267000&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this retrospective, single center study authors have discussed the role of acute cardiovascular injury marker including CK-MB, Myoglobulin, cardiac troponin I (cTnI) and NT- proBNP on the outcome of 273 patients with COVID-19 disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32305557&#34; target=&#34;_blank&#34;&gt;32305557&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed a systematic literature search across Pubmed, Embase and pre-print from December 1, 2019 to March 27, 2020, to identify all observational studies that reported cardiac specific biomarkers (troponin, creatine kinase-MB fraction, myoglobin, or NT-proBNP) during COVID-19 infection. […] More severe COVID-19 infection is associated with higher mean troponin (SMD 0.53, 95% CI 0.30 to 0.75, p &amp;lt; 0.001), with a similar trend for creatine kinase-MB, myoglobin, and NT-proBNP.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32312363&#34; target=&#34;_blank&#34;&gt;32312363&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+An increase in alanine aminotransferase was observed in 11 children (9.6%) and an increase in CK-MB was found in 34 children (29.6%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32418216&#34; target=&#34;_blank&#34;&gt;32418216&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+With the rapid increase in the number of infections, children with COVID-19 appear to be rising. […] Moreover, elevated creatine kinase MB isoenzyme (CK-MB) was much more commonly observed in children (27.0%) than that in adults, suggesting that heart injury would be more likely to happen in pediatric patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32446795&#34; target=&#34;_blank&#34;&gt;32446795&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with diabetes had significantly higher leucocyte and neutrophil counts, and higher levels of fasting blood glucose, serum creatinine, urea nitrogen and creatine kinase isoenzyme MB at admission compared with those without diabetes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32449224&#34; target=&#34;_blank&#34;&gt;32449224&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since the December 2019 discovery of several cases of coronavirus disease 2019 (COVID-19) in Wuhan, China, the infection has spread worldwide. […] Compared with those in the M group, lymphocyte count (LYM) decreased significantly in the SC group, while the serum levels of C-reactive protein (CRP), procalcitonin (PCT), creatinine (Cre), D-dimer, lactic dehydrogenase (LDH), myoglobin (MB) and troponin I (cTnl) increased significantly in the SC group (P &amp;lt; .05). […] The combined use of three or more antiviral drugs is to be avoided. […] The combination of broad-spectrum antibacterial drugs is not recommended and the risk of drug-induced liver injury should be monitored.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32473151&#34; target=&#34;_blank&#34;&gt;32473151&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In mild disease, creatine kinase-MB (CK-MB) was frequently elevated, with a PPE of 33%. […] Finally, elevated CK-MB in mild pediatric COVID-19 cases is indicative of possible cardiac injury.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32490853&#34; target=&#34;_blank&#34;&gt;32490853&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The large number of patients requiring intensive care threatens to overwhelm healthcare systems globally. […] Here, an integrated point-of-care COVID-19 Severity Score and clinical decision support system is presented using biomarker measurements of C-reactive protein (CRP), N-terminus pro B type natriuretic peptide (NT-proBNP), myoglobin (MYO), D-dimer, procalcitonin (PCT), creatine kinase-myocardial band (CK-MB), and cardiac troponin I (cTnI). […] The COVID-19 Severity Score combines multiplex biomarker measurements and risk factors in a statistical learning algorithm to predict mortality. […] Although this analysis represents patients with cardiac comorbidities (hypertension), the inclusion of biomarkers from other pathophysiologies implicated in COVID-19 (e.g., D-dimer for thrombotic events, CRP for infection or inflammation, and PCT for bacterial co-infection and sepsis) may improve future predictions for a more general population.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32492165&#34; target=&#34;_blank&#34;&gt;32492165&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most common laboratory abnormalities were increased levels of alanine aminotransferase (ALT) (median [IQR], 16.0 [12.0-26.0] U/L), aspartate aminotransferase (AST) (median [IQR], 30.0 [23.0-41.8] U/L), creatine kinase MB (CK-MB) activity (median [IQR], 24.0 [18.0-34.0] U/L), and lactate dehydrogenase (LDH) (median [IQR], 243.0 [203.0-297.0] U/L), which are associated with liver and myocardial injury. […] There was no statistically significant difference in absolute number of lymphocytes (including T cells and B cells) between mild and moderate cases, but moderate cases were associated with a decrease in neutrophil levels compared with mild cases (median [IQR], 2310/μL [1680/μL-3510/μL] vs 3120/μL [2040/μL-4170/μL]; P = .01). […] Immunoglobin G and the neutrophil to lymphocyte ratio were negatively associated with biochemical indices related to liver and myocardial injury (immunoglobulin G, ALT: r, -0.3579; AST: r, -0.5280; CK-MB activity: r, -0.4786; LDH: r, -0.4984; and neutrophil to lymphocyte ratio, ALT: r, -0.1893; AST: r, -0.3912; CK-MB activity: r, -0.3428; LDH: r, -0.3234), while counts of lymphocytes, CD4+ T cells, and interleukin 10 showed positive associations (lymphocytes, ALT: r, 0.2055; AST: r, 0.3615; CK-MB activity: r, 0.338; LDH: r, 0.3309; CD4+ T cells, AST: r, 0.4701; CK-MB activity: r, 0.4151; LDH: r, 0.4418; interleukin 10, ALT: r, 0.2595; AST: r, 0.3386; CK-MB activity: r, 0.3948; LDH: r, 0.3794).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32504751&#34; target=&#34;_blank&#34;&gt;32504751&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This was associated with retraction in serum biomarkers of cellular injury of which; LDH, CK-MB, and ALP.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32507570&#34; target=&#34;_blank&#34;&gt;32507570&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Blood tests revealed elevated levels of markers of myocyte necrosis (troponin I and creatine kinase-MB).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32511971&#34; target=&#34;_blank&#34;&gt;32511971&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Through the analysis of laboratory examination information of patients with COVID-19 from 35 articles (5912 patients), we demonstrated that severe cases possessed higher levels of leukocyte (1.20-fold), neutrophil (1.33-fold), CRP (3.04-fold), PCT (2.00-fold), ESR (1.44-fold), AST (1.40-fold), ALT (1.34-fold), LDH (1.54-fold), CK (1.44-fold), CK-MB (1.39-fold), total bilirubin (1.14-fold), urea (1.28-fold), creatine (1.09-fold), PT (1.03-fold) and D-dimer (2.74-fold), as well as lower levels of lymphocytes (1.44-fold), eosinophil (2.00-fold), monocyte (1.08-fold), Hemoglobin (1.53-fold), PLT (1.15-fold), albumin (1.15-fold), and APTT (1.02-fold).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32512122&#34; target=&#34;_blank&#34;&gt;32512122&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Elevation of cardiac biomarkers, particularly high-sensitivity troponin and/or creatine kinase MB, is common in patients with COVID-19 infection. […] The plausible mechanisms of myocardial injury include, 1) hyperinflammation and cytokine storm mediated through pathologic T-cells and monocytes leading to myocarditis, 2) respiratory failure and hypoxemia resulting in damage to cardiac myocytes, 3) down regulation of ACE2 expression and subsequent protective signaling pathways in cardiac myocytes, 4) hypercoagulability and development of coronary microvascular thrombosis, 5) diffuse endothelial injury and ‘endotheliitis’ in several organs including heart, and, 6) inflammation and/or stress causing coronary plaque rupture or supply-demand mismatch leading to myocardial ischemia/infarction.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32525548&#34; target=&#34;_blank&#34;&gt;32525548&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with higher levels of hypokalemia also had higher creatine kinase levels (severe hypokalemia, mean [SD], 200 [257] U/L [median, 113 U/L; interquartile range {IQR}, 61-242 U/L]; hypokalemia, mean [SD], 97 [85] U/L; and normokalemia, mean [SD], 82 [57] U/L), higher creatine kinase-MB fraction (severe hypokalemia, mean [SD], 32 [39] U/L [median, 14 U/L; IQR, 11-36 U/L]; hypokalemia, mean [SD], 18 [15] U/L; and normokalemia, mean [SD], 15 [8] U/L), higher lactate dehydrogenase levels (mean [SD], severe hypokalemia, 256 [88] U/L; hypokalemia, 212 [59] U/L; and normokalemia, 199 [61] U/L), and higher C-reactive protein levels (severe hypokalemia, mean [SD], 29 [23] mg/L; hypokalemia, mean [SD], 18 [20] mg/L [median, 12, mg/L; IQR, 4-25 mg/L]; and normokalemia, mean [SD], 15 [18] mg/L [median, 6 U/L; IQR, 3-17 U/L]).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32537954&#34; target=&#34;_blank&#34;&gt;32537954&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since its first detection in December 2019, coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 infection has spread rapidly around the world. […] Diabetes mellitus (odds ratio [OR], 19.15; 95% confidence interval [CI], 1.90-193.42; &lt;i&gt;P&lt;/i&gt; = 0.012), body temperature ≥ 37.8°C (OR, 10.91; 95% CI, 1.35-88.36; &lt;i&gt;P&lt;/i&gt; = 0.025), peripheral oxygen saturation &amp;lt; 92% (OR, 33.31; 95% CI, 2.45-452.22; &lt;i&gt;P&lt;/i&gt; = 0.008), and creatine kinase-MB (CK-MB) &amp;gt; 6.3 (OR, 56.84; 95% CI, 2.64-1,223.78, &lt;i&gt;P&lt;/i&gt; = 0.010) at admission were associated with higher risk of severe COVID-19. […] The likelihood of development of severe COVID-19 increased with an increasing number of prognostic factors. […] In conclusion, we found that diabetes mellitus, body temperature ≥ 37.8°C, peripheral oxygen saturation &amp;lt; 92%, and CK-MB &amp;gt; 6.3 are independent predictors of severe disease in hospitalized COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32541972&#34; target=&#34;_blank&#34;&gt;32541972&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The pathogenesis of myocardial injury upon corona virus disease 2019 (COVID-19) infection remain unknown,evidence of impact on outcome is insufficient, therefore, we aim to investigate the risk factors for death among COVID-19 patients combined with hypertension, coronary heart disease or diabetes in this study. […] The positive nucleic acid of COVID-19 virus and combination with hypertension, coronary heart disease or diabetes were in the standard. […] 1.1×10&lt;sup&gt;9&lt;/sup&gt;/L, &lt;i&gt;P&lt;/i&gt;&amp;lt;0.001), creatine kinase MB(CK-MB, 3.2 μg/L &lt;i&gt;vs&lt;/i&gt;. […] Multivariate regression showed that old age (&lt;i&gt;OR&lt;/i&gt;=1.11, 95%&lt;i&gt;CI&lt;/i&gt;=1.03-1.19, &lt;i&gt;P&lt;/i&gt;=0.026), low non oxygen saturation(&lt;i&gt;OR&lt;/i&gt;=0.85, 95%&lt;i&gt;CI&lt;/i&gt;=0.72-0.99, &lt;i&gt;P&lt;/i&gt;=0.041), and abnormal increase of IL-10(＞9.1 ng/L, &lt;i&gt;OR&lt;/i&gt;=101.93, 95%&lt;i&gt;CI&lt;/i&gt;=4.74-2190.71, &lt;i&gt;P&lt;/i&gt;=0.003)were independent risk factors for COVID-19 patients combined with hypertension, coronary heart disease or diabetes. […] In COVID-19 patients combined with hypertension, coronary heart disease or diabetes, the risk factors for death were old age, low non oxygen saturation, low lymphocyte count, myocardial injury, and abnormal increase of IL-2R, IL-6, and IL-10.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32545171&#34; target=&#34;_blank&#34;&gt;32545171&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Antimicrobial photodynamic therapy (aPDT), using well known, safe and cost-effective photosensitizers, such as phenothiazines, e.g., methylene blue (MB), or porphyrins, e.g., protoporphyrin-IX (PP-IX), might help to mitigate the COVID-19 either to prevent infections or to develop photoactive fabrics (e.g., masks, suits, gloves) to disinfect surfaces, air and wastewater, under artificial light and/or natural sunlight.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32558955&#34; target=&#34;_blank&#34;&gt;32558955&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PubMed, EMBASE, and the Cochrane Library were searched to seek for studies providing details on pediatric inpatients with SARS-CoV-2 infection which were published from 1-January-2020 to 21-April-2020. […] For the laboratory result, leukopenia (21%) and lymphocytosis (22%) were the mainly indicators for pediatric inpatients, followed by high aspartate aminotransferase(AST) (19%), lymphopenia (16%), high alanine aminotransferase (ALT) (15%), high C-reactive protein (CPR) (17%), lymphopenia (16%), leukocytosis (13%), high D-dimer (12%) and high creatine kinase-MB (CK-MB)(5%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32567326&#34; target=&#34;_blank&#34;&gt;32567326&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Higher serum levels of lactate dehydrogenase (weighted mean difference (WMD) =108.86 U/L, 95% confidence interval (CI)=75.93-141.79, &lt;i&gt;p&lt;/i&gt;&amp;lt;0.001) and creatine kinase-MB (WMD=2.60 U/L, 95% CI=1.32-3.88, &lt;i&gt;p&lt;/i&gt;&amp;lt;0.001) were associated with a significant increase in the severity of COVID-19 infection. […] Cardiac injury, as assessed by serum analysis (lactate dehydrogenase, cardiac troponin I, creatine kinase (-MB) and myoglobin), was associated with severe outcome and death from COVID-19 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574309&#34; target=&#34;_blank&#34;&gt;32574309&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Creatine kinase isoenzymes (CK-MB), pro-brain natriuretic peptide (pro-BNP) and troponin levels were above the normal range in 7.10% (8/112), 66.7% (10/15), and 100% of patients, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32586669&#34; target=&#34;_blank&#34;&gt;32586669&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The age, sex, underlying diseases, clinical laboratory data within 48h (routine blood tests, ALT, AST, TBIL, ALB, BUN, CR, D-Dimer, PT, APTT, FIB, F VIII:C, CK-MB, CK, and LDH), and ventilation status were collected. […] AST, BUN, CR, CK-MB, LDH, and CK in the non-survival group were higher than those in the survival group, and the differences were statistically significant (P&amp;lt;0.05). […] PLT, AST, BUN, CR, D-Dimer, PT, FIB, F VIII:C, CK-MB, CK, and LDH predicted the area under the ROC curve (AUC) of the COVID19 endpoint events and were 0.721, 0.854, 0.867, 0.757, 0.699, 0.679, 0.715, 0.811, 0.935, and 0.802, respectively. […] In addition, PLT, AST, BUN, CR, D-Dimer, PT, FIB, F VIII:C, CK-MB, CK, and LDH had value in evaluating disease prognosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32592911&#34; target=&#34;_blank&#34;&gt;32592911&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our methodology is based on Methylene Blue (MB) mediated PDT used topically within the airway.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -728,7 +756,7 @@ We find the gut as the putative hotspot of COVID-19, where a maturation correlat
     </item>
     
     <item>
-      <title>ANPEP</title>
+      <title>MB</title>
       <link>/genepanel/290/clinvar/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/290/clinvar/</guid>
@@ -736,7 +764,7 @@ We find the gut as the putative hotspot of COVID-19, where a maturation correlat
 
 
 &lt;hr /&gt;
-&lt;p&gt;alanyl aminopeptidase, membrane&lt;/p&gt;
+&lt;p&gt;myoglobin&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;ClinVar Summary&lt;/h2&gt;
@@ -750,7 +778,7 @@ Under development
     </item>
     
     <item>
-      <title>ANPEP</title>
+      <title>MB</title>
       <link>/genepanel/290/geo/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/290/geo/</guid>
@@ -758,7 +786,7 @@ Under development
 
 
 &lt;hr /&gt;
-&lt;p&gt;alanyl aminopeptidase, membrane&lt;/p&gt;
+&lt;p&gt;myoglobin&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;GEO dataset Summary&lt;/h2&gt;

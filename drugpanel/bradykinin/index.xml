@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db12126&#39; target=&#39;_blank&#39;&gt;db12126&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=remdesivir&#34; target=&#34;_blank&#34;&gt;remdesivir&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=bradykinin&#34; target=&#34;_blank&#34;&gt;bradykinin&lt;/a&gt; &lt;br&gt;
 Synonymous :l-bradykinin
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :l-bradykinin
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;remdesivir&lt;/em&gt; gene in 116 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;bradykinin&lt;/em&gt; gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -85,6 +85,38 @@ The ACEIs are associated with cough secondary to accumulation of bradykinin and 
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We searched the recent literature (PubMed) on complement and coronavirus; contact system and coronavirus; bradykinin and coronavirus; and angiotensin receptor and coronavirus. […] Some evidence suggests that the observed pulmonary edema may be bradykinin-induced and could be the reason that corticosteroids, antihistamines, and other traditional interventions for edema are not effective. […] Activation of complement and the contact system, through generation of bradykinin, may play a role in the SARS-CoV-2-induced pulmonary edema, and our search suggests that further work is necessary to confirm our suspicions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32497257&#34; target=&#34;_blank&#34;&gt;32497257&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our attention has been focused on the role of ACE2 in that its blockade by the virus increases Bradykinin and its metabolites, well known to facilitate inflammation in the lung (responsible for cough and fever), facilitate both the coagulation and complement system, three mechanisms that are typical of angioedema, cardiovascular dysfunction and sepsis, pathologies which symptoms occur in COVID-19 patients. […] Thus, we propose to pharmacologically block the kallikrein-kinin system upstream bradykinin and the ensuing inflammation, coagulation and complement activation by means of lanadelumab, which is a clinically approved drug for hereditary angioedema.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32504925&#34; target=&#34;_blank&#34;&gt;32504925&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE2 exerts a chief role in the renin-angiotensin system (RAS) by converting angiotensin II to angiotensin-(1-7) that activates Mas receptor, inhibits ACE1, and modulates bradykinin (BK) receptor sensitivity, especially the BK type 2 receptor (BKB2R). […] ACE2 also hydrolizes des-Arg&lt;sup&gt;9&lt;/sup&gt;-bradykinin (DABK), an active BK metabolite, agonist at BK type 1 receptors (BKB1R), which is upregulated by inflammation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534506&#34; target=&#34;_blank&#34;&gt;32534506&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nevertheless, we hypothesized that a back load build up effect on Ang II may usurp the ACE capacity and subsequently leave the bradykinin system unabated. […] Thereby, we speculated that inhibition of bradykinin synthesis and/or blockade of bradykinin B2 receptor using Aprotinin/ecallantide and Icatibant, respectively, may hold therapeutic promise in severe cases and these molecules can be advanced to clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32544563&#34; target=&#34;_blank&#34;&gt;32544563&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The virus-mediated down-regulation of ACE2 causes a burst of inflammatory cytokine release through dysregulation of the renin-angiotensin-aldosterone system (ACE/angiotensin II/AT1R axis), attenuation of Mas receptor (ACE2/MasR axis), increased activation of [des-Arg9]-bradykinin (ACE2/bradykinin B1R/DABK axis), and activation of the complement system including C5a and C5b-9 components.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00471&#39; target=&#39;_blank&#39;&gt;db00471&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=montelukast&#34; target=&#34;_blank&#34;&gt;montelukast&lt;/a&gt; &lt;br&gt;
 Synonymous :(r-(e))-1-(((1-(3-(2-(7-chloro-2-quinolinyl)ethenyl)phenyl)-3-(2-(1-hydroxy-1-methylethyl)phenyl)propyl)thio)methyl)cyclopropaneacetic acid | 1-[[[(1 r)-1-[3-[(1e)-2-(7-chloro-2-quinolinyl)ethenyl] phenyl]-3-[2-(1-hydroxy-1-methylethyl)phenyl]propyl]sulfanyl]methyl]cyclopropaneacetic acid | montelukast | montélukast | montelukastum
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(r-(e))-1-(((1-(3-(2-(7-chloro-2-quinolinyl)ethenyl)phenyl)-3-(2-(1-
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;montelukast&lt;/em&gt; gene in 6 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,22 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 It has been hypothesized that Montelukast, a cysteinyl leukotriene (cysLT) receptor antagonist, with effects of anti-inflammatory, suppress oxidative stress and reduce affect cytokine production, may limited progression of the disease on COVID-19 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32492562&#34; target=&#34;_blank&#34;&gt;32492562&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Montelukast is a cysteinyl leukotriene receptor antagonist licensed to treat asthma and allergic rhinitis. […] In addition, in silico studies have demonstrated a high binding affinity of the montelukast molecule to the terminal site of the virus’s main protease enzyme which is needed for virus RNA synthesis and replication. […] Montelukast, which is cheap, safe and widely available would appear to have the potential to be an ideal candidate drug for clinical trials, particularly in early stage disease before irreparable tissue damage has already occurred. […] HYPOTHESIS: Through a direct anti-viral effect, or by suppression of heightened cytokine release in response to SARS-CoV-2, montelukast will reduce the severity of immune-mediated multiorgan damage resulting from COVID-19, particularly in patients with central obesity and metabolic syndrome.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32586154&#34; target=&#34;_blank&#34;&gt;32586154&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Montelukast can be effective in the treatment of SARS-CoV-2 infection.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

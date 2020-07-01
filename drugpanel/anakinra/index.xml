@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00026&#39; target=&#39;_blank&#39;&gt;db00026&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=water&#34; target=&#34;_blank&#34;&gt;water&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=anakinra&#34; target=&#34;_blank&#34;&gt;anakinra&lt;/a&gt; &lt;br&gt;
 Synonymous :anakinra | il-1ra | interleukin-1 receptor antagonist anakinra
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :anakinra | il-1ra | interleukin-1 receptor antagonist anakinra
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;water&lt;/em&gt; gene in 60 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;anakinra&lt;/em&gt; gene in 20 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -125,6 +125,46 @@ PARPi’s may potentiate the effectiveness of Tocilizumab, Anakinra, Sarilumab, 
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Thus, anti-proinflammatory cytokine drugs like Anakinra and Tocilizumab are undergoing multiple trials and some results are encouraging.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32482538&#34; target=&#34;_blank&#34;&gt;32482538&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Anakinra is a potent biological drug, capable of blocking this IL-1ß.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32493441&#34; target=&#34;_blank&#34;&gt;32493441&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The experimental arms consist of Anakinra alone (anti-IL-1 binding the IL-1 receptor), Siltuximab alone (anti-IL-6 chimeric antibody), a combination of Siltuximab and Anakinra, Tocilizumab alone (humanised anti-IL-6 receptor antibody) or a combination of Anakinra with Tocilizumab in addition to standard care. […] Patients treated with Anakinra will receive a daily subcutaneous injection of 100mg for a maximum of 28 days or until hospital discharge, whichever comes first. […] A 2x2 factorial design was selected with a 2:1 randomization regarding the IL-1 blockade (Anakinra) and a 1:2 randomization regarding the IL-6 blockade (Siltuximab and Tocilizumab). […] A total of 342 participants will be enrolled: 76 patients will receive usual care, 76 patients will receive Siltuximab alone, 76 patients will receive Tocilizumab alone, 38 will receive Anakinra alone, 38 patients will receive Anakinra and Siltuximab and 38 patients will receive Anakinra and Tocilizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32501454&#34; target=&#34;_blank&#34;&gt;32501454&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Anakinra is a recombinant interleukin-1 receptor antagonist that might be beneficial in this patient population. […] We compared survival, mechanical ventilation-free survival, changes in C-reactive protein, respiratory function, and clinical status in a cohort of patients who received additional treatment with anakinra (either 5 mg/kg twice a day intravenously [high dose] or 100 mg twice a day subcutaneously [low dose]) with a retrospective cohort of patients who did not receive anakinra (referred to as the standard treatment group). […] Between March 17 and March 27, 2020, 29 patients received high-dose intravenous anakinra, non-invasive ventilation, and standard treatment. […] A further seven patients received low-dose subcutaneous anakinra in addition to non-invasive ventilation and standard treatment; however, anakinra treatment was interrupted after 7 days because of a paucity of effects on serum C-reactive protein and clinical status. […] At 21 days, treatment with high-dose anakinra was associated with reductions in serum C-reactive protein and progressive improvements in respiratory function in 21 (72%) of 29 patients; five (17%) patients were on mechanical ventilation and three (10%) died. […] At 21 days, survival was 90% in the high-dose anakinra group and 56% in the standard treatment group (p=0·009). […] Mechanical ventilation-free survival was 72% in the anakinra group versus 50% in the standard treatment group (p=0·15). […] Bacteraemia occurred in four (14%) of 29 patients receiving high-dose anakinra and two (13%) of 16 patients receiving standard treatment. […] Discontinuation of anakinra was not followed by inflammatory relapses. […] In this retrospective cohort study of patients with COVID-19 and ARDS managed with non-invasive ventilation outside of the ICU, treatment with high-dose anakinra was safe and associated with clinical improvement in 72% of patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32569708&#34; target=&#34;_blank&#34;&gt;32569708&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The inflammatory phase includes therapeutic options like Tocilizumab, Anakinra, Baricitinib, Eculizumab, Emapalumab and Heparin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32571730&#34; target=&#34;_blank&#34;&gt;32571730&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, the role of anti-IL-1 receptor antibodies, such as anakinra, in the treatment of COVID-19 has not been established. […] We present a case report of a 51-year-old man diagnosed with severe respiratory infection associated with SARS-CoV-2 that was refractory to antiviral and anti-IL-6 treatment, with a favourable clinical outcome and analytical improvement after treatment with anti-IL-1 (anakinra).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

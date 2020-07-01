@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00108&#39; target=&#39;_blank&#39;&gt;db00108&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=natalizumab&#34; target=&#34;_blank&#34;&gt;natalizumab&lt;/a&gt; &lt;br&gt;
 Synonymous :anti-alpha4 integrin | anti-vla4
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :anti-alpha4 integrin | anti-vla4
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;natalizumab&lt;/em&gt; gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,22 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Development of PML or other serious opportunistic infections during treatment with natalizumab forces to consider whether de-risking strategies are needed in this particular context and how to manage a high-efficacy treatment. […] In this paper we report on a patient treated with natalizumab for relapsing MS who developed COVID-19 and recovered in a few days without complications. […] After recovery natalizumab has been administered in the window of the extended interval dosing (EID), without reporting any worsening or new symptoms.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32531754&#34; target=&#34;_blank&#34;&gt;32531754&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Natalizumab, approved for Multiple Sclerosis (MS) treatment, acts blocking α4-integrin. […] We report a MS patient treated with natalizumab who develops COVID-19, with excellent recovery and repeated negative results in 5 consecutive microbiological studies. […] We postulate this may be due to the blockade of integrins induced by natalizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32590314&#34; target=&#34;_blank&#34;&gt;32590314&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Platform therapies, dimethyl-fumarate and natalizumab are considered safe options to initiate in naive patients. decision-making about MS and NMOSD patients has become even more complex in order to adapt to the COVID-19 pandemic.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

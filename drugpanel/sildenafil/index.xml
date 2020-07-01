@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00203&#39; target=&#39;_blank&#39;&gt;db00203&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=sildenafil&#34; target=&#34;_blank&#34;&gt;sildenafil&lt;/a&gt; &lt;br&gt;
 Synonymous :1-((3-(4,7-dihydro-1-methyl-7-oxo-3-propyl-1h-pyrazolo(4,3-d)pyrimidin-5-yl)-4-ethoxyphenyl)sulfonyl)-4-methylpiperazine | sildenafil | sildenafilo
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :1-((3-(4,7-dihydro-1-methyl-7-oxo-3-propyl-1h-pyrazolo(4,3-d)pyrimid
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;sildenafil&lt;/em&gt; gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,22 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 This paper briefly summarizes why cimetidine or famotidine, dipyridamole, fenofibrate or bezafibrate, and sildenafil citrate are worth considering for patients with COVID-19. […] Clinical trials to assess efficacy are already underway for famotidine, dipyridamole, and sildenafil, and further trials of all these agents will be important in due course.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32526061&#34; target=&#34;_blank&#34;&gt;32526061&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We performed a systematic review of all evidence documenting any involvement of the NO-cGMP-PDE5 axis in the pathophysiology of COVID-19, presenting the ongoing clinical trials aimed at modulating this axis, including our own “silDEnafil administration in DiAbetic and dysmetaboLic patients with COVID-19 (DEDALO trial)”.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534175&#34; target=&#34;_blank&#34;&gt;32534175&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The use of acetazolamide with or without sildenafil also needs to be explored with or without heparin, since increased oxygen delivery to vital organs through prevention of thrombosis/pulmonary emboli along with carbonic anhydrase inhibition may help increase oxygenation and prevent adverse clinical outcomes. […] Digital monitoring of symptoms to clinically diagnose early exposure and response to treatment; prevention with ivermectin as well as nutritional therapies that support a healthy immune response; treatment with anti-inflammatory therapies that block NF-κB and activate Nrf2 pathways, as well as novel therapies that address COVID-19 pneumonia and ARDS with DIC including anticoagulation and/or novel respiratory therapies with or without acetazolamide and sildenafil.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

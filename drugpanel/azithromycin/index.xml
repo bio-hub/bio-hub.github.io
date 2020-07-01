@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00207&#39; target=&#39;_blank&#39;&gt;db00207&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydrocortisone&#34; target=&#34;_blank&#34;&gt;hydrocortisone&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
 Synonymous :azithromycin | azithromycine | azithromycinum | azitromicina
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :azithromycin | azithromycine | azithromycinum | azitromicina
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydrocortisone&lt;/em&gt; gene in 6 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 118 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -685,6 +685,310 @@ The main treatment combination was hydroxychloroquine and azithromycin.
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Additional mortality risk factors may include age, performance status, treatment with chemotherapy, and exposure to hydroxychloroquine plus azithromycin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32473681&#34; target=&#34;_blank&#34;&gt;32473681&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In logistic regression analysis, independent factors associated with increased 30-day mortality, after partial adjustment, were: increased age (per 10 years; partially adjusted odds ratio 1·84, 95% CI 1·53-2·21), male sex (1·63, 1·07-2·48), smoking status (former smoker vs never smoked: 1·60, 1·03-2·47), number of comorbidities (two vs none: 4·50, 1·33-15·28), Eastern Cooperative Oncology Group performance status of 2 or higher (status of 2 vs 0 or 1: 3·89, 2·11-7·18), active cancer (progressing vs remission: 5·20, 2·77-9·77), and receipt of azithromycin plus hydroxychloroquine (vs treatment with neither: 2·93, 1·79-4·79; confounding by indication cannot be excluded).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32476080&#34; target=&#34;_blank&#34;&gt;32476080&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The following variables were extracted for this study: age, gender, temperature, and saturation of oxygen on admission, treatment with heparin, hydroxychloroquine, azithromycin, steroids, tocilizumab, a combination of lopinavir with ritonavir, and oseltamivir, together with data on mortality.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32493475&#34; target=&#34;_blank&#34;&gt;32493475&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Weight less than 40 Kg.Participant with any immunosuppressive condition or hematological disease.Treatment with drugs that may prolong QT in the last month before randomization for more than 7 days including: azithromycin, chlorpromazine, cisapride, clarithromycin, domperidone, droperidol, erythromycin, halofantrine, haloperidol, lumefantrine, mefloquine, methadone, pentamidine, procainamide, quinidine, quinine, sotalol, sparfloxacin, thioridazine, amiodarone.Hereditary intolerance to galactose, Lapp lactase deficiency or glucose or galactose malabsorption.Treatment with fluvoxamine.Treatment with benzodiazepines or benzodiazepine analogues such as zolpidem, zopiclone or zaleplon.Pregnancy.Breastfeeding.History of potentially immune derived diseases such as: lupus, Crohn’s disease, ulcerative colitis, vasculitis or rheumatoid arthritis.Insulin-dependent diabetes mellitus.Known history of hypersensitivity to the study drug or any of its components.Patients that should not be included in the study at the judgment of the research team.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32494896&#34; target=&#34;_blank&#34;&gt;32494896&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One hundred fifty-five of 498 (31%) reported regular use of hydroxychloroquine/chloroquine (HCQ) + azithromycin (AZM); concomitant use of AZM was more common in the USA.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32496357&#34; target=&#34;_blank&#34;&gt;32496357&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eighty-percent received hydroxychloroquine ± azithromycin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32501367&#34; target=&#34;_blank&#34;&gt;32501367&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Co-administration of chloroquine with other drugs for the treatment of COVID-19 patients, like azithromycin, can further increase the risk of QT prolongation and cardiomyopathy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32505076&#34; target=&#34;_blank&#34;&gt;32505076&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Combined treatment with hydroxychloroquine and azithromycin improves the outcome of Covid-19 in lung cancer patients, detecting only 1/6 deaths between patients under this treatment versus others treatment, with statistical significance in the univariate and multivariate logistic regression (OR 0.04, p = 0.018). […] Combined hydroxychloroquine and azithromycin treatment seems like a good treatment option.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32510734&#34; target=&#34;_blank&#34;&gt;32510734&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Initial enthusiasm for the combination of hydroxychloroquine and azithromycin has abated. […] However, as a result of positive clinical experience with azithromycin used alone during the first few days of the flu-like illness caused by this coronavirus, we recommend formal clinical trials using azithromycin early in the course of a COVID-19 infection. […] There is one clinical trial initiated, the individually-randomized, telemedicine-based, “Azithromycin for COVID-19 Treatment in Outpatients Nationwide (ACTION)” based at the University of California San Francisco. […] This placebo-controlled trial is designed to determine the efficacy of a single 1.2 g dose of oral azithromycin to prevent COVID-19 patient progression to hospitalization. […] We recommend formal clinical trials of azithromycin in its prepackaged form at the first sign of COVID-19 infection in adults and children, using an initial adult dose of 500 mg followed by 250 mg per day for four days, a total cumulative dose of 1.5 g, and for children 5 to 18 years of age, 10 mg/kg on the first day followed by 5 mg/kg for four days.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32511867&#34; target=&#34;_blank&#34;&gt;32511867&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Azithromycin, a broad-spectrum macrolide antibiotic, is being investigated in patients with COVID-19. […] These data will better inform optimization of dosing regimens for azithromycin clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32519281&#34; target=&#34;_blank&#34;&gt;32519281&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The odds of mortality were significantly higher in patients treated with Hydroxychloroquine + Azithromycin than supportive care alone [2.34 (95% CI: 1.63, 3.34); I&lt;sup&gt;2&lt;/sup&gt; = 0%].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32522282&#34; target=&#34;_blank&#34;&gt;32522282&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this randomised GCP-controlled trial is to clarify whether combination therapy with the antibiotic azithromycin and hydroxychloroquine via anti-inflammation/immune modulation, antiviral efficacy and pre-emptive treatment of supra-infections can shorten hospitalisation duration for patients with COVID-19 (measured as “days alive and out of hospital” as the primary outcome), reduce the risk of non- invasive ventilation, treatment in the intensive care unit and death. […] Fertile women* must not be pregnant, i.e. negative pregnancy test must be available at inclusion • Informed consent signed by the patient *Defined as after menarche and until postmenopausal (no menstruation for 12 months) Exclusion criteria: • At the time of recruitment, the patient uses &amp;gt;5 LO2/min (equivalent to 40% FiO2 if measured) • Known intolerance/allergy to azithromycin or hydroxychloroquine or hypersensitivity to quinine or 4-aminoquinoline derivatives • Neurogenic hearing loss • Psoriasis • Retinopathy • Maculopathy • Visual field changes • Breastfeeding • Severe liver diseases other than amoebiasis (INR&amp;gt; 1.5 spontaneously) • Severe gastrointestinal, neurological and hematological disorders (investigator-assessed) • eGFR &amp;lt;45 ml/min/1.73 m2 • Clinically significant cardiac conduction disorders/arrhythmias or prolonged QTc interval (QTc (f) of&amp;gt; 480/470 ms). […] Immediately after randomisation to the intervention group, the patient will begin treatment with: Azithromycin: Day 1-3: 500 mg x 1 Day 4-15: 250 mg x 1 If the patient is unable to take the medication orally by themselves, the medication will, if possible, be administered by either stomach-feeding tube, or alternatively, temporary be changed to clarithromycin 500 mg x 2 (this only in agreement with either study coordinator Pradeesh Sivapalan or principal investigator Jens-Ulrik Stæhr Jensen). […] The patient will switch back to azithromycin when possible.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32522617&#34; target=&#34;_blank&#34;&gt;32522617&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Some potential medications like chloroquine by itself or in combination with azithromycin, and some protease inhibitors used for the treatment of COVID-19 have cardiovascular adverse effects that should be kept in mind in order to close monitor of the patients receiving these medications.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32522674&#34; target=&#34;_blank&#34;&gt;32522674&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Some of these drugs -particularly azithromycin and other macrolides, indomethacin and some other non-steroidal anti-inflammatory drugs, proton pump inhibitors and fluoxetine - could provide additional therapeutic benefits in addition to the potential antiviral effect that is still to be confirmed by well-controlled clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32523150&#34; target=&#34;_blank&#34;&gt;32523150&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The use of chloroquine/hydroxychloroquine, azithromycin and antiviral treatment and has been proposed by various groups, supported by in-vitro studies and limited patient series, without the adequate scientific rigor that precedes drug prescription.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32531808&#34; target=&#34;_blank&#34;&gt;32531808&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We use a mechanistic lung model to demonstrate that accumulation of chloroquine (CQ), hydroxychloroquine (HCQ) and azithromycin (AZ) in the lungs is sensitive to changes in lung pH, a parameter that can be affected in patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532948&#34; target=&#34;_blank&#34;&gt;32532948&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 71-year old gentleman with history of arterial hypertension treated with valsartan presented on was hospitalized at the Infectious Diseases Unit, University of Bologna (Italy) for severe acute respiratory syndrome- coronavirus-2 (SARS-CoV-2) and received treatment with hydroxychloroquine 200mg bid (400 mg bid the first day), azithromycin 400 mg qd, thrombotic prophylaxis with enoxaparin 4000 UI qd and Venturi mask oxygen delivering FiO2 of 31%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32533263&#34; target=&#34;_blank&#34;&gt;32533263&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The co-administration of hydroxychloroquine with azithromycin is proposed in COVID-19 therapy. […] Azithromycin is a substrate of ABCB1 (P-glycoprotein) which is localized in endosomes and lysosomes with a polarized substrate transport from the cell cytosol into the vesicle interior. […] Based on these considerations, we hypothesize that ABCB1 could be a possible enhancer by confining azithromycin more extensively than expected when the trapping is solely dependent on the passive diffusion. […] This additional mechanism may therefore explain the synergistic effect when azithromycin is added to hydroxychloroquine, leading to apparently more rapid virus clearance and better clinical benefit, when compared to monotherapy with hydroxychloroquine alone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534189&#34; target=&#34;_blank&#34;&gt;32534189&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since the most severe clinical manifestation of COVID-19 appeared to be a severe acute respiratory syndrome, azithromycin has been proposed as a potential treatment. […] Azithromycin is known to have immunomodulating and antiviral properties. […] In vitro studies have demonstrated the capacity of azithromycin to reduce production of pro-inflammatory cytokines such as IL-8, IL-6, TNF alpha, reduce oxidative stress and modulate T-helper functions. […] At the same time there are multiple clinical evidences of the role of azithromycin in acute respiratory distress syndrome and against MERS. […] Some preliminary evidences have demonstrated controversial results regarding efficacy of azithromycin in combination with hydroxychloroquine in COVID-19. […] Firstly, a French trial demonstrated 100% of virological negativization of six patients treated with azithromycin plus hydroxychloroquine vs 57.1% of patients treated with only hydroxychloroquine and 12.5% of the control group (p&amp;lt;0.05). […] Furthermore, there are some concerns regarding the association of azithromycin and hydroxychloroquine because of the potential Qt prolongation. […] However, based on preclinical and clinical evidences and some preliminary results in COVID-19, azithromycin could have a potential in the fight against this new disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534369&#34; target=&#34;_blank&#34;&gt;32534369&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Food and Drug Administration (FDA) warned against the use of Hydroxychloroquine or chloroquine for Covid-19 outside of a hospital or a clinical trial setting due to the risk of QT interval prolongation, ventricular tachycardia and the increased risk of these complications when combined with some antibiotics such as azithromycin. […] Despite these warnings, in several developing countries the official guidelines for treatment of Covid-19 patients at the primary care level recommend Hydroxychloroquine and azithromycin, among other treatments, as the first-choice for mild symptomatic Covid-19 patients, asymptomatic contacts or for prophylaxis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32537099&#34; target=&#34;_blank&#34;&gt;32537099&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results of a clinical trial comparing hydroxychloroquine with or without azithromycin to the standard of care for the treatment of COVID-19 were recently published by Philippe Gautret et al. […] This study provides outstanding results for the combination of hydroxychloroquine and azithromycin over the standard of care, but the evidence was deemed insufficiently robust to warrant a public health decision to widen the use of hydroxychloroquine for the treatment of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32538597&#34; target=&#34;_blank&#34;&gt;32538597&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For children three months to three years of age, azithromycin or amoxicillin is recommended if pneumonia is suspected; for urinary infections, suggested antibiotics are cefixime, amoxicillin/clavulanate, or trimethoprim/sulfamethoxazole.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32546018&#34; target=&#34;_blank&#34;&gt;32546018&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The initial clinical trials on hydroquinone in combination with azithromycin showed an admirable result in the reduction of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32546437&#34; target=&#34;_blank&#34;&gt;32546437&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All except two patients (97%; n=61) were treated with either chloroquine or hydroxychloroquine, while the three most prescribed antibiotics were ceftriaxone (79%; n=50), azithromycin (71%; n=45), and the piperacillin/tazobactam combination (49%; n=31).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32550056&#34; target=&#34;_blank&#34;&gt;32550056&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There is no definitive treatment, although a combination of hydroxychloroquine and azithromycin have shown good results, and passive immunization also shows promising results, their safety profile is yet to be studied in detail.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32550095&#34; target=&#34;_blank&#34;&gt;32550095&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report a case of a 65-year-old man with diabetes and severe COVID-19 pneumonia requiring mechanical ventilation and treated with hydroxychloroquine, azithromycin, nafamostat, and prone positioning.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32554149&#34; target=&#34;_blank&#34;&gt;32554149&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although macrolides like azithromycin and clarithromycin etc., have been reported to act against respiratory infections but they lack the ability of immunity enhancement through defensins.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32554424&#34; target=&#34;_blank&#34;&gt;32554424&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Two patients were managed with both hydroxychloroquine and azithromycin; one was treated with lopinavir-ritonavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32556649&#34; target=&#34;_blank&#34;&gt;32556649&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+His respiratory function deteriorated despite treatments with lopinavir/ritonavir, oseltamivir, azithromycin and meropenem at a regional hospital.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32557347&#34; target=&#34;_blank&#34;&gt;32557347&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hospitalization with supportive therapy (azithromycin) as well as non-invasive oxygenation led to a stabilization of the patient.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562159&#34; target=&#34;_blank&#34;&gt;32562159&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+According to the drug regimen, the patients were divided into two groups; group I who received regimen I consisting azithromycin, prednisolone, naproxen, and lopinavir/ritonavir and group II who received regimen II including meropenem, levofloxacin, vancomycin, hydroxychloroquine, and oseltamivir. […] This study revealed the beneficial effect of the short-term use of low-dose prednisolone in combination with azithromycin, naproxen and lopinavir/ritonavir (regimen I), in decreasing ALOS compared to regimen II.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32563969&#34; target=&#34;_blank&#34;&gt;32563969&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Currently available expert opinions suggest reduction of immunosuppression therapy for renal transplant recipients with symptomatic COVID-19 infection with either antiviral drugs, hydroxychloroquine and/or azithromycin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32573882&#34; target=&#34;_blank&#34;&gt;32573882&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All patients received a 5-day course of hydroxychloroquine and azithromycin; half of the patients received methylprednisolone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32576712&#34; target=&#34;_blank&#34;&gt;32576712&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Covariates were lymphocyte count, serum levels of albumin, C-Reactive Protein, D-Dimers and Lactate Dehydrogenase (LDH), anticoagulation level, and exposure to the hydroxychloroquine and azithromycin combined therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32578794&#34; target=&#34;_blank&#34;&gt;32578794&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In severe cases, the use of medications such as hydroxychloroquine and azithromycin or medication can be promising.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32580215&#34; target=&#34;_blank&#34;&gt;32580215&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient was given NIMV (non-invasive mechanical ventilation), and hydroxychloroquine, favipiravir and azithromycin in isolation intensive care, with the diagnosis of severe pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32581194&#34; target=&#34;_blank&#34;&gt;32581194&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In our previous basic studies, drugs including chloroquine and azithromycin strongly suppressed the channel activity and pro-inflammatory cytokine production from lymphocytes. […] These findings suggest a novel pharmacological mechanism by which chloroquine, with or without azithromycin, is effective for severe cases of COVID-19, in which the overactivation of cellular immunity and the subsequent cytokine storm are responsible for the pathogenesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32585765&#34; target=&#34;_blank&#34;&gt;32585765&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Darunavir together with ritonavir, hydroxychloroquine, azithromycin, and favipiravir were initiated on the first day of admission at primary hospital.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32588427&#34; target=&#34;_blank&#34;&gt;32588427&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Association between Hydroxychloroquine (HCQ) and Azithromycin (AZT) is under evaluation for patients with lower respiratory tract infection (LRTI) caused by the Severe Acute Respiratory Syndrome (SARS-CoV-2).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

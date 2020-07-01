@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db12091&#39; target=&#39;_blank&#39;&gt;db12091&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=hydroxychloroquine&#34; target=&#34;_blank&#34;&gt;hydroxychloroquine&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=gadolinium&#34; target=&#34;_blank&#34;&gt;gadolinium&lt;/a&gt; &lt;br&gt;
 Synonymous :gadolinio
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :gadolinio
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;hydroxychloroquine&lt;/em&gt; gene in 252 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;gadolinium&lt;/em&gt; gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,22 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Detection of cardiac involvement with an increase in levels of N-terminal pro-brain natriuretic peptide (NT-proBNP) and high-sensitivity troponin T, echocardiography changes, and diffuse biventricular myocardial edema and late gadolinium enhancement on cardiac magnetic resonance imaging. […] Short tau inversion recovery and T2-mapping sequences showed marked biventricular myocardial interstitial edema, and there was also diffuse late gadolinium enhancement involving the entire biventricular wall.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32507570&#34; target=&#34;_blank&#34;&gt;32507570&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cardiac MRI showed myocardial edema and late gadolinium enhancement compatible with myocarditis associated with COVID-19 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32515676&#34; target=&#34;_blank&#34;&gt;32515676&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cardiac MRI showed diffuse myocardial edema on T2-STIR sequences and native-T1 mapping, with no evidence of late gadolinium enhancement suggestive of replacement fibrosis or focal necrosis.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

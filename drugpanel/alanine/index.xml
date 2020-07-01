@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00160&#39; target=&#39;_blank&#39;&gt;db00160&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=nitazoxanide&#34; target=&#34;_blank&#34;&gt;nitazoxanide&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=alanine&#34; target=&#34;_blank&#34;&gt;alanine&lt;/a&gt; &lt;br&gt;
 Synonymous :(2s)-2-aminopropanoic acid | (s)-2-aminopropanoic acid | (s)-alanine | alanina | alanine | alaninum | l-2-aminopropionic acid | l-alanin | l-alanine | l-alpha-alanine | l-α-alanine
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :(2s)-2-aminopropanoic acid | (s)-2-aminopropanoic acid | (s)-alanine
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;nitazoxanide&lt;/em&gt; gene in 8 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;alanine&lt;/em&gt; gene in 60 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -333,6 +333,198 @@ The most common adverse events were nausea (9% of patients), worsening respirato
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Acute liver injury was categorized as mild if alanine aminotransferase (ALT) was &amp;gt; upper limit of normal (ULN) but &amp;lt; two times ULN, moderate if ALT was between two and five times ULN, and severe if ALT was &amp;gt; five times ULN.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32469137&#34; target=&#34;_blank&#34;&gt;32469137&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We found that an increased level of white blood cells (WBC), neutrophils, D-dimer, fibrinogen (FIB), IL-6, C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), alanine aminotransferase (ALT), aspartate aminotransferase (AST), α-hydroxybutyrate dehydrogenase (HBDH), serum amyloid A (SAA) and a decreased level of lymphocytes were important risk factors associated with severity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32476796&#34; target=&#34;_blank&#34;&gt;32476796&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Liver chemistry abnormalities are common and include elevation of aspartate transferase, alanine transferase, and total bilirubin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32483005&#34; target=&#34;_blank&#34;&gt;32483005&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Liver enzyme level elevation was defined as alanine aminotransferase level &amp;gt;35 U/L for men and 25 U/L for women at admission. […] Patients with normal alanine aminotransferase levels were included in the control group.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32488888&#34; target=&#34;_blank&#34;&gt;32488888&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Abnormal results of liver blood tests in patients with COVID-19 included increased levels of alanine transaminase (ALT) (21.2%, 14 patients), AST (15.2%, 10 patients), and gamma-glutamyl transpeptidase (GGT) (22.7%, 15 patients).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32491199&#34; target=&#34;_blank&#34;&gt;32491199&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All Alanine transaminase ( ALT ) testing results met blood donation requirements.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32492165&#34; target=&#34;_blank&#34;&gt;32492165&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most common laboratory abnormalities were increased levels of alanine aminotransferase (ALT) (median [IQR], 16.0 [12.0-26.0] U/L), aspartate aminotransferase (AST) (median [IQR], 30.0 [23.0-41.8] U/L), creatine kinase MB (CK-MB) activity (median [IQR], 24.0 [18.0-34.0] U/L), and lactate dehydrogenase (LDH) (median [IQR], 243.0 [203.0-297.0] U/L), which are associated with liver and myocardial injury.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32504360&#34; target=&#34;_blank&#34;&gt;32504360&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Increased C-reactive protein, procalcitonin, lactate dehydrogenase, alanine aminotransferase, creatine kinase and D-dimer were observed in 19.44, 67.74, 47.22, 19.44, 22.22 and 20.69% of infants, respectively. […] Meanwhile, C-reactive protein, D-dimer, alanine aminotransferase, creatine kinase, creatinine, IL-6 and IL-10 increased significantly.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32507110&#34; target=&#34;_blank&#34;&gt;32507110&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, few data on the combined analysis and change patterns of alanine aminotransferase (ALT), aspartate aminotransferase (AST) and total bilirubin (TBil) have been shown.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32510169&#34; target=&#34;_blank&#34;&gt;32510169&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The fever and cough in the test group were relieved markedly faster than those in the control group (P &amp;lt; .05); there was no obvious difference between the two groups concerning the percentage of patients with abnormal CRP, PCT, blood routine indexes, aspartate aminotransferase, and alanine aminotransferase (P &amp;gt; .05); the time for two consecutive negative nucleic acid tests in the test group were shorter than that in the control group; the hospitalization period of the patients in the test group and control group were (16.5 ± 7.14) days and (18.55 ± 7.52) days, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32525549&#34; target=&#34;_blank&#34;&gt;32525549&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The pooled rate for aspartate aminotransferase levels outside reference ranges was 20% (95% CI, 15.3%-25.6%) of patients, and the pooled rate for alanine aminotransferase levels outside reference ranges was 14.6% (95% CI, 12.8%-16.6%) of patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32530282&#34; target=&#34;_blank&#34;&gt;32530282&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Replacing Glu166 by an alanine residue leads to ~ 2.0 kcal/mol decreases in the affinity of darunavir to SARS-CoV-2 Mpro.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32530989&#34; target=&#34;_blank&#34;&gt;32530989&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+When compared between severe and non-severe COVID-19 patients, the pooled ORs of elevated alanine aminotransferase, aspartate aminotransferase, total bilirubin, and lactate dehydrogenase levels were 2.35 (95% CI 1.38-3.98), 3.21 (95% CI 2.59-3.98), 1.87 (95% CI 1.32-2.65), and 4.83 (95% CI 2.90-8.05), respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32531257&#34; target=&#34;_blank&#34;&gt;32531257&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Aspartate aminotransferase (AST), alanine aminotransferase (ALT) and creatine kinase (CK) were also increased.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32532356&#34; target=&#34;_blank&#34;&gt;32532356&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.3 Blood routine: white blood cells, neutrophils, lymphocytes, monocytes, eosinophils, basophils, neutrophils, lymphocytes, monocytes, eosinophils Acidic granulocyte count, basophil count, red blood cell, hemoglobin, hematocrit, average volume of red blood cells, average red blood cell Hb content, average red blood cell Hb concentration, RDW standard deviation, RDW coefficient of variation, platelet count, platelet specific platelet average Volume, platelet distribution width,% of large platelets; 2.4 Liver and kidney function tests: alanine aminotransferase, aspartate aminotransferase, alkaline phosphatase, γ-glutamyl transferase, prealbumin, total protein, albumin, globulin, white / globule ratio , Total bilirubin, direct bilirubin, cholinesterase, urea, creatinine, total carbon dioxide, uric acid glucose, potassium, sodium, chlorine, calcium, corrected calcium, magnesium, phosphorus, calcium and phosphorus product, anion gap, penetration Pressure, total cholesterol, triacylglycerol, high density lipoprotein cholesterol, Low density lipoprotein cholesterol, lipoprotein a, creatine kinase, lactate dehydrogenase, estimated glomerular filtration rate.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32540370&#34; target=&#34;_blank&#34;&gt;32540370&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We found significant differences between the two groups for fever, dyspnea, decreased lymphocyte and platelet counts, and increased leukocyte count, C-creative protein, procalcitonin, lactose dehydrogenase, aspartate aminotransferase, alanine aminotransferase, creatinine kinase, and creatinine levels (P&amp;lt;0.05).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32540736&#34; target=&#34;_blank&#34;&gt;32540736&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Elevated aspartate and alanine amino transaminase (AST/ALT) and borderline increase in serum bilirubin and serum alkaline phosphatase (ALP) are the commonest findings.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32550096&#34; target=&#34;_blank&#34;&gt;32550096&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The patient was asymptomatic, hypothermic, his skin was jaundiced with the icteric sclera, with very high levels of aspartate aminotransferase (AST; 4,933 U/L), alanine aminotransferase (ALT; 4,758 U/L), and total bilirubin (183.9 mmol/L) levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32553907&#34; target=&#34;_blank&#34;&gt;32553907&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Of 105 SARS-CoV-2 and chronic HBV co-infected patients, elevated levels of liver test were seen in several patients at admission, including elevated levels of alanine aminotransferase (22,20.95%), aspartate aminotransferase (29, 27.62%), total bilirubin (7, 6.67%), gamma-glutamyl transferase (7, 6.67%) and alkaline phosphatase (1, 0.95%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32554832&#34; target=&#34;_blank&#34;&gt;32554832&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Meta-analysis showed that 16% and 20% of patients with COVID-19 had alanine transaminase (ALT) and aspartate aminotransferase (AST) levels higher than the normal range, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32558955&#34; target=&#34;_blank&#34;&gt;32558955&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For the laboratory result, leukopenia (21%) and lymphocytosis (22%) were the mainly indicators for pediatric inpatients, followed by high aspartate aminotransferase(AST) (19%), lymphopenia (16%), high alanine aminotransferase (ALT) (15%), high C-reactive protein (CPR) (17%), lymphopenia (16%), leukocytosis (13%), high D-dimer (12%) and high creatine kinase-MB (CK-MB)(5%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32572128&#34; target=&#34;_blank&#34;&gt;32572128&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Overweight/obesity was determined as body mass index (BMI) ≥24 kg/m&lt;sup&gt;2&lt;/sup&gt;, ALF was determined as alanine aminotransferase &amp;gt;40 U/L, and prolonged hospitalization was lasting more than the median value of the hospitalized days (19 days) in this population.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574309&#34; target=&#34;_blank&#34;&gt;32574309&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Differences between the mild and severe groups was observed in neutrophil and lymphocyte counts, CD4 expression, and levels of C-reactive protein, alanine aminotransferase, aspartate aminotransferase and albumin (&lt;i&gt;P&lt;/i&gt; &amp;lt; 0.05).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32582748&#34; target=&#34;_blank&#34;&gt;32582748&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Changes in signs and symptoms were incorporated into a chart that consisted of four tiers representing disease stages. &lt;b&gt;Results:&lt;/b&gt; Data from 10,172 Covid-19 laboratory confirmed cases showed a correlation with Fever in 43.9% (&lt;i&gt;P&lt;/i&gt; = 0.000) cases, cough 54.08% and dry mucus 25.68% equally significant (&lt;i&gt;P&lt;/i&gt; = 0.000), Hyperemic pharyngeal mucus membrane 17.92% (&lt;i&gt;P&lt;/i&gt; = 0.005), leukopenia 28.11% (&lt;i&gt;P&lt;/i&gt; = 0.000), lymphopenia 64.35% (&lt;i&gt;P&lt;/i&gt; = 0.000), thrombopenia 35.49% (&lt;i&gt;P&lt;/i&gt; = 0.000), elevated Alanine aminotransferase 50.02% (&lt;i&gt;P&lt;/i&gt; = 0.000), and Aspartate aminotransferase 34.49% (&lt;i&gt;P&lt;/i&gt; = 0.000).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32588791&#34; target=&#34;_blank&#34;&gt;32588791&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+At the time of admission, aspartate aminotransferase greater than the upper limit of normal was present in 70%, while alanine aminotransferase was elevated in 15.8%. […] During hospitalization, 31% and 22% experienced increasing aspartate aminotransferase and alanine aminotransferase, respectively, when transaminases were normal at admission.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

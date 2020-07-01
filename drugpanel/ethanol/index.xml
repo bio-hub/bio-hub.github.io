@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00898&#39; target=&#39;_blank&#39;&gt;db00898&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=azithromycin&#34; target=&#34;_blank&#34;&gt;azithromycin&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ethanol&#34; target=&#34;_blank&#34;&gt;ethanol&lt;/a&gt; &lt;br&gt;
 Synonymous :1-hydroxyethane | alcohol | alcohol (ethyl) | alcohol anhydrous | alcohol denatured | alcohol etílico | alcohol, denatured | alcool éthylique | alkohol | äthanol | äthylalkohol | dehydrated ethanol | etanol | éthanol | ethyl alcohol | grain alcohol | hydroxyethane | methylcarbinol | spiritus vini
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :1-hydroxyethane | alcohol | alcohol (ethyl) | alcohol anhydrous | al
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;azithromycin&lt;/em&gt; gene in 80 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ethanol&lt;/em&gt; gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -101,6 +101,14 @@ In view of the increase in the use of ethanol-containing hand sanitizers through
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 As a result of the coronavirus disease pandemic, commercial hand hygiene products have become scarce and World Health Organization (WHO) alcohol-based hand rub formulations containing ethanol or isopropanol are being produced for hospitals worldwide. […] Contrary to the originally proposed WHO hand rub formulations, both modified formulations are appropriate for surgical hand preparation after 3 minutes when alcohol concentrations of 80% wt/wt ethanol or 75% wt/wt isopropanol along with reduced glycerol concentration (0.5%) are used.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32511851&#34; target=&#34;_blank&#34;&gt;32511851&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ethanol (70%) was tested in parallel as a positive control, and water only as a negative control. […] The 70% ethanol control group was unable to completely inactivate SARS-CoV-2 after 15 seconds of contact, but was able to inactivate the virus at 30 seconds of contact.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

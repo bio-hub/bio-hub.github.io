@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00915&#39; target=&#39;_blank&#39;&gt;db00915&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oxygen&#34; target=&#34;_blank&#34;&gt;oxygen&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=amantadine&#34; target=&#34;_blank&#34;&gt;amantadine&lt;/a&gt; &lt;br&gt;
 Synonymous :1-adamantanamine | 1-adamantylamine | 1-aminoadamantane | amantadina | amantadine | amantadinum | amantidine | aminoadamantane
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :1-adamantanamine | 1-adamantylamine | 1-aminoadamantane | amantadina
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oxygen&lt;/em&gt; gene in 176 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;amantadine&lt;/em&gt; gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -77,6 +77,14 @@ They were receiving treatment with either amantadine (n=15) or memantine (n=7) i
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Memantine and related adamantine such as amantadine, which is utilized in Parkinson’s disease and influenza, may have some anti-viral potential as well.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32571606&#34; target=&#34;_blank&#34;&gt;32571606&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the absence of a vaccine or medication to help prevent or decrease the effects of the disease, we suggest that amantadine may reduce the effects of COVID-19.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

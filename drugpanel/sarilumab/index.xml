@@ -24,7 +24,7 @@
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11767&#39; target=&#39;_blank&#39;&gt;db11767&lt;/a&gt; &lt;br&gt;
-DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=tocilizumab&#34; target=&#34;_blank&#34;&gt;tocilizumab&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=sarilumab&#34; target=&#34;_blank&#34;&gt;sarilumab&lt;/a&gt; &lt;br&gt;
 Synonymous :regn88 | sar153191
 &lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@ Synonymous :regn88 | sar153191
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;tocilizumab&lt;/em&gt; gene in 80 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;sarilumab&lt;/em&gt; gene in 15 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -117,6 +117,46 @@ Two humanized monoclonal antibodies are in clinical trial following IL6R antagon
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We describe a clinical series of eight patients treated with Sarilumab an IL-6R inhibitor administered early in Covid-19 pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32499314&#34; target=&#34;_blank&#34;&gt;32499314&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Blockers of this cytokine (tocilizumab, sarilumab and siltuximab) are being studied as a strategy for treating the disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32516506&#34; target=&#34;_blank&#34;&gt;32516506&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Multiple therapeutic strategies, including antibody therapies (such as Tocilizumab, Sarilumab, Siltuximab), therapeutic plasma exchange (TPE), and blood purification techniques for direct removal of cytokines, including filtration, dialysis (diffusion), and adsorption are available.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32535732&#34; target=&#34;_blank&#34;&gt;32535732&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Considering the proven role of cytokine dysregulation in causing this hyperinflammation in the lungs with IL-6 being a key driver, particularly in seriously ill COVID-19 patients, it is crucial to further explore selective cytokine blockade with drugs like the IL-6 inhibitors tocilizumab, sarilumab, and siltuximab. […] Preliminary evidence has come for tocilizumab from some small studies, and interim analysis of a randomized controlled trial; the latter also being available for sarilumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32557214&#34; target=&#34;_blank&#34;&gt;32557214&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is important to critically analyze the available evidence concerning the use of the available anti-IL-6 (siltuximab) and anti-IL-6R (tocilizumab and sarilumab) agents in COVID-19 patients, in terms of both benefit and risk.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32561148&#34; target=&#34;_blank&#34;&gt;32561148&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Clinically available and investigational immunomodulators, such as the interleukin 6 inhibitors tocilizumab and sarilumab and the anti-granulocyte-macrophage colony-stimulating factor lenzilumab, are being tested for their anticipated effect in counteracting the pro-inflammatory cytokine environment that characterizes severe and critical COVID-19.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

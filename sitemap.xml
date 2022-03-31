@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/affiliation/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/download/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/lucas-brandao/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/paola-tricarico/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/ronald-moura/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/rossela-graton/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/sergio-crovella/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>

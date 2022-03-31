@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DaVinci</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>DaVinci</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE &amp; Burlo Garofolo</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>DaVinci</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/affiliation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/affiliation/</guid>
+      <description>&lt;h5 id=&#34;davinci-literature&#34;&gt;DaVinci Literature&lt;/h5&gt;
+&lt;hr&gt;
+&lt;p&gt;Order of Authors and affiliation:&lt;/p&gt;
+&lt;h4 id=&#34;1-lucas-andré-cavalcanti-brandão&#34;&gt;1. Lucas André Cavalcanti Brandão&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;Department of Advanced Diagnostics, Institute for Maternal and Child Health, IRCCS &amp;quot;Burlo Garofolo&amp;quot;, Trieste, Italy
+lucabrand@gmail.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;2-ronald-rodrigues-de-moura&#34;&gt;2. Ronald Rodrigues de Moura&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;Department of Advanced Diagnostics, Institute for Maternal and Child Health, IRCCS &amp;quot;Burlo Garofolo&amp;quot;, Trieste, Italy
+ronaldmoura1989@gmail.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;3-rossela-graton&#34;&gt;3. Rossela Graton&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;Department of Advanced Diagnostics, Institute for Maternal and Child Health, IRCCS &amp;quot;Burlo Garofolo&amp;quot;, Trieste, Italy
+tricaricopa@gmail.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;4-paola-maura-tricarico&#34;&gt;4. Paola Maura Tricarico&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;Department of Advanced Diagnostics, Institute for Maternal and Child Health, IRCCS &amp;quot;Burlo Garofolo&amp;quot;, Trieste, Italy
+tricaricopa@gmail.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;5sergio-crovella&#34;&gt;5.Sergio Crovella&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;Biological Science Program, Department of Biological and Environmental Sciences, College of Arts and Sciences, University of Qatar, Doha, 2713, Qatar; sgrovella@qu.edu.qa
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/download/</guid>
+      <description>&lt;h5 id=&#34;davinci-literature-is-under-publication-process-as-soon-as-possible-the-code-will-avalible&#34;&gt;DaVinci Literature is under publication process, as soon as possible the code will avalible.&lt;/h5&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;../#people&#34;&gt;Please contat our team&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
